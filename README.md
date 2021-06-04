@@ -1,3 +1,4 @@
+- [Be more productive with use of your BASH history · cyb.org.uk](https://cyb.org.uk/2021/05/03/bash-productivity.html) #cli
 - [Compose for Web UI Framework | JetBrains: Developer Tools for Professionals and Teams](https://compose-web.ui.pages.jetbrains.team/) #web#framework
 - [Compose for Web UI Framework | JetBrains: Developer Tools for Professionals and Teams](https://compose-web.ui.pages.jetbrains.team/) #web
 - [narakeet - From Markdown to Video](https://www.narakeet.com/docs/script/) #video#tools
