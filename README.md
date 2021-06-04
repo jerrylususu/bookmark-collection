@@ -1,3 +1,4 @@
+- [Experiences working with an Outsourced Dev Shop](https://software.rajivprab.com/2021/04/26/experiences-working-with-an-outsourced-dev-shop/)
 - [Why do database columns have a character length of 191?](https://www.grouparoo.com/blog/varchar-191) #db#backend
 - [Be more productive with use of your BASH history · cyb.org.uk](https://cyb.org.uk/2021/05/03/bash-productivity.html) #cli
 - [Compose for Web UI Framework | JetBrains: Developer Tools for Professionals and Teams](https://compose-web.ui.pages.jetbrains.team/) #web#framework
