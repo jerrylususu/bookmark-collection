@@ -1,3 +1,4 @@
+- [VOSK Offline Speech Recognition API](https://alphacephei.com/vosk/) #api
 - [Introducing WebContainers: Run Node.js natively in your browser](https://blog.stackblitz.com/posts/introducing-webcontainers/) #framework#frontend
 - [Web 中文字体应用指南 · Ruby China](https://ruby-china.org/topics/14005) #frontend
 - [使用正则表达式匹配 3 的倍数](https://zhuanlan.zhihu.com/p/39022144) #regex
