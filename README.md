@@ -1,3 +1,4 @@
+- [Representing SHA-256 Hashes As Avatars](https://francoisbest.com/posts/2021/hashvatars) #visual
 - [Polyomino Solver](https://cemulate.github.io/polyomino-solver/) Solves the calendar puzzle #tools
 - [VOSK Offline Speech Recognition API](https://alphacephei.com/vosk/) #api
 - [Introducing WebContainers: Run Node.js natively in your browser](https://blog.stackblitz.com/posts/introducing-webcontainers/) #framework#frontend
