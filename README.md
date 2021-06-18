@@ -1,3 +1,4 @@
+- [sorenisanerd/gotty](https://github.com/sorenisanerd/gotty) Share your terminal as a web application #tools
 - [cs01/termpair](https://github.com/cs01/termpair) View and control terminals from your browser with end-to-end encryption 🔒 #tools
 - [Representing SHA-256 Hashes As Avatars](https://francoisbest.com/posts/2021/hashvatars) #visual
 - [Polyomino Solver](https://cemulate.github.io/polyomino-solver/) Solves the calendar puzzle #tools
