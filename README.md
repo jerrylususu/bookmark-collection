@@ -1,3 +1,4 @@
+- [Deep JavaScript: Theory and techniques](https://exploringjs.com/deep-js/index.html) #books
 - [热重载 C - CJ Ting's Blog](https://cjting.me/2021/06/10/hot-reload-c/) #c#hack
 - [sorenisanerd/gotty](https://github.com/sorenisanerd/gotty) Share your terminal as a web application #tools
 - [cs01/termpair](https://github.com/cs01/termpair) View and control terminals from your browser with end-to-end encryption 🔒 #tools
