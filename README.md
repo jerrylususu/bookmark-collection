@@ -1,3 +1,4 @@
+- [Image Filtering - Lode's Computer Graphics Tutorial](https://lodev.org/cgtutor/filtering.html) 卷积里用的 filter 是如何构造的 #dl
 - [Deep JavaScript: Theory and techniques](https://exploringjs.com/deep-js/index.html) #books
 - [热重载 C - CJ Ting's Blog](https://cjting.me/2021/06/10/hot-reload-c/) #c#hack
 - [sorenisanerd/gotty](https://github.com/sorenisanerd/gotty) Share your terminal as a web application #tools
