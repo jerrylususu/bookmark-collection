@@ -1,3 +1,4 @@
+- [The most copied StackOverflow snippet of all time is flawed! | Programming.Guide](https://programming.guide/worlds-most-copied-so-snippet.html)
 - [Hosting SQLite databases on Github Pages - (or any static file hoster) - phiresky's blog](https://phiresky.github.io/blog/2021/hosting-sqlite-databases-on-github-pages/) #frontend
 - [M.I.T. 6.004 Computation Structures](https://computationstructures.org/index.html) #course
 - [Image Filtering - Lode's Computer Graphics Tutorial](https://lodev.org/cgtutor/filtering.html) 卷积里用的 filter 是如何构造的 #dl
