@@ -1,3 +1,4 @@
+- [Java: Formatting byte size to human readable format | Programming.Guide](https://programming.guide/java/formatting-byte-size-to-human-readable-format.html)
 - [The most copied StackOverflow snippet of all time is flawed! | Programming.Guide](https://programming.guide/worlds-most-copied-so-snippet.html)
 - [Hosting SQLite databases on Github Pages - (or any static file hoster) - phiresky's blog](https://phiresky.github.io/blog/2021/hosting-sqlite-databases-on-github-pages/) #frontend
 - [M.I.T. 6.004 Computation Structures](https://computationstructures.org/index.html) #course
