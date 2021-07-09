@@ -1,3 +1,4 @@
+- [Nuitka/Nuitka](https://github.com/Nuitka/Nuitka) a Python compiler written in Python #tools
 - [SQL queries don't start with SELECT](https://jvns.ca/blog/2019/10/03/sql-queries-don-t-start-with-select/) #db
 - [How to circumvent Sci-Hub ISP block](https://fragile-credences.github.io/scihub-proxy/) using manually crafted PAC files
 - [Java: Formatting byte size to human readable format | Programming.Guide](https://programming.guide/java/formatting-byte-size-to-human-readable-format.html)
