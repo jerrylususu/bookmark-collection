@@ -1,3 +1,4 @@
+- [Linux IO模式及 select、poll、epoll详解](https://segmentfault.com/a/1190000003063859) #backend#kernel
 - [Avoiding complexity with systemd](https://mgdm.net/weblog/systemd/) 用 systemd 自启服务 #linux
 - [Nuitka/Nuitka](https://github.com/Nuitka/Nuitka) a Python compiler written in Python #tools
 - [SQL queries don't start with SELECT](https://jvns.ca/blog/2019/10/03/sql-queries-don-t-start-with-select/) #db
