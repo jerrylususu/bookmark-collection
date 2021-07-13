@@ -1,3 +1,4 @@
+- [B站高可用用架构实践 - 云+社区 - 腾讯云](https://cloud.tencent.com/developer/article/1618923) #infra
 - [Elevator Saga - help and API documentation](http://play.elevatorsaga.com/documentation.html#docs) 一个写电梯逻辑的游戏 #game
 - [Linux IO模式及 select、poll、epoll详解](https://segmentfault.com/a/1190000003063859) #backend#kernel
 - [Avoiding complexity with systemd](https://mgdm.net/weblog/systemd/) 用 systemd 自启服务 #linux
