@@ -1,3 +1,4 @@
+- [重新認識 Pixel、DPI / PPI 以及像素密度 | INFOLINK Blog](https://blog.infolink.com.tw/2021/rediscover-pixel-dpi-ppi-and-pixel-density/)
 - [理解VirtualBox网络](https://www.junmajinlong.com/virtual/network/virtualbox_net/) #misc
 - [B站高可用用架构实践 - 云+社区 - 腾讯云](https://cloud.tencent.com/developer/article/1618923) #infra
 - [Elevator Saga - help and API documentation](http://play.elevatorsaga.com/documentation.html#docs) 一个写电梯逻辑的游戏 #game
