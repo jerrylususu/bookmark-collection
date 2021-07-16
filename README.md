@@ -1,3 +1,4 @@
+- [Git: An Interactive History](https://git-history.jpalmer.dev/) #ui#read
 - [How to Measure Execution Time of a Program](https://serhack.me/articles/measure-execution-time-program/) #read
 - [15 Tips for Better Signup / Login UX](https://learnui.design/blog/tips-signup-login-ux.html) #ui#frontend
 - [Tesla AI chief explains why self-driving cars don’t need lidar](https://venturebeat.com/2021/07/03/tesla-ai-chief-explains-why-self-driving-cars-dont-need-lidar/)
