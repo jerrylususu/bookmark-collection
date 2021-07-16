@@ -1,3 +1,4 @@
+- [How to Measure Execution Time of a Program](https://serhack.me/articles/measure-execution-time-program/) #read
 - [15 Tips for Better Signup / Login UX](https://learnui.design/blog/tips-signup-login-ux.html) #ui#frontend
 - [Tesla AI chief explains why self-driving cars don’t need lidar](https://venturebeat.com/2021/07/03/tesla-ai-chief-explains-why-self-driving-cars-dont-need-lidar/)
 - [重新認識 Pixel、DPI / PPI 以及像素密度 | INFOLINK Blog](https://blog.infolink.com.tw/2021/rediscover-pixel-dpi-ppi-and-pixel-density/)
