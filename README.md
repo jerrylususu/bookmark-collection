@@ -1,3 +1,4 @@
+- [.bashrc generator: create your .bashrc PS1 with a drag and drop interface](http://bashrcgenerator.com/) Generate Bash Prefix tooltips #tools
 - [yozora/README-zh.md at main · yozorajs/yozora](https://github.com/yozorajs/yozora) Markdown MST Generation #tools
 - [Scimago Graphica | A new way to explore, visually communicate and make sense of data](https://graphica.app/) visualization tools #visual#tools
 - [Let’s build our own ‘nodemon’ in under 10 minutes!](https://blog.pankajtanwar.in/have-you-ever-thought-how-nodemon-works-internally-lets-build-our-own-nodemon-in-under-10-minutes) #node#backend
