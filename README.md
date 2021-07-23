@@ -1,3 +1,4 @@
+- [Scimago Graphica | A new way to explore, visually communicate and make sense of data](https://graphica.app/) visualization tools #visual#tools
 - [Let’s build our own ‘nodemon’ in under 10 minutes!](https://blog.pankajtanwar.in/have-you-ever-thought-how-nodemon-works-internally-lets-build-our-own-nodemon-in-under-10-minutes) #node#backend
 - [The (too) many pitfalls of VLA in C](https://blog.joren.ga/programming/vla-bad) #c
 - [PostgreSQL的数据变化捕获和实时通知——基于Listen-Notify和Server-Sent Events](http://kaifeiji.cc/post/change-data-capture-and-instant-notification-on-postgresql-via-listen-notify-and-server-sent-events/) #db
