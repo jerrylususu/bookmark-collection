@@ -1,3 +1,4 @@
+- [The (too) many pitfalls of VLA in C](https://blog.joren.ga/programming/vla-bad) #c
 - [PostgreSQL的数据变化捕获和实时通知——基于Listen-Notify和Server-Sent Events](http://kaifeiji.cc/post/change-data-capture-and-instant-notification-on-postgresql-via-listen-notify-and-server-sent-events/) #db
 - [一日一技 | 集中管理与备份 Windows 分散各处的应用配置文件 - 少数派](https://sspai.com/post/67829) #tips#windows
 - [程序员可能必读书单推荐（一） - 面向信仰编程](https:/draveness.me/books-1) #books
