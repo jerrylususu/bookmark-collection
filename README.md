@@ -1,3 +1,4 @@
+- [HTTPie – command-line HTTP client for the API era](https://httpie.io/) #tools
 - [.bashrc generator: create your .bashrc PS1 with a drag and drop interface](http://bashrcgenerator.com/) Generate Bash Prefix tooltips #tools
 - [yozora/README-zh.md at main · yozorajs/yozora](https://github.com/yozorajs/yozora) Markdown MST Generation #tools
 - [Scimago Graphica | A new way to explore, visually communicate and make sense of data](https://graphica.app/) visualization tools #visual#tools
