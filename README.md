@@ -1,3 +1,4 @@
+- [The Twelve-Factor App （简体中文）](https://12factor.net/zh_cn/) SaaS 应用方法论 #arch#read
 - [HTTPie – command-line HTTP client for the API era](https://httpie.io/) #tools
 - [.bashrc generator: create your .bashrc PS1 with a drag and drop interface](http://bashrcgenerator.com/) Generate Bash Prefix tooltips #tools
 - [yozora/README-zh.md at main · yozorajs/yozora](https://github.com/yozorajs/yozora) Markdown MST Generation #tools
