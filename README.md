@@ -1,3 +1,4 @@
+- [10 Predictions for the Future of Computing or; the Inane Ramblings of our Chief Scientist](https://blog.container-solutions.com/10-predictions-for-the-future-of-computing) #blog#read
 - [arogozhnikov/einops: Deep learning operations reinvented (for pytorch, tensorflow, jax and others)](https://github.com/arogozhnikov/einops) #tools#dl
 - [从一个Emoji字符说起](https://blog.xuwei.fun/2020/09/07/characterset/) Unicode 漫谈 #read
 - [The Twelve-Factor App （简体中文）](https://12factor.net/zh_cn/) SaaS 应用方法论 #arch#read
