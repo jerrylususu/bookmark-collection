@@ -1,3 +1,4 @@
+- [当你想来一把数独](https://me.guanghechen.com/post/game/sudoku/) 如何生成一个数独 #read#blog
 - [Best Pitch Decks](https://www.pitchdeckhunt.com/best-pitch-decks) Startup Pitch Examples #tools
 - [Feed me up, Scotty!](https://feed-me-up-scotty.vincenttunru.com/) CSS selector based RSS Generator #tools
 - [10 Predictions for the Future of Computing or; the Inane Ramblings of our Chief Scientist](https://blog.container-solutions.com/10-predictions-for-the-future-of-computing) #blog#read
