@@ -1,3 +1,4 @@
+- [Introduction to Information Retrieval](https://nlp.stanford.edu/IR-book/) #books
 - [Introduction - Rust and WebAssembly](https://rustwasm.github.io/docs/book/introduction.html) #books
 - [Webhook Infrastructure and Tooling - Hookdeck](https://hookdeck.com/) #tools#backend
 - [Using CSS without HTML · Mathias Bynens](https://mathiasbynens.be/notes/css-without-html) #blog#read#frontend#css
