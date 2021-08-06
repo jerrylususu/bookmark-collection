@@ -1,3 +1,4 @@
+- [Webhook Infrastructure and Tooling - Hookdeck](https://hookdeck.com/) #tools#backend
 - [Using CSS without HTML · Mathias Bynens](https://mathiasbynens.be/notes/css-without-html) #blog#read#frontend#css
 - [Dark Mode in One Line of Code!](https://davidwalsh.name/dark-mode-invert-filter) html filter invert(1) #frontend
 - [Modeling mutual friendship](https://minimalmodeling.substack.com/p/modeling-mutual-friendship) Two-row model vs. One-row model #blog#read#backend#db
