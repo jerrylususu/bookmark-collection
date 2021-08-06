@@ -1,3 +1,4 @@
+- [Dark Mode in One Line of Code!](https://davidwalsh.name/dark-mode-invert-filter) html filter invert(1) #frontend
 - [Modeling mutual friendship](https://minimalmodeling.substack.com/p/modeling-mutual-friendship) Two-row model vs. One-row model #blog#read#backend#db
 - [如何优化 node 项目的 docker 镜像（像老板压榨员工一样压榨镜像）](https://juejin.cn/post/6991689670027542564) #blog#read#backend
 - [当你想来一把数独](https://me.guanghechen.com/post/game/sudoku/) 如何生成一个数独 #read#blog
