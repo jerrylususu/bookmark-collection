@@ -1,3 +1,4 @@
+- [yifeikong/reverse-interview-zh: 技术面试最后反问面试官的话](https://github.com/yifeikong/reverse-interview-zh) #interview#tips
 - [Introduction to Information Retrieval](https://nlp.stanford.edu/IR-book/) #books
 - [Introduction - Rust and WebAssembly](https://rustwasm.github.io/docs/book/introduction.html) #books
 - [Webhook Infrastructure and Tooling - Hookdeck](https://hookdeck.com/) #tools#backend
