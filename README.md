@@ -1,3 +1,4 @@
+- [Founders Guide: Complex Projects 101](https://vadimkravcenko.com/en/dealing-with-complex-projects/) #read
 - [Postgres Full-Text Search: A Search Engine in a Database](https://blog.crunchydata.com/blog/postgres-full-text-search-a-search-engine-in-a-database) Postgres 自带的英文全文搜索 #tools#db#backend
 - [Hora | Hora Search Everywhere](https://horasearch.com/) 搜索相似 #tools
 - [yifeikong/interview: solutions to all kinds of questions for an interview](https://github.com/yifeikong/interview) 常见面试算法题突击手册 #interview#tips
