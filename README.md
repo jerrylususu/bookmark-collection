@@ -1,3 +1,4 @@
+- [自己动手写编译器 — 自己动手写编译器](https://pandolia.net/tinyc/index.html) tinyc #books
 - [Systemizer - A system design tool](https://honzaap.github.io/Systemizer/) 画系统架构图 #tools#visual
 - [Calligrapher.ai: Realistic computer-generated handwriting](https://www.calligrapher.ai/) 生成手写
 - [New in Git: switch and restore](https://www.banterly.net/2021/07/31/new-in-git-switch-and-restore/) switch 切换分支，restore 恢复内容 #blog#read
