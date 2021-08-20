@@ -1,3 +1,4 @@
+- [How I built a business that lets me live on the beach full time](https://www.expatsoftware.com/Articles/guy-on-the-beach-with-a-laptop.html) #blog
 - [How to improve your Docker containers security - [cheat sheet]](https://blog.gitguardian.com/how-to-improve-your-docker-containers-security-cheat-sheet/) Docker 容器安全性 #backend#infra#blog#read
 - [How MDN’s autocomplete search works – Mozilla Hacks - the Web developer blog](https://hacks.mozilla.org/2021/08/mdns-autocomplete-search/) #frontend#blog#read
 - [速度与压缩比如何兼得？压缩算法在构建部署中的优化](https://tech.meituan.com/2021/01/07/pack-gzip-zstd-lz4.html) #blog
