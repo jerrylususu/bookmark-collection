@@ -1,3 +1,4 @@
+- [How MDN’s autocomplete search works – Mozilla Hacks - the Web developer blog](https://hacks.mozilla.org/2021/08/mdns-autocomplete-search/) #frontend#blog#read
 - [速度与压缩比如何兼得？压缩算法在构建部署中的优化](https://tech.meituan.com/2021/01/07/pack-gzip-zstd-lz4.html) #blog
 - [Founders Guide: Complex Projects 101](https://vadimkravcenko.com/en/dealing-with-complex-projects/) #read
 - [Postgres Full-Text Search: A Search Engine in a Database](https://blog.crunchydata.com/blog/postgres-full-text-search-a-search-engine-in-a-database) Postgres 自带的英文全文搜索 #tools#db#backend
