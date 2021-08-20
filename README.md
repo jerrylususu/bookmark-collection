@@ -1,3 +1,4 @@
+- [New in Git: switch and restore](https://www.banterly.net/2021/07/31/new-in-git-switch-and-restore/) switch 切换分支，restore 恢复内容 #blog#read
 - [How I built a business that lets me live on the beach full time](https://www.expatsoftware.com/Articles/guy-on-the-beach-with-a-laptop.html) #blog
 - [How to improve your Docker containers security - [cheat sheet]](https://blog.gitguardian.com/how-to-improve-your-docker-containers-security-cheat-sheet/) Docker 容器安全性 #backend#infra#blog#read
 - [How MDN’s autocomplete search works – Mozilla Hacks - the Web developer blog](https://hacks.mozilla.org/2021/08/mdns-autocomplete-search/) #frontend#blog#read
