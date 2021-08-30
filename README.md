@@ -1,3 +1,4 @@
+- [Why are hyperlinks blue? | The Mozilla Blog](https://blog.mozilla.org/en/internet-culture/deep-dives/why-are-hyperlinks-blue/) #blog#read
 - [The Logfile Navigator](https://lnav.org/) 一个强大的命令行日志查看器，支持彩色、SQL、时间线 #tools
 - [RAWGraphs](https://rawgraphs.io/) CSV 数据可视化，前端实现 #tools#visual
 - [云开发 Webify | 云开发 Webify](https://webify.cloudbase.net/) 腾讯云的 netify 山寨版 #tools
