@@ -1,3 +1,4 @@
+- [Long.bitCount() 解析 | 吴俊笔记本](https://wujun234.github.io/01%20%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E7%AE%97%E6%B3%95/Long.bitCount()%20%E8%A7%A3%E6%9E%90/) JDK 中计算为 1 的比特位的神奇方法 #read#blog#java#hack
 - [吴俊笔记本](https://wujun234.github.io/) #books#read
 - [labuladong 的算法小抄](https://labuladong.gitbook.io/algo/) #books#read
 - [Java 全栈知识体系](https://www.pdai.tech/) 包含: Java 基础, Java 部分源码, JVM, Spring, Spring Boot, Spring Cloud, 数据库原理, MySQL, ElasticSearch, MongoDB, Docker, k8s, CI&CD, Linux, DevOps, 分布式, 中间件, 开发工具, Git, IDE, 源码阅读，读书笔记, 开源项目... #read#books
