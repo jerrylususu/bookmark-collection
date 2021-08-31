@@ -1,3 +1,4 @@
+- [Developer-Y/cs-video-courses: List of Computer Science courses with video lectures.](https://github.com/Developer-Y/cs-video-courses) #list#course
 - [Long.bitCount() 解析 | 吴俊笔记本](https://wujun234.github.io/01%20%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E7%AE%97%E6%B3%95/Long.bitCount()%20%E8%A7%A3%E6%9E%90/) JDK 中计算为 1 的比特位的神奇方法 #read#blog#java#hack
 - [吴俊笔记本](https://wujun234.github.io/) #books#read
 - [labuladong 的算法小抄](https://labuladong.gitbook.io/algo/) #books#read
