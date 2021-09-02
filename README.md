@@ -1,3 +1,4 @@
+- [doocs/source-code-hunter: 😱 从源码层面，剖析挖掘互联网行业主流技术的底层实现原理，为广大开发者 “提升技术深度” 提供便利。目前开放 Spring 全家桶，Mybatis、Netty、Dubbo 框架，及 Redis、Tomcat 中间件等](https://github.com/doocs/source-code-hunter) #core
 - [Developer-Y/cs-video-courses: List of Computer Science courses with video lectures.](https://github.com/Developer-Y/cs-video-courses) #list#course
 - [Long.bitCount() 解析 | 吴俊笔记本](https://wujun234.github.io/01%20%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E7%AE%97%E6%B3%95/Long.bitCount()%20%E8%A7%A3%E6%9E%90/) JDK 中计算为 1 的比特位的神奇方法 #read#blog#java#hack
 - [吴俊笔记本](https://wujun234.github.io/) #books#read
