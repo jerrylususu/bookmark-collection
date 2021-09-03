@@ -1,3 +1,4 @@
+- [Mastering Web Scraping in Python: Crawling from Scratch - ZenRows](https://www.zenrows.com/blog/mastering-web-scraping-in-python-crawling-from-scratch) #blog#read
 - [Amazon Web Services In Plain English](https://expeditedsecurity.com/aws-in-plain-english/) #tools#infra
 - [anuraghazra/github-readme-stats: Dynamically generated stats for your github readmes](https://github.com/anuraghazra/github-readme-stats) 生成关于 Github 使用情况的 badge #tools
 - [When One-Way Latency Doesn’t Matter](http://twistedoakstudios.com/blog/Post2353_when-one-way-latency-doesnt-matter) 无法准确测量 one-way latency #blog#read#network
