@@ -1,3 +1,4 @@
+- [Elm - delightful language for reliable web applications](https://elm-lang.org/) #frontend
 - [Elm at Rakuten | Rakuten Engineering Blog](https://engineering.rakuten.today/post/elm-at-rakuten/) #blog
 - [Technical Interview Guide for Busy Engineers | Tech Interview Handbook](https://techinterviewhandbook.org/) #books
 - [Interactive Linear Algebra](http://textbooks.math.gatech.edu/ila/index.html) #books
