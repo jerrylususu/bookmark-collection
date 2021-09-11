@@ -1,3 +1,4 @@
+- [Elm at Rakuten | Rakuten Engineering Blog](https://engineering.rakuten.today/post/elm-at-rakuten/) #blog
 - [Technical Interview Guide for Busy Engineers | Tech Interview Handbook](https://techinterviewhandbook.org/) #books
 - [Interactive Linear Algebra](http://textbooks.math.gatech.edu/ila/index.html) #books
 - [Go by Example](https://gobyexample.com/) #books
