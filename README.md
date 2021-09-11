@@ -1,3 +1,4 @@
+- [Technical Interview Guide for Busy Engineers | Tech Interview Handbook](https://techinterviewhandbook.org/) #books
 - [Interactive Linear Algebra](http://textbooks.math.gatech.edu/ila/index.html) #books
 - [Go by Example](https://gobyexample.com/) #books
 - [LearnShare/learn-VRA: Let's learn Vue/React/Angular together.](https://github.com/LearnShare/learn-VRA) Vue、React 和 Angular 一起学怎么样？ #read#frontend
