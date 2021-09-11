@@ -1,3 +1,4 @@
+- [Interactive Linear Algebra](http://textbooks.math.gatech.edu/ila/index.html) #books
 - [Go by Example](https://gobyexample.com/) #books
 - [LearnShare/learn-VRA: Let's learn Vue/React/Angular together.](https://github.com/LearnShare/learn-VRA) Vue、React 和 Angular 一起学怎么样？ #read#frontend
 - [Mastering Web Scraping in Python: Crawling from Scratch - ZenRows](https://www.zenrows.com/blog/mastering-web-scraping-in-python-crawling-from-scratch) #blog#read
