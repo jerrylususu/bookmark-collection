@@ -1,3 +1,4 @@
+- [Visualizing Concurrency in Go ·  divan's blog](https://divan.dev/posts/go_concurrency_visualize/) #blog#visual
 - [Go 语言设计与实现](https://draveness.me/golang/) #books#backend
 - [Elm - delightful language for reliable web applications](https://elm-lang.org/) #frontend
 - [Elm at Rakuten | Rakuten Engineering Blog](https://engineering.rakuten.today/post/elm-at-rakuten/) #blog
