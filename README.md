@@ -1,3 +1,4 @@
+- [One does not simply calculate the absolute value](https://habr.com/en/post/574082/) 浮点数与绝对值里的坑 #backend#java#blog#trick#hole
 - [go实现无限缓存的channel](https://colobu.com/2021/05/11/unbounded-channel-in-go/) #backend#blog#golang
 - [Accidentally Quadratic](https://accidentallyquadratic.tumblr.com) 不小心用了二次算法的经验 #blog#programming
 - [Visualizing Concurrency in Go ·  divan's blog](https://divan.dev/posts/go_concurrency_visualize/) #blog#visual
