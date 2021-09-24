@@ -1,3 +1,4 @@
+- [Gaphor | Modeling for Everyone](https://gaphor.org/) 跨平台 UML 工具  #tools
 - [allanrbo/filesremote: An SSH file manager that lets you edit files like they are local](https://github.com/allanrbo/filesremote) SSH 文件管理工具 #tools
 - [容器与云|容器的四大基础技术](https://linux.cn/article-13792-1.html) namespace, cgroup, seccomp, SELinux #backend#security#container
 - [One does not simply calculate the absolute value](https://habr.com/en/post/574082/) 浮点数与绝对值里的坑 #backend#java#blog#trick#hole
