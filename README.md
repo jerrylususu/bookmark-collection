@@ -1,3 +1,4 @@
+- [Automating a software company with GitHub Actions - PostHog](https://posthog.com/blog/automating-a-software-company-with-github-actions) Github Actions 在软件开发各个阶段的使用示例 #blog#read#infra
 - [GNU nano is my editor of choice – Ariadne's Space](https://ariadne.space/2021/08/13/gnu-nano-is-my-editor-of-choice/) 配置 nano 支持语法高亮 #blog#read#editor
 - [Mito](https://trymito.io/) 给 Jupyter 增加类 Excel 的可视化数据处理工具 #tools#data
 - [Tutorial - Write a Shell in C - Stephen Brennan](https://brennan.io/2015/01/16/write-a-shell-in-c/) 如何用 C 写一个 Shell #blog#read
