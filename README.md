@@ -1,3 +1,4 @@
+- [Windows 更新设计、类型、步骤及常见问题 - 少数派](https://sspai.com/post/68959) #read
 - [A Constructive Look At TempleOS](http://www.codersnotes.com/notes/a-constructive-look-at-templeos/) #blog#read
 - [hadolint/hadolint: Dockerfile linter, validate inline bash, written in Haskell](https://github.com/hadolint/hadolint) Dockerfile 的 Linter #tools#docker#infra
 - [Automating a software company with GitHub Actions - PostHog](https://posthog.com/blog/automating-a-software-company-with-github-actions) Github Actions 在软件开发各个阶段的使用示例 #blog#read#infra
