@@ -1,3 +1,4 @@
+- [Mito](https://trymito.io/) 给 Jupyter 增加类 Excel 的可视化数据处理工具 #tools#data
 - [Tutorial - Write a Shell in C - Stephen Brennan](https://brennan.io/2015/01/16/write-a-shell-in-c/) 如何用 C 写一个 Shell #blog#read
 - [发现 GNOME 上的最佳应用 – GNOME 上的应用](https://apps.gnome.org/zh-CN/) #tools
 - [DataStation | The Data IDE for Developers](https://datastation.multiprocess.io/) 一站式数据分析，将数据库 SQL 查询、脚本编程、数据可视化结合在一起。 #tools#data
