@@ -1,3 +1,4 @@
+- [发现 GNOME 上的最佳应用 – GNOME 上的应用](https://apps.gnome.org/zh-CN/) #tools
 - [DataStation | The Data IDE for Developers](https://datastation.multiprocess.io/) 一站式数据分析，将数据库 SQL 查询、脚本编程、数据可视化结合在一起。 #tools#data
 - [calganaygun/MDcat: A super simple script which uses the GitHub API to convert your markdown files to GitHub styled HTML site.](https://github.com/calganaygun/MDcat) Github 自带的 Markdown 转 HTML 示例 #tools
 - [Gaphor | Modeling for Everyone](https://gaphor.org/) 跨平台 UML 工具  #tools
