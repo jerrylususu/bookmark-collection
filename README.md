@@ -1,3 +1,4 @@
+- [肘后备急方 - Miao Yu | 于淼](https://yufree.cn/cn/2021/09/26/first-aid/) #read#lifehack
 - [Windows 更新设计、类型、步骤及常见问题 - 少数派](https://sspai.com/post/68959) #read
 - [A Constructive Look At TempleOS](http://www.codersnotes.com/notes/a-constructive-look-at-templeos/) #blog#read
 - [hadolint/hadolint: Dockerfile linter, validate inline bash, written in Haskell](https://github.com/hadolint/hadolint) Dockerfile 的 Linter #tools#docker#infra
