@@ -1,3 +1,4 @@
+- [「图解Raft」让一致性算法变得更简单](https://zinglix.xyz/2020/06/25/raft/) Raft 图解 #algo#distributed#read
 - [肘后备急方 - Miao Yu | 于淼](https://yufree.cn/cn/2021/09/26/first-aid/) #read#lifehack
 - [Windows 更新设计、类型、步骤及常见问题 - 少数派](https://sspai.com/post/68959) #read
 - [A Constructive Look At TempleOS](http://www.codersnotes.com/notes/a-constructive-look-at-templeos/) #blog#read
