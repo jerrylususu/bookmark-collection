@@ -1,3 +1,4 @@
+- [Overview - Dropbox Engineering Career Framework](https://dropbox.github.io/dbx-career-framework/overview.html) #career#grow
 - [How to tell what level of developer you are, junior to senior](https://jg.gg/2020/11/22/how-to-tell-what-level-of-developer-you-are/) #read#grow
 - [Raft | The Secret Lives of Data](http://thesecretlivesofdata.com/raft/) 最好的 Raft 交互式可视化 #distributed#visual
 - [「图解Raft」让一致性算法变得更简单](https://zinglix.xyz/2020/06/25/raft/) Raft 图解 #algo#distributed#read
