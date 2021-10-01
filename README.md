@@ -1,3 +1,4 @@
+- [笔记文档一把梭——MkDocs 快速上手指南 ｜ 少数派会员  π+Prime](https://sspai.com/prime/story/mkdocs-primer) #tools
 - [Overview - Dropbox Engineering Career Framework](https://dropbox.github.io/dbx-career-framework/overview.html) #career#grow
 - [How to tell what level of developer you are, junior to senior](https://jg.gg/2020/11/22/how-to-tell-what-level-of-developer-you-are/) #read#grow
 - [Raft | The Secret Lives of Data](http://thesecretlivesofdata.com/raft/) 最好的 Raft 交互式可视化 #distributed#visual
