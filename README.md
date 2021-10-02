@@ -1,3 +1,4 @@
+- [Mind-bending metaclasses - adding function overloads to Python - YouTube](https://www.youtube.com/watch?v=yWzMiaqnpkI) #hack
 - [devongovett/regexgen: Generate regular expressions that match a set of strings](https://github.com/devongovett/regexgen) #tools#frontend
 - [笔记文档一把梭——MkDocs 快速上手指南 ｜ 少数派会员  π+Prime](https://sspai.com/prime/story/mkdocs-primer) #tools
 - [Overview - Dropbox Engineering Career Framework](https://dropbox.github.io/dbx-career-framework/overview.html) #career#grow
