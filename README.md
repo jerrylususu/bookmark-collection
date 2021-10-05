@@ -1,3 +1,4 @@
+- [Understanding How Facebook Disappeared from the Internet](https://blog.cloudflare.com/october-2021-facebook-outage/) Cloudflare 的 Facebook BGP 事件外部记录 #infra
 - [Mind-bending metaclasses - adding function overloads to Python - YouTube](https://www.youtube.com/watch?v=yWzMiaqnpkI) #hack
 - [devongovett/regexgen: Generate regular expressions that match a set of strings](https://github.com/devongovett/regexgen) #tools#frontend
 - [笔记文档一把梭——MkDocs 快速上手指南 ｜ 少数派会员  π+Prime](https://sspai.com/prime/story/mkdocs-primer) #tools
