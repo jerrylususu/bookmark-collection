@@ -1,3 +1,4 @@
+- [Working From Orbit](https://blog.immersed.team/working-from-orbit-39bf95a6d385) 完全在 VR 世界中工作 #read#visual
 - [CapRover · Free and Open Source PaaS!](https://caprover.com/) self-host PaaS #infra#tools
 - [Evan's Awesome A/B Tools - sample size calculator, A/B test results, and more](https://www.evanmiller.org/ab-testing/) AB测试计算器 #tools#data
 - [Understanding How Facebook Disappeared from the Internet](https://blog.cloudflare.com/october-2021-facebook-outage/) Cloudflare 的 Facebook BGP 事件外部记录 #infra
