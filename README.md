@@ -1,3 +1,4 @@
+- [白板编程浅谈——Why, What, How](http://lucida.me/404/) #career#job
 - [mviereck/x11docker: Run GUI applications and desktops in docker and podman containers. Focus on security.](https://github.com/mviereck/x11docker) 容器化的 X Server，可以在容器里跑 GUI #tools
 - [BornToBeRoot/NETworkManager: A powerful tool for managing networks and troubleshoot network problems!](https://github.com/BornToBeRoot/NETworkManager) Windows 下的高级网络管理工具 #tools
 - [Working From Orbit](https://blog.immersed.team/working-from-orbit-39bf95a6d385) 完全在 VR 世界中工作 #read#visual
