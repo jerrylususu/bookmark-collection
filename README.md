@@ -1,3 +1,4 @@
+- [tianmingyun/MasterBitcoin2CN: 《精通比特币》第二版  区块链研习社 云天明联合出品。本书更名《精通区块链编程第二版》已由机械工业出版社出版，京东有售。](https://github.com/tianmingyun/MasterBitcoin2CN) #books#distributed
 - [golang101/golang101: Go语言101 : 一本侧重于Go语言语法和语义的编程解释和指导书](https://github.com/golang101/golang101) #books#golang
 - [pow-captcha](https://git.sequentialread.com/forest/pow-captcha) 基于 Proof of Work 的验证码方案 #tools
 - [Persistent Data Structure](http://fuzhe1989.github.io/2017/11/07/persistent-data-structure/) 可持久化数据结构（修改后旧版本依然可用） #data#blog
