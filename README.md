@@ -1,3 +1,4 @@
+- [golang101/golang101: Go语言101 : 一本侧重于Go语言语法和语义的编程解释和指导书](https://github.com/golang101/golang101) #books#golang
 - [pow-captcha](https://git.sequentialread.com/forest/pow-captcha) 基于 Proof of Work 的验证码方案 #tools
 - [Persistent Data Structure](http://fuzhe1989.github.io/2017/11/07/persistent-data-structure/) 可持久化数据结构（修改后旧版本依然可用） #data#blog
 - [白板编程浅谈——Why, What, How](http://lucida.me/404/) #career#job
