@@ -1,3 +1,4 @@
+- [前言 | HZFE - 剑指前端 Offer](https://febook.hzfe.org/awesome-interview/) 前端面试书籍 #books#interview#frontend
 - [Go go-to guide](https://yourbasic.org/golang/) #golang
 - [Goroutine Leak和解决之道](https://hoverzheng.github.io/post/technology-blog/go/goroutine-leak%E5%92%8C%E8%A7%A3%E5%86%B3%E4%B9%8B%E9%81%93/) #golang
 - [tianmingyun/MasterBitcoin2CN: 《精通比特币》第二版  区块链研习社 云天明联合出品。本书更名《精通区块链编程第二版》已由机械工业出版社出版，京东有售。](https://github.com/tianmingyun/MasterBitcoin2CN) #books#distributed
