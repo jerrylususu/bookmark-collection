@@ -1,3 +1,4 @@
+- [How I made $50K in 3 days with NFTs](https://paulstamatiou.com/how-i-made-50k-in-3-days-with-NFTs/) #blockchain#nft
 - [前言 | HZFE - 剑指前端 Offer](https://febook.hzfe.org/awesome-interview/) 前端面试书籍 #books#interview#frontend
 - [Go go-to guide](https://yourbasic.org/golang/) #golang
 - [Goroutine Leak和解决之道](https://hoverzheng.github.io/post/technology-blog/go/goroutine-leak%E5%92%8C%E8%A7%A3%E5%86%B3%E4%B9%8B%E9%81%93/) #golang
