@@ -1,3 +1,4 @@
+- [How to get useful answers to your questions](https://jvns.ca/blog/2021/10/21/how-to-get-useful-answers-to-your-questions/) 问 Yes/No，展示自己当前的理解，愿意打断 #tips
 - [A future for SQL on the web](https://jlongster.com/future-sql-web) 浏览器自带的 IndexedDB 太慢，用 WASM 版的 SQLite 替代，然后把 IndexedDB 作为单纯的存储后端（Filesystem 抽象） #frontend#database#read
 - [GitHub stars won't pay your rent](https://kitze.io/posts/github-stars-wont-pay-your-rent) 从开源项目到 Startup #read#startup
 - [How I made $50K in 3 days with NFTs](https://paulstamatiou.com/how-i-made-50k-in-3-days-with-NFTs/) #blockchain#nft
