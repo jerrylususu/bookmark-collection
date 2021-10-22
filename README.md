@@ -1,3 +1,4 @@
+- [GitHub stars won't pay your rent](https://kitze.io/posts/github-stars-wont-pay-your-rent) 从开源项目到 Startup #read#startup
 - [How I made $50K in 3 days with NFTs](https://paulstamatiou.com/how-i-made-50k-in-3-days-with-NFTs/) #blockchain#nft
 - [前言 | HZFE - 剑指前端 Offer](https://febook.hzfe.org/awesome-interview/) 前端面试书籍 #books#interview#frontend
 - [Go go-to guide](https://yourbasic.org/golang/) #golang
