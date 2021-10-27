@@ -1,3 +1,4 @@
+- [Linearizability & CAP](https://mwhittaker.github.io/consistency_in_distributed_systems/2_cap.html) 一个很赞的线性一致性可视化 #visual#distributed#read
 - [Category:Programming Tasks - Rosetta Code](http://rosettacode.org/wiki/Category:Programming_Tasks) 相同算法的不同语言实现 #tools
 - [How to get useful answers to your questions](https://jvns.ca/blog/2021/10/21/how-to-get-useful-answers-to-your-questions/) 问 Yes/No，展示自己当前的理解，愿意打断 #tips
 - [A future for SQL on the web](https://jlongster.com/future-sql-web) 浏览器自带的 IndexedDB 太慢，用 WASM 版的 SQLite 替代，然后把 IndexedDB 作为单纯的存储后端（Filesystem 抽象） #frontend#database#read
