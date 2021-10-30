@@ -1,3 +1,4 @@
+- [Regret Minimization | Samvit Jain](http://www.samvitjain.com/blog/regret/?utm_source=pocket_mylist) 「最小化后悔」可能不是决策的最好方式，「寻找不变量」可能更适合 #life#tips
 - [Git飞行规则(Flight Rules)](https://github.com/k88hudson/git-flight-rules/blob/master/README_zh-CN.md) Git 出现问题之后如何应对 #tips
 - [Linearizability & CAP](https://mwhittaker.github.io/consistency_in_distributed_systems/2_cap.html) 一个很赞的线性一致性可视化 #visual#distributed#read
 - [Category:Programming Tasks - Rosetta Code](http://rosettacode.org/wiki/Category:Programming_Tasks) 相同算法的不同语言实现 #tools
