@@ -1,3 +1,4 @@
+- [DIY Single Sign-On for SSH](https://smallstep.com/blog/diy-single-sign-on-for-ssh/) SSH + Single Sign On，自己配置 CA 和认证服务 #tips#hack#backend
 - [Don’t Build A General Purpose API To Power Your Own Front End - Max Chernyak](https://max.engineer/server-informed-ui?utm_source=pocket_mylist) 对自有的前端，可以提供一套更自由、独立演化的内部 API，而不用痛苦的修改对外 API 以适应业务需求 #backend#api#tips
 - [Regret Minimization | Samvit Jain](http://www.samvitjain.com/blog/regret/?utm_source=pocket_mylist) 「最小化后悔」可能不是决策的最好方式，「寻找不变量」可能更适合 #life#tips
 - [Git飞行规则(Flight Rules)](https://github.com/k88hudson/git-flight-rules/blob/master/README_zh-CN.md) Git 出现问题之后如何应对 #tips
