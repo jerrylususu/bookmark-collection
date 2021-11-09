@@ -1,3 +1,4 @@
+- [My Top 10 Money Rules](https://jonpauluritis.com/articles/my-top-10-money-rules/) 关于金钱的一些感悟 #lifehack
 - [Motion One: The Web Animations API for everyone](https://motion.dev/) 高性能的前端 JavaScript 动画库 #frontend#visual
 - [Injecting environment variables into static websites using NGINX](https://www.innoq.com/de/blog/nginx-ssi-env/) Server Side Include，往网页里注入环境变量 #backend#hack
 - [DIY Single Sign-On for SSH](https://smallstep.com/blog/diy-single-sign-on-for-ssh/) SSH + Single Sign On，自己配置 CA 和认证服务 #tips#hack#backend
