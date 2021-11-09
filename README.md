@@ -1,3 +1,4 @@
+- [Introducing WebContainers: Run Node.js natively in your browser](https://blog.stackblitz.com/posts/introducing-webcontainers/) 用WASM写了个极小的OS，然后在这个OS上跑node.js，通过把OS里的虚拟TCP层关联到浏览器的service worker，就可以在本地浏览器里完全实现一个node.js开发环境了，用的时候只需要浏览器本身，并不需要任何其他配置 #frontend#hack
 - [My Top 10 Money Rules](https://jonpauluritis.com/articles/my-top-10-money-rules/) 关于金钱的一些感悟 #lifehack
 - [Motion One: The Web Animations API for everyone](https://motion.dev/) 高性能的前端 JavaScript 动画库 #frontend#visual
 - [Injecting environment variables into static websites using NGINX](https://www.innoq.com/de/blog/nginx-ssi-env/) Server Side Include，往网页里注入环境变量 #backend#hack
