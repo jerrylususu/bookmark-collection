@@ -1,3 +1,4 @@
+- [Motion One: The Web Animations API for everyone](https://motion.dev/) 高性能的前端 JavaScript 动画库 #frontend#visual
 - [Injecting environment variables into static websites using NGINX](https://www.innoq.com/de/blog/nginx-ssi-env/) Server Side Include，往网页里注入环境变量 #backend#hack
 - [DIY Single Sign-On for SSH](https://smallstep.com/blog/diy-single-sign-on-for-ssh/) SSH + Single Sign On，自己配置 CA 和认证服务 #tips#hack#backend
 - [Don’t Build A General Purpose API To Power Your Own Front End - Max Chernyak](https://max.engineer/server-informed-ui?utm_source=pocket_mylist) 对自有的前端，可以提供一套更自由、独立演化的内部 API，而不用痛苦的修改对外 API 以适应业务需求 #backend#api#tips
