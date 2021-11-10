@@ -1,3 +1,4 @@
+- [The Billion Pi Challenge](https://nullprogram.com/blog/2014/09/18/) 如何在 pi 的前 1B 小数位中搜寻一个特定的数字序列？空间换时间 #hack#backend#c
 - [为 PDF 增加目录 - 少数派](https://sspai.com/post/69601) （pdf.tocgen）先根据已有的标题提取出标题对应的格式信息，然后用格式信息匹配所有标题，最后构造目录 #hack
 - [Introducing WebContainers: Run Node.js natively in your browser](https://blog.stackblitz.com/posts/introducing-webcontainers/) 用WASM写了个极小的OS，然后在这个OS上跑node.js，通过把OS里的虚拟TCP层关联到浏览器的service worker，就可以在本地浏览器里完全实现一个node.js开发环境了，用的时候只需要浏览器本身，并不需要任何其他配置 #frontend#hack
 - [My Top 10 Money Rules](https://jonpauluritis.com/articles/my-top-10-money-rules/) 关于金钱的一些感悟 #lifehack
