@@ -1,3 +1,4 @@
+- [Red Blob Games: Hexagonal Grids](https://www.redblobgames.com/grids/hexagons/) 如何设计和实现六边形网格系统 #game#design
 - [K8S 云原生应用开发小记](https://www.bmpi.dev/dev/guide-to-k8s-cloud-native/) 从设计到建构的全过程 #infra#backend
 - [The Billion Pi Challenge](https://nullprogram.com/blog/2014/09/18/) 如何在 pi 的前 1B 小数位中搜寻一个特定的数字序列？空间换时间 #hack#backend#c
 - [为 PDF 增加目录 - 少数派](https://sspai.com/post/69601) （pdf.tocgen）先根据已有的标题提取出标题对应的格式信息，然后用格式信息匹配所有标题，最后构造目录 #hack
