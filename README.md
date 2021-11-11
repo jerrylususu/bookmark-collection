@@ -1,3 +1,4 @@
+- [Darts, Dice, and Coins](https://www.keithschwarz.com/darts-dice-coins/) 非均衡抽样方法（抽奖算法），以及 O(N) 时间的 Alias Method #algo
 - [Red Blob Games: Hexagonal Grids](https://www.redblobgames.com/grids/hexagons/) 如何设计和实现六边形网格系统 #game#design
 - [K8S 云原生应用开发小记](https://www.bmpi.dev/dev/guide-to-k8s-cloud-native/) 从设计到建构的全过程 #infra#backend
 - [The Billion Pi Challenge](https://nullprogram.com/blog/2014/09/18/) 如何在 pi 的前 1B 小数位中搜寻一个特定的数字序列？空间换时间 #hack#backend#c
