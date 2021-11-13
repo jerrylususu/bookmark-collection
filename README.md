@@ -1,3 +1,4 @@
+- [Understanding AWK](https://earthly.dev/blog/awk-examples/) 简明 awk 教程 #read
 - [bobwen-dev/htpdate: a tool to synchronize system time with web servers, for linux, windows and macos.](https://github.com/bobwen-dev/htpdate) 利用 Web Server 的响应时间戳作为时间源同步时间 #tools
 - [SQLime — Online SQLite playground](https://sqlime.org/) 在线 SQLite 环境，基于 sql.js #tools
 - [Cloudcraft – Draw AWS diagrams](https://www.cloudcraft.co/) 不仅是画架构图，还能把架构图和实际环境同步起来 #arch#tools
