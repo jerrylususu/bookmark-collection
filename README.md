@@ -1,3 +1,4 @@
+- [bobwen-dev/htpdate: a tool to synchronize system time with web servers, for linux, windows and macos.](https://github.com/bobwen-dev/htpdate) 利用 Web Server 的响应时间戳作为时间源同步时间 #tools
 - [SQLime — Online SQLite playground](https://sqlime.org/) 在线 SQLite 环境，基于 sql.js #tools
 - [Cloudcraft – Draw AWS diagrams](https://www.cloudcraft.co/) 不仅是画架构图，还能把架构图和实际环境同步起来 #arch#tools
 - [A catalog of wealth-creation mechanisms](http://blog.rongarret.info/2009/10/catalog-of-wealth-creation-mechanisms.html) 生成财富的九种方式，以及对信息时代生成财富方式的细分 #life
