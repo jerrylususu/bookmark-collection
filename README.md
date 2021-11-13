@@ -1,3 +1,4 @@
+- [Mechanical sympathy for QR codes: making NSW check-in better](https://huonw.github.io/blog/2021/10/nsw-covid-qr/) 简化二维码中的 URL：参数编码、域名长度、纠错等级 #hack
 - [Composerize](https://www.composerize.com/?utm_source=appinn.com) 把复杂的 docker 命令转换成 docker-compose.yml #tools#backend#infra
 - [Darts, Dice, and Coins](https://www.keithschwarz.com/darts-dice-coins/) 非均衡抽样方法（抽奖算法），以及 O(1) 时间的 Alias Method（空间换时间，避免了查询随机数所在的区间） #algo
 - [Red Blob Games: Hexagonal Grids](https://www.redblobgames.com/grids/hexagons/) 如何设计和实现六边形网格系统 #game#design
