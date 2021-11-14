@@ -1,3 +1,4 @@
+- [Modern SQL: A lot has changed since SQL-92](https://modern-sql.com/) 展示现代 SQL 的一些写法（递归，over，system_time...） #books#backend#database
 - [SQL Indexing and Tuning e-Book for developers: Use The Index, Luke covers Oracle, MySQL, PostgreSQL, SQL Server, ...](https://use-the-index-luke.com/) 解释 SQL 索引如何工作的电子书 #books#read#database#backend
 - [Understanding AWK](https://earthly.dev/blog/awk-examples/) 简明 awk 教程 #read
 - [bobwen-dev/htpdate: a tool to synchronize system time with web servers, for linux, windows and macos.](https://github.com/bobwen-dev/htpdate) 利用 Web Server 的响应时间戳作为时间源同步时间 #tools
