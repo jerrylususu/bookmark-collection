@@ -1,3 +1,4 @@
+- [How we built a forever-free serverless SQL database](https://www.cockroachlabs.com/blog/how-we-built-cockroachdb-serverless/) 构造 serverless SQL DB：用 KV 作为 SQL DB 的底层存储，把 SQL 执行层无状态化 #arch#database
 - [软件开发|扩展一个 GraphQL 网站](https://linux.cn/article-13983-1.html) 调整 GraphQL API 和网页构造，使其更易于缓存 #read#blog#frontend#backend
 - [Modern SQL: A lot has changed since SQL-92](https://modern-sql.com/) 展示现代 SQL 的一些写法（递归，over，system_time...） #books#backend#database
 - [SQL Indexing and Tuning e-Book for developers: Use The Index, Luke covers Oracle, MySQL, PostgreSQL, SQL Server, ...](https://use-the-index-luke.com/) 解释 SQL 索引如何工作的电子书 #books#read#database#backend
