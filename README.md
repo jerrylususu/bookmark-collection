@@ -1,3 +1,4 @@
+- [Home : Hypothesis](https://web.hypothes.is/) 网页荧光笔 #tools
 - [Some notes on using esbuild](https://jvns.ca/blog/2021/11/15/esbuild-vue/) 一个相对简单的前端构建方案：用 import 导入库，用 esbuild 生成单体 js #frontend
 - [How we built a forever-free serverless SQL database](https://www.cockroachlabs.com/blog/how-we-built-cockroachdb-serverless/) 构造 serverless SQL DB：用 KV 作为 SQL DB 的底层存储，把 SQL 执行层无状态化 #arch#database
 - [软件开发|扩展一个 GraphQL 网站](https://linux.cn/article-13983-1.html) 调整 GraphQL API 和网页构造，使其更易于缓存 #read#blog#frontend#backend
