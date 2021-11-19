@@ -1,3 +1,4 @@
+- [ROAPI: An API Server for Static Datasets](https://tech.marksblogg.com/roapi-rust-data-api.html) #blog#tools
 - [roapi/roapi: Create full-fledged APIs for static datasets without writing a single line of code.](https://github.com/roapi/roapi) 直接从 JSON/CSV 文件生成 query API #tools#data
 - [Building a full stack application with Cloudflare Pages](http://blog.cloudflare.com/building-full-stack-with-pages/) Cloudflare Pages 增加了通过 js 文件在静态网页内增加动态内容的功能，甚至还额外提供了 KV，持久存储和中间件支持 #frontend
 - [How We Made Bracket Pair Colorization 10,000x Faster In Visual Studio Code](https://code.visualstudio.com/blogs/2021/09/29/bracket-pair-colorization) (2,3)-trees, recursion-free tree-traversal, bit-arithmetic, incremental parsing #algo
