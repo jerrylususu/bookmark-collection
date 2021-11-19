@@ -1,3 +1,4 @@
+- [How We Made Bracket Pair Colorization 10,000x Faster In Visual Studio Code](https://code.visualstudio.com/blogs/2021/09/29/bracket-pair-colorization) (2,3)-trees, recursion-free tree-traversal, bit-arithmetic, incremental parsing #algo
 - [Why Your Website Should Use Dithered Images | endtimes.dev](https://endtimes.dev/why-you-should-dither-images/) 与直接压缩原始真彩色图片相比，dithered image 能有更好的压缩比率，在非重要场合下很合适 #frontend#hack
 - [Javascript Anti Debugging — Some Next Level Sh*t (Part 2— Abusing Chromium Devtools Scope Pane)](https://gist.github.com/b21c71187fcbf138aec341021e0e4e30) 细化到行级的 chrome devtool debugging 检测 #frontend#hack
 - [There is no 'printf'.](https://www.netmeister.org/blog/return-printf.html) gcc 在满足 heuristic 的时候，会用 puts 替代 printf，导致 printf 作为 main 中最后一次调用时返回值不符合预期 #c
