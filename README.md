@@ -1,3 +1,4 @@
+- [There is no 'printf'.](https://www.netmeister.org/blog/return-printf.html) gcc 在满足 heuristic 的时候，会用 puts 替代 printf，导致 printf 作为 main 中最后一次调用时返回值不符合预期 #c
 - [Debugging a weird 'file not found' error](https://jvns.ca/blog/2021/11/17/debugging-a-weird--file-not-found--error/) 生成的 Go 二进制文件不是 static linked 的；ELF 可执行文件可以请求一个 interpreter 来执行自身，如果这个 interpreter 不存在，会导致文件存在但是无法被运行 #hack#tips
 - [Home : Hypothesis](https://web.hypothes.is/) 网页荧光笔 #tools
 - [Some notes on using esbuild](https://jvns.ca/blog/2021/11/15/esbuild-vue/) 一个相对简单的前端构建方案：用 import 导入库，用 esbuild 生成单体 js #frontend
