@@ -1,3 +1,4 @@
+- [Command line text processing with GNU Coreutils](https://learnbyexample.github.io/cli_text_processing_coreutils/cover.html) #books
 - [wg/wrk: Modern HTTP benchmarking tool](https://github.com/wg/wrk) 单机 HTTP 压力测试工具 #tools
 - [ROAPI: An API Server for Static Datasets](https://tech.marksblogg.com/roapi-rust-data-api.html) #blog#tools
 - [roapi/roapi: Create full-fledged APIs for static datasets without writing a single line of code.](https://github.com/roapi/roapi) 直接从 JSON/CSV 文件生成 query API #tools#data
