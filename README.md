@@ -1,3 +1,4 @@
+- [如何学习一门技术](https://www.bmpi.dev/dev/how-to-learn-tech/) 是否要学、怎么学、如何用 #tips#blog
 - [Command line text processing with GNU Coreutils](https://learnbyexample.github.io/cli_text_processing_coreutils/cover.html) #books
 - [wg/wrk: Modern HTTP benchmarking tool](https://github.com/wg/wrk) 单机 HTTP 压力测试工具 #tools
 - [ROAPI: An API Server for Static Datasets](https://tech.marksblogg.com/roapi-rust-data-api.html) #blog#tools
