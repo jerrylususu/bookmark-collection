@@ -1,3 +1,4 @@
+- [Distributed Systems lecture series](https://www.youtube.com/playlist?list=PLeKd45zvjcDFUEv_ohr_HdUFe97RItdiB) DDIA 作者的分布式系统课程 #video#distributed
 - [如何学习一门技术](https://www.bmpi.dev/dev/how-to-learn-tech/) 是否要学、怎么学、如何用 #tips#blog
 - [Command line text processing with GNU Coreutils](https://learnbyexample.github.io/cli_text_processing_coreutils/cover.html) #books
 - [wg/wrk: Modern HTTP benchmarking tool](https://github.com/wg/wrk) 单机 HTTP 压力测试工具 #tools
