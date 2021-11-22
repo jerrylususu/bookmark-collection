@@ -1,3 +1,4 @@
+- [Ciphey/Ciphey: ⚡ Automatically decrypt encryptions without knowing the key or cipher, decode encodings, and crack hashes ⚡](https://github.com/Ciphey/Ciphey) 自动对复杂编码串 decode 的工具 #tools
 - [Performance - Stack Exchange](https://stackexchange.com/performance) Stack Overflow 的网站架构 #backend
 - [Distributed Systems lecture series](https://www.youtube.com/playlist?list=PLeKd45zvjcDFUEv_ohr_HdUFe97RItdiB) DDIA 作者的分布式系统课程 #video#distributed
 - [如何学习一门技术](https://www.bmpi.dev/dev/how-to-learn-tech/) 是否要学、怎么学、如何用 #tips#blog
