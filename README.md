@@ -1,3 +1,4 @@
+- [nip.io - wildcard DNS for any IP Address](https://nip.io/) 解析到指定 IP 的域名服务 #tools
 - [automerge/automerge: A JSON-like data structure (a CRDT) that can be modified concurrently by different users, and merged again automatically.](https://github.com/automerge/automerge) 支持自动解决冲突（Collision-Resolve）的类 JSON 数据结构 #tools
 - [Uninitialized Stack Variables](https://www.netmeister.org/blog/stack-vars.html) C 中没有用 memset 手动初始化栈上变量导致了诡异的 Bug #c#backend
 - [Ciphey/Ciphey: ⚡ Automatically decrypt encryptions without knowing the key or cipher, decode encodings, and crack hashes ⚡](https://github.com/Ciphey/Ciphey) 自动对复杂编码串 decode 的工具 #tools
