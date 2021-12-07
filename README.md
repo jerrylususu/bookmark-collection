@@ -1,4 +1,4 @@
-- [Spending $5k to learn how database indexes work](https://briananglin.me/posts/spending-5k-to-learn-how-database-indexes-work/) 如果没加索引，limit 也会全表读 #database
+- [Spending $5k to learn how database indexes work](https://briananglin.me/posts/spending-5k-to-learn-how-database-indexes-work/) 如果没加索引，limit 最坏情况下也会全表读（但是如果读够了就不会再读了） #database
 - [Netlify Drop | Netlify](https://app.netlify.com/drop) 拖放静态网站文件，直接得到公网地址 #tools
 - [Timing With Curl - Susam's Maze](https://susam.in/maze/timing-with-curl.html) 让 curl 显示连接用时 #tips
 - [My VS Code Playground - Pawel Cislo](https://pawelcislo.com/2021/11/14/my-vs-code-playground/) VS Code 配置指北 #tips
