@@ -1,3 +1,4 @@
+- [Generator Tricks for Systems Programmers](http://www.dabeaz.com/generators/) Python Generator & Coroutine 三部曲之一，介绍 generator 与 data pipeline #course#py#backend
 - [All possible notations of IPv4 address](https://lucb1e.com/randomprojects/php/funnip.php?ip=8.8.8.8&link) URL 中的 IP 地址，数字部分可以用不同的进制 (dec, hex, oct) 表示，从而构造相同 IP 的诸多不同表示方法 #web#hack
 - [EtherDream/http-server-online: Start a local HTTP server without any tools, just open a web page.](https://github.com/EtherDream/http-server-online) 在浏览器里直接预览本地静态网站，原理是用 Service Worker 拦截请求 URL，然后用 FileSystem API 读取本地资源 #tools
 - [Spending $5k to learn how database indexes work](https://briananglin.me/posts/spending-5k-to-learn-how-database-indexes-work/) 如果没加索引，limit 最坏情况下也会全表读（但是如果读够了就不会再读了） #database
