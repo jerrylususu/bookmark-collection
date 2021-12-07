@@ -1,3 +1,4 @@
+- [A Curious Course on Coroutines and Concurrency](http://www.dabeaz.com/coroutines/) Python Generator & Coroutine 三部曲之二，介绍基于 yield 的 coroutine 实现，reactor model，以及如何用 coroutine 模拟一个简单的 OS #course#py#backend
 - [Generator Tricks for Systems Programmers](http://www.dabeaz.com/generators/) Python Generator & Coroutine 三部曲之一，介绍 generator 与 data pipeline #course#py#backend
 - [All possible notations of IPv4 address](https://lucb1e.com/randomprojects/php/funnip.php?ip=8.8.8.8&link) URL 中的 IP 地址，数字部分可以用不同的进制 (dec, hex, oct) 表示，从而构造相同 IP 的诸多不同表示方法 #web#hack
 - [EtherDream/http-server-online: Start a local HTTP server without any tools, just open a web page.](https://github.com/EtherDream/http-server-online) 在浏览器里直接预览本地静态网站，原理是用 Service Worker 拦截请求 URL，然后用 FileSystem API 读取本地资源 #tools
