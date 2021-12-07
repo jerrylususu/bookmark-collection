@@ -1,3 +1,4 @@
+- [It's Now Possible To Sign Arbitrary Data With Your SSH Keys](https://www.agwa.name/blog/post/ssh_signatures) 用 SSH key 给文件签名 #tips
 - [DNS doesn't "propagate"](https://jvns.ca/blog/2021/12/06/dns-doesn-t-propagate/) 对 DNS 的更好类比是 CDN，以及关于为什么 DNS 记录修改生效需要很久的讨论（negative DNS caching） #backend#web
 - [GPU选购指南：训练ML模型，我必须买RTX3080吗？-InfoQ](https://www.infoq.cn/article/yujetuzzjhlnvjwrfo5s) 适合于不同深度学习场景的 GPU 选购（2020 版） #tips
 - [nip.io - wildcard DNS for any IP Address](https://nip.io/) 解析到指定 IP 的域名服务 #tools
