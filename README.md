@@ -1,3 +1,4 @@
+- [Netlify Drop | Netlify](https://app.netlify.com/drop) 拖放静态网站文件，直接得到公网地址 #tools
 - [Timing With Curl - Susam's Maze](https://susam.in/maze/timing-with-curl.html) 让 curl 显示连接用时 #tips
 - [My VS Code Playground - Pawel Cislo](https://pawelcislo.com/2021/11/14/my-vs-code-playground/) VS Code 配置指北 #tips
 - [It's Now Possible To Sign Arbitrary Data With Your SSH Keys](https://www.agwa.name/blog/post/ssh_signatures) 用 SSH key 给文件签名 #tips
