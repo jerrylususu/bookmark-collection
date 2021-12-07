@@ -1,3 +1,4 @@
+- [DNS doesn't "propagate"](https://jvns.ca/blog/2021/12/06/dns-doesn-t-propagate/) 对 DNS 的更好类比是 CDN，以及关于为什么 DNS 记录修改生效需要很久的讨论（negative DNS caching） #backend#web
 - [GPU选购指南：训练ML模型，我必须买RTX3080吗？-InfoQ](https://www.infoq.cn/article/yujetuzzjhlnvjwrfo5s) 适合于不同深度学习场景的 GPU 选购（2020 版） #tips
 - [nip.io - wildcard DNS for any IP Address](https://nip.io/) 解析到指定 IP 的域名服务 #tools
 - [automerge/automerge: A JSON-like data structure (a CRDT) that can be modified concurrently by different users, and merged again automatically.](https://github.com/automerge/automerge) 支持自动解决冲突（Collision-Resolve）的类 JSON 数据结构 #tools
