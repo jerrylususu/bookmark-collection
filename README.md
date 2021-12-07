@@ -1,3 +1,4 @@
+- [Generators - The Final Frontier](http://www.dabeaz.com/finalgenerator/) Python Generator & Coroutine 三部曲之三，介绍 context manager, asyncio, 简单编译器和实现调用栈 #course#py#backend
 - [A Curious Course on Coroutines and Concurrency](http://www.dabeaz.com/coroutines/) Python Generator & Coroutine 三部曲之二，介绍基于 yield 的 coroutine 实现，reactor model，以及如何用 coroutine 模拟一个简单的 OS #course#py#backend
 - [Generator Tricks for Systems Programmers](http://www.dabeaz.com/generators/) Python Generator & Coroutine 三部曲之一，介绍 generator 与 data pipeline #course#py#backend
 - [All possible notations of IPv4 address](https://lucb1e.com/randomprojects/php/funnip.php?ip=8.8.8.8&link) URL 中的 IP 地址，数字部分可以用不同的进制 (dec, hex, oct) 表示，从而构造相同 IP 的诸多不同表示方法 #web#hack
