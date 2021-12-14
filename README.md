@@ -1,3 +1,4 @@
+- [多路复用、非阻塞、线程与协程 - 御坂研究所](https://www.nosuchfield.com/2019/01/09/Multiplex-and-non-blocking-and-threading-and-coroutine/) #backend#arch#blog
 - [A visual guide on troubleshooting Kubernetes deployments](https://learnk8s.io/troubleshooting-deployments) #backend#distributed
 - [Generators - The Final Frontier](http://www.dabeaz.com/finalgenerator/) Python Generator & Coroutine 三部曲之三，介绍 context manager, asyncio, 简单编译器和实现调用栈 #course#py#backend
 - [A Curious Course on Coroutines and Concurrency](http://www.dabeaz.com/coroutines/) Python Generator & Coroutine 三部曲之二，介绍基于 yield 的 coroutine 实现，reactor model，以及如何用 coroutine 模拟一个简单的 OS #course#py#backend
