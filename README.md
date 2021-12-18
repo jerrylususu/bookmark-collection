@@ -1,3 +1,4 @@
+- [In C, how do you know if the dynamic allocation succeeded?](https://lemire.me/blog/2021/10/27/in-c-how-do-you-know-if-the-dynamic-allocation-succeeded/) 因为 Linux 下 Overcommit 机制的存在，malloc 可能会容许分配大内存，但实际使用的时候出错 #tips#linux
 - [My Logging Best Practices – Thomas Uhrig](https://tuhrig.de/my-logging-best-practices/) INFO for business, DEBUG for code #tips#backend
 - [条分缕析分布式：到底什么是一致性？ - 铁蕾的个人博客](http://zhangtielei.com/posts/blog-distributed-consistency.html) 原子提交问题并不是一般的共识问题，而是要求更高的 uniform consensus 问题 #distributed
 - [多路复用、非阻塞、线程与协程 - 御坂研究所](https://www.nosuchfield.com/2019/01/09/Multiplex-and-non-blocking-and-threading-and-coroutine/) #backend#arch#blog
