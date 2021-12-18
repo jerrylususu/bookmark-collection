@@ -1,3 +1,4 @@
+- [My Logging Best Practices – Thomas Uhrig](https://tuhrig.de/my-logging-best-practices/) INFO for business, DEBUG for code #tips#backend
 - [条分缕析分布式：到底什么是一致性？ - 铁蕾的个人博客](http://zhangtielei.com/posts/blog-distributed-consistency.html) 原子提交问题并不是一般的共识问题，而是要求更高的 uniform consensus 问题 #distributed
 - [多路复用、非阻塞、线程与协程 - 御坂研究所](https://www.nosuchfield.com/2019/01/09/Multiplex-and-non-blocking-and-threading-and-coroutine/) #backend#arch#blog
 - [A visual guide on troubleshooting Kubernetes deployments](https://learnk8s.io/troubleshooting-deployments) #backend#distributed
