@@ -1,3 +1,4 @@
+- [Lossless Image Compression in O(n) Time](https://phoboslab.org/log/2021/11/qoi-fast-lossless-image-compression) QOI，一个简单的图片无损压缩格式，和 PNG 压缩比类似但速度更快 #tools
 - [分布式系统下的认证与授权](https://www.bmpi.dev/dev/authentication-and-authorization-in-a-distributed-system/) #backend#distributed#security
 - [工作性价比计算器](https://jfstone.cn/salary/) #tools
 - [In C, how do you know if the dynamic allocation succeeded?](https://lemire.me/blog/2021/10/27/in-c-how-do-you-know-if-the-dynamic-allocation-succeeded/) 因为 Linux 下 Overcommit 机制的存在，malloc 可能会容许分配大内存，但实际使用的时候出错 #tips#linux
