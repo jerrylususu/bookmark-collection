@@ -1,3 +1,4 @@
+- [余光中：怎样改进英式中文？- 论中文的常态与变态 | LeanCloud 开放资源](https://open.leancloud.cn/improve-chinese/) #read
 - [Lossless Image Compression in O(n) Time](https://phoboslab.org/log/2021/11/qoi-fast-lossless-image-compression) QOI，一个简单的图片无损压缩格式，和 PNG 压缩比类似但速度更快 #tools
 - [分布式系统下的认证与授权](https://www.bmpi.dev/dev/authentication-and-authorization-in-a-distributed-system/) #backend#distributed#security
 - [工作性价比计算器](https://jfstone.cn/salary/) #tools
