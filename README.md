@@ -1,3 +1,4 @@
+- [Various ways to include comments on your static site](https://darekkay.com/blog/static-site-comments/) 各种给静态网页加评论功能的方式总结 #read#frontend
 - [Instantly parse JSON in any language | quicktype](https://app.quicktype.io/) 根据 JSON 生成对应语言的对象和解析器 #tools
 - [余光中：怎样改进英式中文？- 论中文的常态与变态 | LeanCloud 开放资源](https://open.leancloud.cn/improve-chinese/) #read
 - [Lossless Image Compression in O(n) Time](https://phoboslab.org/log/2021/11/qoi-fast-lossless-image-compression) QOI，一个简单的图片无损压缩格式，和 PNG 压缩比类似但速度更快 #tools
