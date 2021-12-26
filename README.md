@@ -1,3 +1,4 @@
+- [软考资源目录](https://pan.htm.fun/%E8%BD%AF%E8%80%83%E7%9B%AE%E5%BD%95) #resource
 - [“n个球放到m个盒子”问题整理(Twelvefold way) - RioTian - 博客园](https://www.cnblogs.com/RioTian/p/15188528.html) 数论 #math#hack
 - [Deterministic variants of the Miller-Rabin primality test. Miller-Rabin SPRP bases records](https://miller-rabin.appspot.com/) Miller-Rabin 质数判定的确定性根 #hack
 - [米勒-拉宾素性检验 - 维基百科，自由的百科全书](https://zh.wikipedia.org/wiki/%E7%B1%B3%E5%8B%92-%E6%8B%89%E5%AE%BE%E6%A3%80%E9%AA%8C) 随机化素数判定算法 #hack
