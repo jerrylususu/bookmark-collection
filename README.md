@@ -1,3 +1,4 @@
+- [My First 5 Minutes On A Server; Or, Essential Security for Linux Servers – Sol Love](https://sollove.com/2013/03/03/my-first-5-minutes-on-a-server-or-essential-security-for-linux-servers/) #security
 - [我做系统架构的一些原则 | 酷 壳 - CoolShell](https://coolshell.cn/articles/21672.html) #infra
 - [软考资源目录](https://pan.htm.fun/%E8%BD%AF%E8%80%83%E7%9B%AE%E5%BD%95) #resource
 - [“n个球放到m个盒子”问题整理(Twelvefold way) - RioTian - 博客园](https://www.cnblogs.com/RioTian/p/15188528.html) 数论 #math#hack
