@@ -1,3 +1,4 @@
+- [📚 K8S 教程 - 易文档](https://k8s.easydoc.net/) #books#backend
 - [Defensive CSS - Ahmad Shadeed](https://ishadeed.com/article/defensive-css/) #frontend
 - [Engineering Fundamentals Checklist - Code With Engineering Playbook](https://microsoft.github.io/code-with-engineering-playbook/ENG-FUNDAMENTALS-CHECKLIST/) #tools
 - [Dock Life: Using Docker for All The Things!](https://nystudio107.com/blog/dock-life-using-docker-for-all-the-things) 用 docker alias 取代一切 #hack
