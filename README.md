@@ -1,3 +1,4 @@
+- [The difference between WHERE and HAVING – SQL Bits](https://sql-bits.com/the-difference-between-where-and-having/) where 决定了 query 会处理哪些 row，having 决定了 server 会给 client 发回哪些 row #db#tips
 - [🎯 Docker 快速入门 - 易文档](https://docker.easydoc.net/doc/81170005/cCewZWoN/XQEqNjiu) #books#backend
 - [📚 K8S 教程 - 易文档](https://k8s.easydoc.net/) #books#backend
 - [Defensive CSS - Ahmad Shadeed](https://ishadeed.com/article/defensive-css/) #frontend
