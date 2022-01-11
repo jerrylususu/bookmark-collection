@@ -1,3 +1,4 @@
+- [Advent of Grok {Shan, Shui}* - Day 24: Putting it all together](https://zverok.github.io/advent2021/day24) 山水画生成器如何工作（procedural art generation）  #read
 - [The difference between WHERE and HAVING – SQL Bits](https://sql-bits.com/the-difference-between-where-and-having/) where 决定了 query 会处理哪些 row，having 决定了 server 会给 client 发回哪些 row #db#tips
 - [🎯 Docker 快速入门 - 易文档](https://docker.easydoc.net/doc/81170005/cCewZWoN/XQEqNjiu) #books#backend
 - [📚 K8S 教程 - 易文档](https://k8s.easydoc.net/) #books#backend
