@@ -1,3 +1,4 @@
+- [My Custom CSS Reset](https://www.joshwcomeau.com/css/custom-css-reset/) 覆盖浏览器的内置样式 #frontend
 - [1.6万字马斯克访谈实录：载人飞船上天前，我曾跪地祈祷](https://chedongxi.com/p/264710.html) #read
 - [Advent of Grok {Shan, Shui}* - Day 24: Putting it all together](https://zverok.github.io/advent2021/day24) 山水画生成器如何工作（procedural art generation）  #read
 - [The difference between WHERE and HAVING – SQL Bits](https://sql-bits.com/the-difference-between-where-and-having/) where 决定了 query 会处理哪些 row，having 决定了 server 会给 client 发回哪些 row #db#tips
