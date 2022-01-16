@@ -1,3 +1,4 @@
+- [Shichao's Notes](https://notes.shichao.io/) 书籍笔记：Advanced Programming in the UNIX Environment, UNIX Network Programming, The Go Programming Language 以及其他 #note#books
 - [Yandex.Translate - Translate to Emoji](https://translate.yandex.com/dictionary/zh-emj/%E4%BD%A0%E5%A5%BD%EF%BC%8C%E4%B8%96%E7%95%8C) 翻译到 Emoji #tools
 - [HTTP Toolkit](https://httptoolkit.tech/) HTTP 调试工具（类 Fiddler）：Intercept & view all your HTTP(S), Mock endpoints or entire servers, Rewrite, redirect, or inject errors #tools
 - [My Custom CSS Reset](https://www.joshwcomeau.com/css/custom-css-reset/) 覆盖浏览器的内置样式 #frontend
