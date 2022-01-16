@@ -1,3 +1,4 @@
+- [Yandex.Translate - Translate to Emoji](https://translate.yandex.com/dictionary/zh-emj/%E4%BD%A0%E5%A5%BD%EF%BC%8C%E4%B8%96%E7%95%8C) 翻译到 Emoji #tools
 - [HTTP Toolkit](https://httptoolkit.tech/) HTTP 调试工具（类 Fiddler）：Intercept & view all your HTTP(S), Mock endpoints or entire servers, Rewrite, redirect, or inject errors #tools
 - [My Custom CSS Reset](https://www.joshwcomeau.com/css/custom-css-reset/) 覆盖浏览器的内置样式 #frontend
 - [1.6万字马斯克访谈实录：载人飞船上天前，我曾跪地祈祷](https://chedongxi.com/p/264710.html) #read
