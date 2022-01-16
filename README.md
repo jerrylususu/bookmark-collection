@@ -1,3 +1,4 @@
+- [HTTP Toolkit](https://httptoolkit.tech/) HTTP 调试工具（类 Fiddler）：Intercept & view all your HTTP(S), Mock endpoints or entire servers, Rewrite, redirect, or inject errors #tools
 - [My Custom CSS Reset](https://www.joshwcomeau.com/css/custom-css-reset/) 覆盖浏览器的内置样式 #frontend
 - [1.6万字马斯克访谈实录：载人飞船上天前，我曾跪地祈祷](https://chedongxi.com/p/264710.html) #read
 - [Advent of Grok {Shan, Shui}* - Day 24: Putting it all together](https://zverok.github.io/advent2021/day24) 山水画生成器如何工作（procedural art generation）  #read
