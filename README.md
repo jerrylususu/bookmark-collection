@@ -1,3 +1,4 @@
+- [十分钟速通 Y Combinator](https://coderemixer.com/2018/12/07/y-combinator-in-ten-minutes/) lambda 演算中的递归实现 #fp#read
 - [Some ways DNS can break](https://jvns.ca/blog/2022/01/15/some-ways-dns-can-break/) 各种 DNS 问题可能导致的奇怪故障 #read#backend#infra
 - [likianta/pyportable-installer: Build and distribute installation-free python programs by all-in-one configuration file.](https://github.com/likianta/pyportable-installer) Python 项目打包工具，打包为免安装版 #tools#py
 - [Shichao's Notes](https://notes.shichao.io/) 书籍笔记：Advanced Programming in the UNIX Environment, UNIX Network Programming, The Go Programming Language 以及其他 #note#books
