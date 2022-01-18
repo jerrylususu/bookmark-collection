@@ -1,3 +1,4 @@
+- [如何技术招聘--兼谈识别简历造假](https://miao1007.github.io/%E5%A6%82%E4%BD%95%E6%8A%80%E6%9C%AF%E6%8B%9B%E8%81%98-%E5%85%BC%E8%B0%88%E8%AF%86%E5%88%AB%E7%AE%80%E5%8E%86%E9%80%A0%E5%81%87/) 从面试官的角度，看看会问什么 #read
 - [十分钟速通 Y Combinator](https://coderemixer.com/2018/12/07/y-combinator-in-ten-minutes/) lambda 演算中的递归实现 #fp#read
 - [Some ways DNS can break](https://jvns.ca/blog/2022/01/15/some-ways-dns-can-break/) 各种 DNS 问题可能导致的奇怪故障 #read#backend#infra
 - [likianta/pyportable-installer: Build and distribute installation-free python programs by all-in-one configuration file.](https://github.com/likianta/pyportable-installer) Python 项目打包工具，打包为免安装版 #tools#py
