@@ -1,3 +1,4 @@
+- [从递归到 Y 组合子](https://saintwinkle.com/recursive-to-y-combinator/) Little Schemer 第九章 #read#fp
 - [python代码打包和反编译 - SAUCERMAN](https://saucer-man.com/information_security/825.html) 打包：pyinstaller, nuitka / 解包：pyinstaller (exe -> pyc -> py) #py
 - [如何快速通过考试](https://miao1007.github.io/%E5%A6%82%E4%BD%95%E5%BF%AB%E9%80%9F%E9%80%9A%E8%BF%87%E8%80%83%E8%AF%95/) 考试也能有通用流程 #read#lifehack
 - [如何技术招聘--兼谈识别简历造假](https://miao1007.github.io/%E5%A6%82%E4%BD%95%E6%8A%80%E6%9C%AF%E6%8B%9B%E8%81%98-%E5%85%BC%E8%B0%88%E8%AF%86%E5%88%AB%E7%AE%80%E5%8E%86%E9%80%A0%E5%81%87/) 从面试官的角度，看看会问什么 #read
