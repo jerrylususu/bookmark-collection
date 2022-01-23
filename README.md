@@ -1,3 +1,4 @@
+- [Jodd - a set of Java micro-frameworks and developer-friendly tools and utilities.](https://jodd.org/) 一系列用于Java 的简洁工具库（JSON, HTTP, Utils...） #tools
 - [Why Disaster Happens at the Edges: An Introduction to Queue Theory - The New Stack](https://thenewstack.io/an-introduction-to-queue-theory-why-disaster-happens-at-the-edges/) 系统设计中的队列理论：util<75%, 限制 variance, backpressure #infra#math
 - [从递归到 Y 组合子](https://saintwinkle.com/recursive-to-y-combinator/) Little Schemer 第九章 #read#fp
 - [python代码打包和反编译 - SAUCERMAN](https://saucer-man.com/information_security/825.html) 打包：pyinstaller, nuitka / 解包：pyinstaller (exe -> pyc -> py) #py
