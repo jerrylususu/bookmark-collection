@@ -1,3 +1,4 @@
+- [gaogaotiantian/viztracer: VizTracer is a low-overhead logging/debugging/profiling tool that can trace and visualize your python code execution.](https://github.com/gaogaotiantian/viztracer) Python 多线程/多进程/协程执行 log/profile/可视化工具 #tools
 - [Jodd - a set of Java micro-frameworks and developer-friendly tools and utilities.](https://jodd.org/) 一系列用于Java 的简洁工具库（JSON, HTTP, Utils...） #tools
 - [Why Disaster Happens at the Edges: An Introduction to Queue Theory - The New Stack](https://thenewstack.io/an-introduction-to-queue-theory-why-disaster-happens-at-the-edges/) 系统设计中的队列理论：util<75%, 限制 variance, backpressure #infra#math
 - [从递归到 Y 组合子](https://saintwinkle.com/recursive-to-y-combinator/) Little Schemer 第九章 #read#fp
