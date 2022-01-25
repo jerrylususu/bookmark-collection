@@ -1,3 +1,4 @@
+- [A surprisingly hard CS problem: sums of square roots](http://shlegeris.com/2018/10/23/sqrt.html) 核心问题：平方根是无理数，实际上需要比较无限长度的数字流 #read#math
 - [GitHub Actions by Example](https://www.actionsbyexample.com/) #backend
 - [Hosting my static sites with nginx](https://jvns.ca/blog/2022/01/24/hosting-my-static-sites-with-nginx/) 容器化构建过程，rsync 分发到服务器，ansible 设定 nginx 配置 #read#backend
 - [gaogaotiantian/viztracer: VizTracer is a low-overhead logging/debugging/profiling tool that can trace and visualize your python code execution.](https://github.com/gaogaotiantian/viztracer) Python 多线程/多进程/协程执行 log/profile/可视化工具 #tools
