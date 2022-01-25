@@ -1,3 +1,4 @@
+- [Why we're migrating (many of) our servers from Linux to FreeBSD](http://it-notes.dragas.net/2022/01/24/why-were-migrating-many-of-our-servers-from-linux-to-freebsd/) kernel 和 userland 的一致性，技术主导的开发方向，更好的隔离和网络栈性能，更直接的性能分析 #read
 - [A surprisingly hard CS problem: sums of square roots](http://shlegeris.com/2018/10/23/sqrt.html) 核心问题：平方根是无理数，实际上需要比较无限长度的数字流 #read#math
 - [GitHub Actions by Example](https://www.actionsbyexample.com/) #backend
 - [Hosting my static sites with nginx](https://jvns.ca/blog/2022/01/24/hosting-my-static-sites-with-nginx/) 容器化构建过程，rsync 分发到服务器，ansible 设定 nginx 配置 #read#backend
