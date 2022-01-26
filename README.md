@@ -1,3 +1,4 @@
+- [Johnny Decimal - A system to organise projects](https://johnnydecimal.com/) 用数字+层级分类管理文件 #read#hack
 - [我如何用 Windows 开发 —— 2021 我的开发环境](https://best33.com/403.moe) WSL2 踩坑相关 #read#hack
 - [How I Got Pwned by My Cloud Costs](https://www.troyhunt.com/how-i-got-pwned-by-my-cloud-costs/) 静态资源没有被 CDN 缓存造成云服务出口流量暴增，原因是 CloudFlare 对可缓存资源有最大大小限制 #read#infra
 - [Why we're migrating (many of) our servers from Linux to FreeBSD](http://it-notes.dragas.net/2022/01/24/why-were-migrating-many-of-our-servers-from-linux-to-freebsd/) kernel 和 userland 的一致性，技术主导的开发方向，更好的隔离和网络栈性能，更直接的性能分析 #read
