@@ -1,3 +1,4 @@
+- [如何在 Word 文档的同一段落内插入自动编号](https://type.cyhsu.xyz/2019/12/word-inline-numbering-with-seq-field/) #hack
 - [Convert curl commands to code](https://curlconverter.com/) #tools
 - [新一代垃圾回收器ZGC的探索与实践](https://tech.meituan.com/2020/08/06/new-zgc-practice-in-meituan.html) #read#java#backend
 - [Windows 11 Setting Up - Tsetien’s Wiki](https://wiki.tsetien.com/index.php?title=Windows_11_Setting_Up) 调整 Windows 11 的经验总结 #hack
