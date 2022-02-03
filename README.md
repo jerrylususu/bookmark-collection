@@ -1,3 +1,4 @@
+- [Comparing Floating Point Numbers, 2012 Edition](https://randomascii.wordpress.com/2012/02/25/comparing-floating-point-numbers-2012-edition/) 浮点数比较的正确方法（取决于数字是否接近0），eps，ULP #hack#read
 - [如何在 Word 文档的同一段落内插入自动编号](https://type.cyhsu.xyz/2019/12/word-inline-numbering-with-seq-field/) #hack
 - [Convert curl commands to code](https://curlconverter.com/) #tools
 - [新一代垃圾回收器ZGC的探索与实践](https://tech.meituan.com/2020/08/06/new-zgc-practice-in-meituan.html) #read#java#backend
