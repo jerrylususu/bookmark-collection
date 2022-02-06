@@ -1,3 +1,4 @@
+- [Google 技术写作](https://docs.google.com/document/d/16aoMrMGHPIR1i_eUNRvksdDdwcDG6KiOJN6Vfh-n8-s/edit#) Google 的技术写作规范（中文翻译版） #read#write
 - [Best Python Development Setup for 2022 and Beyond](https://laike9m.com/blog/best-python-development-setup-for-2022-and-beyond,144/) pipx, pyenv, PDM #read#py
 - [Things I Wish They Told Me About Multiprocessing in Python](https://www.cloudcity.io/blog/2019/02/27/things-i-wish-they-told-me-about-multiprocessing-in-python/) Python 中多进程的最佳实践：正确的 clean up，SIGTERM/SIGINT 处理，避免无限的 blocking wait #read#py#backend
 - [Comparing Floating Point Numbers, 2012 Edition](https://randomascii.wordpress.com/2012/02/25/comparing-floating-point-numbers-2012-edition/) 浮点数比较的正确方法（取决于数字是否接近0），eps，ULP #hack#read
