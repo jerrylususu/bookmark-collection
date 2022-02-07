@@ -1,3 +1,4 @@
+- [Why top and free inside containers don't show the correct container memory](https://ops.tips/blog/why-top-inside-container-wrong-memory/) 因为 /proc/meminfo 不受 namespace 影响 #read#backend#docker
 - [How signals are handled in a docker container | Dmitry Danilov](https://ddanilov.me/how-signals-are-handled-in-a-docker-container) linux kernel 处理信号时，对 pid 1 和其它进程的行为不一样 #read#arch
 - [Configuring core dumps in docker | Dmitry Danilov](https://ddanilov.me/how-to-configure-core-dump-in-docker-container) host 上要设定 kernel.core_pattern，容器需要加 --init 和 --ulimit 参数，以及建议在相同 image 的容器内的 gdb 中检视 #read#hack
 - [How to get a core dump for a segfault on Linux](https://jvns.ca/blog/2018/04/28/debugging-a-segfault-on-linux/) 先设定 ulimit，然后修改系统默认的 dump 位置 #read#backend#hack
