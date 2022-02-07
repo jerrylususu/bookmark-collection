@@ -1,3 +1,4 @@
+- [使用 CMake 和 VSCodium 设置一个构建系统](https://linux.cn/article-14249-1.html) #read#infra#infra
 - [漫谈非加密哈希算法](https://segmentfault.com/a/1190000010990136) hash != 加密，不涉及故意的哈希碰撞不一定需要加密哈希算法 #read
 - [Moonix 文档](https://cn-guoziyang.github.io/Moonix/#/?id=%f0%9f%8c%95-moonix) 从零开始写一个 RISC-V OS #read#books
 - [Google 技术写作](https://docs.google.com/document/d/16aoMrMGHPIR1i_eUNRvksdDdwcDG6KiOJN6Vfh-n8-s/edit#) Google 的技术写作规范（中文翻译版） #read#write
