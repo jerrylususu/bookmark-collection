@@ -1,3 +1,4 @@
+- [How to get a core dump for a segfault on Linux](https://jvns.ca/blog/2018/04/28/debugging-a-segfault-on-linux/) 先设定 ulimit，然后修改系统默认的 dump 位置 #read#backend#hack
 - [使用 CMake 和 VSCodium 设置一个构建系统](https://linux.cn/article-14249-1.html) #read#infra#infra
 - [漫谈非加密哈希算法](https://segmentfault.com/a/1190000010990136) hash != 加密，不涉及故意的哈希碰撞不一定需要加密哈希算法 #read
 - [Moonix 文档](https://cn-guoziyang.github.io/Moonix/#/?id=%f0%9f%8c%95-moonix) 从零开始写一个 RISC-V OS #read#books
