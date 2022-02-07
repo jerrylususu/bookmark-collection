@@ -1,3 +1,4 @@
+- [Configuring core dumps in docker | Dmitry Danilov](https://ddanilov.me/how-to-configure-core-dump-in-docker-container) host 上要设定 kernel.core_pattern，容器需要加 --init 和 --ulimit 参数，以及建议在相同 image 的容器内的 gdb 中检视 #read#hack
 - [How to get a core dump for a segfault on Linux](https://jvns.ca/blog/2018/04/28/debugging-a-segfault-on-linux/) 先设定 ulimit，然后修改系统默认的 dump 位置 #read#backend#hack
 - [使用 CMake 和 VSCodium 设置一个构建系统](https://linux.cn/article-14249-1.html) #read#infra#infra
 - [漫谈非加密哈希算法](https://segmentfault.com/a/1190000010990136) hash != 加密，不涉及故意的哈希碰撞不一定需要加密哈希算法 #read
