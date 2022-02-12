@@ -1,3 +1,4 @@
+- [Delta Chat: The e-mail messenger](https://delta.chat/en/) 基于邮件的聊天客户端 #tools
 - [A brief history of code search at GitHub | The GitHub Blog](https://github.blog/2021-12-15-a-brief-history-of-code-search-at-github/) Github 代码搜索功能的历史演进：从现有工具（solr, elastic search）到完全自建（rust-based） #read#arch
 - [OpsTips](https://ops.tips/) in-depth articles on cloud-native tech and daily software engineering #books
 - [Why top and free inside containers don't show the correct container memory](https://ops.tips/blog/why-top-inside-container-wrong-memory/) 因为 /proc/meminfo 不受 namespace 影响 #read#backend#docker
