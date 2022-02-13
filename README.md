@@ -1,4 +1,3 @@
-- [deltachat-core-rust/standards.md at master · deltachat/deltachat-core-rust](https://github.com/deltachat/deltachat-core-rust)
 - [2021 年 JavaScript 明星项目](https://risingstars.js.org/2021/zh) #read#frontend
 - [Basic Network Troubleshooting](https://www.netmeister.org/blog/basic-network-troubleshooting.html) Is it the DNS, the network, or the app? #read#network
 - [“一把梭：REST API 全用 POST ” | 酷 壳 - CoolShell](https://coolshell.cn/articles/22173.html) 为什么需要不同的 HTTP 动词，以及如何处理 REST 复杂查询 #read#api
