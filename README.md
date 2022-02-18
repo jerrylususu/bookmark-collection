@@ -1,3 +1,4 @@
+- [Crafting “Crafting Interpreters”](http://journal.stuffwithstuff.com/2020/04/05/crafting-crafting-interpreters/) 四年连续写一本书的历程 #read
 - [Moscow state university network built by students](https://medium.com/@pv.safronov/moscow-state-university-network-built-by-students-211539855cf9) 莫斯科国立大学的学生自建校园网的故事 #read
 - [Crafting Interpreters](http://craftinginterpreters.com/) #books
 - [ulid/spec: The canonical spec for ulid](https://github.com/ulid/spec) Universally Unique Lexicographically Sortable Identifier，一个改进版的 UUID，提供了基于时间戳的可排序性 #tools
