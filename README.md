@@ -1,3 +1,4 @@
+- [Debugging Certificate Errors](https://www.netmeister.org/blog/debugging-certificate-errors.html) 调试 SSL 和证书问题：过期、通配符、CNAME、信任链、中间人攻击 #read#backend
 - [system-design-primer/README-zh-Hans.md at master · donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer/blob/master/README-zh-Hans.md) 系统设计入门及相关资源（抽认卡、知识网络、示例题目） #read#books#arch
 - [Crafting “Crafting Interpreters”](http://journal.stuffwithstuff.com/2020/04/05/crafting-crafting-interpreters/) 四年连续写一本书的历程 #read
 - [Moscow state university network built by students](https://medium.com/@pv.safronov/moscow-state-university-network-built-by-students-211539855cf9) 莫斯科国立大学的学生自建校园网的故事 #read
