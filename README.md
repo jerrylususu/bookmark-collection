@@ -1,3 +1,4 @@
+- [写在第二十五万字](https://www.bmpi.dev/self/my-writing-story/250k/) 个人写作体系的建立经验 #read
 - [Velocity 2015 linux perf tools](https://www.slideshare.net/brendangregg/velocity-2015-linux-perf-tools) Linux Performance Tools (tracing, probing...) #slides
 - [Debugging Certificate Errors](https://www.netmeister.org/blog/debugging-certificate-errors.html) 调试 SSL 和证书问题：过期、通配符、CNAME、信任链、中间人攻击 #read#backend
 - [system-design-primer/README-zh-Hans.md at master · donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer/blob/master/README-zh-Hans.md) 系统设计入门及相关资源（抽认卡、知识网络、示例题目） #read#books#arch
