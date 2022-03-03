@@ -1,3 +1,4 @@
+- [Val on Programming: What makes a good REPL?](https://vvvvalvalval.github.io/posts/what-makes-a-good-repl.html) 基于 REPL 的开发：更容易自动化、更模块化的代码、更容易编写测试 #read#language
 - [nusr/hacker-laws-zh: 💻📖对开发人员有用的定律、理论、原则和模式。(Laws, Theories, Principles and Patterns that developers will find useful.)](https://github.com/nusr/hacker-laws-zh) #read
 - [How we handle 80TB and 5M page views a month for under $400](https://blog.polyhaven.com/how-we-handle-80tb-and-5m-page-views-a-month-for-under-400/) 高 cache 率，CF+B2 的流量联盟 #read#arch
 - [写在第二十五万字](https://www.bmpi.dev/self/my-writing-story/250k/) 个人写作体系的建立经验 #read
