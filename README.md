@@ -1,3 +1,4 @@
+- [TypeScript for Pythonistas](https://medium.com/@Pilot-EPD-Blog/typescript-for-pythonistas-f90bbb297f0a) 两种不同的类型系统，structural 和 nominative #read
 - [From Node to Ruby on Rails - D U N K](https://nikodunk.com/a-node-js-developer-discovers-rails/) #read
 - [3 Things You Might Not Know About Numbers in Python](https://davidamos.dev/three-things-you-might-not-know-about-numbers-in-python/) 有方法、有层级关系、可扩展 #read#py
 - [Use a Git commit message template to write better commit messages](https://gist.github.com/lisawolderiksen/a7b99d94c92c6671181611be1641c733) 设定 `.gitmessage` 实现用模板自动填充 commit message #tips
