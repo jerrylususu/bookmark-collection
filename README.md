@@ -1,3 +1,4 @@
+- [3 Things You Might Not Know About Numbers in Python](https://davidamos.dev/three-things-you-might-not-know-about-numbers-in-python/) 有方法、有层级关系、可扩展 #read#py
 - [Use a Git commit message template to write better commit messages](https://gist.github.com/lisawolderiksen/a7b99d94c92c6671181611be1641c733) 设定 `.gitmessage` 实现用模板自动填充 commit message #tips
 - [Val on Programming: What makes a good REPL?](https://vvvvalvalval.github.io/posts/what-makes-a-good-repl.html) 基于 REPL 的开发：更容易自动化、更模块化的代码、更容易编写测试 #read#language
 - [nusr/hacker-laws-zh: 💻📖对开发人员有用的定律、理论、原则和模式。(Laws, Theories, Principles and Patterns that developers will find useful.)](https://github.com/nusr/hacker-laws-zh) #read
