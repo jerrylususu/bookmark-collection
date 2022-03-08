@@ -1,3 +1,4 @@
+- [From Node to Ruby on Rails - D U N K](https://nikodunk.com/a-node-js-developer-discovers-rails/) #read
 - [3 Things You Might Not Know About Numbers in Python](https://davidamos.dev/three-things-you-might-not-know-about-numbers-in-python/) 有方法、有层级关系、可扩展 #read#py
 - [Use a Git commit message template to write better commit messages](https://gist.github.com/lisawolderiksen/a7b99d94c92c6671181611be1641c733) 设定 `.gitmessage` 实现用模板自动填充 commit message #tips
 - [Val on Programming: What makes a good REPL?](https://vvvvalvalval.github.io/posts/what-makes-a-good-repl.html) 基于 REPL 的开发：更容易自动化、更模块化的代码、更容易编写测试 #read#language
