@@ -1,3 +1,4 @@
+- [Decoded: GNU coreutils – MaiZure's Projects](http://www.maizure.org/projects/decoded-gnu-coreutils/index.html) GNU Coreutils 代码解读 #read#books
 - [Datawrapper: Create charts, maps, and tables](https://www.datawrapper.de) 交互式画数据图工具（charts, maps, tables) #tools
 - [Turning a GitHub page into a Progressive Web App | Christian Heilmann](https://christianheilmann.com/2022/01/13/turning-a-github-page-into-a-progressive-web-app/) #read#frontend
 - [家用3D打印不完全入坑指南 | 机核 GCORES](https://www.gcores.com/articles/147983) #read
