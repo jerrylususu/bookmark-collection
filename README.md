@@ -1,3 +1,4 @@
+- [家用3D打印不完全入坑指南 | 机核 GCORES](https://www.gcores.com/articles/147983) #read
 - [设计模式二三事](https://tech.meituan.com/2022/03/10/interesting-talk-about-design-patterns.html) 本文会结合在美团金融服务平台设计开发时的经验，结合实际的案例，并采用“师生对话”这种相对诙谐的形式去讲解三类常用设计模式的应用。 #read#design
 - [口语写作好帮手：两个语料查询网站 - 少数派](https://sspai.com/post/71962) #read
 - [Singapore prime minister Lee Hsien Loong's Sudoku Solver code runs in 1ms - LeetCode Discuss](https://leetcode.com/problems/sudoku-solver/discuss/15796/Singapore-prime-minister-Lee-Hsien-Loong%27s-Sudoku-Solver-code-runs-in-1ms) #read
