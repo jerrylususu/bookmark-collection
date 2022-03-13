@@ -1,3 +1,4 @@
+- [In search of the perfect URL validation regex](https://mathiasbynens.be/demo/url-regex) 多个用于匹配 URL 的正则表达式的对比 #read#tools#regex
 - [Tearing apart printf() – MaiZure's Projects](http://www.maizure.org/projects/printf/index.html) printf 从简单到复杂 #read
 - [How Difficult is your Programming Project? – MaiZure's Projects](http://www.maizure.org/projects/how-difficult-is-your-programming-project.html) #read
 - [Decoded: GNU coreutils – MaiZure's Projects](http://www.maizure.org/projects/decoded-gnu-coreutils/index.html) GNU Coreutils 代码解读 #read#books
