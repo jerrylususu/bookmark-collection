@@ -1,3 +1,4 @@
+- [Tearing apart printf() – MaiZure's Projects](http://www.maizure.org/projects/printf/index.html) printf 从简单到复杂 #read
 - [How Difficult is your Programming Project? – MaiZure's Projects](http://www.maizure.org/projects/how-difficult-is-your-programming-project.html) #read
 - [Decoded: GNU coreutils – MaiZure's Projects](http://www.maizure.org/projects/decoded-gnu-coreutils/index.html) GNU Coreutils 代码解读 #read#books
 - [Datawrapper: Create charts, maps, and tables](https://www.datawrapper.de) 交互式画数据图工具（charts, maps, tables) #tools
