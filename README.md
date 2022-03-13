@@ -1,3 +1,4 @@
+- [口语写作好帮手：两个语料查询网站 - 少数派](https://sspai.com/post/71962) #read
 - [Singapore prime minister Lee Hsien Loong's Sudoku Solver code runs in 1ms - LeetCode Discuss](https://leetcode.com/problems/sudoku-solver/discuss/15796/Singapore-prime-minister-Lee-Hsien-Loong%27s-Sudoku-Solver-code-runs-in-1ms) #read
 - [TypeScript for Pythonistas](https://medium.com/@Pilot-EPD-Blog/typescript-for-pythonistas-f90bbb297f0a) 两种不同的类型系统，structural 和 nominative #read
 - [From Node to Ruby on Rails - D U N K](https://nikodunk.com/a-node-js-developer-discovers-rails/) #read
