@@ -1,3 +1,4 @@
+- [Hashids](https://hashids.org/) 把内部的整数 ID 编码为字符串（类 YouTube 视频 ID / B 站的 BV 号） #tools
 - [An Introduction To Type Programming In TypeScript](https://zhenghao.io/posts/type-programming) 既然类型系统本身是图灵完备的，那么也就可以用类型系统来编程了 #read#language
 - [Building a No-Code Machine Learning Model by Chatting with GitHub Copilot](https://www.surgehq.ai/blog/building-a-no-code-toxicity-classifier-by-talking-to-copilot) #read#ml
 - [透过 Rust 探索系统的本原：编程语言](https://mp.weixin.qq.com/s/ZA-_BARVAWe0Q4eM0lYgwg) #read#language
