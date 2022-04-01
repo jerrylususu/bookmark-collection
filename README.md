@@ -1,3 +1,4 @@
+- [Quick and dirty way to rip an eBook from Android](https://shkspr.mobi/blog/2021/12/quick-and-dirty-way-to-rip-an-ebook-from-android/) ADB 点击 & 截图，裁剪，转换到 PDF，最后加 OCR 层 #read#tips
 - [1-Line Layouts](https://1linelayouts.glitch.me/) 一行 CSS 解决常见的布局问题 #frontend#css
 - [Go 1.18 泛型全面讲解：一篇讲清泛型的全部 - 掘金](https://juejin.cn/post/7080938405449695268) #read#golang#language
 - [Hashids](https://hashids.org/) 把内部的整数 ID 编码为字符串（类 YouTube 视频 ID / B 站的 BV 号） #tools
