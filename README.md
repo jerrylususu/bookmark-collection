@@ -1,3 +1,4 @@
+- [Netflix: Lessons in Experimentation - Product Growth Deep Dive](https://www.aakashg.com/2022/01/18/netflix-experimentation/) #read
 - [Filmmaking Process - Walt Disney Animation Studios](https://disneyanimation.com/process/) #read#misc
 - [Simple.css](https://simplecss.org/demo) 不用 class 而是直接对 html 元素加样式的简单 CSS 框架（模板？） #css#frontend
 - [Quick and dirty way to rip an eBook from Android](https://shkspr.mobi/blog/2021/12/quick-and-dirty-way-to-rip-an-ebook-from-android/) ADB 点击 & 截图，裁剪，转换到 PDF，最后加 OCR 层 #read#tips
