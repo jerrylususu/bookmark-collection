@@ -1,3 +1,4 @@
+- [A list of new(ish) command line tools](https://jvns.ca/blog/2022/04/12/a-list-of-new-ish--command-line-tools/) #read#tips
 - [编程语言是如何实现并发的之操作系统篇](https://www.bmpi.dev/dev/deep-in-program-language/how-to-implement-concurrency/os-scheduling/) 调度、线程模型、IO模型 #read#backend#core#language
 - [Netflix: Lessons in Experimentation - Product Growth Deep Dive](https://www.aakashg.com/2022/01/18/netflix-experimentation/) #read
 - [Filmmaking Process - Walt Disney Animation Studios](https://disneyanimation.com/process/) #read#misc
