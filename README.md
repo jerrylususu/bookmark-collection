@@ -1,3 +1,4 @@
+- [Google Translation API Hacking > Vielhuber David](https://vielhuber.de/en/blog/google-translation-api-hacking/) 用 Chrome 翻译网页的 API Key #read
 - [Mini Tokyo 3D](https://minitokyo3d.com) 东京地下铁实时地图 #web#visual
 - [浅析 Linux 如何接收网络帧](https://www.waynerv.com/posts/how-linux-process-input-frames/) 通知手段、软中断、NAPI #read#kernel#network
 - [A list of new(ish) command line tools](https://jvns.ca/blog/2022/04/12/a-list-of-new-ish--command-line-tools/) #read#tips
