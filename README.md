@@ -1,3 +1,4 @@
+- [Linux SysOps Handbook - Linux SysOps Handbook](https://abarrak.gitbook.io/linux-sysops-handbook/#table-of-content) 常见管理类命令速查 #books
 - [Monorepo Explained](https://monorepo.tools/) #books
 - [Linux Signals](https://devopedia.org/linux-signals) Signal Handler, Signal Mask, 128+sigint #read#kernel
 - [Google Translation API Hacking > Vielhuber David](https://vielhuber.de/en/blog/google-translation-api-hacking/) 用 Chrome 翻译网页的 API Key #read
