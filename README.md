@@ -1,3 +1,4 @@
+- [Embracing Impostor Syndrome](https://www.justindfuller.com/2022/02/embracing-impostor-syndrome/) #read#tips
 - [Linux SysOps Handbook - Linux SysOps Handbook](https://abarrak.gitbook.io/linux-sysops-handbook/#table-of-content) 常见管理类命令速查 #books
 - [Monorepo Explained](https://monorepo.tools/) #books
 - [Linux Signals](https://devopedia.org/linux-signals) Signal Handler, Signal Mask, 128+sigint #read#kernel
