@@ -1,3 +1,4 @@
+- [FFmpeg Encoding and Editing Course](https://slhck.info/ffmpeg-encoding-course/#/) #books#video
 - [Jsonnet - The Data Templating Language](https://jsonnet.org/) 扩展 JSON，用于生成配置文件 #tools
 - [Embracing Impostor Syndrome](https://www.justindfuller.com/2022/02/embracing-impostor-syndrome/) #read#tips
 - [Linux SysOps Handbook - Linux SysOps Handbook](https://abarrak.gitbook.io/linux-sysops-handbook/#table-of-content) 常见管理类命令速查 #books
