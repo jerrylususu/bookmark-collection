@@ -1,3 +1,4 @@
+- [A career ending mistake — Bitfield Consulting](https://bitfieldconsulting.com/golang/career) 职业路线的选择：独立、高级技术、管理 #life
 - [Five Tips For a Healthier Postgres Database in the New Year](https://blog.crunchydata.com/blog/five-tips-for-a-healthier-postgres-database-in-the-new-year) statement timeout, query tracking, slow query logging, server-side connection pooling, index tuning #database
 - [Explain the First 10 Lines of Twitter's Source Code to Me | CSS-Tricks](https://css-tricks.com/explain-the-first-10-lines-of-twitter-source-code/) #frontend
 - [FFmpeg Encoding and Editing Course](https://slhck.info/ffmpeg-encoding-course/#/) #books#video
