@@ -1,3 +1,4 @@
+- [ripgrep is faster than {grep, ag, git grep, ucg, pt, sift} - Andrew Gallant's Blog](https://blog.burntsushi.net/ripgrep/) grep 的原理和改进 #read#tools
 - [The Cat API - Cats as a Service.](https://thecatapi.com/) #api
 - [PyPI In a box: Using a Raspberry Pi as a portable PyPI server](https://vuyisile.com/pypi-in-a-box-using-a-raspberry-pi-as-a-portable-pypi-server/) 自建本地离线 PyPI #hack
 - [Should you use Let's Encrypt for internal hostnames?](https://shkspr.mobi/blog/2022/01/should-you-use-lets-encrypt-for-internal-hostnames/) Let's encrypt 证书用在内部域名会导致信息泄露 #security
