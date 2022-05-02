@@ -1,3 +1,4 @@
+- [神奇的 Golang-IO 包 - 熊喵君的博客 | PANDAYCHEN](http://pandaychen.github.io/2020/01/01/MAGIC-GO-IO-PACKAGE/) io.Copy, io.Pipe #golang
 - [为编译器植入隐藏后门——亲手实践 Thompson hack | 失う](https://ekyu.moe/article/thompson-hack-on-golang/index.html) #compiler#golang
 - [How Complex Systems Fail](https://how.complexsystems.fail/) #books
 - [cdecl: C gibberish ↔ English](https://cdecl.org/) c的函数指针翻译成人话 #tools#language
