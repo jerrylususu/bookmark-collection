@@ -1,3 +1,4 @@
+- [Herbie Tutorial](http://herbie.uwplse.org/doc/latest/tutorial.html) 检测浮点数运算精度，同时提供更高精度的表达式 #tools#hack
 - [性能测试小工具 | 程序员的喵](https://catcoding.me/p/perf-tools/) process resource(procpath), time benchmark (hyperfine), http request (wrk, locust) #tips#perf
 - [git rebase 用法详解与工作原理](https://www.waynerv.com/posts/git-rebase-intro/) #git
 - [神奇的 Golang-IO 包 - 熊喵君的博客 | PANDAYCHEN](http://pandaychen.github.io/2020/01/01/MAGIC-GO-IO-PACKAGE/) io.Copy, io.Pipe #golang
