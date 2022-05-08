@@ -1,3 +1,4 @@
+- [A simple explanation of how money moves around the banking system](https://gendal.me/2013/11/24/a-simple-explanation-of-how-money-moves-around-the-banking-system/) #read
 - [Retrieving your browsing history through a CAPTCHA](https://varun.ch/history) 利用 CSS `:visited` 属性 #hack#frontend
 - [5 things you don't need Javascript for](https://lexoral.com/blog/you-dont-need-js) Animate SVG, Sidebar, Sticky Positioning, Accordion Menu, Dark Mode #frontend
 - [Can you get pwned with CSS?](https://scotthelme.co.uk/can-you-get-pwned-with-css/) CSS keylogger (img, font) #frontend#hack
