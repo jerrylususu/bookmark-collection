@@ -1,3 +1,4 @@
+- [技术|在 Linux 上分析二进制文件的 10 种方法](https://linux.cn/article-12187-1.html) #linux#read
 - [前端工程化三十八讲](https://q.shanyue.tech/engineering/#%E8%AF%B7%E6%88%91%E5%96%9D%E6%9D%AF%E5%92%96%E5%95%A1) #books#frontend
 - [A simple explanation of how money moves around the banking system](https://gendal.me/2013/11/24/a-simple-explanation-of-how-money-moves-around-the-banking-system/) #read
 - [Retrieving your browsing history through a CAPTCHA](https://varun.ch/history) 利用 CSS `:visited` 属性 #hack#frontend
