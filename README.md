@@ -1,3 +1,4 @@
+- [Pages that didn't make it into "How DNS Works"](https://jvns.ca/blog/2022/05/10/pages-that-didn-t-make-it-into--how-dns-works-/) 域名，email，TLS #read#network
 - [Improve Linux system performance with noatime](https://opensource.com/article/20/6/linux-noatime) atime 在 Linux Kernel 2.6.30 之后的默认行为是 relatime ，会有条件地更新 atime 而不是每次访问都更新了（last atime < ctime/mtime，或 atime < 1d ago），所以性能问题没有之前那么严重 #linux#read
 - [技术|在 Linux 上分析二进制文件的 10 种方法](https://linux.cn/article-12187-1.html) #linux#read
 - [前端工程化三十八讲](https://q.shanyue.tech/engineering/#%E8%AF%B7%E6%88%91%E5%96%9D%E6%9D%AF%E5%92%96%E5%95%A1) #books#frontend
