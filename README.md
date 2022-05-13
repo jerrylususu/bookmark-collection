@@ -1,3 +1,4 @@
+- [Why (Enterprise) Software Is Bloated](https://www.mailbox.my/blog/posts/why-enterprise-software-is-bloated/) #read
 - [电子书一键摆烂ABC](https://yuukoamamiya.github.io/p/e-book-abc/) 找书，下载，处理，阅读 #read#blog#tips
 - [Pages that didn't make it into "How DNS Works"](https://jvns.ca/blog/2022/05/10/pages-that-didn-t-make-it-into--how-dns-works-/) 域名，email，TLS #read#network
 - [Improve Linux system performance with noatime](https://opensource.com/article/20/6/linux-noatime) atime 在 Linux Kernel 2.6.30 之后的默认行为是 relatime ，会有条件地更新 atime 而不是每次访问都更新了（last atime < ctime/mtime，或 atime < 1d ago），所以性能问题没有之前那么严重 #linux#read
