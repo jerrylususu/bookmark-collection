@@ -1,3 +1,4 @@
+- [O'RLY Cover Generator](https://orly.nanmu.me/) O'railly 图书封面生成器 #tools
 - [A regular expression to check for prime numbers — Noulakaz](https://www.noulakaz.net/2007/03/18/a-regular-expression-to-check-for-prime-numbers/) 利用正则表达式的 backtracking 判断素数 #hack#regex
 - [Why (Enterprise) Software Is Bloated](https://www.mailbox.my/blog/posts/why-enterprise-software-is-bloated/) #read
 - [电子书一键摆烂ABC](https://yuukoamamiya.github.io/p/e-book-abc/) 找书，下载，处理，阅读 #read#blog#tips
