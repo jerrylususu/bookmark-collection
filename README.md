@@ -1,3 +1,4 @@
+- [chroma.js palette helper](https://gka.github.io/palettes) 构建渐变色 #tools#visual
 - [设计模式目录：22种设计模式](https://refactoringguru.cn/design-patterns/catalog) #books
 - [O'RLY Cover Generator](https://orly.nanmu.me/) O'railly 图书封面生成器 #tools
 - [A regular expression to check for prime numbers — Noulakaz](https://www.noulakaz.net/2007/03/18/a-regular-expression-to-check-for-prime-numbers/) 利用正则表达式的 backtracking 判断素数 #hack#regex
