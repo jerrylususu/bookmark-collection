@@ -1,3 +1,4 @@
+- [Side Project 指南](https://sideproject.guide/) #books
 - [字节序探析：大端与小端的比较 - 阮一峰的网络日志](http://www.ruanyifeng.com/blog/2022/06/endianness-analysis.html) 如果需要逐位运算，或者需要到从个位数开始运算，都是小端序占优势。反之，如果运算只涉及到高位，或者数据的可读性比较重要，则是大端序占优势。 #read
 - [为什么你调不出高级配色？](https://mp.weixin.qq.com/s?__biz=MzIxMzQ1MDE4NQ==&mid=2247494880&idx=1&sn=f36da6947a2c7502bde2d9dfcd0f6e90&chksm=97b40046a0c38950c87086781086448ea4708d9ffe91e69ac550238e198a90d2997b12296a82) #read#visual
 - [chroma.js palette helper](https://gka.github.io/palettes) 构建渐变色 #tools#visual
