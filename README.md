@@ -1,3 +1,4 @@
+- [NGINXConfig  | DigitalOcean](https://www.digitalocean.com/community/tools/nginx?global.app.lang=zhCN) 图形化 Nginx 配置生成 #tools
 - [不用看管理员脸色，Linux 服务器装软件也能自给自足 - 少数派](https://sspai.com/post/73822) AppImage, 预编译，源码，运行库迁移 #read#linux
 - [Side Project 指南](https://sideproject.guide/) #books
 - [字节序探析：大端与小端的比较 - 阮一峰的网络日志](http://www.ruanyifeng.com/blog/2022/06/endianness-analysis.html) 如果需要逐位运算，或者需要到从个位数开始运算，都是小端序占优势。反之，如果运算只涉及到高位，或者数据的可读性比较重要，则是大端序占优势。 #read
