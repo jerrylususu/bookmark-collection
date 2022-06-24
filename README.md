@@ -1,3 +1,4 @@
+- [Earth Clock](https://earthclock.cwandt.com/) 用卫星图像拼出的时钟 #tools
 - [NGINXConfig  | DigitalOcean](https://www.digitalocean.com/community/tools/nginx?global.app.lang=zhCN) 图形化 Nginx 配置生成 #tools
 - [不用看管理员脸色，Linux 服务器装软件也能自给自足 - 少数派](https://sspai.com/post/73822) AppImage, 预编译，源码，运行库迁移 #read#linux
 - [Side Project 指南](https://sideproject.guide/) #books
