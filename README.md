@@ -1,3 +1,4 @@
+- [Building real-time collaboration applications: OT vs CRDT](https://www.tiny.cloud/blog/real-time-collaboration-ot-vs-crdt/) 实时协作：看起来OT很复杂但是被理解的更深，而CRDT虽然很理想但是太底层了没法传达intent（不过对于纯文本似乎不错，富文本就不够了） #read
 - [The smallest Docker image to serve static websites](https://lipanski.com/posts/smallest-docker-image-static-website) thttpd, 静态编译, scratch #read#docker#backend
 - [Earth Clock](https://earthclock.cwandt.com/) 用卫星图像拼出的时钟 #tools
 - [NGINXConfig  | DigitalOcean](https://www.digitalocean.com/community/tools/nginx?global.app.lang=zhCN) 图形化 Nginx 配置生成 #tools
