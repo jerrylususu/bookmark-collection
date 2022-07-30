@@ -1,3 +1,4 @@
+- [如何优化 docker 镜像体积](https://waynerv.com/posts/how-to-reduce-docker-image-size/) 分阶段构建，避免产生缓存，多个层合并，复制文件同时修改元信息 #read#docker
 - [如何阅读一份源代码？（2020年版） - codedump的网络日志](https://www.codedump.info/post/20200605-how-to-read-code-v2020/) #read#tips
 - [A toy remote login server](https://jvns.ca/blog/2022/07/28/toy-remote-login-server/) pseudoterminal, ioctl, session, process group #read
 - [Everything you need to know about hash length extension attacks »  SkullSecurity](https://blog.skullsecurity.org/2012/everything-you-need-to-know-about-hash-length-extension-attacks) 前缀未知情况下，依然可以得到 secret || data || attacker_data 的 valid hash #security
