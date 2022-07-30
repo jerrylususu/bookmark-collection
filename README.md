@@ -1,3 +1,4 @@
+- [如何阅读一份源代码？（2020年版） - codedump的网络日志](https://www.codedump.info/post/20200605-how-to-read-code-v2020/) #read#tips
 - [A toy remote login server](https://jvns.ca/blog/2022/07/28/toy-remote-login-server/) pseudoterminal, ioctl, session, process group #read
 - [Everything you need to know about hash length extension attacks »  SkullSecurity](https://blog.skullsecurity.org/2012/everything-you-need-to-know-about-hash-length-extension-attacks) 前缀未知情况下，依然可以得到 secret || data || attacker_data 的 valid hash #security
 - [Building real-time collaboration applications: OT vs CRDT](https://www.tiny.cloud/blog/real-time-collaboration-ot-vs-crdt/) 实时协作：看起来OT很复杂但是被理解的更深，而CRDT虽然很理想但是太底层了没法传达intent（不过对于纯文本似乎不错，富文本就不够了） #read
