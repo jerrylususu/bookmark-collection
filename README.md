@@ -1,3 +1,4 @@
+- [Software Engineering at Google](https://qiangmzsx.github.io/Software-Engineering-at-Google/#/) Google 软件工程 #books
 - [我零基础独立开发一个 Web/Hybrid 项目的经历 - f_ms | painter](https://imf.ms/web/2022/07/05/my-first-web-hybird-project-experience/) #read
 - [如何优化 docker 镜像体积](https://waynerv.com/posts/how-to-reduce-docker-image-size/) 分阶段构建，避免产生缓存，多个层合并，复制文件同时修改元信息 #read#docker
 - [如何阅读一份源代码？（2020年版） - codedump的网络日志](https://www.codedump.info/post/20200605-how-to-read-code-v2020/) #read#tips
