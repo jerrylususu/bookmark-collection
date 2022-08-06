@@ -1,3 +1,4 @@
+- [How To Be Successful](https://blog.samaltman.com/how-to-be-successful) #read
 - [Favicon.io - The Ultimate Favicon Generator (Free)](https://favicon.io/) #tools
 - [No more VPN. Introducting Cloudflare Tunnel // Szymon Sakowicz](https://www.sakowi.cz/blog/cloudflared-docker-compose-tutorial) Cloudflare Tunnel 的进阶使用：容器化、身份验证配置 #read#infra
 - [Exposing a web service with Cloudflare Tunnel](https://erisa.dev/exposing-a-web-service-with-cloudflare-tunnel/) 用 Cloudflare 的代理服务安全暴露内网服务 #read#infra
