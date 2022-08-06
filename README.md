@@ -1,3 +1,4 @@
+- [StackBlitz | Instant Dev Environments | Click. Code. Done. - StackBlitz](https://stackblitz.com/) 直接在浏览器中开发 Web 应用，一个完全运行在浏览器中的 IDE #tools#frontend
 - [2022-30: 如何维护一个开源项目](https://xuanwo.io/reports/2022-30/) #read
 - [Software Engineering at Google](https://qiangmzsx.github.io/Software-Engineering-at-Google/#/) Google 软件工程 #books
 - [我零基础独立开发一个 Web/Hybrid 项目的经历 - f_ms | painter](https://imf.ms/web/2022/07/05/my-first-web-hybird-project-experience/) #read
