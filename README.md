@@ -1,3 +1,4 @@
+- [Planning is For Doing](https://biggestfish.substack.com/p/planning-is-for-doing) 不是为了最终行动的计划是无效的 #read
 - [Repurposing an old Android phone as a Ruby web server](https://lbrito1.github.io/blog/2020/02/repurposing-android.html) #read
 - [C99 doesn't need function bodies, or 'VLAs are Turing complete'](https://lemon.rip/w/c99-vla-tricks/) 在 VLA 长度参数里 eval expressions #read#hack
 - [How To Be Successful](https://blog.samaltman.com/how-to-be-successful) #read
