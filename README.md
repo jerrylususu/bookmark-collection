@@ -1,3 +1,4 @@
+- [技术文章摘抄](http://learn.lianglianglee.com/) #books
 - [Thread by @coolXiao on Thread Reader App](https://threadreaderapp.com/thread/1554667451203276801.html) #read
 - [Planning is For Doing](https://biggestfish.substack.com/p/planning-is-for-doing) 不是为了最终行动的计划是无效的 #read
 - [Repurposing an old Android phone as a Ruby web server](https://lbrito1.github.io/blog/2020/02/repurposing-android.html) #read
