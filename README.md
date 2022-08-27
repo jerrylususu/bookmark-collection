@@ -1,3 +1,4 @@
+- [How I Used DALL·E 2 to Generate The Logo for OctoSQL](https://jacobmartins.com/posts/how-i-used-dalle2-to-generate-the-logo-for-octosql/) #read
 - [【公式】うちのこメーカー | 猫イラストを無料で簡単作成！](https://uchinoko-maker.jp/) 猫生成器 🐱 #tools
 - [技术文章摘抄](http://learn.lianglianglee.com/) #books
 - [Thread by @coolXiao on Thread Reader App](https://threadreaderapp.com/thread/1554667451203276801.html) #read
