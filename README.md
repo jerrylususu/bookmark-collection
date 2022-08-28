@@ -1,3 +1,4 @@
+- [WantQuotes 据意查句](https://wantquotes.net/) #tools
 - [WantWords 反向词典](https://wantwords.net/) #tools
 - [CSS Utility Classes and "Separation of Concerns"](https://adamwathan.me/css-utility-classes-and-separation-of-concerns/) Tailwind CSS 作者的自述，CSS 应该是基于实用而不是基于语义的 #read#frontend
 - [消除或者替换图像背景，无需上传图像 - BgSub](https://bgsub.com/) #tools
