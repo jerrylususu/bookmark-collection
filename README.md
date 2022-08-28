@@ -1,3 +1,4 @@
+- [CSS Utility Classes and "Separation of Concerns"](https://adamwathan.me/css-utility-classes-and-separation-of-concerns/) Tailwind CSS 作者的自述，CSS 应该是基于实用而不是基于语义的 #read#frontend
 - [消除或者替换图像背景，无需上传图像 - BgSub](https://bgsub.com/) #tools
 - [How I Used DALL·E 2 to Generate The Logo for OctoSQL](https://jacobmartins.com/posts/how-i-used-dalle2-to-generate-the-logo-for-octosql/) #read
 - [【公式】うちのこメーカー | 猫イラストを無料で簡単作成！](https://uchinoko-maker.jp/) 猫生成器 🐱 #tools
