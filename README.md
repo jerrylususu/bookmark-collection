@@ -1,3 +1,4 @@
+- [What Color is Your Function? – journal.stuffwithstuff.com](https://journal.stuffwithstuff.com/2015/02/01/what-color-is-your-function/) 红蓝函数，异步实现问题，await 的本质，以及 Go 消除了同步异步函数之间的差别 #read#language
 - [WantQuotes 据意查句](https://wantquotes.net/) #tools
 - [WantWords 反向词典](https://wantwords.net/) #tools
 - [CSS Utility Classes and "Separation of Concerns"](https://adamwathan.me/css-utility-classes-and-separation-of-concerns/) Tailwind CSS 作者的自述，CSS 应该是基于实用而不是基于语义的 #read#frontend
