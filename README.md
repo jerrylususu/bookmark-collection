@@ -1,3 +1,4 @@
+- [一日一技 | 给 Windows 换个「大房子」：不用第三方工具如何迁移系统 - 少数派](https://sspai.com/post/75399) #tips
 - [通俗易懂的代数效应](https://overreacted.io/zh-hans/algebraic-effects-for-the-rest-of-us/) 内层请求，外层提供，有点像控制反转？ #read
 - [What Color is Your Function? – journal.stuffwithstuff.com](https://journal.stuffwithstuff.com/2015/02/01/what-color-is-your-function/) 红蓝函数，异步实现问题，await 的本质，以及 Go 消除了同步异步函数之间的差别 #read#language
 - [WantQuotes 据意查句](https://wantquotes.net/) #tools
