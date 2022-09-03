@@ -1,3 +1,4 @@
+- [Guide to Web Authentication](https://webauthn.guide/) #read
 - [Markdeep](https://casual-effects.com/markdeep/) 直接由 markdown 生成 html （.md.html） #tools
 - [Use DNS TXT lookup to gain quick insights which services companies are using](https://allagora.wordpress.com/2022/03/22/use-dns-txt-lookup-to-gain-quick-insights-which-services-companies-are-using/) DNS TXT 里用于验证域名所有权的文本记录可能会留存很长一段时间 #read
 - [Some ways to get better at debugging](https://jvns.ca/blog/2022/08/30/a-way-to-categorize-debugging-skills/) #read
