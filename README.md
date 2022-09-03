@@ -1,3 +1,4 @@
+- [Use DNS TXT lookup to gain quick insights which services companies are using](https://allagora.wordpress.com/2022/03/22/use-dns-txt-lookup-to-gain-quick-insights-which-services-companies-are-using/) DNS TXT 里用于验证域名所有权的文本记录可能会留存很长一段时间 #read
 - [Some ways to get better at debugging](https://jvns.ca/blog/2022/08/30/a-way-to-categorize-debugging-skills/) #read
 - [一日一技 | 给 Windows 换个「大房子」：不用第三方工具如何迁移系统 - 少数派](https://sspai.com/post/75399) #tips
 - [通俗易懂的代数效应](https://overreacted.io/zh-hans/algebraic-effects-for-the-rest-of-us/) 内层请求，外层提供，有点像控制反转？ #read
