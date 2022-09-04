@@ -1,3 +1,4 @@
+- [STRIKE! Magazine – On the Phenomenon of Bullshit Jobs: A Work Rant](https://www.strike.coop/bullshit-jobs/) #read
 - [当下最强的 AI art 生成模型 Stable Diffusion 最全面介绍](https://mp.weixin.qq.com/s/Q4ZYjUxt22Jsx2W2179C8Q) #read#art
 - [Javascript obfuscation techniques by example – Trickster Dev](https://www.trickster.dev/post/javascript-obfuscation-techniques-by-example/) #read
 - [Guide to Web Authentication](https://webauthn.guide/) #read
