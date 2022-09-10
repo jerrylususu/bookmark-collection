@@ -1,3 +1,4 @@
+- [Becoming a Full-Time Creator as a Software Engineer: Controversial Advice](https://blog.pragmaticengineer.com/how-to-become-a-full-time-creator/) #read
 - [All you need to know about Asterisks in Python - Bas codes](https://bas.codes/posts/python-asterisks) 函数调用，限制参数类型，destruct literal #read
 - [JuiceFS - 开源分布式文件系统](https://www.juicefs.com/zh-cn/) #tools
 - [OurBoard](https://www.ourboard.io/) Free and open-source online whiteboard. #tools
