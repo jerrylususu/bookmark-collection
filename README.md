@@ -1,3 +1,4 @@
+- [OurBoard](https://www.ourboard.io/) Free and open-source online whiteboard. #tools
 - [Introducing the Markdown Language Server](https://code.visualstudio.com/blogs/2022/08/16/markdown-language-server) 结构化文本也可以享受和编程语言一样的智能服务 #read#language
 - [STRIKE! Magazine – On the Phenomenon of Bullshit Jobs: A Work Rant](https://www.strike.coop/bullshit-jobs/) #read
 - [当下最强的 AI art 生成模型 Stable Diffusion 最全面介绍](https://mp.weixin.qq.com/s/Q4ZYjUxt22Jsx2W2179C8Q) #read#art
