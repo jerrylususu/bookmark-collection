@@ -1,3 +1,4 @@
+- [All you need to know about Asterisks in Python - Bas codes](https://bas.codes/posts/python-asterisks) 函数调用，限制参数类型，destruct literal #read
 - [JuiceFS - 开源分布式文件系统](https://www.juicefs.com/zh-cn/) #tools
 - [OurBoard](https://www.ourboard.io/) Free and open-source online whiteboard. #tools
 - [Introducing the Markdown Language Server](https://code.visualstudio.com/blogs/2022/08/16/markdown-language-server) 结构化文本也可以享受和编程语言一样的智能服务 #read#language
