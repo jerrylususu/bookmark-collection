@@ -1,3 +1,4 @@
+- [7 tools for visualizing a codebase](https://lmy.medium.com/7-tools-for-visualizing-a-codebase-41b7cddb1a14) #read#visual
 - [2022-37: 基于 Github 的公开工作流程](https://xuanwo.io/reports/2022-37/) #read
 - [Becoming a Full-Time Creator as a Software Engineer: Controversial Advice](https://blog.pragmaticengineer.com/how-to-become-a-full-time-creator/) #read
 - [All you need to know about Asterisks in Python - Bas codes](https://bas.codes/posts/python-asterisks) 函数调用，限制参数类型，destruct literal #read
