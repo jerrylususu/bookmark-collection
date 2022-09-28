@@ -1,3 +1,4 @@
+- [我的笔记系统实践 - 少数派](https://sspai.com/post/75940) 单层目录的矮树状结构，同时使用双链构成稀疏的网状 #read
 - [大学官网使用指南 - 少数派](https://sspai.com/post/75946) #read
 - [Neal.fun](https://neal.fun) 有趣的小 Project 组成的网站 #visual
 - [Crash-only software: More than meets the eye](https://lwn.net/Articles/191059/) #read
