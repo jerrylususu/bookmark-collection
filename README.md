@@ -1,3 +1,4 @@
+- [How I added C-style for-loops to Python](https://sadh.life/post/cursed-for/) AST 操作，或者直接用 codec 修改源代码 #read#hack
 - [视频字幕工具，字幕转换，波形图编辑器，final cut pro, premiere字幕制作，字幕导入](https://crossub.xiaowude.com/) #tools
 - [Understanding all of Python, through its builtins](https://sadh.life/post/builtins/) Python fundamental deep dive #read#py
 - [如何克服精神内耗并对抗分心 - 少数派](https://sspai.com/post/75687) 接纳记录，正念觉察，结构化拖延，默认去做 #read
