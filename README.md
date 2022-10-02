@@ -1,3 +1,4 @@
+- [Understanding all of Python, through its builtins](https://sadh.life/post/builtins/) Python fundamental deep dive #read#py
 - [如何克服精神内耗并对抗分心 - 少数派](https://sspai.com/post/75687) 接纳记录，正念觉察，结构化拖延，默认去做 #read
 - [我的笔记系统实践 - 少数派](https://sspai.com/post/75940) 单层目录的矮树状结构，同时使用双链构成稀疏的网状 #read
 - [大学官网使用指南 - 少数派](https://sspai.com/post/75946) #read
