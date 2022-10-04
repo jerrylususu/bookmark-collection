@@ -1,3 +1,4 @@
+- [论文可视化配色简易指南 - 少数派](https://sspai.com/post/75989) #tools#visual
 - [Lazy recursion, with generators](https://sadh.life/post/recursive-generators/) 用 generator 把递归函数改写成 lazy eval 形式 #read#py
 - [[译] Linux 异步 I/O 框架 io_uring：基本原理、程序示例与性能压测（2020）](https://arthurchiao.github.io/blog/intro-to-io-uring-zh/) 统一的 Linux 异步 IO 框架 #read#kernel
 - [How I added C-style for-loops to Python](https://sadh.life/post/cursed-for/) AST 操作，或者直接用 codec 修改源代码 #read#hack
