@@ -1,3 +1,4 @@
+- [Time is an illusion, Unix time doubly so...](https://www.netmeister.org/blog/epoch.html) 闰秒，struct tm，最大时间 #read
 - [Rewilding #4: Society of the Scalper](https://chaoyang.substack.com/p/scalper-singularity) #read
 - [论文可视化配色简易指南 - 少数派](https://sspai.com/post/75989) #tools#visual
 - [Lazy recursion, with generators](https://sadh.life/post/recursive-generators/) 用 generator 把递归函数改写成 lazy eval 形式 #read#py
