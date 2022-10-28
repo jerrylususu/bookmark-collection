@@ -1,3 +1,4 @@
+- [Reminder: JSON.stringify can create Multi-line, formatted and filtered strings from JSON | Christian Heilmann](https://christianheilmann.com/2022/10/28/reminder-json-stringify-can-create-multi-line-formatted-and-filtered-strings-from-json/) JSON.stringify(obj, false, 4) #read#frontend#tips
 - [Time is an illusion, Unix time doubly so...](https://www.netmeister.org/blog/epoch.html) 闰秒，struct tm，最大时间 #read
 - [Rewilding #4: Society of the Scalper](https://chaoyang.substack.com/p/scalper-singularity) #read
 - [论文可视化配色简易指南 - 少数派](https://sspai.com/post/75989) #tools#visual
