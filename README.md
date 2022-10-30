@@ -1,3 +1,4 @@
+- [One idea per chart](https://datadino.substack.com/p/one-idea-per-chart) 可视化时让一张图仅表达一个论点，避免图片复杂造成信息过载（e.g. 条形堆叠图） #read#visual
 - [Reminder: JSON.stringify can create Multi-line, formatted and filtered strings from JSON | Christian Heilmann](https://christianheilmann.com/2022/10/28/reminder-json-stringify-can-create-multi-line-formatted-and-filtered-strings-from-json/) JSON.stringify(obj, false, 4) #read#frontend#tips
 - [Time is an illusion, Unix time doubly so...](https://www.netmeister.org/blog/epoch.html) 闰秒，struct tm，最大时间 #read
 - [Rewilding #4: Society of the Scalper](https://chaoyang.substack.com/p/scalper-singularity) #read
