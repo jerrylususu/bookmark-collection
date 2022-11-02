@@ -1,3 +1,4 @@
+- [How Can We Make Presentations Better?](https://ia.net/topics/how-can-we-make-presentations-better) 从演讲稿开始，而不是从画布开始 #read
 - [Quick Reference 常见速查](https://wangchujiang.com/reference/) 中文版本的编程资料速查 #tools
 - [One idea per chart](https://datadino.substack.com/p/one-idea-per-chart) 可视化时让一张图仅表达一个论点，避免图片复杂造成信息过载（e.g. 条形堆叠图） #read#visual
 - [Reminder: JSON.stringify can create Multi-line, formatted and filtered strings from JSON | Christian Heilmann](https://christianheilmann.com/2022/10/28/reminder-json-stringify-can-create-multi-line-formatted-and-filtered-strings-from-json/) JSON.stringify(obj, false, 4) #read#frontend#tips
