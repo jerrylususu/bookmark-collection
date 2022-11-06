@@ -1,3 +1,4 @@
+- [Running Kubernetes and the dashboard with Docker Desktop](https://andrewlock.net/running-kubernetes-and-the-dashboard-with-docker-desktop/) #tips
 - [Unix 终端系统（TTY）是如何工作的](https://waynerv.com/posts/how-tty-system-works/) #read#deepdive
 - [ntfy.sh | Push notifications to your phone or desktop via PUT/POST](https://ntfy.sh/) 可以直接使用的通知/消息队列服务 #tools
 - [How Can We Make Presentations Better?](https://ia.net/topics/how-can-we-make-presentations-better) 从演讲稿开始，而不是从画布开始 #read
