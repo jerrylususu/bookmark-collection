@@ -1,3 +1,4 @@
+- [A development process startup founders should use to ship features weirdly fast](https://growing-products.paralect.com/a-development-process-startup-founders-should-use-to-ship-features-weirdly-fast) #read
 - [Sending Spammers to Password Purgatory with Microsoft Power Automate and Cloudflare Workers KV](https://www.troyhunt.com/sending-spammers-to-password-purgatory-with-microsoft-power-automate-and-cloudflare-workers-kv/) #read
 - [Sanster/lama-cleaner: Image inpainting tool powered by SOTA AI Model. Remove any unwanted object, defect, people from your pictures or erase and replace(powered by stable diffusion) any thing on your pictures.](https://github.com/Sanster/lama-cleaner) #tools
 - [如果抢不到末日方舟的船票怎么办？或许可以再造一艘船，帮助我们渡过险境｜许路 一席第939位讲者](https://mp.weixin.qq.com/s/6kOdAljOqSe1dQP73c4TBQ) #read
