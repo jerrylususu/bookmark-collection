@@ -1,3 +1,4 @@
+- [如果抢不到末日方舟的船票怎么办？或许可以再造一艘船，帮助我们渡过险境｜许路 一席第939位讲者](https://mp.weixin.qq.com/s/6kOdAljOqSe1dQP73c4TBQ) #read
 - [Running Kubernetes and the dashboard with Docker Desktop](https://andrewlock.net/running-kubernetes-and-the-dashboard-with-docker-desktop/) #tips
 - [Unix 终端系统（TTY）是如何工作的](https://waynerv.com/posts/how-tty-system-works/) #read#deepdive
 - [ntfy.sh | Push notifications to your phone or desktop via PUT/POST](https://ntfy.sh/) 可以直接使用的通知/消息队列服务 #tools
