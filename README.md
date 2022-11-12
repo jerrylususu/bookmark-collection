@@ -1,4 +1,4 @@
-- [Cache your CORS, for performance & profit](https://httptoolkit.com/blog/cache-your-cors/) #read#frontend
+- [Cache your CORS, for performance & profit](https://httptoolkit.com/blog/cache-your-cors/) 浏览器 / CDN 都可以 cache #read#frontend
 - [A development process startup founders should use to ship features weirdly fast](https://growing-products.paralect.com/a-development-process-startup-founders-should-use-to-ship-features-weirdly-fast) CI/CD, monorepo, incremental changes, feature flags, product owner, demo per week, deploy weekly #read
 - [Sending Spammers to Password Purgatory with Microsoft Power Automate and Cloudflare Workers KV](https://www.troyhunt.com/sending-spammers-to-password-purgatory-with-microsoft-power-automate-and-cloudflare-workers-kv/) #read
 - [Sanster/lama-cleaner: Image inpainting tool powered by SOTA AI Model. Remove any unwanted object, defect, people from your pictures or erase and replace(powered by stable diffusion) any thing on your pictures.](https://github.com/Sanster/lama-cleaner) #tools
