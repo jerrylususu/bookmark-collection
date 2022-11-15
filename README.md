@@ -1,3 +1,4 @@
+- [络黑 LuoHei Variable](https://atelier-anchor.com/luohei-variable/#/ripple) 横向和纵向笔画可调粗细的可变字体 #tools
 - [Unicode Utilities: Confusables](https://util.unicode.org/UnicodeJsps/confusables.jsp) 找出字形相近的 Unicode 字符 #tools
 - [Cache your CORS, for performance & profit](https://httptoolkit.com/blog/cache-your-cors/) 浏览器 / CDN 都可以 cache #read#frontend
 - [A development process startup founders should use to ship features weirdly fast](https://growing-products.paralect.com/a-development-process-startup-founders-should-use-to-ship-features-weirdly-fast) CI/CD, monorepo, incremental changes, feature flags, product owner, demo per week, deploy weekly #read
