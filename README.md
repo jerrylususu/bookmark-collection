@@ -1,3 +1,4 @@
+- [The Future of the Web is on the Edge](https://deno.com/blog/the-future-of-web-is-on-the-edge) #read
 - [络黑 LuoHei Variable](https://atelier-anchor.com/luohei-variable/#/ripple) 横向和纵向笔画可调粗细的可变字体 #tools
 - [Unicode Utilities: Confusables](https://util.unicode.org/UnicodeJsps/confusables.jsp) 找出字形相近的 Unicode 字符 #tools
 - [Cache your CORS, for performance & profit](https://httptoolkit.com/blog/cache-your-cors/) 浏览器 / CDN 都可以 cache #read#frontend
