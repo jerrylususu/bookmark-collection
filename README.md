@@ -1,3 +1,4 @@
+- [Twitter 实习生 George Hotz | 程序员的喵](https://catcoding.me/p/geohot/) #read
 - [Stop waiting for GitHub pages to build using overrides | Christian Heilmann](https://christianheilmann.com/2022/11/29/stop-waiting-for-github-pages-to-build-using-overrides/) #read#frontend#tips
 - [The Future of the Web is on the Edge](https://deno.com/blog/the-future-of-web-is-on-the-edge) #read
 - [络黑 LuoHei Variable](https://atelier-anchor.com/luohei-variable/#/ripple) 横向和纵向笔画可调粗细的可变字体 #tools
