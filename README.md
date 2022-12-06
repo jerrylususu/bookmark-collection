@@ -1,3 +1,4 @@
+- [为纸质书籍进行数字备份：如何制作一本功能完备的 PDF 电子书 - 少数派](https://sspai.com/post/77118) #read
 - [The container orchestrator landscape](https://lwn.net/Articles/905164/) #read
 - [Twitter 实习生 George Hotz | 程序员的喵](https://catcoding.me/p/geohot/) #read
 - [Stop waiting for GitHub pages to build using overrides | Christian Heilmann](https://christianheilmann.com/2022/11/29/stop-waiting-for-github-pages-to-build-using-overrides/) #read#frontend#tips
