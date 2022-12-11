@@ -1,3 +1,4 @@
+- [Defensive CSS](https://defensivecss.dev/) Practical CSS and design tips that helps in building future-proof user interfaces. #frontend
 - [A debugging manifesto](https://jvns.ca/blog/2022/12/08/a-debugging-manifesto/) #read
 - [Tips for analyzing logs](https://jvns.ca/blog/2022/12/07/tips-for-analyzing-logs/) #read
 - [为纸质书籍进行数字备份：如何制作一本功能完备的 PDF 电子书 - 少数派](https://sspai.com/post/77118) #read
