@@ -1,3 +1,4 @@
+- [Know your carrying capacity](https://www.macchaffee.com/blog/2022/carrying-capacity/) 承担的事项的太多就难以维护了 #read
 - [Geo Traceroute](https://geotraceroute.com/) #tools#visual
 - [The seventh way to call a JavaScript function without parentheses](https://portswigger.net/research/the-seventh-way-to-call-a-javascript-function-without-parentheses) #read#hack
 - [You Might Not Need JavaScript](http://youmightnotneedjs.com/) 常见前端需求的无 JS 解决方案 #frontend
