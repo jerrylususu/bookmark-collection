@@ -1,3 +1,4 @@
+- [You Might Not Need JavaScript](http://youmightnotneedjs.com/) 常见前端需求的无 JS 解决方案 #frontend
 - [[译] Socket listen 多地址需求与 SK_LOOKUP BPF 的诞生（LPC, 2019）](https://arthurchiao.github.io/blog/birth-of-sk-lookup-bpf-zh/) 用 eBPF 程序将请求转发到对应的 socket，绕过系统的端口绑定限制 #read
 - [Defensive CSS](https://defensivecss.dev/) Practical CSS and design tips that helps in building future-proof user interfaces. #frontend
 - [A debugging manifesto](https://jvns.ca/blog/2022/12/08/a-debugging-manifesto/) #read
