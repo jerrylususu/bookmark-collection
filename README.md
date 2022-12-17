@@ -1,3 +1,4 @@
+- [Leonardo Syndrome](https://thoughtfulatlas.bearblog.dev/leonardo-syndrome/) 开始了很多项目但从未真正完成 #read
 - [Know your carrying capacity](https://www.macchaffee.com/blog/2022/carrying-capacity/) 承担的事项的太多就难以维护了 #read
 - [Geo Traceroute](https://geotraceroute.com/) #tools#visual
 - [The seventh way to call a JavaScript function without parentheses](https://portswigger.net/research/the-seventh-way-to-call-a-javascript-function-without-parentheses) #read#hack
