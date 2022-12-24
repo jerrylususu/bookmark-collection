@@ -1,3 +1,4 @@
+- [We’re drowning in Software Dependencies](https://snarfed.org/2022-03-10_were-drowning-software-dependencies) #read
 - [Optimizing images with the HTML picture tag | jfhr](https://jfhr.me/optimizing-images-with-the-html-picture-tag/) 用 picture 标签提供多种图片格式，让浏览器自行选择 #frontend
 - [Leonardo Syndrome](https://thoughtfulatlas.bearblog.dev/leonardo-syndrome/) 开始了很多项目但从未真正完成 #read
 - [Know your carrying capacity](https://www.macchaffee.com/blog/2022/carrying-capacity/) 承担的事项的太多就难以维护了 #read
