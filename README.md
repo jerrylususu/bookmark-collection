@@ -1,3 +1,4 @@
+- [IDN is crazy | daniel.haxx.se](https://daniel.haxx.se/blog/2022/12/14/idn-is-crazy/) 在域名里加 Unicode 字符 #read
 - [Rust Easy! Modern Cross-platform Command Line Tools to Supercharge Your Terminal](https://deepu.tech/rust-terminal-tools-linux-mac-windows-fish-zsh/) #read
 - [Monitoror — Unified monitoring wallboard](https://monitoror.com) 大屏监控（wallboard）+可定制组件（tiles） #tools
 - [Solving Sudoku with Poetry's dependency resolver](https://www.splitgraph.com/blog/poetry-dependency-resolver-sudoku) 用包管理器来解数独 #read#hack
