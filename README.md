@@ -1,3 +1,4 @@
+- [Rust Easy! Modern Cross-platform Command Line Tools to Supercharge Your Terminal](https://deepu.tech/rust-terminal-tools-linux-mac-windows-fish-zsh/) #read
 - [Monitoror — Unified monitoring wallboard](https://monitoror.com) 大屏监控（wallboard）+可定制组件（tiles） #tools
 - [Solving Sudoku with Poetry's dependency resolver](https://www.splitgraph.com/blog/poetry-dependency-resolver-sudoku) 用包管理器来解数独 #read#hack
 - [亲戚称呼计算器 - 算法实现 · mumuy/relationship Wiki](https://github.com/mumuy/relationship/wiki/%E7%AE%97%E6%B3%95%E5%AE%9E%E7%8E%B0) #read#algo
