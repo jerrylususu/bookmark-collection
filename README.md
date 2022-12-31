@@ -1,3 +1,4 @@
+- [Solving Sudoku with Poetry's dependency resolver](https://www.splitgraph.com/blog/poetry-dependency-resolver-sudoku) 用包管理器来解数独 #read#hack
 - [亲戚称呼计算器 - 算法实现 · mumuy/relationship Wiki](https://github.com/mumuy/relationship/wiki/%E7%AE%97%E6%B3%95%E5%AE%9E%E7%8E%B0) #read#algo
 - [We’re drowning in Software Dependencies](https://snarfed.org/2022-03-10_were-drowning-software-dependencies) #read
 - [Optimizing images with the HTML picture tag | jfhr](https://jfhr.me/optimizing-images-with-the-html-picture-tag/) 用 picture 标签提供多种图片格式，让浏览器自行选择 #frontend
