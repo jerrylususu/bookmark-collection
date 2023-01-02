@@ -1,3 +1,4 @@
+- [State of the Windows: How many layers of UI inconsistencies are in Windows 11?](https://ntdotdev.wordpress.com/2023/01/01/state-of-the-windows-how-many-layers-of-ui-inconsistencies-are-in-windows-11/) #read
 - [IDN is crazy | daniel.haxx.se](https://daniel.haxx.se/blog/2022/12/14/idn-is-crazy/) 在域名里加 Unicode 字符 #read
 - [Rust Easy! Modern Cross-platform Command Line Tools to Supercharge Your Terminal](https://deepu.tech/rust-terminal-tools-linux-mac-windows-fish-zsh/) #read
 - [Monitoror — Unified monitoring wallboard](https://monitoror.com) 大屏监控（wallboard）+可定制组件（tiles） #tools
