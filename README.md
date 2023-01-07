@@ -1,3 +1,4 @@
+- [Loading Data into Pandas: 5 Tips and Tricks You May or May Not Know](https://jrashford.com/2022/08/02/loading-data-into-pandas-5-tips-and-tricks-you-may-or-may-not-know/) read_html, pd.json_normalize, read_clipboard, read_excel #read#data
 - [Why does calloc exist? — njs blog](https://vorpus.org/blog/why-does-calloc-exist/) 避免乘法溢出和不必要的内存清零。用 calloc 总不比用 malloc + memset 坏 #read#c#deepdive
 - [State of the Windows: How many layers of UI inconsistencies are in Windows 11?](https://ntdotdev.wordpress.com/2023/01/01/state-of-the-windows-how-many-layers-of-ui-inconsistencies-are-in-windows-11/) #read
 - [IDN is crazy | daniel.haxx.se](https://daniel.haxx.se/blog/2022/12/14/idn-is-crazy/) 在域名里加 Unicode 字符 #read
