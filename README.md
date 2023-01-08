@@ -1,3 +1,4 @@
+- [jq play](https://jqplay.org/) #tools
 - [JSON Visualization](https://altearius.github.io/tools/json/index.html) JSON 转换为表格 #tools
 - [systemd by example - the systemd playground](https://systemd-by-example.com/) #books
 - [Loading Data into Pandas: 5 Tips and Tricks You May or May Not Know](https://jrashford.com/2022/08/02/loading-data-into-pandas-5-tips-and-tricks-you-may-or-may-not-know/) read_html, pd.json_normalize, read_clipboard, read_excel #read#data
