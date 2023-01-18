@@ -1,3 +1,4 @@
+- [港口思维：从自动化任务到一种生活方式 - 少数派](https://sspai.com/post/77843) LRU #read
 - [jq play](https://jqplay.org/) #tools
 - [JSON Visualization](https://altearius.github.io/tools/json/index.html) JSON 转换为表格 #tools
 - [systemd by example - the systemd playground](https://systemd-by-example.com/) #books
