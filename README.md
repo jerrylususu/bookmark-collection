@@ -1,3 +1,4 @@
+- [Desklamp](https://desklamp.io/) PDF 双栏笔记 #tools
 - [中国亲戚关系计算器 亲戚称谓计算器 亲戚称呼大全](https://passer-by.com/relationship/) #tools
 - [FFmpeg.guide - One stop solution to all things FFmpeg](https://ffmpeg.guide/) 图形化（节点） ffmpeg 命令构造 #tools
 - [SQLite的文艺复兴](https://www.bmpi.dev/dev/renaissance-sqlite/) SQLite 的各种新使用方式：serverless, in-browser, client-server, olap, 分布式 #read#tools#deepdive
