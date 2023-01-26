@@ -1,3 +1,4 @@
+- [An Interactive Guide to Flexbox](https://www.joshwcomeau.com/css/interactive-guide-to-flexbox/) #read#books#deepdive
 - [kellyjonbrazil/jc: CLI tool and python library that converts the output of popular command-line tools, file-types, and common strings to JSON, YAML, or Dictionaries. This allows piping of output to tools like jq and simplifying automation scripts.](https://github.com/kellyjonbrazil/jc) CLI 输出转换成 JSON #tools
 - [Desklamp](https://desklamp.io/) PDF 双栏笔记 #tools
 - [中国亲戚关系计算器 亲戚称谓计算器 亲戚称呼大全](https://passer-by.com/relationship/) #tools
