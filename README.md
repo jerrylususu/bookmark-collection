@@ -1,3 +1,4 @@
+- [Postmortem for July 27 outage of the Manta service](https://www.tritondatacenter.com/blog/manta-postmortem-7-27-2015) pg 的 XID wraparound 问题 #database
 - [curl - Project status dashboard](https://curl.se/dashboard.html) #visual
 - [提升文章阅读体验，我去年用了这 12 个写作秘诀 - 少数派](https://sspai.com/post/78004) #read
 - [An Interactive Guide to Flexbox](https://www.joshwcomeau.com/css/interactive-guide-to-flexbox/) #read#books#deepdive
