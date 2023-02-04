@@ -1,4 +1,4 @@
-- [Startup Restructuring 101](https://cyrilgrislain.substack.com/p/startup-restructuring-101) #read
+- [Startup Restructuring 101](https://cyrilgrislain.substack.com/p/startup-restructuring-101) #read#economics
 - [Bring me problems, not solutions! - Event-Driven.io](https://event-driven.io/en/bring_me_problems_not_solutions/) It is often the case that “Business” wants to help us solve a problem and automatically suggest a solution #read
 - [Diode — Build, program, and simulate hardware](https://withdiode.com) #tools
 - [Move a running process into a tmux session](https://xai.sh/2020/10/16/Move-running-process-into-tmux-session.html) ctrl+z, bg, disown, reptyr；另外可能需要设定 ptrace_scope #read#tools
