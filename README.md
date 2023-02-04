@@ -1,4 +1,4 @@
-- [Move a running process into a tmux session](https://xai.sh/2020/10/16/Move-running-process-into-tmux-session.html) ctrl+z, bg, disown, reptyr #read#tools
+- [Move a running process into a tmux session](https://xai.sh/2020/10/16/Move-running-process-into-tmux-session.html) ctrl+z, bg, disown, reptyr；另外可能需要设定 ptrace_scope #read#tools
 - [React Conditional Rendering With Type Safety and Exhaustive Checking](https://www.lloydatkinson.net/posts/2022/react-conditional-rendering-with-type-safety-and-exhaustive-checking/) 核心是 TypeScript 的 Record type #read#frontend
 - [Buzzing - 用中文浏览国外社交网络](https://www.buzzing.cc/) #tools
 - [Postmortem for July 27 outage of the Manta service](https://www.tritondatacenter.com/blog/manta-postmortem-7-27-2015) pg 的 XID wraparound 问题（autovacuum） #database
