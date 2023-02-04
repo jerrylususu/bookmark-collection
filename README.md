@@ -1,3 +1,4 @@
+- [Bring me problems, not solutions! - Event-Driven.io](https://event-driven.io/en/bring_me_problems_not_solutions/) It is often the case that “Business” wants to help us solve a problem and automatically suggest a solution #read
 - [Diode — Build, program, and simulate hardware](https://withdiode.com) #tools
 - [Move a running process into a tmux session](https://xai.sh/2020/10/16/Move-running-process-into-tmux-session.html) ctrl+z, bg, disown, reptyr；另外可能需要设定 ptrace_scope #read#tools
 - [React Conditional Rendering With Type Safety and Exhaustive Checking](https://www.lloydatkinson.net/posts/2022/react-conditional-rendering-with-type-safety-and-exhaustive-checking/) 核心是 TypeScript 的 Record type #read#frontend
