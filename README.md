@@ -1,3 +1,4 @@
+- [Free for Developers](https://free-for.dev/#/) #tools
 - [The Law of Leaky Abstractions](https://www.joelonsoftware.com/2002/11/11/the-law-of-leaky-abstractions/) So the abstractions save us time working, but they don’t save us time learning. #read
 - [Startup Restructuring 101](https://cyrilgrislain.substack.com/p/startup-restructuring-101) #read#economics
 - [Bring me problems, not solutions! - Event-Driven.io](https://event-driven.io/en/bring_me_problems_not_solutions/) It is often the case that “Business” wants to help us solve a problem and automatically suggest a solution #read
