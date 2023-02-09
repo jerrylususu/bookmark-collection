@@ -1,3 +1,4 @@
+- [Why does 0.1 + 0.2 = 0.30000000000000004?](https://jvns.ca/blog/2023/02/08/why-does-0-1-plus-0-2-equal-0-30000000000000004/) 0.1+0.2的结果正好在两个浮点数中间，然后向上约 #read#deepdive
 - [Free for Developers](https://free-for.dev/#/) #tools
 - [The Law of Leaky Abstractions](https://www.joelonsoftware.com/2002/11/11/the-law-of-leaky-abstractions/) So the abstractions save us time working, but they don’t save us time learning. #read
 - [Startup Restructuring 101](https://cyrilgrislain.substack.com/p/startup-restructuring-101) #read#economics
