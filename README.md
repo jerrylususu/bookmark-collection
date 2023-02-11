@@ -1,3 +1,4 @@
+- [Git Notes: git's coolest, most unloved­ feature - Tyler Cipriani](https://tylercipriani.com/blog/2022/11/19/git-notes-gits-coolest-most-unloved-feature/) 给 Git Object 附加可修改的元数据 #read
 - [Actually Portable Executable](https://justine.lol/ape.html) 可以在各种 OS 上运行而不需要改动的二进制文件 #hack#tools#deepdive
 - [How to reduce Java docker image size - Monosoul's Dev Blog](https://blog.monosoul.dev/2022/04/25/reduce-java-docker-image-size/) #java#container
 - [Why does 0.1 + 0.2 = 0.30000000000000004?](https://jvns.ca/blog/2023/02/08/why-does-0-1-plus-0-2-equal-0-30000000000000004/) 0.1+0.2的结果正好在两个浮点数中间，然后向上约 #read#deepdive
