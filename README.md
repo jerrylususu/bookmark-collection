@@ -1,3 +1,4 @@
+- [Who controls parallelism? A disagreement that leads to slower code](https://pythonspeed.com/articles/concurrency-control/) Numpy 之类的库底层实际上有另一个线程池（OpenBLAS），应该避免 Python 和 底层 重复创建线程池，造成缓存失效 #read#python#perf
 - [The cloudy layers of modern-day programming](https://vickiboykis.com/2022/12/05/the-cloudy-layers-of-modern-day-programming/) #read
 - [Redbean Tiddlywiki Saver: rpdillon.net — Rick's Home Online](https://rpdillon.net/redbean-tiddlywiki-saver.html) 单文件可保存 Tiddlywiki #read
 - [Git Notes: git's coolest, most unloved­ feature - Tyler Cipriani](https://tylercipriani.com/blog/2022/11/19/git-notes-gits-coolest-most-unloved-feature/) 给 Git Object 附加可修改的元数据 #read
