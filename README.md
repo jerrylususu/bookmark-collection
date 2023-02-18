@@ -1,4 +1,5 @@
 - [Bing: “I will not harm you unless you harm me first”](https://simonwillison.net/2023/Feb/15/bing/) #read
+- [Bing: “I will not harm you unless you harm me first”](https://simonwillison.net/2023/Feb/15/bing/) #read
 - [Tech Notes: Chrome, 10 years later](https://neugierig.org/software/blog/2022/12/chrome.html) #read#blog
 - [Seeking the Productive Life: Some Details of My Personal Infrastructure—Stephen Wolfram Writings](https://writings.stephenwolfram.com/2019/02/seeking-the-productive-life-some-details-of-my-personal-infrastructure/) #deepdive
 - [Rendering on the Web](https://web.dev/rendering-on-the-web/) Server Rendering, Static SSR, SSR with hydration, CSR with Prerendering, Full CSR #read#explain#frontend
