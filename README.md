@@ -1,3 +1,4 @@
+- [Rendering on the Web](https://web.dev/rendering-on-the-web/) Server Rendering, Static SSR, SSR with hydration, CSR with Prerendering, Full CSR #read#explain#frontend
 - [Sandboxing JavaScript Code](https://healeycodes.com/sandboxing-javascript-code) vm2, deno, firecracker #read#explain#deepdive
 - [Forking Chrome to render in a terminal - Fathy Boundjadj](https://fathy.fr/carbonyl) 在终端里用字符渲染 Chrome #read#deepdive
 - [Who controls parallelism? A disagreement that leads to slower code](https://pythonspeed.com/articles/concurrency-control/) Numpy 之类的库底层实际上有另一个线程池（OpenBLAS），应该避免 Python 和 底层 重复创建线程池，造成缓存失效 #read#python#perf
