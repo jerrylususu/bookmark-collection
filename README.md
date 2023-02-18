@@ -1,3 +1,4 @@
+- [Seeking the Productive Life: Some Details of My Personal Infrastructure—Stephen Wolfram Writings](https://writings.stephenwolfram.com/2019/02/seeking-the-productive-life-some-details-of-my-personal-infrastructure/) #deepdive
 - [Rendering on the Web](https://web.dev/rendering-on-the-web/) Server Rendering, Static SSR, SSR with hydration, CSR with Prerendering, Full CSR #read#explain#frontend
 - [Sandboxing JavaScript Code](https://healeycodes.com/sandboxing-javascript-code) vm2, deno, firecracker #read#explain#deepdive
 - [Forking Chrome to render in a terminal - Fathy Boundjadj](https://fathy.fr/carbonyl) 在终端里用字符渲染 Chrome #read#deepdive
