@@ -1,3 +1,4 @@
+- [TabFS](https://omar.website/tabfs/) 浏览器标签页作为文件系统的一部分 #tools
 - [Bing: “I will not harm you unless you harm me first”](https://simonwillison.net/2023/Feb/15/bing/) #read
 - [Bing: “I will not harm you unless you harm me first”](https://simonwillison.net/2023/Feb/15/bing/) #read
 - [Tech Notes: Chrome, 10 years later](https://neugierig.org/software/blog/2022/12/chrome.html) #read#blog
