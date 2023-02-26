@@ -1,3 +1,4 @@
+- [The End of Localhost](https://dx.tips/the-end-of-localhost) #read
 - [除了博客，当你有一台云服务器时还可以自部署哪些免费、开源的项目？ - 少数派](https://sspai.com/post/78424) #read#reference
 - [TabFS](https://omar.website/tabfs/) 浏览器标签页作为文件系统的一部分 #tools
 - [Bing: “I will not harm you unless you harm me first”](https://simonwillison.net/2023/Feb/15/bing/) #read
