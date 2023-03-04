@@ -1,3 +1,4 @@
+- [CSS Bed](https://www.cssbed.com/) a collection of classless css themes to use as starting points in web development. #tools#frontend
 - [Color Formats in CSS](https://www.joshwcomeau.com/css/color-formats/) #read#frontend#deepdive
 - [Baida | HTTPS explained with carrier pigeons](https://baida.dev/articles/https-explained-with-carrier-pigeons) #read#explain
 - [The End of Localhost](https://dx.tips/the-end-of-localhost) #read
