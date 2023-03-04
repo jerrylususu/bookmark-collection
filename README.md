@@ -1,3 +1,4 @@
+- [Color Formats in CSS](https://www.joshwcomeau.com/css/color-formats/) #read#frontend#deepdive
 - [Baida | HTTPS explained with carrier pigeons](https://baida.dev/articles/https-explained-with-carrier-pigeons) #read#explain
 - [The End of Localhost](https://dx.tips/the-end-of-localhost) #read
 - [除了博客，当你有一台云服务器时还可以自部署哪些免费、开源的项目？ - 少数派](https://sspai.com/post/78424) #read#reference
