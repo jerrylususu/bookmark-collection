@@ -1,3 +1,4 @@
+- [Rewrite, refactor, or reinvent? | Herb Caudill](https://herbcaudill.com/words/20190219-rewrite-refactor-reinvent) #read
 - [How to use AI to do practical stuff: A new guide](https://oneusefulthing.substack.com/p/how-to-use-ai-to-do-practical-stuff) #read#guide
 - [排序算法（五）-双调排序](https://www.sakuratears.top/blog/%E6%8E%92%E5%BA%8F%E7%AE%97%E6%B3%95%EF%BC%88%E4%BA%94%EF%BC%89-%E5%8F%8C%E8%B0%83%E6%8E%92%E5%BA%8F.html) 适合多路归并，O(1)空间的排序算法 #read#algo#blog#deepdive
 - [开发者体验：探索与重塑](https://dx.phodal.com/) #books
