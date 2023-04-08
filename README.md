@@ -1,3 +1,4 @@
+- [Rewrite, refactor, or reinvent? | Herb Caudill](https://herbcaudill.com/words/20190219-rewrite-refactor-reinvent) #read
 - [Cheating is All You Need](https://about.sourcegraph.com/blog/cheating-is-all-you-need) #read
 - [搞懂异地多活，看这篇就够了](https://mp.weixin.qq.com/s/hWCmnsa3rdtMFTE_BSyg2w) #read#distributed#deepdive
 - [ChatGPT 提示語說明書：通用三層結構與 9 個技巧提高 AI 生產力](https://www.playpcesor.com/2023/04/chatgpt-9-ai.html) 「目的優先」、「輸入資料」、「設定輸出」 #read#hack
