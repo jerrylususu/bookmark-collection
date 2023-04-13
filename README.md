@@ -1,3 +1,4 @@
+- [Replacing my best friends with an LLM trained on 500,000 group chat messages](https://www.izzy.co/blogs/robo-boys.html) #read
 - [Rewrite, refactor, or reinvent? | Herb Caudill](https://herbcaudill.com/words/20190219-rewrite-refactor-reinvent) #read
 - [Cheating is All You Need](https://about.sourcegraph.com/blog/cheating-is-all-you-need) #read
 - [搞懂异地多活，看这篇就够了](https://mp.weixin.qq.com/s/hWCmnsa3rdtMFTE_BSyg2w) #read#distributed#deepdive
