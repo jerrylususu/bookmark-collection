@@ -1,3 +1,4 @@
+- [Maximizing the Potential of LLMs: A Guide to Prompt Engineering](https://ruxu.dev/articles/ai/maximizing-the-potential-of-llms/) #read#llm#guide#generative
 - [Prompt Guide (Short version) | BoostPixels](https://boostpixels.com/short-guide) #read#generative#guide
 - [Replacing my best friends with an LLM trained on 500,000 group chat messages](https://www.izzy.co/blogs/robo-boys.html) #read
 - [Rewrite, refactor, or reinvent? | Herb Caudill](https://herbcaudill.com/words/20190219-rewrite-refactor-reinvent) #read
