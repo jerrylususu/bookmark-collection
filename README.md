@@ -1,3 +1,4 @@
+- [我如何訓練 ChatGPT 撰寫 Midjourney 提示語？AI 繪圖四個階段](https://www.playpcesor.com/2023/04/chatgpt-midjourney-ai.html) #read#generative
 - [Rendering untrusted HTML email, safely | The Making of Close](https://making.close.com/posts/rendering-untrusted-html-email-safely) iframe sandboxing #read
 - [Maximizing the Potential of LLMs: A Guide to Prompt Engineering](https://ruxu.dev/articles/ai/maximizing-the-potential-of-llms/) #read#llm#guide#generative
 - [Prompt Guide (Short version) | BoostPixels](https://boostpixels.com/short-guide) #read#generative#guide
