@@ -1,3 +1,4 @@
+- [A list of programming playgrounds](https://jvns.ca/blog/2023/04/17/a-list-of-programming-playgrounds/) #tools
 - [我如何訓練 ChatGPT 撰寫 Midjourney 提示語？AI 繪圖四個階段](https://www.playpcesor.com/2023/04/chatgpt-midjourney-ai.html) #read#generative
 - [我如何訓練 ChatGPT 撰寫 Midjourney 提示語？AI 繪圖四個階段](https://www.playpcesor.com/2023/04/chatgpt-midjourney-ai.html) #read#generative
 - [Rendering untrusted HTML email, safely | The Making of Close](https://making.close.com/posts/rendering-untrusted-html-email-safely) iframe sandboxing #read
