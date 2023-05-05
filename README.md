@@ -1,3 +1,4 @@
+- [讓 ChatGPT 教你如何利用 ChatGPT ，快速問對問題解決工作痛點](https://www.playpcesor.com/2023/05/chatgpt-chatgpt.html) #read#hack
 - [Prompt Engineering vs. Blind Prompting](https://mitchellh.com/writing/prompt-engineering-vs-blind-prompting) #read#guide
 - [Rules of thumb for a 1x developer](https://muldoon.cloud/programming/2020/04/17/programming-rules-thumb.html) #read#guide
 - [How to split JavaScript strings into sentences, words or graphemes with "Intl.Segmenter"](https://www.stefanjudis.com/today-i-learned/how-to-split-javascript-strings-with-intl-segmenter/) #read#tools
