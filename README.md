@@ -1,3 +1,4 @@
+- [tcpdump is amazing](https://jvns.ca/blog/2016/03/16/tcpdump-is-amazing/) #read#guide#network
 - [Building a Highlighted Text Editor in the Browser](https://decode.sh/building-a-highlighted-text-editor-in-the-browser) display a code tag and highlight the code in there, then overlay a textarea with the font color and background set to transparent #read#guide#frontend
 - [Building a CodePen Type Editor from Scratch](https://decode.sh/building-a-code-pen-type-editor-from-scratch) #read#guide#frontend
 - [Google "We Have No Moat, And Neither Does OpenAI"](https://www.semianalysis.com/p/google-we-have-no-moat-and-neither) #read
