@@ -1,3 +1,4 @@
+- [Building a CodePen Type Editor from Scratch](https://decode.sh/building-a-code-pen-type-editor-from-scratch) #read#guide#frontend
 - [Google "We Have No Moat, And Neither Does OpenAI"](https://www.semianalysis.com/p/google-we-have-no-moat-and-neither) #read
 - [讓 ChatGPT 教你如何利用 ChatGPT ，快速問對問題解決工作痛點](https://www.playpcesor.com/2023/05/chatgpt-chatgpt.html) #read#hack
 - [Prompt Engineering vs. Blind Prompting](https://mitchellh.com/writing/prompt-engineering-vs-blind-prompting) #read#guide
