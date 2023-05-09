@@ -1,3 +1,4 @@
+- [New talk: Learning DNS in 10 years](https://jvns.ca/blog/2023/05/08/new-talk-learning-dns-in-10-years/) #read#guide
 - [Error handling patterns](https://andreabergia.com/blog/2023/05/error-handling-patterns/) #read
 - [I want to talk about WebGPU](https://cohost.org/mcc/post/1406157-i-want-to-talk-about-webgpu) #read#deepdive
 - [tcpdump is amazing](https://jvns.ca/blog/2016/03/16/tcpdump-is-amazing/) #read#guide#network
