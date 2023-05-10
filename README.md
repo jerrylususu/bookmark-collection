@@ -1,3 +1,4 @@
+- [软件开发|服务器推送事件：一种从服务器流式推送事件的简易方法](https://linux.cn/article-15798-1.html) #read#backend#network
 - [New talk: Learning DNS in 10 years](https://jvns.ca/blog/2023/05/08/new-talk-learning-dns-in-10-years/) #read#guide
 - [Error handling patterns](https://andreabergia.com/blog/2023/05/error-handling-patterns/) #read
 - [I want to talk about WebGPU](https://cohost.org/mcc/post/1406157-i-want-to-talk-about-webgpu) #read#deepdive
