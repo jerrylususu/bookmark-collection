@@ -1,3 +1,4 @@
+- [How to secure Generative AI applications](https://blog.cloudflare.com/secure-generative-ai-applications/) #read
 - [我如何处理每天接收的信息 - 少数派](https://sspai.com/post/79792) #read#guide
 - [How to fix a ReDoS | The GitHub Blog](https://github.blog/2023-05-09-how-to-fix-a-redos/) #read#guide#regex
 - [软件开发|服务器推送事件：一种从服务器流式推送事件的简易方法](https://linux.cn/article-15798-1.html) #read#backend#network
