@@ -1,3 +1,4 @@
+- [There’s more than one way to write an IP address](https://ma.ttias.be/theres-more-than-one-way-to-write-an-ip-address/) #read#hack#network
 - [Closing a stale SSH connection](https://davidisaksson.dev/posts/closing-stale-ssh-connections/) ssh escape sequences #read#hack
 - [左耳朵耗子的话](https://mp.weixin.qq.com/s/bOnW8gDJ-dXp4KbAjhDw9A) #read
 - [How to secure Generative AI applications](https://blog.cloudflare.com/secure-generative-ai-applications/) #read
