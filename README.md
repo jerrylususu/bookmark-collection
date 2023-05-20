@@ -1,3 +1,4 @@
+- [valberg.dk - Writing a chat application in Django 4.2 using async StreamingHttpResponse, Server-Sent Events and PostgreSQL LISTEN/NOTIFY](https://valberg.dk/django-sse-postgresql-listen-notify.html) #read#network
 - [活用這 4 種 ChatGPT Plugins 外掛，打造個人知識管理 AI 工作流程](https://www.playpcesor.com/2023/05/4-chatgpt-plugins-ai.html) #read#tips
 - [There’s more than one way to write an IP address](https://ma.ttias.be/theres-more-than-one-way-to-write-an-ip-address/) #read#hack#network
 - [Closing a stale SSH connection](https://davidisaksson.dev/posts/closing-stale-ssh-connections/) ssh escape sequences #read#hack
