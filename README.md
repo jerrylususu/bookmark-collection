@@ -1,3 +1,4 @@
+- [Writing Python like it’s Rust](/rust/python/2023/05/20/writing-python-like-its-rust.html) #read#guide#language
 - [Data Viz Project](https://datavizproject.com/) #visual#tools
 - [valberg.dk - Writing a chat application in Django 4.2 using async StreamingHttpResponse, Server-Sent Events and PostgreSQL LISTEN/NOTIFY](https://valberg.dk/django-sse-postgresql-listen-notify.html) #read#network
 - [活用這 4 種 ChatGPT Plugins 外掛，打造個人知識管理 AI 工作流程](https://www.playpcesor.com/2023/05/4-chatgpt-plugins-ai.html) #read#tips
