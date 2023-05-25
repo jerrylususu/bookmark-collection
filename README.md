@@ -1,3 +1,4 @@
+- [Hello from Learning Prompt | Learning Prompt](https://learningpromt.wiki/) #books
 - [Instant colour fill with HTML Canvas](https://shaneosullivan.wordpress.com/2023/05/23/instant-colour-fill-with-html-canvas/) #read#frontend
 - [Writing Python like it’s Rust](/rust/python/2023/05/20/writing-python-like-its-rust.html) #read#guide#language
 - [Data Viz Project](https://datavizproject.com/) #visual#tools
