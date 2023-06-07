@@ -1,3 +1,4 @@
+- [Functional programming in MongoDB](https://beny23.github.io/posts/functional_mongo_aggregation/) 利用 semver 是否有回退 #read#hack
 - [All the Hard Stuff Nobody Talks About when Building Products with LLMs](https://www.honeycomb.io/blog/hard-stuff-nobody-talks-about-llm) #read#llm#guide
 - [Hello from Learning Prompt | Learning Prompt](https://learningpromt.wiki/) #books
 - [Instant colour fill with HTML Canvas](https://shaneosullivan.wordpress.com/2023/05/23/instant-colour-fill-with-html-canvas/) #read#frontend
