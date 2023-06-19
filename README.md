@@ -1,3 +1,4 @@
+- [Three Rookie Mistakes New Managers Make](https://charity.wtf/2023/06/19/three-rookie-mistakes-new-managers-make/) #read#people
 - [AIGC All in One](https://aigc.ioclab.com/) #books#ai
 - [Functional programming in MongoDB](https://beny23.github.io/posts/functional_mongo_aggregation/) 利用 semver 是否有回退 #read#hack
 - [All the Hard Stuff Nobody Talks About when Building Products with LLMs](https://www.honeycomb.io/blog/hard-stuff-nobody-talks-about-llm) #read#llm#guide
