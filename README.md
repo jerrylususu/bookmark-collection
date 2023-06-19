@@ -1,3 +1,4 @@
+- [Building Search DSLs with Django](https://danlamanna.com/posts/building-search-dsls-with-django/) #read#guide#parser
 - [Three Rookie Mistakes New Managers Make](https://charity.wtf/2023/06/19/three-rookie-mistakes-new-managers-make/) #read#people
 - [AIGC All in One](https://aigc.ioclab.com/) #books#ai
 - [Functional programming in MongoDB](https://beny23.github.io/posts/functional_mongo_aggregation/) 利用 semver 是否有回退 #read#hack
