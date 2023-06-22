@@ -1,3 +1,4 @@
+- [[译] 长文写作的魔力（2022）](https://arthurchiao.github.io/blog/writing-is-magic-zh/) #read#guide
 - [Building Search DSLs with Django](https://danlamanna.com/posts/building-search-dsls-with-django/) #read#guide#parser
 - [Three Rookie Mistakes New Managers Make](https://charity.wtf/2023/06/19/three-rookie-mistakes-new-managers-make/) #read#people
 - [AIGC All in One](https://aigc.ioclab.com/) #books#ai
