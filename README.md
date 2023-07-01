@@ -1,3 +1,4 @@
+- [理解 Prompt - 构筑大语言模型应用：应用开发与架构设计](https://aigc.phodal.com/prompt-understand.html) #books
 - [提示工程指南 – Nextra](https://www.promptingguide.ai/zh) #books
 - [Web 端实时防挡脸弹幕（基于机器学习） | 风痕的博客](https://hughfenghen.github.io/fe/body-mask-danmaku/#%E8%A7%A3%E5%86%B3%E6%80%A7%E8%83%BD%E7%93%B6%E9%A2%88%E4%BB%A3%E7%A0%81) #frontend
 - [Sane defaults for Github repositories](https://wiringbits.net/blog/github-repository-setup) #read#guide
