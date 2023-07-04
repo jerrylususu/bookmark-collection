@@ -1,3 +1,4 @@
+- [Cracking Electron apps open](https://fasterthanli.me/articles/cracking-electron-apps-open) #read#guide
 - [Tunnel via Cloudflare to any TCP Service](https://iq.thc.org/tunnel-via-cloudflare-to-any-tcp-service) #guide#network
 - [理解 Prompt - 构筑大语言模型应用：应用开发与架构设计](https://aigc.phodal.com/prompt-understand.html) #books
 - [提示工程指南 – Nextra](https://www.promptingguide.ai/zh) #books
