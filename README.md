@@ -1,3 +1,4 @@
+- [Origins of JSX and Why It Exists](https://dodov.dev/blog/origins-of-jsx-and-why-it-exists) 实际上就是调用 factory function 的语法糖 #deepdive#frontend
 - [Midjourney从零基础到落地实践 - 少数派](https://sspai.com/post/80640) #guide#generative
 - [Cracking Electron apps open](https://fasterthanli.me/articles/cracking-electron-apps-open) #read#guide
 - [Tunnel via Cloudflare to any TCP Service](https://iq.thc.org/tunnel-via-cloudflare-to-any-tcp-service) #guide#network
