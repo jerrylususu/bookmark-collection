@@ -1,3 +1,4 @@
+- [QRBTF.AI](https://qrbtf.com/ai) AIGC的二维码 #tools
 - [Stable Diffusion QR Code 101](https://antfu.me/posts/ai-qrcode-101) #guide
 - [Effective Note-Taking: Avoid Common Traps](https://www.collider.space/issue-1-effective-note-taking/) write idea notes #read#note#guide
 - [如何破解滑动验证码？](https://mp.weixin.qq.com/s/iK_JkVRrh5vIRBjnQbDOyw) 实际上是计算一个偏移量（如果不检测鼠标轨迹的话） #read#guide
