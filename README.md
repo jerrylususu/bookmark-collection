@@ -1,3 +1,4 @@
+- [一个独立创造者的五年](https://mp.weixin.qq.com/s/x6PLSIMn_1qcKnXWPT-J-Q) #read#story
 - [Vue.js: Using v-model with objects for custom components - Simon Kollross](https://simonkollross.de/posts/vuejs-using-v-model-with-objects-for-custom-components) #guide#frontend
 - [Origins of JSX and Why It Exists](https://dodov.dev/blog/origins-of-jsx-and-why-it-exists) 实际上就是调用 factory function 的语法糖 #deepdive#frontend
 - [Midjourney从零基础到落地实践 - 少数派](https://sspai.com/post/80640) #guide#generative
