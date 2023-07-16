@@ -1,3 +1,4 @@
+- [Effective Note-Taking: Avoid Common Traps](https://www.collider.space/issue-1-effective-note-taking/) write idea notes #read#note#guide
 - [如何破解滑动验证码？](https://mp.weixin.qq.com/s/iK_JkVRrh5vIRBjnQbDOyw) 实际上是计算一个偏移量（如果不检测鼠标轨迹的话） #read#guide
 - [一个独立创造者的五年](https://mp.weixin.qq.com/s/x6PLSIMn_1qcKnXWPT-J-Q) #read#story
 - [Vue.js: Using v-model with objects for custom components - Simon Kollross](https://simonkollross.de/posts/vuejs-using-v-model-with-objects-for-custom-components) #guide#frontend
