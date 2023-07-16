@@ -1,3 +1,4 @@
+- [pytest-dev/pluggy: A minimalist production ready plugin system](https://github.com/pytest-dev/pluggy) Python 插件系统 #tools
 - [Using OpenAI functions and their Python library for data extraction](https://til.simonwillison.net/gpt3/openai-python-functions-data-extraction) #tips
 - [QRBTF.AI](https://qrbtf.com/ai) AIGC的二维码 #tools
 - [Stable Diffusion QR Code 101](https://antfu.me/posts/ai-qrcode-101) #guide
