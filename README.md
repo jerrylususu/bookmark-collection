@@ -1,3 +1,4 @@
+- [Using OpenAI functions and their Python library for data extraction](https://til.simonwillison.net/gpt3/openai-python-functions-data-extraction) #tips
 - [QRBTF.AI](https://qrbtf.com/ai) AIGC的二维码 #tools
 - [Stable Diffusion QR Code 101](https://antfu.me/posts/ai-qrcode-101) #guide
 - [Effective Note-Taking: Avoid Common Traps](https://www.collider.space/issue-1-effective-note-taking/) write idea notes #read#note#guide
