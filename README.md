@@ -1,3 +1,4 @@
+- [Python packages with pyproject.toml and nothing else](https://til.simonwillison.net/python/pyproject) #tips#python
 - [pytest-dev/pluggy: A minimalist production ready plugin system](https://github.com/pytest-dev/pluggy) Python 插件系统 #tools
 - [Using OpenAI functions and their Python library for data extraction](https://til.simonwillison.net/gpt3/openai-python-functions-data-extraction) #tips
 - [QRBTF.AI](https://qrbtf.com/ai) AIGC的二维码 #tools
