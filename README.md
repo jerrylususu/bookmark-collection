@@ -1,3 +1,4 @@
+- [Using ES Modules (ESM) in Node.js: A Practical Guide (Part 1)](https://gils-blog.tayar.org/posts/using-jsm-esm-in-nodejs-a-practical-guide-part-1/) #guide
 - [JSDoc typings: all the benefits of TypeScript, with none of the drawbacks](https://gils-blog.tayar.org/posts/jsdoc-typings-all-the-benefits-none-of-the-drawbacks/) #read#deepdive#guide#frontend
 - [Python packages with pyproject.toml and nothing else](https://til.simonwillison.net/python/pyproject) #tips#python
 - [pytest-dev/pluggy: A minimalist production ready plugin system](https://github.com/pytest-dev/pluggy) Python 插件系统 #tools
