@@ -1,3 +1,4 @@
+- [NATS.io - Connective Technology for Adaptive Edge & Distributed Systems](https://nats.io/) 升级版 MQ #tools
 - [The different ways to handle errors in C](https://mccue.dev/pages/7-27-22-c-errors) c 中处理错误的各种方式 #c#deepdive
 - [A developer's guide to prompt engineering and LLMs | The GitHub Blog](https://github.blog/2023-07-17-prompt-engineering-guide-generative-ai-llms/) #read#llm
 - [Using ES Modules (ESM) in Node.js: A Practical Guide (Part 1)](https://gils-blog.tayar.org/posts/using-jsm-esm-in-nodejs-a-practical-guide-part-1/) #guide
