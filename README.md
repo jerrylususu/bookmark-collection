@@ -1,3 +1,4 @@
+- [The Ultimate Deliberate Practice Guide: How to Be the Best](https://fs.blog/deliberate-practice-guide/) #read#deepdive
 - [Running CPU-Bound Tasks in Node.js: Introduction to Worker Threads](https://yarin.dev/nodejs-cpu-bound-tasks-worker-threads/) #backend#node
 - [NATS.io - Connective Technology for Adaptive Edge & Distributed Systems](https://nats.io/) 升级版 MQ #tools
 - [The different ways to handle errors in C](https://mccue.dev/pages/7-27-22-c-errors) c 中处理错误的各种方式 #c#deepdive
