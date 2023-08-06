@@ -1,3 +1,4 @@
+- [CLI tools hidden in the Python standard library](https://til.simonwillison.net/python/stdlib-cli-tools) gzip, http.server, base64, asyncio, json.tool #tools#python#blog
 - [How to Learn Better in the Digital Age](https://giansegato.com/essays/edutainment-is-not-learning) 我们只需要积极主动地处理所有可用的内容流。走出去，建立，写作，谈话，教学，解释，创造 - 努力的行动，导致有意义的成长。 #read#blog
 - [NixOS 与 Flakes | 主页](https://nixos-and-flakes.thiscute.world/zh/) #books
 - [History of JavaScript Frameworks](https://programmingsoup.com/history-of-javascript-frameworks) #frontend#books
