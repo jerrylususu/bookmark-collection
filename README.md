@@ -1,3 +1,4 @@
+- [NixOS 与 Flakes | 主页](https://nixos-and-flakes.thiscute.world/zh/) #books
 - [History of JavaScript Frameworks](https://programmingsoup.com/history-of-javascript-frameworks) #frontend#books
 - [Makefile Tutorial by Example](https://makefiletutorial.com/) #books
 - [rr: lightweight recording & deterministic debugging](https://rr-project.org/) #tools#debug
