@@ -1,3 +1,4 @@
+- [Makefile Tutorial by Example](https://makefiletutorial.com/) #books
 - [rr: lightweight recording & deterministic debugging](https://rr-project.org/) #tools#debug
 - [The Ultimate Deliberate Practice Guide: How to Be the Best](https://fs.blog/deliberate-practice-guide/) #read#deepdive
 - [Running CPU-Bound Tasks in Node.js: Introduction to Worker Threads](https://yarin.dev/nodejs-cpu-bound-tasks-worker-threads/) #backend#node
