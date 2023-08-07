@@ -1,3 +1,4 @@
+- [Python cocktail: mix a context manager and an iterator in equal parts](https://www.bitecode.dev/p/python-cocktail-mix-a-context-manager) 利用 context manager 和 iterator 实现简单的重试 #python#hack
 - [Behind "Hello World" on Linux](https://jvns.ca/blog/2023/08/03/behind--hello-world/) #deepdive
 - [Catching up on the weird world of LLMs](https://simonwillison.net/2023/Aug/3/weird-world-of-llms/) #read#guide
 - [CLI tools hidden in the Python standard library](https://til.simonwillison.net/python/stdlib-cli-tools) gzip, http.server, base64, asyncio, json.tool #tools#python#blog
