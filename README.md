@@ -1,3 +1,4 @@
+- [So you want to write a package manager](https://medium.com/@sdboyer/so-you-want-to-write-a-package-manager-4ae9c17d9527) #deepdive#guide
 - [Writing a package manager](https://antonz.org/writing-package-manager/) sqlpkg #deepdive#guide
 - [Some tactics for writing in public](https://jvns.ca/blog/2023/08/07/tactics-for-writing-in-public/) #read#guide
 - [How I make annotated presentations](https://simonwillison.net/2023/Aug/6/annotated-presentations/) #guide
