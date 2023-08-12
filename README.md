@@ -1,3 +1,4 @@
+- [Semantic or keyword search for finding ChatGPT context. Who searched it better?](https://xata.io/blog/keyword-vs-semantic-search-chatgpt) #read#llm
 - [Full-text search engine with PostgreSQL (part 2): Postgres vs Elasticsearch](https://xata.io/blog/postgres-full-text-search-postgres-vs-elasticsearch) #read#database
 - [在2021应该怎样配置 Favicon：用六个文件来适配大多数需求](https://blog.ghkk.net/post/how-to-favicon-in-2021-six-files-that-fit-most-needs/) #read#frontend
 - [Getting creative with embeddings](https://wattenberger.com/thoughts/yay-embeddings-math) 用 embedding 距离判断一个句子是更具体还是更抽象 #read#llm#hack
