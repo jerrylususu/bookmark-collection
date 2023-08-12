@@ -1,3 +1,4 @@
+- [Learn to build unique charts with React](https://www.react-graph-gallery.com/) #frontend#guide
 - [Semantic or keyword search for finding ChatGPT context. Who searched it better?](https://xata.io/blog/keyword-vs-semantic-search-chatgpt) #read#llm
 - [Full-text search engine with PostgreSQL (part 2): Postgres vs Elasticsearch](https://xata.io/blog/postgres-full-text-search-postgres-vs-elasticsearch) #read#database
 - [在2021应该怎样配置 Favicon：用六个文件来适配大多数需求](https://blog.ghkk.net/post/how-to-favicon-in-2021-six-files-that-fit-most-needs/) #read#frontend
