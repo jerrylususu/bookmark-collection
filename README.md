@@ -1,3 +1,4 @@
+- [在2021应该怎样配置 Favicon：用六个文件来适配大多数需求](https://blog.ghkk.net/post/how-to-favicon-in-2021-six-files-that-fit-most-needs/) #read#frontend
 - [Getting creative with embeddings](https://wattenberger.com/thoughts/yay-embeddings-math) 用 embedding 距离判断一个句子是更具体还是更抽象 #read#llm#hack
 - [Command-line Tools can be 235x Faster than your Hadoop Cluster - Adam Drake](https://adamdrake.com/command-line-tools-can-be-235x-faster-than-your-hadoop-cluster.html) #read
 - [So you want to write a package manager](https://medium.com/@sdboyer/so-you-want-to-write-a-package-manager-4ae9c17d9527) #deepdive#guide
