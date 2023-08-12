@@ -1,3 +1,4 @@
+- [Systems, math and explosions (in no particular order) --- 系统，数学和爆炸（排名不分先后）](https://pjonori.blog/posts/systems-math-explosions/) #read
 - [Learn to build unique charts with React](https://www.react-graph-gallery.com/) #frontend#guide
 - [Semantic or keyword search for finding ChatGPT context. Who searched it better?](https://xata.io/blog/keyword-vs-semantic-search-chatgpt) #read#llm
 - [Full-text search engine with PostgreSQL (part 2): Postgres vs Elasticsearch](https://xata.io/blog/postgres-full-text-search-postgres-vs-elasticsearch) #read#database
