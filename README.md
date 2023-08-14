@@ -1,3 +1,4 @@
+- [JSON parser - Tutorial — Lark  documentation](https://lark-parser.readthedocs.io/en/stable/json_tutorial.html) #guide
 - [Implications of Open Monetary and Information Networks](https://www.lynalden.com/open-networks/) 全球共识、开放货币、开放社交网络 #read
 - [Systems, math and explosions (in no particular order) --- 系统，数学和爆炸（排名不分先后）](https://pjonori.blog/posts/systems-math-explosions/) #read
 - [Learn to build unique charts with React](https://www.react-graph-gallery.com/) #frontend#guide
