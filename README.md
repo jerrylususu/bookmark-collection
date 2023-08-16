@@ -1,3 +1,4 @@
+- [The yaml document from hell](https://ruudvanasseldonk.com/2023/01/11/the-yaml-document-from-hell) 为什么不应该把 yaml 作为配置语言使用 #deepdive#read
 - [Quivr - Get a Second Brain with Generative AI](https://www.quivr.app/) chatgpt with personal data #tools
 - [JSON parser - Tutorial — Lark  documentation](https://lark-parser.readthedocs.io/en/stable/json_tutorial.html) #guide
 - [Implications of Open Monetary and Information Networks](https://www.lynalden.com/open-networks/) 全球共识、开放货币、开放社交网络 #read
