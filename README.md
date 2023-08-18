@@ -1,3 +1,4 @@
+- [符号链接、硬链接及其在 Windows 上的应用举例 - 少数派](https://sspai.com/post/66834) #guide
 - [How to Communicate When Trust Is Low (Without Digging Yourself Into A Deeper Hole)](https://charity.wtf/2023/08/17/how-to-communicate-when-trust-is-low-without-digging-yourself-into-a-deeper-hole/) #read#guide
 - [实作中的 std::is_detected 和 Detection Idioms (C++17)](https://hedzr.com/c++/algorithm/cxx-is_detected-and-detection-idioms/) #read#deepdive#cpp
 - [checking expression validity in-place with C++17](https://vittorioromeo.info/index/blog/checking_expression_validity_in_place.html) #deepdive#guide
