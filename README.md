@@ -1,3 +1,4 @@
+- [20 Things I've Learned in my 20 Years as a Software Engineer](https://www.simplethread.com/20-things-ive-learned-in-my-20-years-as-a-software-engineer/) #read
 - [OpenResume - Free Open-source Resume Builder and Parser](https://www.open-resume.com/resume-parser) 如何从pdf中提取结构化数据 #deepdive
 - [符号链接、硬链接及其在 Windows 上的应用举例 - 少数派](https://sspai.com/post/66834) #guide
 - [How to Communicate When Trust Is Low (Without Digging Yourself Into A Deeper Hole)](https://charity.wtf/2023/08/17/how-to-communicate-when-trust-is-low-without-digging-yourself-into-a-deeper-hole/) #read#guide
