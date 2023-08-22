@@ -1,3 +1,4 @@
+- [Queryable Logging with Blacklite](https://tersesystems.com/blog/2020/11/26/queryable-logging-with-blacklite/) 用 SQLite 来存储日志 #read
 - [20 Things I've Learned in my 20 Years as a Software Engineer](https://www.simplethread.com/20-things-ive-learned-in-my-20-years-as-a-software-engineer/) #read
 - [OpenResume - Free Open-source Resume Builder and Parser](https://www.open-resume.com/resume-parser) 如何从pdf中提取结构化数据 #deepdive
 - [符号链接、硬链接及其在 Windows 上的应用举例 - 少数派](https://sspai.com/post/66834) #guide
