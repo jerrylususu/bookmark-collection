@@ -1,3 +1,4 @@
+- [Docker: name generator - How docker generates container's names](https://pet2cattle.com/2022/08/docker-container-names-generator) adj + noun + randomness #read
 - [Tech Notes: Interfaces generally belong with users](https://neugierig.org/software/blog/2019/11/interface-pattern.html) 只用要用的interface，从而和具体的实现解耦 #read
 - [Fixed Bits of Version 4 UUID - Susam Pal](https://susam.net/blog/fixed-bits-of-version-4-uuid.html) v4uuid 实际上只有 122 个随机bit（而不是128个） #read
 - [JavaScript Macros in Bun | Bun Blog](https://bun.sh/blog/bun-macros) #read#js
