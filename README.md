@@ -1,3 +1,4 @@
+- [JavaScript Macros in Bun | Bun Blog](https://bun.sh/blog/bun-macros) #read#js
 - [Don't Fire Your Illustrator](https://sambleckley.com/writing/dont-fire-your-illustrator.html) 关于 AI 绘画的工作原理（sd 用文本来引导图像隐空间中的运动，用 cross attention 降噪）；以及 AI 难以细粒度调整的观点（只能作为 furniture） #read#generative
 - [Queryable Logging with Blacklite](https://tersesystems.com/blog/2020/11/26/queryable-logging-with-blacklite/) 用 SQLite 来存储日志 #read#database
 - [20 Things I've Learned in my 20 Years as a Software Engineer](https://www.simplethread.com/20-things-ive-learned-in-my-20-years-as-a-software-engineer/) #read
