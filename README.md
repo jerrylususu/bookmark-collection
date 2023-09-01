@@ -1,3 +1,4 @@
+- [speedscope - interactive flamegraph visualizer](https://www.speedscope.app/) #tools
 - [Making Large Language Models work for you](https://simonwillison.net/2023/Aug/27/wordcamp-llms/) #deepdive
 - [Docker: name generator - How docker generates container's names](https://pet2cattle.com/2022/08/docker-container-names-generator) adj + noun + randomness #read
 - [Tech Notes: Interfaces generally belong with users](https://neugierig.org/software/blog/2019/11/interface-pattern.html) 只用要用的interface，从而和具体的实现解耦 #read
