@@ -1,3 +1,4 @@
+- [Mastering curl: interactive text guide](https://antonz.org/mastering-curl/) #deepdive
 - [Building and operating a pretty big storage system called S3](https://www.allthingsdistributed.com/2023/07/building-and-operating-a-pretty-big-storage-system.html) #deepdive
 - [speedscope - interactive flamegraph visualizer](https://www.speedscope.app/) #tools
 - [Making Large Language Models work for you](https://simonwillison.net/2023/Aug/27/wordcamp-llms/) #deepdive
