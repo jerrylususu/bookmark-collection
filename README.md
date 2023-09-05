@@ -1,3 +1,4 @@
+- [A practical guide to deploying Large Language Models Cheap, Good *and* Fast](https://askdala.substack.com/p/a-pratical-guide-to-deploying-llms) #deepdive#llm
 - [Wikipedia search-by-vibes through millions of pages offline](https://www.leebutterman.com/2023/06/01/offline-realtime-embedding-search.html) #deepdive#llm
 - [Mastering curl: interactive text guide](https://antonz.org/mastering-curl/) #deepdive
 - [Building and operating a pretty big storage system called S3](https://www.allthingsdistributed.com/2023/07/building-and-operating-a-pretty-big-storage-system.html) #deepdive
