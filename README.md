@@ -1,3 +1,4 @@
+- [Harry Browne’s 17 Golden Rules of Financial Safety](https://thetaoofwealth.wordpress.com/2013/02/17/harry-brownes-17-golden-rules-of-financial-safety/) #read#guide
 - [Building a Frontend Framework; Reactivity and Composability With Zero Dependencies](https://18alan.space/posts/how-hard-is-it-to-build-a-frontend-framework.html) #deepdive#frontend
 - [A practical guide to deploying Large Language Models Cheap, Good *and* Fast](https://askdala.substack.com/p/a-pratical-guide-to-deploying-llms) #deepdive#llm
 - [Wikipedia search-by-vibes through millions of pages offline](https://www.leebutterman.com/2023/06/01/offline-realtime-embedding-search.html) #deepdive#llm
