@@ -1,3 +1,4 @@
+- [Yesicon - 精选全球高品质、开源、免费的矢量图标库](https://yesicon.app/) #tools
 - [Dynamic linker tricks: Using LD_PRELOAD to cheat, inject features and investigate programs](https://rafalcieslak.wordpress.com/2013/04/02/dynamic-linker-tricks-using-ld_preload-to-cheat-inject-features-and-investigate-programs/) 动态链接库和LD_PRELOAD来调试 #hack
 - [Hello 算法](https://www.hello-algo.com/chapter_greedy/fractional_knapsack_problem/) #books#algo
 - [Harry Browne’s 17 Golden Rules of Financial Safety](https://thetaoofwealth.wordpress.com/2013/02/17/harry-brownes-17-golden-rules-of-financial-safety/) #read#guide
