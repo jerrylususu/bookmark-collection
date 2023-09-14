@@ -1,3 +1,4 @@
+- [Bricolage | Some notes on Local-First Development ](https://bricolage.io/some-notes-on-local-first-development/) CRDT, Replicated DB, Replicate Protocol, Distributed State Machine #deepdive#distributed
 - [Block YouTube Ads on AppleTV by Decrypting and Stripping Ads from Profobuf](https://ericdraken.com/pfsense-decrypt-ad-traffic/) #deepdive
 - [ANTLR4 从入门到实践 - 御坂研究所](https://www.nosuchfield.com/2023/08/26/ANTLR4-from-Beginning-to-Practice/) 用 ANTLR 生成解析器 parser #guide
 - [Yesicon - 精选全球高品质、开源、免费的矢量图标库](https://yesicon.app/) #tools
