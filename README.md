@@ -1,3 +1,4 @@
+- [Unpacking Git packfiles --- 解压缩 Git 包文件](https://codewords.recurse.com/issues/three/unpacking-git-packfiles) #deepdive
 - [Localhost will inevitably die](https://lucasfcosta.com/2023/09/11/localhost-will-die.html) There are three ways to kill localhost: give engineers big virtual machines, use off-the-shelf solutions supporting some types of infra, or truly replicate production-like environments. #read
 - [Why and How Does Python Use Bloom Filters in String Processing?](https://codeconfessions.substack.com/p/cpython-bloom-filter-usage) Python 中的布隆过滤器主要用于判断一个字符是否属于在特定的字符集合中（例如 splitlines 中判断当前字符是否是换行符 / strip 中判断是否是需要移除的字符）；为了避免 set 的 hash 开销和逐个比较整个集合的开销，用布隆过滤器先排除绝大部分真阴性再具体比较；用字符串的低 n 位作为 hash 值 #deepdive#python
 - [Bricolage | Some notes on Local-First Development ](https://bricolage.io/some-notes-on-local-first-development/) CRDT, Replicated DB, Replicate Protocol, Distributed State Machine #deepdive#distributed
