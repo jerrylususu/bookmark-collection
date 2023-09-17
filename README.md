@@ -1,3 +1,4 @@
+- [echoserver: A simple echo server for testing HTTP clients.](https://echoserver.dev/) #tools
 - [Trying to become a better developer by learning more about aviation](https://medium.com/@Fcmam5/trying-to-become-a-better-developer-by-learning-more-about-aviation-5241e7092f7e) #read
 - [Unpacking Git packfiles --- 解压缩 Git 包文件](https://codewords.recurse.com/issues/three/unpacking-git-packfiles) #deepdive#git
 - [Localhost will inevitably die](https://lucasfcosta.com/2023/09/11/localhost-will-die.html) There are three ways to kill localhost: give engineers big virtual machines, use off-the-shelf solutions supporting some types of infra, or truly replicate production-like environments. #read
