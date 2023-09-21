@@ -1,3 +1,4 @@
+- [gokrazy is really cool](https://xeiaso.net/blog/gokrazy) Linux Kernel + Go #read#hack
 - [Grammar Builder (Typescript Type Definition to GBNF Grammer)](https://grammar.intrinsiclabs.ai/) #tools
 - [UX Case Studies To Improve Your Product Skills](https://growth.design/case-studies/) #guide
 - [雅思/托福作文批改 | Essay Art](https://www.essay.art/ielts) #tools
