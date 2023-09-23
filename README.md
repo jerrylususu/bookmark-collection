@@ -1,3 +1,4 @@
+- [Sqids (formerly Hashids) · Generate Short IDs from Numbers](https://sqids.org/) 将数字列表编码为字符串 #tools
 - [Reversible and Irreversible Decisions](https://fs.blog/reversible-irreversible-decisions/) 快速做出可逆决策，慎重推迟不可逆决策，并避免分析麻痹。 #read
 - [There’s No Such Thing as a Free (Software) Lunch - ACM Queue](https://queue.acm.org/detail.cfm?id=1005066) In short, what promotes the most code freedom is not the same as what promotes the most developer freedom. When the information is freest, the developer may be most constrained. #read
 - [De Facto Ports](https://matt-rickard.com/de-facto-ports) 1024 以上的常见高位端口 #guide
