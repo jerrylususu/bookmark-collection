@@ -1,3 +1,4 @@
+- [De Facto Ports](https://matt-rickard.com/de-facto-ports) 1024 以上的常见高位端口 #guide
 - [gokrazy is really cool](https://xeiaso.net/blog/gokrazy) Linux Kernel + Go #read#hack
 - [Grammar Builder (Typescript Type Definition to GBNF Grammer)](https://grammar.intrinsiclabs.ai/) #tools
 - [UX Case Studies To Improve Your Product Skills](https://growth.design/case-studies/) #guide
