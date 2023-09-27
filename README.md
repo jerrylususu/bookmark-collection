@@ -1,3 +1,4 @@
+- [SQLite insert speed](https://voidstar.tech/sqlite_insert_speed/) Use a transaction and parameterized queries, Index after bulk insertion, Insert multiple rows per statement, Don't change PRAGMAs from default #deepdive#db
 - [除了出国，我们学习 GRE 还有什么用？ - 少数派](https://sspai.com/post/83125) #read
 - [Container Networking Is Simple!](https://iximiuz.com/en/posts/container-networking-is-simple/) #container#deepdive#network
 - [Sqids (formerly Hashids) · Generate Short IDs from Numbers](https://sqids.org/) 将数字列表编码为字符串 #tools
