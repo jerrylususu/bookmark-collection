@@ -1,3 +1,4 @@
+- [一次搞懂 Approximate Membership Query](https://jetswayss.medium.com/%E4%B8%80%E6%AC%A1%E6%90%9E%E6%87%82-approximate-membership-query-bf960d301633) Bloom / Cuckoo / Xor filter #guide
 - [SQLite insert speed](https://voidstar.tech/sqlite_insert_speed/) Use a transaction and parameterized queries, Index after bulk insertion, Insert multiple rows per statement, Don't change PRAGMAs from default #deepdive#db
 - [除了出国，我们学习 GRE 还有什么用？ - 少数派](https://sspai.com/post/83125) #read
 - [Container Networking Is Simple!](https://iximiuz.com/en/posts/container-networking-is-simple/) #container#deepdive#network
