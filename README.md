@@ -1,3 +1,4 @@
+- [An Interactive Intro to CRDTs | jakelazaroff.com](https://jakelazaroff.com/words/an-interactive-intro-to-crdts/) #deepdive#guide
 - [Draggable objects](https://www.redblobgames.com/making-of/draggable/) 如何写一个可以被拖动的组件 #frontend#deepdive
 - [一次搞懂 Approximate Membership Query](https://jetswayss.medium.com/%E4%B8%80%E6%AC%A1%E6%90%9E%E6%87%82-approximate-membership-query-bf960d301633) Bloom / Cuckoo / Xor filter #guide
 - [SQLite insert speed](https://voidstar.tech/sqlite_insert_speed/) Use a transaction and parameterized queries, Index after bulk insertion, Insert multiple rows per statement, Don't change PRAGMAs from default #deepdive#db
