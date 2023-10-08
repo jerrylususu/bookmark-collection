@@ -1,5 +1,5 @@
 - [Migrating a production database without any downtime](https://teamplify.com/blog/zero-downtime-DB-migrations/) #deepdive#database
-- [Database Migrations](https://vadimkravcenko.com/shorts/database-migrations/) If you don’t have maintenance windows — focus on the dual-write process. #guide#deepdive
+- [Database Migrations](https://vadimkravcenko.com/shorts/database-migrations/) If you don’t have maintenance windows — focus on the dual-write process. #guide#deepdive#database
 - [roadrunnertwice | Why Git is hard](https://roadrunnertwice.dreamwidth.org/596185.html) #deepdive#git
 - [New talk: Making Hard Things Easy](https://jvns.ca/blog/2023/10/06/new-talk--making-hard-things-easy/) #deepdive
 - [Interesting](https://apenwarr.ca/log/20231006) The way I make myself feel better about it is to choose the path that will allow us to learn as much as possible, as quickly as possible, in order to update our mental models as quickly as possible (without doing too much damage) so we have fewer of these situations in the future. #read
