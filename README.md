@@ -1,3 +1,4 @@
+- [New talk: Making Hard Things Easy](https://jvns.ca/blog/2023/10/06/new-talk--making-hard-things-easy/) #deepdive
 - [Interesting](https://apenwarr.ca/log/20231006) The way I make myself feel better about it is to choose the path that will allow us to learn as much as possible, as quickly as possible, in order to update our mental models as quickly as possible (without doing too much damage) so we have fewer of these situations in the future. #read
 - [An Interactive Intro to CRDTs | jakelazaroff.com](https://jakelazaroff.com/words/an-interactive-intro-to-crdts/) #deepdive#guide
 - [Draggable objects](https://www.redblobgames.com/making-of/draggable/) 如何写一个可以被拖动的组件 #frontend#deepdive
