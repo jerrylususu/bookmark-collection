@@ -1,3 +1,4 @@
+- [Making CRDTs 98% More Efficient | jakelazaroff.com](https://jakelazaroff.com/words/making-crdts-98-percent-more-efficient/) palette, run-length encoding #read#deepdive
 - [Alvis - Xe Iaso](https://xeiaso.net/blog/alvis/) AI-powered first-level software incident responder #read#story
 - [Migrating a production database without any downtime](https://teamplify.com/blog/zero-downtime-DB-migrations/) #deepdive#database
 - [Database Migrations](https://vadimkravcenko.com/shorts/database-migrations/) If you don’t have maintenance windows — focus on the dual-write process. #guide#deepdive#database
