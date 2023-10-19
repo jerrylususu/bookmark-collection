@@ -1,3 +1,4 @@
+- [精准转写：利用 Whisper 处理音视频转文字不完全指南 - 少数派](https://sspai.com/post/83644) #guide
 - [Code • Conflict-free Replicated Data Types](https://crdt.tech/implementations) #tools
 - [Making CRDTs 98% More Efficient | jakelazaroff.com](https://jakelazaroff.com/words/making-crdts-98-percent-more-efficient/) palette, run-length encoding #read#deepdive
 - [Alvis - Xe Iaso](https://xeiaso.net/blog/alvis/) AI-powered first-level software incident responder #read#story
