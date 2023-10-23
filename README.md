@@ -1,3 +1,4 @@
+- [engineering_mgmt_checklist](https://pnewman.org/engineering_mgmt_checklist.txt) #guide
 - [Back to the terminal: the new era of CLI and TUI software – Trickster Dev](https://www.trickster.dev/post/back-to-the-terminal-the-new-era-of-cli-and-tui-software/) #guide#tools
 - [精准转写：利用 Whisper 处理音视频转文字不完全指南 - 少数派](https://sspai.com/post/83644) #guide
 - [Code • Conflict-free Replicated Data Types](https://crdt.tech/implementations) #tools
