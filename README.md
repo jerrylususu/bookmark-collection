@@ -1,3 +1,4 @@
+- [Embeddings: What they are and why they matter](https://simonwillison.net/2023/Oct/23/embeddings/) #deepdive#llm
 - [Does Go Have Subtyping? – journal.stuffwithstuff.com](https://journal.stuffwithstuff.com/2023/10/19/does-go-have-subtyping/) #deepdive
 - [engineering_mgmt_checklist](https://pnewman.org/engineering_mgmt_checklist.txt) #guide
 - [Back to the terminal: the new era of CLI and TUI software – Trickster Dev](https://www.trickster.dev/post/back-to-the-terminal-the-new-era-of-cli-and-tui-software/) #guide#tools
