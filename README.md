@@ -1,3 +1,4 @@
+- [A free and open source map of the world](https://protomaps.com/) 可以作为静态文件分享的地图，使用 http-range 请求需要的 tile #tools
 - [FerretDB/FerretDB](https://github.com/FerretDB/FerretDB) 用 sqlite / pgsql 实现的 mongodb #tools
 - [Becoming a good engineer is about collecting experience.](https://addyosmani.com/blog/collect-experience/) #read
 - [Open questions for AI engineering](https://simonwillison.net/2023/Oct/17/open-questions/) #deepdive#llm
