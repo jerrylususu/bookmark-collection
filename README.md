@@ -1,3 +1,4 @@
+- [Becoming a good engineer is about collecting experience.](https://addyosmani.com/blog/collect-experience/) #read
 - [Open questions for AI engineering](https://simonwillison.net/2023/Oct/17/open-questions/) #deepdive#llm
 - [Embeddings: What they are and why they matter](https://simonwillison.net/2023/Oct/23/embeddings/) #deepdive#llm
 - [Does Go Have Subtyping? – journal.stuffwithstuff.com](https://journal.stuffwithstuff.com/2023/10/19/does-go-have-subtyping/) #deepdive
