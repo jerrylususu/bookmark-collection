@@ -1,3 +1,4 @@
+- [jsgif](https://slbkbs.org/jsgif/) jsgif: A GIF player in JavaScript #tools
 - [CSS Loaders: A collection of more than 500 loading animations](https://css-loaders.com) #tools
 - [Timing With Curl - Susam Pal](https://susam.net/blog/timing-with-curl.html) #tips
 - [curl-start-to-end.jpg (2500×1406)](https://daniel.haxx.se/blog/wp-content/uploads/2023/10/curl-start-to-end.jpg) #guide
