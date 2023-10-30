@@ -1,3 +1,4 @@
+- [A Journey Into Shaders](https://www.mayerowitz.io/blog/a-journey-into-shaders) #deepdive
 - [jsgif](https://slbkbs.org/jsgif/) jsgif: A GIF player in JavaScript #tools
 - [CSS Loaders: A collection of more than 500 loading animations](https://css-loaders.com) #tools
 - [Timing With Curl - Susam Pal](https://susam.net/blog/timing-with-curl.html) #tips
