@@ -1,3 +1,4 @@
+- [Confusing git terminology](https://jvns.ca/blog/2023/11/01/confusing-git-terminology/) #read#git
 - [Through the Ages: Apple CPU Architecture](https://jacobbartlett.substack.com/p/through-the-ages-apple-cpu-architecture) #deepdive
 - [A Journey Into Shaders](https://www.mayerowitz.io/blog/a-journey-into-shaders) #deepdive
 - [jsgif](https://slbkbs.org/jsgif/) jsgif: A GIF player in JavaScript #tools
