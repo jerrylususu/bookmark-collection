@@ -1,3 +1,4 @@
+- [Find MAC Vendor | MAC Address Lookup](https://maclookup.app/search) #tools
 - [Tracking SQLite Database Changes in Git](https://simonwillison.net/2023/Nov/1/tracking-sqlite-database-changes-in-git/) 把 SQLite 数据库 dump 成 SQL，然后 diff SQL 文本 #tips
 - [Confusing git terminology](https://jvns.ca/blog/2023/11/01/confusing-git-terminology/) #read#git
 - [Through the Ages: Apple CPU Architecture](https://jacobbartlett.substack.com/p/through-the-ages-apple-cpu-architecture) #deepdive
