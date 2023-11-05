@@ -1,3 +1,4 @@
+- [[译] 100 行 C 代码创建一个 KVM 虚拟机（2019）](https://arthurchiao.github.io/blog/kvm-host-in-a-few-lines-of-code-zh/) #deepdive
 - [深入架构原理与实践 | 深入架构原理与实践](https://www.thebyte.com.cn/) #books
 - [Find MAC Vendor | MAC Address Lookup](https://maclookup.app/search) #tools
 - [Tracking SQLite Database Changes in Git](https://simonwillison.net/2023/Nov/1/tracking-sqlite-database-changes-in-git/) 把 SQLite 数据库 dump 成 SQL，然后 diff SQL 文本 #tips
