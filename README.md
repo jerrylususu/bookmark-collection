@@ -1,3 +1,4 @@
+- [Online migrations at scale](https://stripe.com/blog/online-migrations) 迁移数据库表：双写 -> 旧表复制 -> 新表读 -> 仅新写 #guide
 - [See the History of a Method with git log -L](https://calebhearth.com/git-method-history) #tips
 - [[译] 100 行 C 代码创建一个 KVM 虚拟机（2019）](https://arthurchiao.github.io/blog/kvm-host-in-a-few-lines-of-code-zh/) #deepdive
 - [深入架构原理与实践 | 深入架构原理与实践](https://www.thebyte.com.cn/) #books
