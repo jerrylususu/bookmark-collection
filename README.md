@@ -1,3 +1,4 @@
+- [An Interactive Guide to CSS Grid](https://www.joshwcomeau.com/css/interactive-guide-to-grid/) #guide#frontend#css
 - [3 tribes of programming](https://josephg.com/blog/3-tribes/) Programmer as applied mathematician, hacker & maker #read
 - [ChatGPT 五種助理教練提示語分享：目標規劃、寫作、學習到教學](https://www.playpcesor.com/2023/11/chatgpt-5-coaching-tips-for-success-in-planning-writing-learning.html) #guide
 - [Online migrations at scale](https://stripe.com/blog/online-migrations) 迁移数据库表：双写 -> 旧表复制 -> 新表读 -> 仅新写 #guide
