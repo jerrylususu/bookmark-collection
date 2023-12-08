@@ -1,3 +1,4 @@
+- [standard-webhooks/spec/standard-webhooks.md at main · standard-webhooks/standard-webhooks](https://github.com/standard-webhooks/standard-webhooks/blob/main/spec/standard-webhooks.md) Open source tools and guidelines for sending webhooks easily, securely and reliably #guide
 - [LLM Visualization](https://bbycroft.net/llm) #llm#visual
 - [An Interactive Guide to CSS Grid](https://www.joshwcomeau.com/css/interactive-guide-to-grid/) #guide#frontend#css
 - [3 tribes of programming](https://josephg.com/blog/3-tribes/) Programmer as applied mathematician, hacker & maker #read
