@@ -1,3 +1,4 @@
+- [Reading postmortems --- 阅读事后分析](https://danluu.com/postmortem-lessons/) #read
 - [SVG Tutorial: Learn how to create SVG images, shapes, animations, and more](https://svg-tutorial.com/) #guide#frontend
 - [standard-webhooks/spec/standard-webhooks.md at main · standard-webhooks/standard-webhooks](https://github.com/standard-webhooks/standard-webhooks/blob/main/spec/standard-webhooks.md) Open source tools and guidelines for sending webhooks easily, securely and reliably #guide
 - [LLM Visualization](https://bbycroft.net/llm) #llm#visual
