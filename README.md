@@ -1,3 +1,4 @@
+- [Pushing ChatGPT's Structured Data Support To Its Limits](https://minimaxir.com/2023/12/chatgpt-structured-data/) #read#hack#llm
 - [OpenAI Prompt engineering guide](https://platform.openai.com/docs/guides/prompt-engineering) #llm
 - [Reading postmortems --- 阅读事后分析](https://danluu.com/postmortem-lessons/) #read
 - [SVG Tutorial: Learn how to create SVG images, shapes, animations, and more](https://svg-tutorial.com/) #guide#frontend
