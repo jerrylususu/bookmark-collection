@@ -1,3 +1,4 @@
+- [How I Reverse Engineered Vercel's v0.dev Prompt and Code Optimization Logic](https://step-saga-examples.pages.dev/v0-dev-reverse-engineer/) #deepdive
 - [Questionable Advice: “My boss says we don’t need any engineering managers. Is he right?”](https://charity.wtf/2024/01/05/questionable-advice-my-boss-says-we-dont-need-any-engineering-managers-is-he-right/) Engineering managers are necessary for coordinating teams, managing glue labor, and ensuring accountability. #read
 - [Pushing ChatGPT's Structured Data Support To Its Limits](https://minimaxir.com/2023/12/chatgpt-structured-data/) #read#hack#llm
 - [OpenAI Prompt engineering guide](https://platform.openai.com/docs/guides/prompt-engineering) #llm
