@@ -1,3 +1,4 @@
+- [[译] NAT 穿透是如何工作的：技术原理及企业级实践（Tailscale, 2020）](https://arthurchiao.github.io/blog/how-nat-traversal-works-zh/) #network#deepdive
 - [Building a self-contained game in C# under 2 kilobytes](https://migeel.sk/blog/2024/01/02/building-a-self-contained-game-in-csharp-under-2-kilobytes/) #read
 - [Demystifying Web Push Notifications](https://pqvst.com/2023/11/21/web-push-notifications/) #guide
 - [How I Reverse Engineered Vercel's v0.dev Prompt and Code Optimization Logic](https://step-saga-examples.pages.dev/v0-dev-reverse-engineer/) #deepdive
