@@ -1,3 +1,4 @@
+- [Building a self-contained game in C# under 2 kilobytes](https://migeel.sk/blog/2024/01/02/building-a-self-contained-game-in-csharp-under-2-kilobytes/) #read
 - [Demystifying Web Push Notifications](https://pqvst.com/2023/11/21/web-push-notifications/) #guide
 - [How I Reverse Engineered Vercel's v0.dev Prompt and Code Optimization Logic](https://step-saga-examples.pages.dev/v0-dev-reverse-engineer/) #deepdive
 - [Questionable Advice: “My boss says we don’t need any engineering managers. Is he right?”](https://charity.wtf/2024/01/05/questionable-advice-my-boss-says-we-dont-need-any-engineering-managers-is-he-right/) Engineering managers are necessary for coordinating teams, managing glue labor, and ensuring accountability. #read
