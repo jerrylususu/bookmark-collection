@@ -1,3 +1,4 @@
+- [WebCodecs 开启 Web 音视频新篇章 | 风痕 · 術&思](https://hughfenghen.github.io/posts/2023/10/06/webcodecs-new-era-for-media-on-the-web/) #read
 - [[译] NAT 穿透是如何工作的：技术原理及企业级实践（Tailscale, 2020）](https://arthurchiao.github.io/blog/how-nat-traversal-works-zh/) #network#deepdive
 - [Building a self-contained game in C# under 2 kilobytes](https://migeel.sk/blog/2024/01/02/building-a-self-contained-game-in-csharp-under-2-kilobytes/) #read
 - [Demystifying Web Push Notifications](https://pqvst.com/2023/11/21/web-push-notifications/) #guide
