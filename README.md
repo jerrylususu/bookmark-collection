@@ -1,3 +1,4 @@
+- [The Engineering behind Figma's Vector Networks](undefined/blog/vector-networks) #deepdive
 - [A Search for More ChatGPT / GPT-3.5 / GPT-4 "Unspeakable" Glitch Tokens — LessWrong](https://www.lesswrong.com/posts/kmWrwtGE9B9hpbgRT/a-search-for-more-chatgpt-gpt-3-5-gpt-4-unspeakable-glitch) #read
 - [WebCodecs 开启 Web 音视频新篇章 | 风痕 · 術&思](https://hughfenghen.github.io/posts/2023/10/06/webcodecs-new-era-for-media-on-the-web/) #read
 - [[译] NAT 穿透是如何工作的：技术原理及企业级实践（Tailscale, 2020）](https://arthurchiao.github.io/blog/how-nat-traversal-works-zh/) #network#deepdive
