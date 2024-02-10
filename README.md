@@ -1,3 +1,4 @@
+- [How I write HTTP services in Go after 13 years | Grafana Labs](https://grafana.com/blog/2024/02/09/how-i-write-http-services-in-go-after-13-years/) #deepdive#go#http
 - [SQL for the Weary](https://gvwilson.github.io/sql-tutorial/) #intro
 - [The Engineering behind Figma's Vector Networks](undefined/blog/vector-networks) #deepdive
 - [A Search for More ChatGPT / GPT-3.5 / GPT-4 "Unspeakable" Glitch Tokens — LessWrong](https://www.lesswrong.com/posts/kmWrwtGE9B9hpbgRT/a-search-for-more-chatgpt-gpt-3-5-gpt-4-unspeakable-glitch) #read
