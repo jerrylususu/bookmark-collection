@@ -1,3 +1,4 @@
+- [Representation Engineering Mistral-7B an Acid Trip](https://vgel.me/posts/representation-engineering/) #deepdive#llm
 - [Popular git config options](https://jvns.ca/blog/2024/02/16/popular-git-config-options/) #guide#git
 - [How To Center a Div](https://www.joshwcomeau.com/css/center-a-div/) #frontend#deepdive
 - [Incident Response Training - PagerDuty Incident Response Documentation](https://response.pagerduty.com/training/courses/incident_response/) #deepdive#guide
