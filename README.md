@@ -1,3 +1,4 @@
+- [ActivityPub Server in a Single PHP File](https://shkspr.mobi/blog/2024/02/activitypub-server-in-a-single-file/) #read
 - [Representation Engineering Mistral-7B an Acid Trip](https://vgel.me/posts/representation-engineering/) #deepdive#llm
 - [Popular git config options](https://jvns.ca/blog/2024/02/16/popular-git-config-options/) #guide#git
 - [How To Center a Div](https://www.joshwcomeau.com/css/center-a-div/) #frontend#deepdive
