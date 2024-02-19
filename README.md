@@ -1,3 +1,4 @@
+- [计算昂贵金额的随机技巧 --- Random tricks for computing costly sums](https://vvvvalvalval.github.io/posts/random-tricks-for-computing-costly-sums.html) #math#deepdive
 - [ActivityPub Server in a Single PHP File](https://shkspr.mobi/blog/2024/02/activitypub-server-in-a-single-file/) #read
 - [Representation Engineering Mistral-7B an Acid Trip](https://vgel.me/posts/representation-engineering/) #deepdive#llm
 - [Popular git config options](https://jvns.ca/blog/2024/02/16/popular-git-config-options/) #guide#git
