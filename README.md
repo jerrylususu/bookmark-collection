@@ -1,3 +1,4 @@
+- [Strategies for an Accelerating Future](https://www.oneusefulthing.org/p/strategies-for-an-accelerating-future) #read
 - [htmz - a low power tool for html](https://leanrada.com/htmz/#how) #frontend#hack
 - [Try X in Y minutes](https://codapi.org/try/) #guide
 - [计算昂贵金额的随机技巧 --- Random tricks for computing costly sums](https://vvvvalvalval.github.io/posts/random-tricks-for-computing-costly-sums.html) #math#deepdive
