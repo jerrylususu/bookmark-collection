@@ -1,3 +1,4 @@
+- [htmz - a low power tool for html](https://leanrada.com/htmz/#how) #frontend#hack
 - [Try X in Y minutes](https://codapi.org/try/) #guide
 - [计算昂贵金额的随机技巧 --- Random tricks for computing costly sums](https://vvvvalvalval.github.io/posts/random-tricks-for-computing-costly-sums.html) #math#deepdive
 - [ActivityPub Server in a Single PHP File](https://shkspr.mobi/blog/2024/02/activitypub-server-in-a-single-file/) #read
