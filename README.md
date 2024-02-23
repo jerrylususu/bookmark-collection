@@ -1,3 +1,4 @@
+- [好的，色彩空间 — ericportis.com --- Okay, Color Spaces — ericportis.com](https://ericportis.com/posts/2024/okay-color-spaces/) #deepdive
 - [Strategies for an Accelerating Future](https://www.oneusefulthing.org/p/strategies-for-an-accelerating-future) #read
 - [htmz - a low power tool for html](https://leanrada.com/htmz/#how) #frontend#hack
 - [Try X in Y minutes](https://codapi.org/try/) #guide
