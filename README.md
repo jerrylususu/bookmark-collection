@@ -1,3 +1,4 @@
+- [entr(1)](https://eradman.com/entrproject/) Run arbitrary commands when files change #tools
 - [Web 终极拦截技巧（全是骚操作） | 风痕 · 術&思](https://hughfenghen.github.io/posts/2023/12/23/web-spy/) #hack#deepdive
 - [好的，色彩空间 — ericportis.com --- Okay, Color Spaces — ericportis.com](https://ericportis.com/posts/2024/okay-color-spaces/) #deepdive
 - [Strategies for an Accelerating Future](https://www.oneusefulthing.org/p/strategies-for-an-accelerating-future) #read
