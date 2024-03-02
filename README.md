@@ -1,3 +1,4 @@
+- [Advanced git commands every senior software developer needs to know](https://optimizedbyotto.com/post/advanced-git-commands/) #guide#git
 - [Testcontainers](https://testcontainers.com/) Testcontainers is an open source framework for providing throwaway, lightweight instances of databases, message brokers, web browsers, or just about anything that can run in a Docker container. #tools
 - [Table of Contents - Google SRE Book](https://sre.google/workbook/table-of-contents/) #books
 - [Let's build a Chrome extension that steals everything](https://mattfrisbie.substack.com/p/spy-chrome-extension) #deepdive#security
