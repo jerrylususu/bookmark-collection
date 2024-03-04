@@ -1,3 +1,4 @@
+- [Prompt Library — More Useful Things: AI Resources](https://www.moreusefulthings.com/prompts) #llm#tools
 - [lamplightdev - Streaming HTML out of order without JavaScript](https://lamplightdev.com/blog/2024/01/10/streaming-html-out-of-order-without-javascript/) #hack#frontend
 - [Advanced git commands every senior software developer needs to know](https://optimizedbyotto.com/post/advanced-git-commands/) #guide#git
 - [Testcontainers](https://testcontainers.com/) Testcontainers is an open source framework for providing throwaway, lightweight instances of databases, message brokers, web browsers, or just about anything that can run in a Docker container. #tools
