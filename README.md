@@ -1,3 +1,4 @@
+- [Inject My PDF: Prompt Injection for your Resume](https://kai-greshake.de/posts/inject-my-pdf/) #hack
 - [Prompt Library — More Useful Things: AI Resources](https://www.moreusefulthings.com/prompts) #llm#tools
 - [lamplightdev - Streaming HTML out of order without JavaScript](https://lamplightdev.com/blog/2024/01/10/streaming-html-out-of-order-without-javascript/) #hack#frontend
 - [Advanced git commands every senior software developer needs to know](https://optimizedbyotto.com/post/advanced-git-commands/) #guide#git
