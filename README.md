@@ -1,3 +1,4 @@
+- [如何使用 git 工作树 - llimllib 笔记 --- How I use git worktrees - llimllib notes](https://notes.billmill.org/blog/2024/03/How_I_use_git_worktrees.html) #read
 - [I'm a programmer and I'm stupid](https://antonz.org/stupid/) #read
 - [Inject My PDF: Prompt Injection for your Resume](https://kai-greshake.de/posts/inject-my-pdf/) #hack
 - [Prompt Library — More Useful Things: AI Resources](https://www.moreusefulthings.com/prompts) #llm#tools
