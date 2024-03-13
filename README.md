@@ -1,3 +1,4 @@
+- [JIT WireGuard](https://fly.io/blog/jit-wireguard-peers/) Fly.io实施了一个系统，其中网关根据需求获取WireGuard对等配置，减少了过期对等的数量并提高了性能。他们使用BPF过滤器、Noise密码学和Linux WireGuard Netlink接口对该过程进行了优化。新系统导致对等设置更快，网关操作更高效。 #hack
 - [Getting Things Done In A Chaotic Environment](https://staysaasy.com/leadership/2024/03/12/Getting-Things-Done.html) #read
 - [Video: Become a Wikipedian in 30 minutes](/become-a-wikipedian-transcript/) #read
 - [如何使用 git 工作树 - llimllib 笔记 --- How I use git worktrees - llimllib notes](https://notes.billmill.org/blog/2024/03/How_I_use_git_worktrees.html) #read
