@@ -1,3 +1,4 @@
+- [The Reluctant Sysadmin's Guide to Securing a Linux Server](https://pboyd.io/posts/securing-a-linux-vm/) #guide
 - [Advanced Topics in Reminders and To Do Lists](https://fredbenenson.medium.com/advanced-topics-in-reminders-and-to-do-lists-c5edec286670) #hack
 - [How Figma's Databases Team Lived to Tell the Scale | Figma Blog](https://www.figma.com/blog/how-figmas-databases-team-lived-to-tell-the-scale/) #read#db
 - [JIT WireGuard](https://fly.io/blog/jit-wireguard-peers/) Fly.io实施了一个系统，其中网关根据需求获取WireGuard对等配置，减少了过期对等的数量并提高了性能。他们使用BPF过滤器、Noise密码学和Linux WireGuard Netlink接口对该过程进行了优化。新系统导致对等设置更快，网关操作更高效。 #hack
