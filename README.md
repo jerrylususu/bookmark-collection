@@ -1,3 +1,4 @@
+- [sqlite-schema-diagram.sql · main · Screwtape / sqlite-schema-diagram · GitLab](https://gitlab.com/Screwtapello/sqlite-schema-diagram/-/blob/main/sqlite-schema-diagram.sql) 将 SQLite 数据库用 GraphViz 可视化的 SQL #hack
 - [The Reluctant Sysadmin's Guide to Securing a Linux Server](https://pboyd.io/posts/securing-a-linux-vm/) #guide
 - [Advanced Topics in Reminders and To Do Lists](https://fredbenenson.medium.com/advanced-topics-in-reminders-and-to-do-lists-c5edec286670) #hack
 - [How Figma's Databases Team Lived to Tell the Scale | Figma Blog](https://www.figma.com/blog/how-figmas-databases-team-lived-to-tell-the-scale/) #read#db
