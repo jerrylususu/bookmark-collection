@@ -1,3 +1,4 @@
+- [A deep dive into the world of abstraction behind a modern Hello World program](https://thecoder08.github.io/hello-world.html) #deepdive
 - [Optimizing SQLite for servers](https://kerkour.com/sqlite-for-servers) #guide#db
 - [Communication Is the Key to Efficiency in a Software Engineering Organization](https://optimizedbyotto.com/post/efficient-communication-software-engineering-org/) 高效的沟通对于一个富有生产力的软件工程组织至关重要。建立明确的准则，包括及早、准确的沟通、使用正确的渠道、管理信息流动以及编写高质量的代码和文档。这些实践有助于团队之间的知识共享和协作。 #guide
 - [sqlite-schema-diagram.sql · main · Screwtape / sqlite-schema-diagram · GitLab](https://gitlab.com/Screwtapello/sqlite-schema-diagram/-/blob/main/sqlite-schema-diagram.sql) 将 SQLite 数据库用 GraphViz 可视化的 SQL #hack
