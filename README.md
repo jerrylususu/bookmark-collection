@@ -1,3 +1,4 @@
+- [How we built JSR](https://deno.com/blog/how-we-built-jsr) deno 的现代包管理器 #deepdive
 - [Notes on how to use LLMs in your product.](https://lethain.com/mental-model-for-how-to-use-llms-in-products/) #read#llm
 - [A deep dive into the world of abstraction behind a modern Hello World program](https://thecoder08.github.io/hello-world.html) #deepdive
 - [Optimizing SQLite for servers](https://kerkour.com/sqlite-for-servers) #guide#db
