@@ -1,3 +1,4 @@
+- [mhx/dwarfs - A fast high compression read-only file system for Linux, Windows and macOS](https://github.com/mhx/dwarfs) #tools
 - [Fedora 40 安装配置手册](https://plumz.me/archives/13722/) #guide
 - [How we built JSR](https://deno.com/blog/how-we-built-jsr) deno 的现代包管理器 #deepdive
 - [Notes on how to use LLMs in your product.](https://lethain.com/mental-model-for-how-to-use-llms-in-products/) #read#llm
