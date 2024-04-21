@@ -1,3 +1,4 @@
+- [Tips on Adding JSON Output to Your CLI App - Brazil's Blog](https://blog.kellybrazil.com/2021/12/03/tips-on-adding-json-output-to-your-cli-app/) #guide
 - [Hardest Problem in Computer Science: Centering Things](https://tonsky.me/blog/centering/) #frontend#deepdive
 - [mhx/dwarfs - A fast high compression read-only file system for Linux, Windows and macOS](https://github.com/mhx/dwarfs) #tools
 - [Fedora 40 安装配置手册](https://plumz.me/archives/13722/) #guide
