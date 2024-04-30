@@ -1,3 +1,4 @@
+- [Why SQLite Uses Bytecode](https://sqlite.org/draft/whybytecode.html) #read#database
 - [Always sprinting](https://cbh.bearblog.dev/always-sprinting/) #read
 - [Building Bluesky: a Distributed Social Network (Real-World Engineering Challenges)](https://newsletter.pragmaticengineer.com/p/bluesky) #read#deepdive
 - [Tips on Adding JSON Output to Your CLI App - Brazil's Blog](https://blog.kellybrazil.com/2021/12/03/tips-on-adding-json-output-to-your-cli-app/) #guide
