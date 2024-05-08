@@ -1,3 +1,4 @@
+- [Hallucination-Free RAG: Making LLMs Safe for Healthcare](https://mattyyeung.github.io/deterministic-quoting) Deterministic Quoting (DQ) 直接从原文引用 #hack
 - [Why SQLite Uses Bytecode](https://sqlite.org/draft/whybytecode.html) #read#database
 - [Always sprinting](https://cbh.bearblog.dev/always-sprinting/) #read
 - [Building Bluesky: a Distributed Social Network (Real-World Engineering Challenges)](https://newsletter.pragmaticengineer.com/p/bluesky) #read#deepdive
