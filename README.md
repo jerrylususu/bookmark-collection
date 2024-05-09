@@ -1,3 +1,4 @@
+- [mikeash.com: Friday Q&A 2015-07-31: Tagged Pointer Strings](https://mikeash.com/pyblog/friday-qa-2015-07-31-tagged-pointer-strings.html) 在指针的64bit里用特殊的字母表存储字符串 #hack
 - [自集成式 HTTP 代理方案 | 风痕 · 術&思](https://hughfenghen.github.io/posts/2024/05/08/ff-proxy/) #read
 - [Hallucination-Free RAG: Making LLMs Safe for Healthcare](https://mattyyeung.github.io/deterministic-quoting) Deterministic Quoting (DQ) 直接从原文引用 #hack#llm
 - [Why SQLite Uses Bytecode](https://sqlite.org/draft/whybytecode.html) #read#database
