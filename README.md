@@ -1,3 +1,4 @@
+- [enjalot/latent-scope - A scientific instrument for investigating latent spaces](https://github.com/enjalot/latent-scope) #tools
 - [Exploring Hacker News by mapping and analyzing 40 million posts and comments for fun | Wilson Lin](https://blog.wilsonl.in/hackerverse/) #deepdive
 - [Teranoptia - Tunera Type Foundry](https://www.tunera.xyz/fonts/teranoptia/) Teranoptia is a typeface without letters, a peculiar contraption that allows you to imagine chimeric creatures just by typing letters with your keyboard. (Openfont 字体拼图) #hack
 - [mikeash.com: Friday Q&A 2015-07-31: Tagged Pointer Strings](https://mikeash.com/pyblog/friday-qa-2015-07-31-tagged-pointer-strings.html) 在指针的64bit里用特殊的字母表存储字符串 #hack
