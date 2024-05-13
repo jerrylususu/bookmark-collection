@@ -1,3 +1,4 @@
+- [获得支持以完成工作 |nicole@web --- Getting buy-in to get things done | nicole@web](/blog/getting-buyin-is-different-from-getting-agreement/) #read
 - [enjalot/latent-scope - A scientific instrument for investigating latent spaces](https://github.com/enjalot/latent-scope) #tools
 - [Exploring Hacker News by mapping and analyzing 40 million posts and comments for fun | Wilson Lin](https://blog.wilsonl.in/hackerverse/) #deepdive
 - [Teranoptia - Tunera Type Foundry](https://www.tunera.xyz/fonts/teranoptia/) Teranoptia is a typeface without letters, a peculiar contraption that allows you to imagine chimeric creatures just by typing letters with your keyboard. (Openfont 字体拼图) #hack
