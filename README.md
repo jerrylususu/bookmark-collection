@@ -1,3 +1,4 @@
+- [How Facebook served billions of requests per second Using Memcached](https://blog.bytebytego.com/p/how-facebook-served-billions-of-requests) #read#distributed
 - [What OpenAI did](https://www.oneusefulthing.org/p/what-openai-did) #read
 - [获得支持以完成工作 |nicole@web --- Getting buy-in to get things done | nicole@web](/blog/getting-buyin-is-different-from-getting-agreement/) #read
 - [enjalot/latent-scope - A scientific instrument for investigating latent spaces](https://github.com/enjalot/latent-scope) #tools
