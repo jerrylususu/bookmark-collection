@@ -1,3 +1,4 @@
+- [Reproducing GPT-2 (124M) in llm.c in 90 minutes for $20 · karpathy/llm.c · Discussion #481](https://github.com/karpathy/llm.c/discussions/481) #deepdive#llm
 - [City In A Bottle – A 256 Byte Raycasting System](https://frankforce.com/city-in-a-bottle-a-256-byte-raycasting-system/) #deepdive#hack
 - [Adding Keyboard Shortcuts to a 24 Year Old Government Website with Userscripts](https://wcedmisten.fyi/post/keyboard-shortcuts-userscripts/) #hack
 - [How we built a secure, performant, multi-tenant cloud platform to run untrusted code](https://deno.com/blog/build-secure-performant-cloud-platform) #read
