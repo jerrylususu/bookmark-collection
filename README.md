@@ -1,3 +1,4 @@
+- [What do GenZ software engineers really think?](https://newsletter.pragmaticengineer.com/p/genz-part-2) #read
 - [Type Hints](https://typehints.org/) answers to all the questions I had as a beginner in TypeScript. #read
 - [What We Learned from a Year of Building with LLMs (Part I)](https://www.oreilly.com/radar/what-we-learned-from-a-year-of-building-with-llms-part-i/) #read#deepdive#llm
 - [Reproducing GPT-2 (124M) in llm.c in 90 minutes for $20 · karpathy/llm.c · Discussion #481](https://github.com/karpathy/llm.c/discussions/481) #deepdive#llm
