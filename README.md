@@ -1,3 +1,4 @@
+- [GUIdebook > 文章 > “一千平方像素的画布” --- GUIdebook > Articles > “One thousand square pixels of canvas”](https://guidebookgallery.org/articles/onethousandsquarepixelsofcanvas) #read#design
 - [生成式 AI 不会为您建立工程团队 - Stack Overflow --- Generative AI Is Not Going To Build Your Engineering Team For You - Stack Overflow](https://stackoverflow.blog/2024/06/10/generative-ai-is-not-going-to-build-your-engineering-team-for-you/) #read
 - [What do GenZ software engineers really think?](https://newsletter.pragmaticengineer.com/p/genz-part-2) #read
 - [Type Hints](https://typehints.org/) answers to all the questions I had as a beginner in TypeScript. #read
