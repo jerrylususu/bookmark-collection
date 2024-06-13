@@ -1,3 +1,4 @@
+- [生成式 AI 不会为您建立工程团队 - Stack Overflow --- Generative AI Is Not Going To Build Your Engineering Team For You - Stack Overflow](https://stackoverflow.blog/2024/06/10/generative-ai-is-not-going-to-build-your-engineering-team-for-you/) #read
 - [What do GenZ software engineers really think?](https://newsletter.pragmaticengineer.com/p/genz-part-2) #read
 - [Type Hints](https://typehints.org/) answers to all the questions I had as a beginner in TypeScript. #read
 - [What We Learned from a Year of Building with LLMs (Part I)](https://www.oreilly.com/radar/what-we-learned-from-a-year-of-building-with-llms-part-i/) #read#deepdive#llm
