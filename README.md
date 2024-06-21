@@ -1,3 +1,4 @@
+- [The Absolute Minimum Every Software Developer Must Know About Unicode in 2023 (Still No Excuses!)](https://tonsky.me/blog/unicode/) #read#deepdive
 - [I’ve Stopped Using Box Plots. Should You?, Nightingale](https://nightingaledvs.com/ive-stopped-using-box-plots-should-you/) #read#visual
 - [Create strong empirical evaluations - Anthropic](https://docs.anthropic.com/en/docs/build-with-claude/develop-tests) #llm#guide
 - [Coping strategies for the serial project hoarder](https://simonwillison.net/2022/Nov/26/productivity/) 确保每个项目都有全面的文档和自动化测试，这有助于横向扩展生产力，减少对项目细节的记忆需求。 #read#hack
