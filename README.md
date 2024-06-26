@@ -1,3 +1,4 @@
+- [copilot-explorer - Copilot Internals](https://thakkarparth007.github.io/copilot-explorer/posts/copilot-internals.html) #deepdive#llm
 - [Local, first, forever](https://tonsky.me/blog/crdt-filesync/) 基于文件和 CRDT 的跨设备同步 #read
 - [The Absolute Minimum Every Software Developer Must Know About Unicode in 2023 (Still No Excuses!)](https://tonsky.me/blog/unicode/) #read#deepdive
 - [I’ve Stopped Using Box Plots. Should You?, Nightingale](https://nightingaledvs.com/ive-stopped-using-box-plots-should-you/) #read#visual
