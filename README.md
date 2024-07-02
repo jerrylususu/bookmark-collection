@@ -1,3 +1,4 @@
+- [Software Architecture Design for Busy Developers](https://massimo-nazaria.github.io/software-architecture-design.html) #read
 - [Throw away your first draft of your code | nicole@web](/blog/throw-away-your-first-draft/) #read
 - [My programming beliefs as of July 2024](https://evanhahn.com/programming-beliefs-as-of-july-2024/) #read
 - [Implementing MVCC and major SQL transaction isolation levels | notes.eatonphil.com](https://notes.eatonphil.com/2024-05-16-mvcc.html) #deepdive#db
