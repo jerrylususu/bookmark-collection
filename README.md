@@ -1,3 +1,4 @@
+- [My programming beliefs as of July 2024](https://evanhahn.com/programming-beliefs-as-of-july-2024/) #read
 - [Implementing MVCC and major SQL transaction isolation levels | notes.eatonphil.com](https://notes.eatonphil.com/2024-05-16-mvcc.html) #deepdive#db
 - [A write-ahead log is not a universal part of durability | notes.eatonphil.com](https://notes.eatonphil.com/2024-07-01-a-write-ahead-log-is-not-a-universal-part-of-durability.html) #read#db#deepdive
 - [ShellCheck – shell script analysis tool](https://www.shellcheck.net/) #tools
