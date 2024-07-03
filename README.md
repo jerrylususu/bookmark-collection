@@ -1,3 +1,4 @@
+- [Optimizing Large-Scale OpenStreetMap Data with SQLite](https://jtarchie.com/posts/2024-07-02-optimizing-large-scale-openstreetmap-data-with-sqlite) #hack
 - [Software Architecture Design for Busy Developers](https://massimo-nazaria.github.io/software-architecture-design.html) #read
 - [Throw away your first draft of your code | nicole@web](/blog/throw-away-your-first-draft/) #read
 - [My programming beliefs as of July 2024](https://evanhahn.com/programming-beliefs-as-of-july-2024/) #read
