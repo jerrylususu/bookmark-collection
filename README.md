@@ -1,3 +1,4 @@
+- [Reasons to use your shell's job control](https://jvns.ca/blog/2024/07/03/reasons-to-use-job-control/) #read
 - [Optimizing Large-Scale OpenStreetMap Data with SQLite](https://jtarchie.com/posts/2024-07-02-optimizing-large-scale-openstreetmap-data-with-sqlite) #hack
 - [Software Architecture Design for Busy Developers](https://massimo-nazaria.github.io/software-architecture-design.html) #read
 - [Throw away your first draft of your code | nicole@web](/blog/throw-away-your-first-draft/) #read
