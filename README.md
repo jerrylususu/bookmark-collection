@@ -1,3 +1,4 @@
+- [Entering text in the terminal is complicated](https://jvns.ca/blog/2024/07/08/readline/) #read
 - [Making Python Less Random](https://healeycodes.com/making-python-less-random) ptrace getrandom syscall #hack
 - [Reasons to use your shell's job control](https://jvns.ca/blog/2024/07/03/reasons-to-use-job-control/) #read
 - [Optimizing Large-Scale OpenStreetMap Data with SQLite](https://jtarchie.com/posts/2024-07-02-optimizing-large-scale-openstreetmap-data-with-sqlite) #hack
