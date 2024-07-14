@@ -1,3 +1,4 @@
+- [Load Balancing](https://samwho.dev/load-balancing/) 算法（轮询、加权轮询、动态加权轮询、最小连接、PEWMA）和优化目标（延迟 P90/95/99，不丢弃请求） #deepdive
 - [选择无聊的技术 --- Choose Boring Technology](https://boringtechnology.club/) #read
 - [The Death of the Junior Developer](https://sourcegraph.com/blog/the-death-of-the-junior-developer) Chat Oriented Programming #read
 - [Deactivating an API, One Step at a Time](https://apichangelog.substack.com/p/deactivating-an-api-one-step-at-a) 可能还可以引入 brownout（弃用前间歇性返回错误） #read
