@@ -1,3 +1,4 @@
+- [选择无聊的技术 --- Choose Boring Technology](https://boringtechnology.club/) #read
 - [The Death of the Junior Developer](https://sourcegraph.com/blog/the-death-of-the-junior-developer) Chat Oriented Programming #read
 - [Deactivating an API, One Step at a Time](https://apichangelog.substack.com/p/deactivating-an-api-one-step-at-a) 可能还可以引入 brownout（弃用前间歇性返回错误） #read
 - [What is Old is New Again](https://newsletter.pragmaticengineer.com/p/what-is-old-is-new-again) 文章分析了过去18个月科技行业的重大变革，包括工作市场、VC投资、IPO和大型科技公司的变化，探讨了这些变化的原因、影响以及对软件工程师和工程实践的潜在影响。 #read
