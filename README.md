@@ -1,3 +1,4 @@
+- [TIL: Mermaid Gantt diagrams are great for displaying distributed traces in Markdown - brycemecum.com](https://brycemecum.com/2023/03/31/til-mermaid-tracing/) #hack
 - [Approximating the Sierpinski Triangle on my CNC | nicole@web](/blog/approximating-sierpinskis-triangle-on-my-cnc/) #read
 - [Toolbox languages](https://www.hillelwayne.com/post/toolbox-languages/) #read
 - [Load Balancing](https://samwho.dev/load-balancing/) 算法（轮询、加权轮询、动态加权轮询、最小连接、PEWMA）和优化目标（延迟 P90/95/99，不丢弃请求） #deepdive
