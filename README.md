@@ -1,3 +1,4 @@
+- [Mocking is an Anti-Pattern](https://www.amazingcto.com/mocking-is-an-antipattern-how-to-test-without-mocking/) #deepdive
 - [We need visual programming. No, not like that.](https://blog.sbensu.com/posts/demand-for-visual-programming/) #read
 - [Where Should Visual Programming Go?](https://tonsky.me/blog/diagrams/) #read
 - [Lessons learned in 35 years of making software](https://dev.jimgrey.net/2024/07/03/lessons-learned-in-35-years-of-making-software/) #read
