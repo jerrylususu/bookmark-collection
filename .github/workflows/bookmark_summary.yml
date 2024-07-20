@@ -6,6 +6,7 @@ on:
       - main
     paths:
       - '**.md'
+  workflow_dispatch:
 
 jobs:
   summarize:
