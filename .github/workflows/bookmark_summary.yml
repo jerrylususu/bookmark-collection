@@ -1,0 +1,51 @@
+name: Bookmark Summary
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - '**.md'
+
+jobs:
+  summarize:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Checkout bookmark-collection
+      uses: actions/checkout@v2
+      with:
+        path: bookmark-collection
+
+    - name: Checkout bookmark-summary
+      uses: actions/checkout@v2
+      with:
+        repository: your-username/bookmark-summary
+        path: bookmark-summary
+        token: ${{ secrets.PAT }}
+
+    - name: Set up Python
+      uses: actions/setup-python@v2
+      with:
+        python-version: '3.x'
+    
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install requests
+
+    - name: Process changes
+      env:
+        OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+        OPENAI_API_MODEL: ${{ secrets.OPENAI_API_MODEL }}
+        OPENAI_API_ENDPOINT: ${{ secrets.OPENAI_API_ENDPOINT }}
+      run: |
+        python bookmark-summary/process_changes.py
+
+    - name: Commit changes to bookmark-summary
+      run: |
+        cd bookmark-summary
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        git add .
+        git commit -m "Add new summaries" || echo "No changes to commit"
+        git push
