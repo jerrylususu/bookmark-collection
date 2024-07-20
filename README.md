@@ -1,3 +1,4 @@
+- [Mapping the landscape of gen-AI product user experience](https://interconnected.org/home/2024/07/19/ai-landscape) #read#guide
 - [Mocking is an Anti-Pattern](https://www.amazingcto.com/mocking-is-an-antipattern-how-to-test-without-mocking/) #deepdive
 - [We need visual programming. No, not like that.](https://blog.sbensu.com/posts/demand-for-visual-programming/) #read
 - [Where Should Visual Programming Go?](https://tonsky.me/blog/diagrams/) #read
