@@ -1,3 +1,4 @@
+- [Python Practical Package Packing 2024](https://matt.sh/python-project-structure-2024) #python#guide
 - [Panic! at the Tech Job Market](https://matt.sh/panic-at-the-job-market) #read#job
 - [How not to use box shadows](https://dgerrells.com/blog/how-not-to-use-box-shadows) 用 CSS box shadow 实现 ray-tracing #hack#deepdive#visual
 - [Mapping the landscape of gen-AI product user experience](https://interconnected.org/home/2024/07/19/ai-landscape) #read#guide
