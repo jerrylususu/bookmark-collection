@@ -8,6 +8,10 @@ on:
       - '**.md'
   workflow_dispatch:
 
+concurrency:
+  group: mygroup
+  cancel-in-progress: false
+
 jobs:
   summarize:
     runs-on: ubuntu-latest
