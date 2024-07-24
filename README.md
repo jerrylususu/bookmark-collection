@@ -1,4 +1,4 @@
-- [How we improved availability through iterative simplification](https://github.blog/engineering/engineering-principles/how-we-improved-availability-through-iterative-simplification/) 在 Github 做 Code Review 的经验分享 #guide#deepdive
+- [How we improved availability through iterative simplification](https://github.blog/engineering/engineering-principles/how-we-improved-availability-through-iterative-simplification/) #read
 - [Python Practical Package Packing 2024](https://matt.sh/python-project-structure-2024) #python#guide
 - [Panic! at the Tech Job Market](https://matt.sh/panic-at-the-job-market) #read#job
 - [How not to use box shadows](https://dgerrells.com/blog/how-not-to-use-box-shadows) 用 CSS box shadow 实现 ray-tracing #hack#deepdive#visual
