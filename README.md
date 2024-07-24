@@ -1,3 +1,4 @@
+- [How to review code effectively: A GitHub staff engineer’s philosophy](https://github.blog/developer-skills/github/how-to-review-code-effectively-a-github-staff-engineers-philosophy/) 在 Github 做 Code Review 的经验分享 #guide#deepdive
 - [How we improved availability through iterative simplification](https://github.blog/engineering/engineering-principles/how-we-improved-availability-through-iterative-simplification/) #read
 - [Python Practical Package Packing 2024](https://matt.sh/python-project-structure-2024) #python#guide
 - [Panic! at the Tech Job Market](https://matt.sh/panic-at-the-job-market) #read#job
