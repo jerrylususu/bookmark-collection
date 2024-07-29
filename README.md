@@ -1,3 +1,4 @@
+- [The Many Lives of Null Island | Stamen](https://stamen.com/the-many-lives-of-null-island/) #read
 - [Exposition of Frontend Build Systems](https://sunsetglow.net/posts/frontend-build-systems.html) 前端构建系统：转译、打包（代码分割、摇树、loader）、压缩 #frontend#deepdive
 - [Anyone can Access Deleted and Private Repository Data on GitHub ◆ Truffle Security Co.](https://trufflesecurity.com/blog/anyone-can-access-deleted-and-private-repo-data-github) #hack
 - [How to review code effectively: A GitHub staff engineer’s philosophy](https://github.blog/developer-skills/github/how-to-review-code-effectively-a-github-staff-engineers-philosophy/) 在 Github 做 Code Review 的经验分享 #guide#deepdive
