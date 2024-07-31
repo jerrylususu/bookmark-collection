@@ -1,3 +1,4 @@
+- [We had an AI attempt to make a data-driven story like we do at The Pudding](https://pudding.cool/2024/07/ai/) #read
 - [The Many Lives of Null Island | Stamen](https://stamen.com/the-many-lives-of-null-island/) #read
 - [Exposition of Frontend Build Systems](https://sunsetglow.net/posts/frontend-build-systems.html) 前端构建系统：转译、打包（代码分割、摇树、loader）、压缩 #frontend#deepdive
 - [Anyone can Access Deleted and Private Repository Data on GitHub ◆ Truffle Security Co.](https://trufflesecurity.com/blog/anyone-can-access-deleted-and-private-repo-data-github) #hack
