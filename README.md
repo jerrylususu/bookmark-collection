@@ -1,3 +1,4 @@
+- [How to Get or Create in PostgreSQL](https://hakibenita.com/postgresql-get-or-create) 幂等、不产生膨胀、并发安全 #deepdive#db
 - [Build your own SQS or Kafka with Postgres](https://blog.sequinstream.com/build-your-own-sqs-or-kafka-with-postgres/) #read#hack#db
 - [We had an AI attempt to make a data-driven story like we do at The Pudding](https://pudding.cool/2024/07/ai/) #read
 - [The Many Lives of Null Island | Stamen](https://stamen.com/the-many-lives-of-null-island/) #read
