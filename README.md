@@ -1,3 +1,4 @@
+- [YAGNI exceptions](https://lukeplant.me.uk/blog/posts/yagni-exceptions/) #read
 - [PAGNIs: Probably Are Gonna Need Its](https://simonwillison.net/2021/Jul/1/pagnis/) #read#guide
 - [How to Get or Create in PostgreSQL](https://hakibenita.com/postgresql-get-or-create) 幂等、不产生膨胀、并发安全 #deepdive#db
 - [Build your own SQS or Kafka with Postgres](https://blog.sequinstream.com/build-your-own-sqs-or-kafka-with-postgres/) #read#hack#db
