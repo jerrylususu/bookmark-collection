@@ -1,3 +1,4 @@
+- [Turning the Tables on AI](https://ia.net/topics/turning-the-tables-on-ai) 如何利用 AI 更好的写作：对自己提问、重写输出、寻求反馈 #read#guide
 - [Is It Time To Version Observability? (Signs Point To Yes)](https://charity.wtf/2024/08/07/is-it-time-to-version-observability-signs-point-to-yes/) 可观测性2.0：任意宽度的结构化日志事件，数据存储在单一源中，聚合在读取时完成 #read
 - [YAGNI exceptions](https://lukeplant.me.uk/blog/posts/yagni-exceptions/) #read
 - [PAGNIs: Probably Are Gonna Need Its](https://simonwillison.net/2021/Jul/1/pagnis/) #read#guide
