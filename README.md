@@ -1,3 +1,4 @@
+- [Chevy Ray | How I Created 175 Fonts Using Rust](https://chevyray.dev/blog/creating-175-fonts/) #deepdive#guide
 - [Do Quests, Not Goals](https://www.raptitude.com/2024/08/do-quests-not-goals/) #read
 - [Learn OAuth 2.0 by Building Your Own OAuth Client](https://annotate.dev/p/hello-world/learn-oauth-2-0-by-building-your-own-oauth-client-U2HaZNtvQojn4F) #guide
 - [Turning the Tables on AI](https://ia.net/topics/turning-the-tables-on-ai) 如何利用 AI 更好的写作：对自己提问、重写输出、寻求反馈 #read#guide
