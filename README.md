@@ -1,3 +1,4 @@
+- [Web 端实时防挡脸弹幕（基于机器学习） | 风痕 · 術&思](https://hughfenghen.github.io/posts/2023/06/21/body-mask-danmaku/) #deepdive#frontend#hack
 - [Chevy Ray | How I Created 175 Fonts Using Rust](https://chevyray.dev/blog/creating-175-fonts/) #deepdive#guide
 - [Do Quests, Not Goals](https://www.raptitude.com/2024/08/do-quests-not-goals/) #read
 - [Learn OAuth 2.0 by Building Your Own OAuth Client](https://annotate.dev/p/hello-world/learn-oauth-2-0-by-building-your-own-oauth-client-U2HaZNtvQojn4F) #guide
