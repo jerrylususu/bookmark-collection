@@ -1,3 +1,4 @@
+- [Optimizing SPA load times with async chunks preloading](https://mmazzarolo.com/blog/2024-08-13-async-chunk-preloading-on-load/) #hack#frontend
 - [AI Seinfeld was the peak of AI-generated content. It will never happen again.](https://minimaxir.com/2024/08/ai-seinfeld/) #read
 - [Web 端实时防挡脸弹幕（基于机器学习） | 风痕 · 術&思](https://hughfenghen.github.io/posts/2023/06/21/body-mask-danmaku/) #deepdive#frontend#hack
 - [Chevy Ray | How I Created 175 Fonts Using Rust](https://chevyray.dev/blog/creating-175-fonts/) #deepdive#guide
