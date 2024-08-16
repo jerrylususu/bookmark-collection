@@ -1,3 +1,4 @@
+- [How to convert a Node.js stream of event callback functions into an Async Iterator](https://www.jbernier.com/p?id=nodejs-stream-async-iterator) #hack
 - [One Thing Nobody Explained To You About TypeScript](https://kettanaito.com/blog/one-thing-nobody-explained-to-you-about-typescript) include描述了tsconfig.json的作用域；应该为每个运行环境创建单独的tsconfig.json文件；使用references属性跨文件引用 #guide
 - [Optimizing SPA load times with async chunks preloading](https://mmazzarolo.com/blog/2024-08-13-async-chunk-preloading-on-load/) #hack#frontend
 - [AI Seinfeld was the peak of AI-generated content. It will never happen again.](https://minimaxir.com/2024/08/ai-seinfeld/) #read
