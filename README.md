@@ -1,3 +1,4 @@
+- [Harvesting, Fishing, Panning for Gold](https://staysaasy.com/strategy/2024/08/18/harvesting-fishing-panning-for-gold.html) 不同类型的挑战：采摘、钓鱼和淘金 #read
 - [“The Door Problem” – Liz England](https://lizengland.com/blog/2014/04/the-door-problem/) #read
 - [How to convert a Node.js stream of event callback functions into an Async Iterator](https://www.jbernier.com/p?id=nodejs-stream-async-iterator) #hack
 - [One Thing Nobody Explained To You About TypeScript](https://kettanaito.com/blog/one-thing-nobody-explained-to-you-about-typescript) include描述了tsconfig.json的作用域；应该为每个运行环境创建单独的tsconfig.json文件；使用references属性跨文件引用 #guide
