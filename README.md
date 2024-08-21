@@ -1,3 +1,4 @@
+- [Software engineering practices](https://simonwillison.net/2022/Oct/1/software-engineering-practices/) 文档与代码同库管理、测试数据创建机制、数据库迁移策略、项目和组件模板、自动化代码格式化、新开发环境自动化流程、自动化预览环境 #read#guide
 - [Harvesting, Fishing, Panning for Gold](https://staysaasy.com/strategy/2024/08/18/harvesting-fishing-panning-for-gold.html) 不同类型的挑战：采摘、钓鱼和淘金 #read
 - [“The Door Problem” – Liz England](https://lizengland.com/blog/2014/04/the-door-problem/) #read
 - [How to convert a Node.js stream of event callback functions into an Async Iterator](https://www.jbernier.com/p?id=nodejs-stream-async-iterator) #hack
