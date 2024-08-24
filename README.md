@@ -1,3 +1,4 @@
+- [Font with Built-In Syntax Highlighting](https://blog.glyphdrawing.club/font-with-built-in-syntax-highlighting/) #hack#deepdive
 - [CSS finally adds vertical centering in 2024 | Blog | build-your-own.org](https://build-your-own.org/blog/20240813_css_vertical_center/) #frontend
 - [Continuous reinvention: A brief history of block storage at AWS](https://www.allthingsdistributed.com/2024/08/continuous-reinvention-a-brief-history-of-block-storage-at-aws.html) #read
 - [Software engineering practices](https://simonwillison.net/2022/Oct/1/software-engineering-practices/) 文档与代码同库管理、测试数据创建机制、数据库迁移策略、项目和组件模板、自动化代码格式化、新开发环境自动化流程、自动化预览环境 #read#guide
