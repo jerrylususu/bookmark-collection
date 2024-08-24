@@ -1,3 +1,4 @@
+- [A Visual Guide to Quantization](https://newsletter.maartengrootendorst.com/p/a-visual-guide-to-quantization) #guide#deepdive#llm
 - [Font with Built-In Syntax Highlighting](https://blog.glyphdrawing.club/font-with-built-in-syntax-highlighting/) #hack#deepdive
 - [CSS finally adds vertical centering in 2024 | Blog | build-your-own.org](https://build-your-own.org/blog/20240813_css_vertical_center/) #frontend
 - [Continuous reinvention: A brief history of block storage at AWS](https://www.allthingsdistributed.com/2024/08/continuous-reinvention-a-brief-history-of-block-storage-at-aws.html) #read
