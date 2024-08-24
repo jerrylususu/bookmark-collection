@@ -1,3 +1,4 @@
+- [Command Line Data Processing: Using DuckDB as a Unix Tool](https://duckdb.org/2024/06/20/cli-data-processing-using-duckdb-as-a-unix-tool.html) #read#guide
 - [Tacit Knowledge is Dangerous](https://er4hn.info/blog/2023.08.26-tacit-knowledge-dangerous/) #read
 - [A Visual Guide to Quantization](https://newsletter.maartengrootendorst.com/p/a-visual-guide-to-quantization) #guide#deepdive#llm
 - [Font with Built-In Syntax Highlighting](https://blog.glyphdrawing.club/font-with-built-in-syntax-highlighting/) #hack#deepdive
