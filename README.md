@@ -1,3 +1,4 @@
+- [MiniJinja: Learnings from Building a Template Engine in Rust](https://lucumr.pocoo.org/2024/8/27/minijinja/) #read#deepdive
 - [Pinning：重新想象倒数日 App - 少数派](https://sspai.com/post/91599) #read#design
 - [Command Line Data Processing: Using DuckDB as a Unix Tool](https://duckdb.org/2024/06/20/cli-data-processing-using-duckdb-as-a-unix-tool.html) #read#guide
 - [Tacit Knowledge is Dangerous](https://er4hn.info/blog/2023.08.26-tacit-knowledge-dangerous/) #read
