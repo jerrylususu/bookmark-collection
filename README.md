@@ -1,3 +1,4 @@
+- [Anthropic’s Prompt Engineering Interactive Tutorial](https://simonwillison.net/2024/Aug/30/anthropic-prompt-engineering-interactive-tutorial/) #guide
 - [why lowercase letters save data | endtimes.dev](https://endtimes.dev/why-lowercase-letters-save-data/) #read
 - [Software Engineering - The Soft Parts](https://addyosmani.com/blog/software-engineering-soft-parts/#quote-17) #read#books
 - [Leader Election With S3 Conditional Writes](https://www.morling.dev/blog/leader-election-with-s3-conditional-writes/) #hack
