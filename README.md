@@ -1,3 +1,4 @@
+- [Software Engineering - The Soft Parts](https://addyosmani.com/blog/software-engineering-soft-parts/#quote-17) #read#books
 - [Leader Election With S3 Conditional Writes](https://www.morling.dev/blog/leader-election-with-s3-conditional-writes/) #hack
 - [MiniJinja: Learnings from Building a Template Engine in Rust](https://lucumr.pocoo.org/2024/8/27/minijinja/) #read#deepdive
 - [Pinning：重新想象倒数日 App - 少数派](https://sspai.com/post/91599) #read#design
