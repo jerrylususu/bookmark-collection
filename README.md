@@ -1,3 +1,4 @@
+- [从GraphRAG看信息的重新组织 - 铁蕾的个人博客](http://zhangtielei.com/posts/blog-graph-rag-information_org.html) #read#llm
 - [Reasons to write design docs | nicole@web](https://ntietz.com/blog/reasons-to-write-design-docs) #read
 - [Anthropic’s Prompt Engineering Interactive Tutorial](https://simonwillison.net/2024/Aug/30/anthropic-prompt-engineering-interactive-tutorial/) #guide
 - [why lowercase letters save data | endtimes.dev](https://endtimes.dev/why-lowercase-letters-save-data/) #read
