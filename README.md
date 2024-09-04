@@ -1,3 +1,4 @@
+- [Greppability is an underrated code metric](https://morizbuesing.com/blog/greppability-code-metric/) #read
 - [Textual - Anatomy of a Textual User Interface](https://textual.textualize.io/blog/2024/09/15/anatomy-of-a-textual-user-interface/) #guide
 - [从GraphRAG看信息的重新组织 - 铁蕾的个人博客](http://zhangtielei.com/posts/blog-graph-rag-information_org.html) #read#llm
 - [Reasons to write design docs | nicole@web](https://ntietz.com/blog/reasons-to-write-design-docs) #read
