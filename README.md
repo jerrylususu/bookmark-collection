@@ -1,3 +1,4 @@
+- [Things You Should Never Do, Part I](https://www.joelonsoftware.com/2000/04/06/things-you-should-never-do-part-i/) 不要从头开始重写 #read
 - [Paying down tech debt](https://newsletter.pragmaticengineer.com/p/paying-down-tech-debt) #read
 - [Greppability is an underrated code metric](https://morizbuesing.com/blog/greppability-code-metric/) #read
 - [Textual - Anatomy of a Textual User Interface](https://textual.textualize.io/blog/2024/09/15/anatomy-of-a-textual-user-interface/) #guide
