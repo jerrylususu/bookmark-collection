@@ -1,3 +1,4 @@
+- [The Art of Finishing | ByteDrum](https://www.bytedrum.com/posts/art-of-finishing/) #read
 - [Zeyi-Lin/HivisionIDPhotos: ⚡️HivisionIDPhotos: a lightweight and efficient AI ID photos tools. 一个轻量级的AI证件照制作算法。](https://github.com/Zeyi-Lin/HivisionIDPhotos) #tools
 - [Things You Should Never Do, Part I](https://www.joelonsoftware.com/2000/04/06/things-you-should-never-do-part-i/) 不要从头开始重写 #read
 - [Paying down tech debt](https://newsletter.pragmaticengineer.com/p/paying-down-tech-debt) #read
