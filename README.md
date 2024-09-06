@@ -1,3 +1,4 @@
+- [Got an incident? pull the Andon Cord](https://spike.sh/blog/pull-the-andon-cord/) #read
 - [No more “Expert, Intermediate, Beginner”: Classifying talks in Call for Papers/Conference agendas | Christian Heilmann](https://christianheilmann.com/2024/09/06/no-more-expert-intermediate-beginner-classifying-talks-in-call-for-papers-conference-agendas/) #read
 - [Every webpage deserves to be a place](https://interconnected.org/home/2024/09/05/cursor-party) #read#frontend#hack
 - [The Art of Finishing | ByteDrum](https://www.bytedrum.com/posts/art-of-finishing/) #read
