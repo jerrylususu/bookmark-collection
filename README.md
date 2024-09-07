@@ -1,3 +1,4 @@
+- [Cog](https://nedbatchelder.com/code/cog) Cog is a file generation tool. It lets you use pieces of Python code as generators in your source files to generate whatever text you need. #tools
 - [Seafaring for Women in Software Engineering - Part I - Performance & Promotion](https://beabytes.com/seafaring-part-i/) #read
 - [Got an incident? pull the Andon Cord](https://spike.sh/blog/pull-the-andon-cord/) #read
 - [No more “Expert, Intermediate, Beginner”: Classifying talks in Call for Papers/Conference agendas | Christian Heilmann](https://christianheilmann.com/2024/09/06/no-more-expert-intermediate-beginner-classifying-talks-in-call-for-papers-conference-agendas/) #read
