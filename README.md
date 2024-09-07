@@ -1,3 +1,4 @@
+- [OAuth from First Principles - Stack Auth](https://stack-auth.com/blog/oauth-from-first-principles) 我将从一个存在严重缺陷的实现开始，它使用第三方应用程序授权用户，然后不断攻击它，直到我们获得某种安全的东西。 #deepdive
 - [Cog](https://nedbatchelder.com/code/cog) Cog is a file generation tool. It lets you use pieces of Python code as generators in your source files to generate whatever text you need. #tools
 - [Seafaring for Women in Software Engineering - Part I - Performance & Promotion](https://beabytes.com/seafaring-part-i/) #read
 - [Got an incident? pull the Andon Cord](https://spike.sh/blog/pull-the-andon-cord/) #read
