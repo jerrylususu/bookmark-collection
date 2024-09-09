@@ -1,3 +1,4 @@
+- [Making progress on side projects with content-driven development | nicole@web](/blog/making-progress-with-content-driven-development/) #read
 - [聊聊自动化 PDF 渲染方案](https://roriri.one/2024/08/28/pdf-rendering/) latex, web 和 typst #read
 - [Garbage collection and closures](https://jakearchibald.com/2024/garbage-collection-and-closures/) #read#js
 - [OAuth from First Principles - Stack Auth](https://stack-auth.com/blog/oauth-from-first-principles) 我将从一个存在严重缺陷的实现开始，它使用第三方应用程序授权用户，然后不断攻击它，直到我们获得某种安全的东西。 #deepdive
