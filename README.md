@@ -1,3 +1,4 @@
+- [Why GitHub Actually Won](https://blog.gitbutler.com/why-github-actually-won/) #read
 - [Making progress on side projects with content-driven development | nicole@web](/blog/making-progress-with-content-driven-development/) #read
 - [聊聊自动化 PDF 渲染方案](https://roriri.one/2024/08/28/pdf-rendering/) latex, web 和 typst #read
 - [Garbage collection and closures](https://jakearchibald.com/2024/garbage-collection-and-closures/) #read#js
