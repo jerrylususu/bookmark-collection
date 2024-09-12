@@ -1,3 +1,4 @@
+- [GitHub's CSP journey](https://github.blog/engineering/platform-security/githubs-csp-journey/) #read#security#frontend
 - [Notes from my appearance on the Software Misadventures Podcast](https://simonwillison.net/2024/Sep/10/software-misadventures/) #read#llm
 - [Why GitHub Actually Won](https://blog.gitbutler.com/why-github-actually-won/) #read
 - [Making progress on side projects with content-driven development | nicole@web](/blog/making-progress-with-content-driven-development/) #read
