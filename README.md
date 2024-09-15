@@ -1,3 +1,4 @@
+- [Optimizing Javascript for fun and for profit](https://romgrk.com/posts/optimizing-javascript) #read#guide#js
 - [Advanced Shell Scripting Techniques: Automating Complex Tasks with Bash](https://omid.dev/2024/06/19/advanced-shell-scripting-techniques-automating-complex-tasks-with-bash/) #read#guide
 - [The Joel Test: 12 Steps to Better Code](https://www.joelonsoftware.com/2000/08/09/the-joel-test-12-steps-to-better-code/) #read
 - [Speed matters](https://www.scattered-thoughts.net/writing/speed-matters/) #read
