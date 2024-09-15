@@ -1,3 +1,4 @@
+- [Notes on running Go in the browser with WebAssembly - Eli Bendersky's website](https://eli.thegreenplace.net/2024/notes-on-running-go-in-the-browser-with-webassembly/) #read#hack
 - [GitHub's CSP journey](https://github.blog/engineering/platform-security/githubs-csp-journey/) #read#security#frontend
 - [Notes from my appearance on the Software Misadventures Podcast](https://simonwillison.net/2024/Sep/10/software-misadventures/) #read#llm
 - [Why GitHub Actually Won](https://blog.gitbutler.com/why-github-actually-won/) #read
