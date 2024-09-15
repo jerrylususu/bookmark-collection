@@ -1,3 +1,4 @@
+- [Advanced Shell Scripting Techniques: Automating Complex Tasks with Bash](https://omid.dev/2024/06/19/advanced-shell-scripting-techniques-automating-complex-tasks-with-bash/) #read#guide
 - [The Joel Test: 12 Steps to Better Code](https://www.joelonsoftware.com/2000/08/09/the-joel-test-12-steps-to-better-code/) #read
 - [Speed matters](https://www.scattered-thoughts.net/writing/speed-matters/) #read
 - [Notes on running Go in the browser with WebAssembly - Eli Bendersky's website](https://eli.thegreenplace.net/2024/notes-on-running-go-in-the-browser-with-webassembly/) #read#hack
