@@ -1,3 +1,4 @@
+- [How to Zip Files with the Python S3fs Library + Backblaze B2 Cloud Storage](https://www.backblaze.com/blog/how-to-zip-files-with-the-python-s3fs-library-backblaze-b2-cloud-storage/) #read#hack
 - [Optimizing Javascript for fun and for profit](https://romgrk.com/posts/optimizing-javascript) #read#guide#js
 - [Advanced Shell Scripting Techniques: Automating Complex Tasks with Bash](https://omid.dev/2024/06/19/advanced-shell-scripting-techniques-automating-complex-tasks-with-bash/) #read#guide
 - [The Joel Test: 12 Steps to Better Code](https://www.joelonsoftware.com/2000/08/09/the-joel-test-12-steps-to-better-code/) #read
