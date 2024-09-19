@@ -1,3 +1,4 @@
+- [Things I’ve learned serving on the board of the Python Software Foundation](https://simonwillison.net/2024/Sep/18/board-of-the-python-software-foundation/) #read
 - [How to Zip Files with the Python S3fs Library + Backblaze B2 Cloud Storage](https://www.backblaze.com/blog/how-to-zip-files-with-the-python-s3fs-library-backblaze-b2-cloud-storage/) #read#hack
 - [Optimizing Javascript for fun and for profit](https://romgrk.com/posts/optimizing-javascript) #read#guide#js
 - [Advanced Shell Scripting Techniques: Automating Complex Tasks with Bash](https://omid.dev/2024/06/19/advanced-shell-scripting-techniques-automating-complex-tasks-with-bash/) #read#guide
