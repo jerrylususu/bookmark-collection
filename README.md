@@ -1,3 +1,4 @@
+- [sz3/libcimbar](https://github.com/sz3/libcimbar) Color Icon Matrix Barcodes, an experimental barcode format for air-gapped data transfer. #tools
 - [Introducing Netflix’s Key-Value Data Abstraction Layer](https://netflixtechblog.com/introducing-netflixs-key-value-data-abstraction-layer-1ea8a0a11b30) #read#distributed
 - [Things I’ve learned serving on the board of the Python Software Foundation](https://simonwillison.net/2024/Sep/18/board-of-the-python-software-foundation/) #read
 - [How to Zip Files with the Python S3fs Library + Backblaze B2 Cloud Storage](https://www.backblaze.com/blog/how-to-zip-files-with-the-python-s3fs-library-backblaze-b2-cloud-storage/) #read#hack
