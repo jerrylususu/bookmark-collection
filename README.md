@@ -1,3 +1,4 @@
+- [Good Refactoring vs Bad Refactoring](https://www.builder.io/blog/good-vs-bad-refactoring) #read
 - [The web's clipboard, and how it stores data of different types](undefined/blog/clipboard) #deepdive#frontend
 - [sz3/libcimbar](https://github.com/sz3/libcimbar) Color Icon Matrix Barcodes, an experimental barcode format for air-gapped data transfer. #tools
 - [Introducing Netflix’s Key-Value Data Abstraction Layer](https://netflixtechblog.com/introducing-netflixs-key-value-data-abstraction-layer-1ea8a0a11b30) #read#distributed
