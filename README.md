@@ -1,3 +1,4 @@
+- [Franzelio - Draw Lines, Make Music, Share Your Instrument](https://franzelio.franzai.com/) #tools
 - [Deploying Web Apps with Caddy: A Beginner's Guide | Better Stack Community](https://betterstack.com/community/guides/web-servers/caddy/) #read
 - [Understanding AbortController in Node.js: A Complete Guide | Better Stack Community](https://betterstack.com/community/guides/scaling-nodejs/understanding-abortcontroller/) #read#node
 - [Good Refactoring vs Bad Refactoring](https://www.builder.io/blog/good-vs-bad-refactoring) #read
