@@ -1,3 +1,4 @@
+- [Understanding AbortController in Node.js: A Complete Guide | Better Stack Community](https://betterstack.com/community/guides/scaling-nodejs/understanding-abortcontroller/) #read#node
 - [Good Refactoring vs Bad Refactoring](https://www.builder.io/blog/good-vs-bad-refactoring) #read
 - [The web's clipboard, and how it stores data of different types](undefined/blog/clipboard) #deepdive#frontend
 - [sz3/libcimbar](https://github.com/sz3/libcimbar) Color Icon Matrix Barcodes, an experimental barcode format for air-gapped data transfer. #tools
