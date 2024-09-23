@@ -1,3 +1,4 @@
+- [What I tell people new to on-call | nicole@web](/blog/what-i-tell-people-new-to-oncall/) #read#guide
 - [CSS for printing to paper](https://voussoir.net/writing/css_for_printing) #frontend#guide#deepdive
 - [Franzelio - Draw Lines, Make Music, Share Your Instrument](https://franzelio.franzai.com/) #tools
 - [Deploying Web Apps with Caddy: A Beginner's Guide | Better Stack Community](https://betterstack.com/community/guides/web-servers/caddy/) #read
