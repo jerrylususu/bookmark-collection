@@ -1,3 +1,4 @@
+- [Haystack](https://haystackeditor.com/) An IDE built on top of a canvas, Haystack takes care of the tedious and confusing parts of coding for you #tools
 - [JSON For You | The best online JSON tool](https://json4u.com) #tools
 - [接纳不等于忍受，为舒服使用 Windows 11 的若干优化调整记录 - 少数派](https://sspai.com/post/92064) #read#guide
 - [What I tell people new to on-call | nicole@web](/blog/what-i-tell-people-new-to-oncall/) #read#guide
