@@ -1,3 +1,4 @@
+- [JSON For You | The best online JSON tool](https://json4u.com) #tools
 - [接纳不等于忍受，为舒服使用 Windows 11 的若干优化调整记录 - 少数派](https://sspai.com/post/92064) #read#guide
 - [What I tell people new to on-call | nicole@web](/blog/what-i-tell-people-new-to-oncall/) #read#guide
 - [CSS for printing to paper](https://voussoir.net/writing/css_for_printing) #frontend#guide#deepdive
