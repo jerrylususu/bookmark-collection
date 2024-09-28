@@ -1,3 +1,4 @@
+- [It's hard to write code for computers, but it's even harder to write code for humans](https://erikbern.com/2024/09/27/its-hard-to-write-code-for-humans.html) #read
 - [Some Go web dev notes](https://jvns.ca/blog/2024/09/27/some-go-web-dev-notes/) #read#go#backend
 - [How iOS Restricts Features by Region: A Look at MobileGestalt and Eligibility](https://type.cyhsu.xyz/2024/09/ios-feature-regional-lockout/) #deepdive#read
 - [Haystack](https://haystackeditor.com/) An IDE built on top of a canvas, Haystack takes care of the tedious and confusing parts of coding for you #tools
