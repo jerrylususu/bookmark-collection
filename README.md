@@ -1,3 +1,4 @@
+- [TCP Fast Open](https://dbwu.tech/posts/network/what-is-tcp-fast-open/) TCP Fast Open (TFO) 是在传统的三次握手基础上进行优化，允许在握手过程中发送数据，从而减少首次发送数据的延迟，提升网络应用性能。 #read#web
 - [Things You Didn't Know About GNU Readline](https://twobithistory.org/2019/08/22/readline.html) #read
 - [It's hard to write code for computers, but it's even harder to write code for humans](https://erikbern.com/2024/09/27/its-hard-to-write-code-for-humans.html) #read
 - [Some Go web dev notes](https://jvns.ca/blog/2024/09/27/some-go-web-dev-notes/) #read#go#backend
