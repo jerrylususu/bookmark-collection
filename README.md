@@ -1,3 +1,4 @@
+- [How I Think About Debt](https://collabfund.com/blog/how-i-think-about-debt/) I think this is the most practical way to think about debt: As debt increases, you narrow the range of outcomes you can endure in life. #read
 - [OpenAPI Spec - Parameter Serialization](https://docs.bump.sh/guides/openapi/specification/v3.1/understanding-structure/parameter-serialization/) #read#books#backend
 - [TCP Fast Open](https://dbwu.tech/posts/network/what-is-tcp-fast-open/) TCP Fast Open (TFO) 是在传统的三次握手基础上进行优化，允许在握手过程中发送数据，从而减少首次发送数据的延迟，提升网络应用性能。 #read#web
 - [Things You Didn't Know About GNU Readline](https://twobithistory.org/2019/08/22/readline.html) #read
