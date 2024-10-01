@@ -1,3 +1,4 @@
+- [Conflating Overture Places Using DuckDB, Ollama, Embeddings, and More](https://www.dbreunig.com/2024/09/27/conflating-overture-points-of-interests-with-duckdb-ollama-and-more.html) #read#guide
 - [NotebookLM’s automatically generated podcasts are surprisingly effective](https://simonwillison.net/2024/Sep/29/notebooklm-audio-overview/) #read
 - [How I Think About Debt](https://collabfund.com/blog/how-i-think-about-debt/) I think this is the most practical way to think about debt: As debt increases, you narrow the range of outcomes you can endure in life. #read
 - [OpenAPI Spec - Parameter Serialization](https://docs.bump.sh/guides/openapi/specification/v3.1/understanding-structure/parameter-serialization/) #read#books#backend
