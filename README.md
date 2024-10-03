@@ -1,3 +1,4 @@
+- [Terminal colours are tricky](https://jvns.ca/blog/2024/10/01/terminal-colours/) #read
 - [A Local-First Case Study | jakelazaroff.com](https://jakelazaroff.com/words/a-local-first-case-study/) #deepdive#frontend
 - [OpenAI DevDay 2024 live blog](https://simonwillison.net/2024/Oct/1/openai-devday-2024-live-blog/) #read
 - [Rowboat](https://rowboat.xyz/) Rowboat is a tool for making sense of tabular data—
