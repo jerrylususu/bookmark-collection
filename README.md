@@ -1,3 +1,4 @@
+- [VTracer](https://www.visioncortex.org/vtracer/) Raster to Vector Graphics Converter built on top of visioncortex #tools
 - [Wikidata is a Giant Crosswalk File](https://www.dbreunig.com/2024/10/04/wikidata-is-a-giant-crosswalk-file.html) #read
 - [Hybrid full-text search and vector search with SQLite](https://alexgarcia.xyz/blog/2024/sqlite-vec-hybrid-search/index.html) #read#db
 - [Terminal colours are tricky](https://jvns.ca/blog/2024/10/01/terminal-colours/) #read
