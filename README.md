@@ -1,3 +1,4 @@
+- [感谢捉虫：聊聊自动更正的前世今生 - 少数派](https://sspai.com/post/92657) #read
 - [Thoughts on the Treasurer Role at Tech NonProfits - Will Vincent](https://wsvincent.com/thoughts-on-pyconnz/) #read
 - [Some notes on upgrading Hugo](https://jvns.ca/blog/2024/10/07/some-notes-on-upgrading-hugo/) #read
 - [VTracer](https://www.visioncortex.org/vtracer/) Raster to Vector Graphics Converter built on top of visioncortex #tools
