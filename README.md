@@ -1,3 +1,4 @@
+- [Thoughts on the Treasurer Role at Tech NonProfits - Will Vincent](https://wsvincent.com/thoughts-on-pyconnz/) #read
 - [Some notes on upgrading Hugo](https://jvns.ca/blog/2024/10/07/some-notes-on-upgrading-hugo/) #read
 - [VTracer](https://www.visioncortex.org/vtracer/) Raster to Vector Graphics Converter built on top of visioncortex #tools
 - [Wikidata is a Giant Crosswalk File](https://www.dbreunig.com/2024/10/04/wikidata-is-a-giant-crosswalk-file.html) #read
