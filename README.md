@@ -1,3 +1,4 @@
+- [jazz - Instant sync](https://jazz.tools/) Jazz is an open-source framework for building local-first apps, removing 90% of the backend and infrastructure complexity. Get real-time sync, storage, auth, permissions, instant UI updates, file uploads, and more — all on day one. #tools
 - [temporal - Open Source Durable Execution](https://temporal.io/) #tools
 - [Turning a conference talk into an annotated presentation - Jacob Kaplan-Moss](https://jacobian.org/til/talk-to-writeup-workflow/) #hack
 - [curl bug-bounty stats | daniel.haxx.se](https://daniel.haxx.se/blog/2024/10/09/curl-bug-bounty-stats/) #read#oss
