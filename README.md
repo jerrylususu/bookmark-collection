@@ -1,3 +1,4 @@
+- [Can You Get Root With Only a Cigarette Lighter? | Blog](https://www.da.vidbuchanan.co.uk/blog/dram-emfi.html) #deepdive#read
 - [A static business is a healthy business](https://world.hey.com/jason/a-static-business-is-a-healthy-business-c0c2961b) #read
 - [jazz - Instant sync](https://jazz.tools/) Jazz is an open-source framework for building local-first apps, removing 90% of the backend and infrastructure complexity. Get real-time sync, storage, auth, permissions, instant UI updates, file uploads, and more — all on day one. #tools
 - [temporal - Open Source Durable Execution](https://temporal.io/) #tools
