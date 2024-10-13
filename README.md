@@ -1,3 +1,4 @@
+- [Making algorithms faster](https://learnmoderncpp.com/2024/10/12/making-algorithms-faster/) std::for_each 有个 policy 参数，指定并行策略 #cpp
 - [The Copenhagen Book](https://thecopenhagenbook.com/) a general guideline on implementing auth in web applications #books
 - [How Hard Should Your Employer Work To Retain You?](https://charity.wtf/2024/10/11/how-hard-should-your-employer-work-to-retain-you/) At the end of the day, these are jobs. People work at jobs for money, but not only money. I think we would all be better off if we could get better at articulating the tangible and intangible rewards of our labor, treating each other with dignity and honesty, and being straightforward about our needs and wants and goals on both sides, instead of treating comp like some kind of high stakes casino game. #read
 - [Can You Get Root With Only a Cigarette Lighter? | Blog](https://www.da.vidbuchanan.co.uk/blog/dram-emfi.html) #deepdive#read
