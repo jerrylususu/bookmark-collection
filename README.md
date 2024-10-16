@@ -1,3 +1,4 @@
+- [Why techies leave Big Tech](https://newsletter.pragmaticengineer.com/p/leaving-big-tech) #read#deepdive
 - [Web Browser Engineering](https://browser.engineering/) #books
 - [Investigation of a Workbench UI Latency Issue](https://netflixtechblog.com/investigation-of-a-workbench-ui-latency-issue-faa017b4653d) #read
 - [SQL/JSON is here! (kinda “Waiting for Pg 17”) – select * from depesz;](https://www.depesz.com/2024/10/11/sql-json-is-here-kinda-waiting-for-pg-17/) #read#db
