@@ -1,3 +1,4 @@
+- [9001/copyparty](https://github.com/9001/copyparty) Single Python File File Server #tools
 - [Why techies leave Big Tech](https://newsletter.pragmaticengineer.com/p/leaving-big-tech) #read#deepdive
 - [Web Browser Engineering](https://browser.engineering/) #books
 - [Investigation of a Workbench UI Latency Issue](https://netflixtechblog.com/investigation-of-a-workbench-ui-latency-issue-faa017b4653d) #read
