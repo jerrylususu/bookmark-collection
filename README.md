@@ -1,3 +1,4 @@
+- [纯 Web 视频剪辑 | 风痕 · 術&思](https://hughfenghen.github.io/posts/2024/10/28/webav-video-editor/) #guide
 - [9001/copyparty](https://github.com/9001/copyparty) Single Python File File Server #tools
 - [Why techies leave Big Tech](https://newsletter.pragmaticengineer.com/p/leaving-big-tech) #read#deepdive
 - [Web Browser Engineering](https://browser.engineering/) #books
