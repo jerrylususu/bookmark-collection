@@ -1,3 +1,4 @@
+- [When to use std::string_view](https://learnmoderncpp.com/2024/10/29/when-to-use-stdstring_view/) The key takeaway is that std::string converts to std::string_view, but not vice-versa. Also construction of a const std::string& or std::string&& from C-string literal is not necessarily cheap. #read#cpp
 - [Colophon](https://interconnected.org/home/2024/10/28/colophon) #read
 - [纯 Web 视频剪辑 | 风痕 · 術&思](https://hughfenghen.github.io/posts/2024/10/28/webav-video-editor/) #guide
 - [9001/copyparty](https://github.com/9001/copyparty) Single Python File File Server #tools
