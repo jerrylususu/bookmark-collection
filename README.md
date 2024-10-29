@@ -1,3 +1,4 @@
+- [The CAP Theorem of Clustering: Why Every Algorithm Must Sacrifice Something](https://blog.codingconfessions.com/p/the-cap-theorem-of-clustering) Just as distributed systems force you to choose between consistency, availability, and partition tolerance, Kleinberg showed that clustering algorithms force you to pick between scale invariance, richness, and consistency. You can't have all three – ever, it’s a mathematical impossibility. #read#algo
 - [When to use std::string_view](https://learnmoderncpp.com/2024/10/29/when-to-use-stdstring_view/) The key takeaway is that std::string converts to std::string_view, but not vice-versa. Also construction of a const std::string& or std::string&& from C-string literal is not necessarily cheap. #read#cpp
 - [Colophon](https://interconnected.org/home/2024/10/28/colophon) #read
 - [纯 Web 视频剪辑 | 风痕 · 術&思](https://hughfenghen.github.io/posts/2024/10/28/webav-video-editor/) #guide
