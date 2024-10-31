@@ -1,3 +1,4 @@
+- [ASCII control characters in my terminal](https://jvns.ca/blog/2024/10/31/ascii-control-characters/) #read
 - [curl source code age](https://daniel.haxx.se/blog/2024/10/31/curl-source-code-age/) #read
 - [Being Glue — No Idea Blog](https://www.noidea.dog/glue) #read#people
 - [15 rules for blogging, and my current streak](https://interconnected.org/home/2020/09/10/streak) #read
