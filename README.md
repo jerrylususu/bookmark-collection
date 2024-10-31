@@ -1,3 +1,4 @@
+- [curl source code age](https://daniel.haxx.se/blog/2024/10/31/curl-source-code-age/) #read
 - [Being Glue — No Idea Blog](https://www.noidea.dog/glue) #read#people
 - [15 rules for blogging, and my current streak](https://interconnected.org/home/2020/09/10/streak) #read
 - [The CAP Theorem of Clustering: Why Every Algorithm Must Sacrifice Something](https://blog.codingconfessions.com/p/the-cap-theorem-of-clustering) Just as distributed systems force you to choose between consistency, availability, and partition tolerance, Kleinberg showed that clustering algorithms force you to pick between scale invariance, richness, and consistency. You can't have all three – ever, it’s a mathematical impossibility. #read#algo
