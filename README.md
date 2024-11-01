@@ -1,3 +1,4 @@
+- [Australia/Lord_Howe is the weirdest timezone | SSOReady](https://ssoready.com/blog/engineering/truths-programmers-timezones/) #read
 - [Creating a LLM-as-a-Judge That Drives Business Results –](https://hamel.dev/blog/posts/llm-judge/) #deepdive#llm
 - [ASCII control characters in my terminal](https://jvns.ca/blog/2024/10/31/ascii-control-characters/) #read
 - [curl source code age](https://daniel.haxx.se/blog/2024/10/31/curl-source-code-age/) #read
