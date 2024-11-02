@@ -1,3 +1,4 @@
+- [6 Techniques I Use to Create a Great User Experience for Shell Scripts](https://nochlin.com/blog/6-techniques-i-use-to-create-a-great-user-experience-for-shell-scripts) #read#misc
 - [近几年我在职场踩过的坑](https://laike9m.com/blog/jin-ji-nian-wo-zai-zhi-chang-cai-guo-de-keng,143/) #read#career
 - [Australia/Lord_Howe is the weirdest timezone | SSOReady](https://ssoready.com/blog/engineering/truths-programmers-timezones/) #read
 - [Creating a LLM-as-a-Judge That Drives Business Results –](https://hamel.dev/blog/posts/llm-judge/) #deepdive#llm
