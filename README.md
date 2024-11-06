@@ -1,3 +1,4 @@
+- [What's a Single-Page App? | jakelazaroff.com](https://jakelazaroff.com/words/whats-a-single-page-app/) #read#frontend
 - [How to become a more effective engineer](https://newsletter.pragmaticengineer.com/p/how-to-become-a-more-effective-engineer) #read#people
 - [Parsing arguments in Rust with no dependencies | nicole@web](https://ntietz.com/blog/parsing-arguments-rust-no-deps/?utm_source=atom&utm_medium=feed) #read
 - [如何利用 AI 更好地学外语 - 少数派](https://sspai.com/post/92623) #read
