@@ -1,3 +1,4 @@
+- [How to become a more effective engineer](https://newsletter.pragmaticengineer.com/p/how-to-become-a-more-effective-engineer) #read#people
 - [Parsing arguments in Rust with no dependencies | nicole@web](https://ntietz.com/blog/parsing-arguments-rust-no-deps/?utm_source=atom&utm_medium=feed) #read
 - [如何利用 AI 更好地学外语 - 少数派](https://sspai.com/post/92623) #read
 - [6 Techniques I Use to Create a Great User Experience for Shell Scripts](https://nochlin.com/blog/6-techniques-i-use-to-create-a-great-user-experience-for-shell-scripts) #read#misc
