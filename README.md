@@ -1,3 +1,4 @@
+- [I Waited 10 Billion Cycles and All I Got Was This Loading Screen](https://blog.preyneyv.dev/doing-less-with-more) #read
 - [目录 | 系统设计面试：内幕指南](https://learning-guide.gitbook.io/system-design-interview/) #books
 - [Makefiles for Web Work](https://rosszurowski.com/log/2022/makefiles) #read
 - [Home | nand2tetris](https://www.nand2tetris.org) #books
