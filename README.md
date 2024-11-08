@@ -1,3 +1,4 @@
+- [hermit-crab/ScrapeMate](https://github.com/hermit-crab/ScrapeMate) Quick way to interactively pick and maintain CSS/XPath selectors and their presets for external use: website testing or scraping. #tools
 - [Building My Resume in HTML using Eleventy by Michael Engen](https://michaelengen.com/posts/my-eleventy-resume/) #read
 - [I Waited 10 Billion Cycles and All I Got Was This Loading Screen](https://blog.preyneyv.dev/doing-less-with-more) #read
 - [目录 | 系统设计面试：内幕指南](https://learning-guide.gitbook.io/system-design-interview/) #books
