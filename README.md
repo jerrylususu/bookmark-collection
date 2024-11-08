@@ -1,3 +1,4 @@
+- [目录 | 系统设计面试：内幕指南](https://learning-guide.gitbook.io/system-design-interview/) #books
 - [Makefiles for Web Work](https://rosszurowski.com/log/2022/makefiles) #read
 - [Home | nand2tetris](https://www.nand2tetris.org) #books
 - [Parsing JSON is a Minefield](https://seriot.ch/projects/parsing_json.html) #deepdive#read
