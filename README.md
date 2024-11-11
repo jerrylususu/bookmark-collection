@@ -1,3 +1,4 @@
+- [Algorithms we develop software by](https://grantslatton.com/software-pathfinding) #read
 - [Everything I've learned so far about running local LLMs](https://nullprogram.com/blog/2024/11/10/) #read#llm
 - [hermit-crab/ScrapeMate](https://github.com/hermit-crab/ScrapeMate) Quick way to interactively pick and maintain CSS/XPath selectors and their presets for external use: website testing or scraping. #tools
 - [Building My Resume in HTML using Eleventy by Michael Engen](https://michaelengen.com/posts/my-eleventy-resume/) #read
