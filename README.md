@@ -1,3 +1,4 @@
+- [Binary vector embeddings are so cool](https://emschwartz.me/binary-vector-embeddings-are-so-cool/) #read#llm
 - [Anyway, the wind blows](https://shkspr.mobi/blog/2024/11/anyway-the-wind-blows/) #read
 - [Algorithms we develop software by](https://grantslatton.com/software-pathfinding) #read
 - [Everything I've learned so far about running local LLMs](https://nullprogram.com/blog/2024/11/10/) #read#llm
