@@ -1,3 +1,4 @@
+- [The TTY demystified](https://www.linusakesson.net/programming/tty/) #deepdive
 - [Nomadic Infrastructure Design for AI Workloads | Tigris Object Storage](https://www.tigrisdata.com/blog/nomadic-compute/) #read#arch
 - [How I ship projects at big tech companies](https://www.seangoedecke.com/how-to-ship/) #read#people
 - [Binary vector embeddings are so cool](https://emschwartz.me/binary-vector-embeddings-are-so-cool/) #read#llm
