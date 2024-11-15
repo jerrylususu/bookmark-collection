@@ -1,3 +1,4 @@
+- [Voice is (mostly) Bad UI](https://shubhamjain.co/2024/04/16/voice-is-bad-ui/) #read#ui
 - [Trayce](https://trayce.dev) "The network tab for Docker containers."
 Intercept HTTP(S) requests to & from Docker containers in your local dev environment. #tools
 - [AWS Lambda turns 10: A rare look at the doc that started it](https://www.allthingsdistributed.com/2024/11/aws-lambda-turns-10-a-rare-look-at-the-doc-that-started-it.html) #read
