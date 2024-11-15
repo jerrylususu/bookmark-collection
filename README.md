@@ -1,3 +1,4 @@
+- [一站式 iframe 生成器 | 专业的嵌入内容可视化配置工具](https://iframegenerator.top/) #tools
 - [Voice is (mostly) Bad UI](https://shubhamjain.co/2024/04/16/voice-is-bad-ui/) #read#ui
 - [Trayce](https://trayce.dev) "The network tab for Docker containers."
 Intercept HTTP(S) requests to & from Docker containers in your local dev environment. #tools
