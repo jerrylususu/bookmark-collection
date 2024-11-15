@@ -1,3 +1,5 @@
+- [Trayce](https://trayce.dev) "The network tab for Docker containers."
+Intercept HTTP(S) requests to & from Docker containers in your local dev environment. #tools
 - [AWS Lambda turns 10: A rare look at the doc that started it](https://www.allthingsdistributed.com/2024/11/aws-lambda-turns-10-a-rare-look-at-the-doc-that-started-it.html) #read
 - [The TTY demystified](https://www.linusakesson.net/programming/tty/) #deepdive
 - [Nomadic Infrastructure Design for AI Workloads | Tigris Object Storage](https://www.tigrisdata.com/blog/nomadic-compute/) #read#arch
