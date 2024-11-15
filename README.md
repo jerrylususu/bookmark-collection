@@ -1,3 +1,4 @@
+- [The Case for Failure-Tolerant Leaders: Why we need them now](https://praachi.work/blog/failure-tolerant-leaders) #read
 - [Byaidu/PDFMathTranslate](https://github.com/Byaidu/PDFMathTranslate) #tools
 - [一站式 iframe 生成器 | 专业的嵌入内容可视化配置工具](https://iframegenerator.top/) #tools
 - [Voice is (mostly) Bad UI](https://shubhamjain.co/2024/04/16/voice-is-bad-ui/) #read#ui
