@@ -1,3 +1,4 @@
+- [Steve Ballmer was an underrated CEO](https://danluu.com/ballmer/) #read#people
 - [Exploring Typst, a new typesetting system similar to LaTeX - jreyesr's blog](https://blog.jreyesr.com/posts/typst/#vs-word-google-docs-and-text-processors) #deepdive
 - [The Case for Failure-Tolerant Leaders: Why we need them now](https://praachi.work/blog/failure-tolerant-leaders) #read
 - [Byaidu/PDFMathTranslate](https://github.com/Byaidu/PDFMathTranslate) #tools
