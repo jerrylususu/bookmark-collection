@@ -1,3 +1,4 @@
+- [download-esm: a tool for downloading ECMAScript modules](https://simonwillison.net/2023/May/2/download-esm/) #tools
 - [Importing a frontend Javascript library without a build system](https://jvns.ca/blog/2024/11/18/how-to-import-a-javascript-library/) #guide#frontend
 - [Against SQL](https://www.scattered-thoughts.net/writing/against-sql/) #read
 - [Steve Ballmer was an underrated CEO](https://danluu.com/ballmer/) #read#people
