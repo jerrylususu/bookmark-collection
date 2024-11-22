@@ -1,3 +1,4 @@
+- [OK, I can partly explain the LLM chess weirdness now](https://dynomight.net/more-chess/) #read
 - [Understanding the BM25 full text search algorithm](https://emschwartz.me/understanding-the-bm25-full-text-search-algorithm/) #deepdive#algo
 - [Jetstream: Shrinking the AT Proto Firehose by >99%](https://jazco.dev/2024/09/24/jetstream/) #read
 - [Security means securing people where they are](https://blog.yossarian.net/2024/11/18/Security-means-securing-people-where-they-are) #read
