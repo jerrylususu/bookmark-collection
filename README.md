@@ -1,3 +1,4 @@
+- [How decentralized is Bluesky really? -- Dustycloud Brainstorms](https://dustycloud.org/blog/how-decentralized-is-bluesky/) #deepdive
 - [LAN Party House](https://lanparty.house/) #read
 - [OK, I can partly explain the LLM chess weirdness now](https://dynomight.net/more-chess/) #read
 - [Understanding the BM25 full text search algorithm](https://emschwartz.me/understanding-the-bm25-full-text-search-algorithm/) #deepdive#algo
