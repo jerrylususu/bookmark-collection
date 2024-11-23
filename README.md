@@ -1,3 +1,4 @@
+- [Burning NeXTCube](https://simson.net/ref/1993/cubefire.html) #read
 - [How decentralized is Bluesky really? -- Dustycloud Brainstorms](https://dustycloud.org/blog/how-decentralized-is-bluesky/) #deepdive
 - [LAN Party House](https://lanparty.house/) #read
 - [OK, I can partly explain the LLM chess weirdness now](https://dynomight.net/more-chess/) #read
