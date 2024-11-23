@@ -1,3 +1,4 @@
+- [Petnames: A humane approach to secure, decentralized naming](https://files.spritely.institute/papers/petnames.html) #read#distributed
 - [The Fun Scale: Understanding Types of "Fun" | REI Co-op Journal](https://www.rei.com/blog/climb/fun-scale) #read
 - [Burning NeXTCube](https://simson.net/ref/1993/cubefire.html) #read
 - [How decentralized is Bluesky really? -- Dustycloud Brainstorms](https://dustycloud.org/blog/how-decentralized-is-bluesky/) #deepdive
