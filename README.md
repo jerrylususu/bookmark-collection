@@ -1,3 +1,4 @@
+- [Interactive Git Log - Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=interactive-smartlog.interactive-smartlog) #tools
 - [Introduction to lcl.host – Anchor](https://anchor.dev/docs/lcl-host/why-lcl) #tools
 - [Petnames: A humane approach to secure, decentralized naming](https://files.spritely.institute/papers/petnames.html) #read#distributed
 - [The Fun Scale: Understanding Types of "Fun" | REI Co-op Journal](https://www.rei.com/blog/climb/fun-scale) #read
