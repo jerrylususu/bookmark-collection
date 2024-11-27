@@ -1,3 +1,4 @@
+- [Double Shipping](https://zachholman.com/posts/double-shipping) #read
 - [</> htmx ~ Codin' Dirty](https://htmx.org/essays/codin-dirty/) #read#arch
 - [4個技巧幫我捕捉一閃而逝的「經驗筆記」，建立更實用的第二大腦](https://www.playpcesor.com/2024/11/4.html) #read
 - [@celine/celine](https://maxbo.me/celine/) @celine/celine is library for building reactive HTML notebooks with display: block contenteditable <script> elements #tools#frontend
