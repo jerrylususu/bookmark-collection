@@ -1,3 +1,4 @@
+- [Automated Decision Logs in AI-Assisted Coding](https://addyosmani.com/blog/automated-decision-logs/) #read#hack
 - [Storing times for human events](https://simonwillison.net/2024/Nov/27/storing-times-for-human-events/) #read#design
 - [Double Shipping](https://zachholman.com/posts/double-shipping) #read
 - [</> htmx ~ Codin' Dirty](https://htmx.org/essays/codin-dirty/) #read#arch
