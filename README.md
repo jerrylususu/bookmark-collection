@@ -1,3 +1,4 @@
+- [Storing times for human events](https://simonwillison.net/2024/Nov/27/storing-times-for-human-events/) #read#design
 - [Double Shipping](https://zachholman.com/posts/double-shipping) #read
 - [</> htmx ~ Codin' Dirty](https://htmx.org/essays/codin-dirty/) #read#arch
 - [4個技巧幫我捕捉一閃而逝的「經驗筆記」，建立更實用的第二大腦](https://www.playpcesor.com/2024/11/4.html) #read
