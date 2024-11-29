@@ -1,3 +1,4 @@
+- [How I Built My Blog • Josh W. Comeau](https://www.joshwcomeau.com/blog/how-i-built-my-blog-v2/) #read#frontend#deepdive
 - [Server Setup Basics](https://becomesovran.com/blog/server-setup-basics.html) #read#guide
 - [Jonas Hietala: A simple timeline using CSS flexbox](https://www.jonashietala.se/blog/2024/08/25/a_simple_timeline_using_css_flexbox/) #read#frontend
 - [Poisoning the day](https://ashore.io/journal/crossover-creativity/poisoning-the-day) #read
