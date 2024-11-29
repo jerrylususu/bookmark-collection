@@ -1,3 +1,4 @@
+- [LocalStorage vs. IndexedDB vs. Cookies vs. OPFS vs. WASM-SQLite | RxDB - JavaScript Database](https://rxdb.info/articles/localstorage-indexeddb-cookies-opfs-sqlite-wasm.html) #frontend#deepdive
 - [Monitor replacement — using a projector for a home office setup](https://sofiapandelea.medium.com/monitor-replacement-using-a-projector-for-a-home-office-setup-231d2891b3ae) #read
 - [GitHub OAuth for a static site using Cloudflare Workers](https://til.simonwillison.net/cloudflare/workers-github-oauth) #hack
 - [Automated Decision Logs in AI-Assisted Coding](https://addyosmani.com/blog/automated-decision-logs/) #read#hack
