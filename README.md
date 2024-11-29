@@ -1,3 +1,4 @@
+- [Jonas Hietala: A simple timeline using CSS flexbox](https://www.jonashietala.se/blog/2024/08/25/a_simple_timeline_using_css_flexbox/) #read#frontend
 - [Poisoning the day](https://ashore.io/journal/crossover-creativity/poisoning-the-day) #read
 - [LocalStorage vs. IndexedDB vs. Cookies vs. OPFS vs. WASM-SQLite | RxDB - JavaScript Database](https://rxdb.info/articles/localstorage-indexeddb-cookies-opfs-sqlite-wasm.html) #frontend#deepdive
 - [Monitor replacement — using a projector for a home office setup](https://sofiapandelea.medium.com/monitor-replacement-using-a-projector-for-a-home-office-setup-231d2891b3ae) #read
