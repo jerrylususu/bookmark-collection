@@ -1,3 +1,4 @@
+- [Monitor replacement — using a projector for a home office setup](https://sofiapandelea.medium.com/monitor-replacement-using-a-projector-for-a-home-office-setup-231d2891b3ae) #read
 - [GitHub OAuth for a static site using Cloudflare Workers](https://til.simonwillison.net/cloudflare/workers-github-oauth) #hack
 - [Automated Decision Logs in AI-Assisted Coding](https://addyosmani.com/blog/automated-decision-logs/) #read#hack
 - [Storing times for human events](https://simonwillison.net/2024/Nov/27/storing-times-for-human-events/) #read#design
