@@ -1,3 +1,4 @@
+- [Learnings after 4 years working with +50 companies on data engineering projects](https://javisantana.com/2024/11/30/learnings-after-4-years-data-eng.html) #read
 - [Why pipes sometimes get "stuck": buffering](https://jvns.ca/blog/2024/11/29/why-pipes-get-stuck-buffering/) #read#deepdive
 - [How I Built My Blog • Josh W. Comeau](https://www.joshwcomeau.com/blog/how-i-built-my-blog-v2/) #read#frontend#deepdive
 - [Server Setup Basics](https://becomesovran.com/blog/server-setup-basics.html) #read#guide
