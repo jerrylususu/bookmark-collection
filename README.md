@@ -1,3 +1,4 @@
+- [评论尸的 AI 生产力经验 – 虹线](https://1q43.blog/post/10695/) #read
 - [Bash Strict Mode](http://redsymbol.net/articles/unofficial-bash-strict-mode/) #guide
 - [Learnings after 4 years working with +50 companies on data engineering projects](https://javisantana.com/2024/11/30/learnings-after-4-years-data-eng.html) #read
 - [Why pipes sometimes get "stuck": buffering](https://jvns.ca/blog/2024/11/29/why-pipes-get-stuck-buffering/) #read#deepdive
