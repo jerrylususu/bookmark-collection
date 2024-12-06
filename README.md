@@ -1,3 +1,4 @@
+- [PyMyFlySpy: track your flight using its headrest data | Robert Heaton](https://robertheaton.com/pymyflyspy/) #read
 - [Roaming RAG – Make the Model Find the Answers - Arcturus Labs](http://arcturus-labs.com/blog/2024/11/21/roaming-rag--make-_the-model_-find-the-answers/) #read#llm
 - [Egoless Engineering](https://egoless.engineering/#19) #read
 - [评论尸的 AI 生产力经验 – 虹线](https://1q43.blog/post/10695/) #read
