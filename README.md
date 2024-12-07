@@ -1,3 +1,4 @@
+- [避免在分布式系统中回退](https://aws.amazon.com/cn/builders-library/avoiding-fallback-in-distributed-systems/) #read#distributed
 - [PySkyWiFi: completely free, unbelievably stupid wi-fi on long-haul flights | Robert Heaton](https://robertheaton.com/pyskywifi/) #read#hack
 - [PyMyFlySpy: track your flight using its headrest data | Robert Heaton](https://robertheaton.com/pymyflyspy/) #read
 - [Roaming RAG – Make the Model Find the Answers - Arcturus Labs](http://arcturus-labs.com/blog/2024/11/21/roaming-rag--make-_the-model_-find-the-answers/) #read#llm
