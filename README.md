@@ -1,3 +1,4 @@
+- [The Depths of Wikipedians—Asterisk](https://asteriskmag.com/issues/08/the-depths-of-wikipedians) #read
 - [Why my new audiobook “The Software Engineer's Guidebook” is everywhere except on Audible](https://newsletter.pragmaticengineer.com/p/software-engineers-guidebook-audiobook) #read
 - [ChatGPT Canvas can make API requests now, but it’s complicated](https://simonwillison.net/2024/Dec/10/chatgpt-canvas/) #read#llm
 - [不要轻易地走进 AI Native（AI 原生） – 虹线](https://1q43.blog/post/10736/) #read
