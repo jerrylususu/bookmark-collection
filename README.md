@@ -1,3 +1,4 @@
+- [不要轻易地走进 AI Native（AI 原生） – 虹线](https://1q43.blog/post/10736/) #read
 - [A letter to open-source maintainers](https://xuanwo.io/2024/10-a-letter-to-open-source-maintainers/) #read
 - [Writing down (and searching through) every UUID · eieio.games](https://eieio.games/blog/writing-down-every-uuid/) #read#frontend
 - [避免在分布式系统中回退](https://aws.amazon.com/cn/builders-library/avoiding-fallback-in-distributed-systems/) #read#distributed
