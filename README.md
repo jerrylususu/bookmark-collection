@@ -1,3 +1,4 @@
+- [Gist of Go: Pipelines](https://antonz.org/go-concurrency/pipelines/) #read#golang
 - [The Depths of Wikipedians—Asterisk](https://asteriskmag.com/issues/08/the-depths-of-wikipedians) #read
 - [Why my new audiobook “The Software Engineer's Guidebook” is everywhere except on Audible](https://newsletter.pragmaticengineer.com/p/software-engineers-guidebook-audiobook) #read
 - [ChatGPT Canvas can make API requests now, but it’s complicated](https://simonwillison.net/2024/Dec/10/chatgpt-canvas/) #read#llm
