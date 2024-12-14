@@ -1,3 +1,4 @@
+- [A blog post is a very long and complex search query to find fascinating people and make them route interesting stuff to your inbox](https://www.henrikkarlsson.xyz/p/search-query) #read#people
 - [The age of average — Alex Murrell](https://www.alexmurrell.co.uk/articles/the-age-of-average) #read
 - [Smarter than 'Ctrl+F': Linking Directly to Web Page Content](https://alfy.blog/2024/10/19/linking-directly-to-web-page-content.html) #read#frontend
 - [Understanding Concurrency, Parallelism and JS |
