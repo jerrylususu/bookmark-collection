@@ -1,3 +1,4 @@
+- [The age of average — Alex Murrell](https://www.alexmurrell.co.uk/articles/the-age-of-average) #read
 - [Smarter than 'Ctrl+F': Linking Directly to Web Page Content](https://alfy.blog/2024/10/19/linking-directly-to-web-page-content.html) #read#frontend
 - [Understanding Concurrency, Parallelism and JS |
 rugu](https://www.rugu.dev/en/blog/concurrency-and-parallelism/) #read
