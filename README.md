@@ -1,3 +1,5 @@
+- [Understanding Concurrency, Parallelism and JS |
+rugu](https://www.rugu.dev/en/blog/concurrency-and-parallelism/) #read
 - [Make better documents. - Anil Dash](https://www.anildash.com//2024/03/10/make-better-documents/) #read#guide
 - [Systems: What does a board of directors do? - Anil Dash](https://www.anildash.com//2024/06/20/dash-board/) #read#people
 - [Networking For People Who Don’t Network](https://staysaasy.com/networking/2024/12/11/networking-for-people-who-dont-network.html) #read#guide#life
