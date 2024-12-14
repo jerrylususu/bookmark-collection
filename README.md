@@ -1,3 +1,4 @@
+- [Networking For People Who Don’t Network](https://staysaasy.com/networking/2024/12/11/networking-for-people-who-dont-network.html) #read#guide#life
 - ["Rules" that terminal programs follow](https://jvns.ca/blog/2024/11/26/terminal-rules/) #read#deepdive
 - [Gist of Go: Pipelines](https://antonz.org/go-concurrency/pipelines/) #read#golang
 - [The Depths of Wikipedians—Asterisk](https://asteriskmag.com/issues/08/the-depths-of-wikipedians) #read
