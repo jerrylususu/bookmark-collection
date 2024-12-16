@@ -1,3 +1,4 @@
+- [Preferring throwaway code over design docs](https://softwaredoug.com/blog/2024/12/14/throwaway-prs-not-design-docs) #read
 - [Everything that turned out well in my life followed the same design process](https://www.henrikkarlsson.xyz/p/unfolding) #read#life
 - [A blog post is a very long and complex search query to find fascinating people and make them route interesting stuff to your inbox](https://www.henrikkarlsson.xyz/p/search-query) #read#people
 - [The age of average — Alex Murrell](https://www.alexmurrell.co.uk/articles/the-age-of-average) #read
