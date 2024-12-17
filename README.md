@@ -1,3 +1,4 @@
+- [浅谈DSPy和自动化提示词工程（中） - 铁蕾的个人博客](http://zhangtielei.com/posts/blog-dspy-internals-2.html) #read#llm
 - [浅谈DSPy和自动化提示词工程（上） - 铁蕾的个人博客](http://zhangtielei.com/posts/blog-dspy-internals-1.html) #read#llm
 - [Preferring throwaway code over design docs](https://softwaredoug.com/blog/2024/12/14/throwaway-prs-not-design-docs) #read
 - [Everything that turned out well in my life followed the same design process](https://www.henrikkarlsson.xyz/p/unfolding) #read#life
