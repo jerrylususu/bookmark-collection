@@ -1,3 +1,4 @@
+- [Problem Driven Development](https://staysaasy.com/engineering/2024/12/17/problem-driven-development.html) #read
 - [DSPy下篇：兼论o1、Inference-time Compute和Reasoning - 铁蕾的个人博客](http://zhangtielei.com/posts/blog-dspy-internals-3.html) #read#llm
 - [浅谈DSPy和自动化提示词工程（中） - 铁蕾的个人博客](http://zhangtielei.com/posts/blog-dspy-internals-2.html) #read#llm
 - [浅谈DSPy和自动化提示词工程（上） - 铁蕾的个人博客](http://zhangtielei.com/posts/blog-dspy-internals-1.html) #read#llm
