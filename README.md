@@ -1,3 +1,4 @@
+- [Being on The Semantic Web is easy, and, frankly, well worth the bother](https://csvbase.com/blog/13) #read
 - [Building effective agents](https://www.anthropic.com/research/building-effective-agents) #read#guide#llm
 - [Java in the Small](https://horstmann.com/unblog/2024-12-11/index.html) #read
 - [Building Python tools with a one-shot prompt using uv run and Claude Projects](https://simonwillison.net/2024/Dec/19/one-shot-python-tools/) #read#hack
