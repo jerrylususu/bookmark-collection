@@ -1,3 +1,4 @@
+- [Codifying a ChatGPT workflow into a malleable GUI](https://www.geoffreylitt.com/2023/07/25/building-personal-tools-on-the-fly-with-llms) #read
 - [AI-generated tools can make programming more fun](https://www.geoffreylitt.com/2024/12/22/making-programming-more-fun-with-an-ai-generated-debugger.html) #read
 - [The Untold Story of SQLite - CoRecursive Podcast](https://corecursive.com/066-sqlite-with-richard-hipp/) #read
 - [Being on The Semantic Web is easy, and, frankly, well worth the bother](https://csvbase.com/blog/13) #read
