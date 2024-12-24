@@ -1,3 +1,4 @@
+- [当患有 ADHD 的工程师坐上了名为人工智能的四驱赛博轮椅](https://roriri.one/2024/12/16/adhd-and-llm/) #read
 - [My approach to running a link blog](https://simonwillison.net/2024/Dec/22/link-blog/) #read
 - [Codifying a ChatGPT workflow into a malleable GUI](https://www.geoffreylitt.com/2023/07/25/building-personal-tools-on-the-fly-with-llms) #read
 - [AI-generated tools can make programming more fun](https://www.geoffreylitt.com/2024/12/22/making-programming-more-fun-with-an-ai-generated-debugger.html) #read
