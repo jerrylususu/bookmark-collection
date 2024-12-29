@@ -1,3 +1,4 @@
+- [Why You Are Probably An NPC](https://www.gurwinder.blog/p/why-you-are-probably-an-npc) #read
 - [Useful built-in macOS command-line utilities](https://weiyen.net/articles/useful-macos-cmd-line-utilities/) #read
 - [My Approach to Building Large Technical Projects](https://mitchellh.com/writing/building-large-technical-projects) #read
 - [Sometimes I cache: implementing lock-free probabilistic caching](https://blog.cloudflare.com/sometimes-i-cache/) #read
