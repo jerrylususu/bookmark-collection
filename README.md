@@ -1,3 +1,4 @@
+- [My Approach to Building Large Technical Projects](https://mitchellh.com/writing/building-large-technical-projects) #read
 - [Sometimes I cache: implementing lock-free probabilistic caching](https://blog.cloudflare.com/sometimes-i-cache/) #read
 - [A black cat in 2032 bytes](https://evanhahn.com/light-switch/) #hack
 - [Cognitive load is what matters](https://minds.md/zakirullin/cognitive#long) #read
