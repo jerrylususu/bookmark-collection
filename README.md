@@ -1,3 +1,4 @@
+- [Can LLMs write better code if you keep asking them to “write better code”?](https://minimaxir.com/2025/01/write-better-code/) #read
 - [On Long Term Software Development - Bert Hubert's writings ](https://berthub.eu/articles/posts/on-long-term-software-development/) #read
 - [Why You Are Probably An NPC](https://www.gurwinder.blog/p/why-you-are-probably-an-npc) #read
 - [Useful built-in macOS command-line utilities](https://weiyen.net/articles/useful-macos-cmd-line-utilities/) #read
