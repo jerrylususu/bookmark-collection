@@ -1,3 +1,4 @@
+- [The 70% problem: Hard truths about AI-assisted coding](https://addyo.substack.com/p/the-70-problem-hard-truths-about) #read#llm
 - [What can strong engineers do that weak engineers can't?](https://www.seangoedecke.com/weak-engineers/) #read
 - [alufers/mitmproxy2swagger](https://github.com/alufers/mitmproxy2swagger) Automagically reverse-engineer REST APIs via capturing traffic #tools
 - [Can LLMs write better code if you keep asking them to “write better code”?](https://minimaxir.com/2025/01/write-better-code/) #read
