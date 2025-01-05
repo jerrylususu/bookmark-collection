@@ -1,3 +1,4 @@
+- [Using LLMs and Cursor to become a finisher](https://zohaib.me/using-llms-and-cursor-for-finishing-projects-productivity/) #read#llm
 - [Mistakes engineers make in large established codebases](https://www.seangoedecke.com/large-established-codebases/) #read#guide
 - [The 70% problem: Hard truths about AI-assisted coding](https://addyo.substack.com/p/the-70-problem-hard-truths-about) #read#llm
 - [What can strong engineers do that weak engineers can't?](https://www.seangoedecke.com/weak-engineers/) #read
