@@ -1,3 +1,4 @@
+- [How I program with LLMs](https://crawshaw.io/blog/programming-with-llms) #read#llm
 - [htmx ~ The future of htmx](https://htmx.org/essays/future/) #read#frontend
 - [What we learned copying all the best code assistants](https://blog.val.town/blog/fast-follow/) #read#llm
 - [Using LLMs and Cursor to become a finisher](https://zohaib.me/using-llms-and-cursor-for-finishing-projects-productivity/) #read#llm
