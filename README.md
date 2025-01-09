@@ -1,3 +1,4 @@
+- [Double-keyed Caching: How Browser Cache Partitioning Changed the Web](https://addyosmani.com/blog/double-keyed-caching/) #read#frontend
 - [Why is hash(-1) == hash(-2) in Python?](https://omairmajid.com/posts/2021-07-16-why-is-hash-in-python/) #read#py
 - [How I program with LLMs](https://crawshaw.io/blog/programming-with-llms) #read#llm
 - [htmx ~ The future of htmx](https://htmx.org/essays/future/) #read#frontend
