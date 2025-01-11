@@ -1,3 +1,4 @@
+- [Everything Must Be Paid for Twice](https://www.raptitude.com/2022/01/everything-must-be-paid-for-twice/) #read
 - [Double-keyed Caching: How Browser Cache Partitioning Changed the Web](https://addyosmani.com/blog/double-keyed-caching/) #read#frontend
 - [Why is hash(-1) == hash(-2) in Python?](https://omairmajid.com/posts/2021-07-16-why-is-hash-in-python/) #read#py
 - [How I program with LLMs](https://crawshaw.io/blog/programming-with-llms) #read#llm
