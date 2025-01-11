@@ -1,3 +1,4 @@
+- [Start Presentations on the Second Slide](https://tidyfirst.substack.com/p/start-presentations-on-the-second) #read#hack
 - [Collection of insane and fun facts about SQLite - blag](https://avi.im/blag/2024/sqlite-facts/) #read
 - [Everything Must Be Paid for Twice](https://www.raptitude.com/2022/01/everything-must-be-paid-for-twice/) #read
 - [Double-keyed Caching: How Browser Cache Partitioning Changed the Web](https://addyosmani.com/blog/double-keyed-caching/) #read#frontend
