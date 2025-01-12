@@ -1,3 +1,4 @@
+- [Agents](https://huyenchip.com/2025/01/07/agents.html) This post is adapted from the Agents section of AI Engineering (2025) #read#llm
 - [What's involved in getting a "modern" terminal setup?](https://jvns.ca/blog/2025/01/11/getting-a-modern-terminal-setup/) #read
 - [Start Presentations on the Second Slide](https://tidyfirst.substack.com/p/start-presentations-on-the-second) #read#hack
 - [Collection of insane and fun facts about SQLite - blag](https://avi.im/blag/2024/sqlite-facts/) #read
