@@ -1,3 +1,4 @@
+- [o1 isn’t a chat model (and that’s the point)](https://www.latent.space/p/o1-skill-issue) #read#llm
 - [Agents](https://huyenchip.com/2025/01/07/agents.html) This post is adapted from the Agents section of AI Engineering (2025) #read#llm
 - [What's involved in getting a "modern" terminal setup?](https://jvns.ca/blog/2025/01/11/getting-a-modern-terminal-setup/) #read
 - [Start Presentations on the Second Slide](https://tidyfirst.substack.com/p/start-presentations-on-the-second) #read#hack
