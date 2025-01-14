@@ -1,4 +1,4 @@
-- [Playground Wisdom: Threads Beat Async/Await](https://lucumr.pocoo.org/2024/11/18/threads-beat-async-await/) #read
+- [Playground Wisdom: Threads Beat Async/Await](https://lucumr.pocoo.org/2024/11/18/threads-beat-async-await/) #read#language
 - [Crushing JIRA tickets is a party trick, not a path to impact](https://www.seangoedecke.com/party-tricks/) #read#people
 - [o1 isn’t a chat model (and that’s the point)](https://www.latent.space/p/o1-skill-issue) #read#llm
 - [Agents](https://huyenchip.com/2025/01/07/agents.html) This post is adapted from the Agents section of AI Engineering (2025) #read#llm
