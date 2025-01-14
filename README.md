@@ -1,3 +1,4 @@
+- [Notes on structured concurrency, or: Go statement considered harmful — njs blog](https://vorpus.org/blog/notes-on-structured-concurrency-or-go-statement-considered-harmful/) #read#language
 - [Playground Wisdom: Threads Beat Async/Await](https://lucumr.pocoo.org/2024/11/18/threads-beat-async-await/) #read#language
 - [Crushing JIRA tickets is a party trick, not a path to impact](https://www.seangoedecke.com/party-tricks/) #read#people
 - [o1 isn’t a chat model (and that’s the point)](https://www.latent.space/p/o1-skill-issue) #read#llm
