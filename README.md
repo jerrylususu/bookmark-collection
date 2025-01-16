@@ -1,3 +1,4 @@
+- [布局 2025：我的时间管理三原则 - 少数派](https://sspai.com/post/95533) #read
 - [「君の名は。」の二人は例の階段で出会えるのか](https://dailyportalz.jp/kiji/kiminonaha-deaeruka) #read
 - [Timeouts and cancellation for humans — njs blog](https://vorpus.org/blog/timeouts-and-cancellation-for-humans/) #read#language
 - [Notes on structured concurrency, or: Go statement considered harmful — njs blog](https://vorpus.org/blog/notes-on-structured-concurrency-or-go-statement-considered-harmful/) #read#language
