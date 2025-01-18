@@ -1,3 +1,4 @@
+- [一个副业应用的开发心得](https://javayhu.com/2018-nian-yi-ge-xiao-fu-ye-de-kai-fa-xin-de/) #read#deepdive
 - [布局 2025：我的时间管理三原则 - 少数派](https://sspai.com/post/95533) #read
 - [「君の名は。」の二人は例の階段で出会えるのか](https://dailyportalz.jp/kiji/kiminonaha-deaeruka) #read
 - [Timeouts and cancellation for humans — njs blog](https://vorpus.org/blog/timeouts-and-cancellation-for-humans/) #read#language
