@@ -1,3 +1,4 @@
+- [ What I've learned about writing AI apps so far | Seldo.com](https://seldo.com/posts/what-ive-learned-about-writing-ai-apps-so-far) #read#llm
 - [Protecting your time from predators in large tech companies](https://www.seangoedecke.com/predators/) #read#people
 - [一个副业应用的开发心得](https://javayhu.com/2018-nian-yi-ge-xiao-fu-ye-de-kai-fa-xin-de/) #read#deepdive
 - [布局 2025：我的时间管理三原则 - 少数派](https://sspai.com/post/95533) #read
