@@ -1,3 +1,4 @@
+- [AI Mistakes Are Very Different from Human Mistakes - Schneier on Security](https://www.schneier.com/blog/archives/2025/01/ai-mistakes-are-very-different-from-human-mistakes.html) #read#llm
 - [ What I've learned about writing AI apps so far | Seldo.com](https://seldo.com/posts/what-ive-learned-about-writing-ai-apps-so-far) #read#llm
 - [Protecting your time from predators in large tech companies](https://www.seangoedecke.com/predators/) #read#people
 - [一个副业应用的开发心得](https://javayhu.com/2018-nian-yi-ge-xiao-fu-ye-de-kai-fa-xin-de/) #read#deepdive
