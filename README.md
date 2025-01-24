@@ -1,3 +1,4 @@
+- [The Essence of Successful Abstractions — Sympolymathesy, by Chris Krycho](https://v5.chriskrycho.com/journal/essence-of-successful-abstractions/) #read
 - [AI Mistakes Are Very Different from Human Mistakes - Schneier on Security](https://www.schneier.com/blog/archives/2025/01/ai-mistakes-are-very-different-from-human-mistakes.html) #read#llm
 - [ What I've learned about writing AI apps so far | Seldo.com](https://seldo.com/posts/what-ive-learned-about-writing-ai-apps-so-far) #read#llm
 - [Protecting your time from predators in large tech companies](https://www.seangoedecke.com/predators/) #read#people
