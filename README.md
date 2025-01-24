@@ -1,3 +1,4 @@
+- [Is TypeScript Good?—A Reply to Rach Smith — Sympolymathesy, by Chris Krycho](https://v5.chriskrycho.com/journal/is-typescript-good/) #read#design
 - [Why are big tech companies so slow?](https://www.seangoedecke.com/difficulty-in-big-tech/) #read
 - [The Essence of Successful Abstractions — Sympolymathesy, by Chris Krycho](https://v5.chriskrycho.com/journal/essence-of-successful-abstractions/) #read
 - [AI Mistakes Are Very Different from Human Mistakes - Schneier on Security](https://www.schneier.com/blog/archives/2025/01/ai-mistakes-are-very-different-from-human-mistakes.html) #read#llm
