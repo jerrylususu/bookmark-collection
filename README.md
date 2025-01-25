@@ -1,3 +1,4 @@
+- [Learn Yjs by Jamsocket](https://learn.yjs.dev/) #books
 - [OS in 1,000 Lines](https://operating-system-in-1000-lines.vercel.app/zh/) #books
 - [Safe Assignment | Alan Johnson](https://nalanj.dev/posts/safe-assignment/) #read#js
 - [A WebAssembly compiler that fits in a tweet](https://wasmgroundup.com/blog/wasm-compiler-in-a-tweet/) #read#web
