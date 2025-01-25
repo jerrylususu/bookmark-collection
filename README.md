@@ -1,3 +1,4 @@
+- [A WebAssembly compiler that fits in a tweet](https://wasmgroundup.com/blog/wasm-compiler-in-a-tweet/) #read#web
 - [Working fast and slow](https://www.seangoedecke.com/working-fast-and-slow/) #read#career
 - [Is TypeScript Good?—A Reply to Rach Smith — Sympolymathesy, by Chris Krycho](https://v5.chriskrycho.com/journal/is-typescript-good/) #read#design
 - [Why are big tech companies so slow?](https://www.seangoedecke.com/difficulty-in-big-tech/) #read
