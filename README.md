@@ -1,3 +1,4 @@
+- [Working fast and slow](https://www.seangoedecke.com/working-fast-and-slow/) #read#career
 - [Is TypeScript Good?—A Reply to Rach Smith — Sympolymathesy, by Chris Krycho](https://v5.chriskrycho.com/journal/is-typescript-good/) #read#design
 - [Why are big tech companies so slow?](https://www.seangoedecke.com/difficulty-in-big-tech/) #read
 - [The Essence of Successful Abstractions — Sympolymathesy, by Chris Krycho](https://v5.chriskrycho.com/journal/essence-of-successful-abstractions/) #read
