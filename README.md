@@ -1,3 +1,4 @@
+- [The Short Case for Nvidia Stock](https://youtubetranscriptoptimizer.com/blog/05_the_short_case_for_nvda) #read
 - [Learn Yjs by Jamsocket](https://learn.yjs.dev/) #books
 - [OS in 1,000 Lines](https://operating-system-in-1000-lines.vercel.app/zh/) #books
 - [Safe Assignment | Alan Johnson](https://nalanj.dev/posts/safe-assignment/) #read#js
