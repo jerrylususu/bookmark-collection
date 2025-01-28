@@ -1,3 +1,4 @@
+- [Nomadic Infrastructure Design for AI workloads](https://xeiaso.net/talks/2025/nomadic-compute/) #read
 - [My failed attempt to shrink all npm packages by 5%](https://evanhahn.com/my-failed-attempt-to-shrink-all-npm-packages-by-5-percent/) #read
 - [The Short Case for Nvidia Stock](https://youtubetranscriptoptimizer.com/blog/05_the_short_case_for_nvda) #read
 - [Learn Yjs by Jamsocket](https://learn.yjs.dev/) #books
