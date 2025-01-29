@@ -1,3 +1,4 @@
+- [Craft and tools and jigs](https://pjonori.blog/posts/crafts-and-tools-and-jigs/) #read
 - [DeepSeek FAQ](https://stratechery.com/2025/deepseek-faq/) #read
 - [Nomadic Infrastructure Design for AI workloads](https://xeiaso.net/talks/2025/nomadic-compute/) #read
 - [My failed attempt to shrink all npm packages by 5%](https://evanhahn.com/my-failed-attempt-to-shrink-all-npm-packages-by-5-percent/) #read
