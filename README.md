@@ -1,3 +1,4 @@
+- [The surprising way to save memory with BytesIO](https://pythonspeed.com/articles/bytesio-reduce-memory-usage/) #read#py
 - [Taking on Google search: Perplexity and Kagi](https://newsletter.pragmaticengineer.com/p/perplexity-and-kagi) #read
 - [Craft and tools and jigs](https://pjonori.blog/posts/crafts-and-tools-and-jigs/) #read
 - [DeepSeek FAQ](https://stratechery.com/2025/deepseek-faq/) #read
