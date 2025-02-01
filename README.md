@@ -1,3 +1,4 @@
+- [Headline driven development - Slava Akhmechet](https://www.spakhm.com/headline-development) #read
 - [Git: avoid reset --hard, use reset --keep instead - Adam Johnson](https://adamj.eu/tech/2024/09/02/git-avoid-reset-hard-use-keep/) #read#git
 - [The surprising way to save memory with BytesIO](https://pythonspeed.com/articles/bytesio-reduce-memory-usage/) #read#py
 - [Taking on Google search: Perplexity and Kagi](https://newsletter.pragmaticengineer.com/p/perplexity-and-kagi) #read
