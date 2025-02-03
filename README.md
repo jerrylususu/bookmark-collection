@@ -70,8 +70,7 @@
 - [A blog post is a very long and complex search query to find fascinating people and make them route interesting stuff to your inbox](https://www.henrikkarlsson.xyz/p/search-query) #read#people
 - [The age of average — Alex Murrell](https://www.alexmurrell.co.uk/articles/the-age-of-average) #read
 - [Smarter than 'Ctrl+F': Linking Directly to Web Page Content](https://alfy.blog/2024/10/19/linking-directly-to-web-page-content.html) #read#frontend
-- [Understanding Concurrency, Parallelism and JS |
-rugu](https://www.rugu.dev/en/blog/concurrency-and-parallelism/) #read
+- [Understanding Concurrency, Parallelism and JS | rugu](https://www.rugu.dev/en/blog/concurrency-and-parallelism/) #read
 - [Make better documents. - Anil Dash](https://www.anildash.com//2024/03/10/make-better-documents/) #read#guide
 - [Systems: What does a board of directors do? - Anil Dash](https://www.anildash.com//2024/06/20/dash-board/) #read#people
 - [Networking For People Who Don’t Network](https://staysaasy.com/networking/2024/12/11/networking-for-people-who-dont-network.html) #read#guide#life
@@ -181,8 +180,7 @@ Intercept HTTP(S) requests to & from Docker containers in your local dev environ
 - [Terminal colours are tricky](https://jvns.ca/blog/2024/10/01/terminal-colours/) #read
 - [A Local-First Case Study | jakelazaroff.com](https://jakelazaroff.com/words/a-local-first-case-study/) #deepdive#frontend
 - [OpenAI DevDay 2024 live blog](https://simonwillison.net/2024/Oct/1/openai-devday-2024-live-blog/) #read
-- [Rowboat](https://rowboat.xyz/) Rowboat is a tool for making sense of tabular data—
-the kind found in Excel spreadsheets and CSV files. #tools
+- [Rowboat](https://rowboat.xyz/) Rowboat is a tool for making sense of tabular data—the kind found in Excel spreadsheets and CSV files. #tools
 - [Conflating Overture Places Using DuckDB, Ollama, Embeddings, and More](https://www.dbreunig.com/2024/09/27/conflating-overture-points-of-interests-with-duckdb-ollama-and-more.html) #read#guide
 - [NotebookLM’s automatically generated podcasts are surprisingly effective](https://simonwillison.net/2024/Sep/29/notebooklm-audio-overview/) #read
 - [How I Think About Debt](https://collabfund.com/blog/how-i-think-about-debt/) I think this is the most practical way to think about debt: As debt increases, you narrow the range of outcomes you can endure in life. #read
