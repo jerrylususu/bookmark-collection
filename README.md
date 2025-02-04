@@ -1,3 +1,4 @@
+- [Summarizing our recommendations for software documentation | nicole@web](/blog/our-case-study-on-software-documentation/) #read#guide
 - [The gist of s1: simple test time scaling](https://xeiaso.net/notes/2025/s1-simple-test-time-scaling/) #read#llm
 - [LLMs: harmful to technical innovation?](https://evanhahn.com/llms-and-technical-innovation/) #read#llm
 - [Are better models better? — Benedict Evans](https://www.ben-evans.com/benedictevans/2025/1/the-problem-with-better-models) #read#llm
