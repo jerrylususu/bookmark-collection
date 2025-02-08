@@ -1,3 +1,4 @@
+- [The day I taught AI to read code like a Senior Developer](https://nmn.gl/blog/ai-senior-developer) #read#llm
 - [为什么 TCP 建立连接需要三次握手](https://dbwu.tech/posts/network/why-tcp-does-needs-three-way-handshake/) #read#network
 - [Summarizing our recommendations for software documentation | nicole@web](https://ntietz.com/blog/our-case-study-on-software-documentation/) #read#guide
 - [The gist of s1: simple test time scaling](https://xeiaso.net/notes/2025/s1-simple-test-time-scaling/) #read#llm
