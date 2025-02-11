@@ -1,3 +1,4 @@
+- [You are using Cursor AI incorrectly...](https://ghuntley.com/stdlib/) #read#llm
 - [sans-IO: The secret to effective Rust for network services](https://www.firezone.dev/blog/sans-io) #read#deepdive#rust
 - [Once You're Laid Off, You'll Never Be the Same Again – Mert Bulan](https://mertbulan.com/2025/01/26/once-you-are-laid-off-you-will-never-be-the-same-again/) #read#career
 - [The day I taught AI to read code like a Senior Developer](https://nmn.gl/blog/ai-senior-developer) #read#llm
