@@ -1,3 +1,4 @@
+- [URL-addressable Pyodide Python environments](https://simonwillison.net/2025/Feb/13/url-addressable-python/) #read#python
 - [Some esoteric versioning schemes (monotonic moronity)](https://shkspr.mobi/blog/2025/02/some-esoteric-versioning-schemes-monotonic-moronity/) #read
 - [You are using Cursor AI incorrectly...](https://ghuntley.com/stdlib/) #read#llm
 - [sans-IO: The secret to effective Rust for network services](https://www.firezone.dev/blog/sans-io) #read#deepdive#rust
