@@ -1,3 +1,4 @@
+- [Do you need permission from the government to do independent research?](https://dynomight.net/irb/) #read
 - [How to add a directory to your PATH](https://jvns.ca/blog/2025/02/13/how-to-add-a-directory-to-your-path/) #read#guide
 - [URL-addressable Pyodide Python environments](https://simonwillison.net/2025/Feb/13/url-addressable-python/) #read#python
 - [Some esoteric versioning schemes (monotonic moronity)](https://shkspr.mobi/blog/2025/02/some-esoteric-versioning-schemes-monotonic-moronity/) #read
