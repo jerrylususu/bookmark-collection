@@ -1,3 +1,4 @@
+- [What are Signals?](https://playfulprogramming.com/posts/what-are-signals) #read#frontend
 - [Next-level frosted glass with backdrop-filter • Josh W. Comeau](https://www.joshwcomeau.com/css/backdrop-filter/) #read#frontend
 - [Relieving your Python packaging pain](https://www.bitecode.dev/p/relieving-your-python-packaging-pain) #read#python#guide
 - [A year of uv: pros, cons, and should you migrate](https://www.bitecode.dev/p/a-year-of-uv-pros-cons-and-should) #read#python
