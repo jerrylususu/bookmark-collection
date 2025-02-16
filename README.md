@@ -1,3 +1,4 @@
+- [A year of uv: pros, cons, and should you migrate](https://www.bitecode.dev/p/a-year-of-uv-pros-cons-and-should) #read#python
 - [Lessons on thinking from large language models](https://www.seangoedecke.com/learning-from-how-llms-think/) #read#llm
 - [Do you need permission from the government to do independent research?](https://dynomight.net/irb/) #read
 - [How to add a directory to your PATH](https://jvns.ca/blog/2025/02/13/how-to-add-a-directory-to-your-path/) #read#guide
