@@ -1,3 +1,4 @@
+- [Relieving your Python packaging pain](https://www.bitecode.dev/p/relieving-your-python-packaging-pain) #read#python#guide
 - [A year of uv: pros, cons, and should you migrate](https://www.bitecode.dev/p/a-year-of-uv-pros-cons-and-should) #read#python
 - [Lessons on thinking from large language models](https://www.seangoedecke.com/learning-from-how-llms-think/) #read#llm
 - [Do you need permission from the government to do independent research?](https://dynomight.net/irb/) #read
