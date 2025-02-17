@@ -1,3 +1,4 @@
+- [What to do about SQLITE_BUSY errors despite setting a timeout - Bert Hubert's writings](https://berthub.eu/articles/posts/a-brief-post-on-sqlite3-database-locked-despite-timeout/) #read#db
 - [What are Signals?](https://playfulprogramming.com/posts/what-are-signals) #read#frontend
 - [Next-level frosted glass with backdrop-filter • Josh W. Comeau](https://www.joshwcomeau.com/css/backdrop-filter/) #read#frontend
 - [Relieving your Python packaging pain](https://www.bitecode.dev/p/relieving-your-python-packaging-pain) #read#python#guide
