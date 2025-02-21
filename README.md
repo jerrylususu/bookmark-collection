@@ -1,3 +1,4 @@
+- [Slashing my ".bashrc" in half](https://www.bitecode.dev/p/slashing-my-bashrc-in-half) #read
 - [软件工程师的软技能指北（六）：谈薪篇](https://ramsayleung.github.io/zh/post/2025/%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B%E5%B8%88%E7%9A%84%E8%BD%AF%E6%8A%80%E8%83%BD%E6%8C%87%E5%8C%97_%E8%B0%88%E8%96%AA%E7%AF%87/) #read#career
 - [50 Years of Travel Tips](https://kk.org/thetechnium/50-years-of-travel-tips/) #read#guide
 - [What to do about SQLITE_BUSY errors despite setting a timeout - Bert Hubert's writings](https://berthub.eu/articles/posts/a-brief-post-on-sqlite3-database-locked-despite-timeout/) #read#db
