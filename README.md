@@ -1,3 +1,4 @@
+- [Dublin Core, what is it good for?](https://www.thisdaysportion.com/posts/dublin-core-what-is-it-good-for/) #read
 - [Metastable failures in the wild](http://muratbuffalo.blogspot.com/2023/09/metastable-failures-in-wild.html) #read#arch
 - [My LLM codegen workflow atm](https://harper.blog/2025/02/16/my-llm-codegen-workflow-atm/) #read#llm
 - [Slashing my ".bashrc" in half](https://www.bitecode.dev/p/slashing-my-bashrc-in-half) #read
