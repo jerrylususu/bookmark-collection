@@ -1,3 +1,4 @@
+- [</> htmx ~ You Can't Build Interactive Web Apps Except as Single Page Applications... And Other Myths](https://htmx.org/essays/you-cant/) #read#frontend
 - [Dublin Core, what is it good for?](https://www.thisdaysportion.com/posts/dublin-core-what-is-it-good-for/) #read
 - [Metastable failures in the wild](http://muratbuffalo.blogspot.com/2023/09/metastable-failures-in-wild.html) #read#arch
 - [My LLM codegen workflow atm](https://harper.blog/2025/02/16/my-llm-codegen-workflow-atm/) #read#llm
