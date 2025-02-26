@@ -1,3 +1,4 @@
+- [How Core Git Developers Configure Git](https://blog.gitbutler.com/how-git-core-devs-configure-git/) #read#git
 - [The Best Way to Use Text Embeddings Portably is With Parquet and Polars](https://minimaxir.com/2025/02/embeddings-parquet/) #read
 - [GitSeek | Copy Complete Code from Any Repo for AI Tools](https://gitseek.dev) #tools
 - [</> htmx ~ You Can't Build Interactive Web Apps Except as Single Page Applications... And Other Myths](https://htmx.org/essays/you-cant/) #read#frontend
