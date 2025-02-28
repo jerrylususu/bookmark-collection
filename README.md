@@ -1,3 +1,4 @@
+- [从 React 看前端 UI 代码范式革命 | 风痕 · 術&思](https://hughfenghen.github.io/posts/2025/02/09/react-shaped-frontend-ui-paradigms/) #read#frontend
 - [How Core Git Developers Configure Git](https://blog.gitbutler.com/how-git-core-devs-configure-git/) #read#git
 - [The Best Way to Use Text Embeddings Portably is With Parquet and Polars](https://minimaxir.com/2025/02/embeddings-parquet/) #read
 - [GitSeek | Copy Complete Code from Any Repo for AI Tools](https://gitseek.dev) #tools
