@@ -1,3 +1,4 @@
+- [Optimizing with Novel Calendrical Algorithms](https://jhpratt.dev/blog/optimizing-with-novel-calendrical-algorithms/) #read#deepdive
 - [Five coding hats](https://dubroy.com/blog/five-coding-hats/) #read#guide
 - [Smuggling arbitrary data through an emoji](https://paulbutler.org/2025/smuggling-arbitrary-data-through-an-emoji/) #read#hack
 - [Hand Tracking for Mouse Input](https://chernando.com/blog/2023/07/23/hand-tracking-for-mouse-input.html) #read#hack
