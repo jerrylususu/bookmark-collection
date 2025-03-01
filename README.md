@@ -1,3 +1,4 @@
+- [The reality of long-term software maintenance from the maintainer's perspective](https://www.construct.net/en/blogs/ashleys-blog-2/reality-long-term-software-1892) #read
 - [Optimizing with Novel Calendrical Algorithms](https://jhpratt.dev/blog/optimizing-with-novel-calendrical-algorithms/) #read#deepdive
 - [Five coding hats](https://dubroy.com/blog/five-coding-hats/) #read#guide
 - [Smuggling arbitrary data through an emoji](https://paulbutler.org/2025/smuggling-arbitrary-data-through-an-emoji/) #read#hack
