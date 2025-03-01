@@ -1,3 +1,4 @@
+- [Five coding hats](https://dubroy.com/blog/five-coding-hats/) #read#guide
 - [Smuggling arbitrary data through an emoji](https://paulbutler.org/2025/smuggling-arbitrary-data-through-an-emoji/) #read#hack
 - [Hand Tracking for Mouse Input](https://chernando.com/blog/2023/07/23/hand-tracking-for-mouse-input.html) #read#hack
 - [从 React 看前端 UI 代码范式革命 | 风痕 · 術&思](https://hughfenghen.github.io/posts/2025/02/09/react-shaped-frontend-ui-paradigms/) #read#frontend
