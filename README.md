@@ -1,3 +1,4 @@
+- [DeepSearch/DeepResearch 实施实用指南](https://jina.ai/news/a-practical-guide-to-implementing-deepsearch-deepresearch/) #read#llm
 - [The reality of long-term software maintenance from the maintainer's perspective](https://www.construct.net/en/blogs/ashleys-blog-2/reality-long-term-software-1892) #read
 - [Optimizing with Novel Calendrical Algorithms](https://jhpratt.dev/blog/optimizing-with-novel-calendrical-algorithms/) #read#deepdive
 - [Five coding hats](https://dubroy.com/blog/five-coding-hats/) #read#guide
