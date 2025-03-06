@@ -1,3 +1,4 @@
+- [Graphing Calculator Story](https://www.pacifict.com/story/) #read
 - [Why "alias" is my last resort for aliases](https://evanhahn.com/why-alias-is-my-last-resort-for-aliases/) #read#guide
 - [The Hierarchy of Hazard Controls](https://www.hillelwayne.com/post/hoc/) #read
 - [DeepSearch/DeepResearch 实施实用指南](https://jina.ai/news/a-practical-guide-to-implementing-deepsearch-deepresearch/) #read#llm
