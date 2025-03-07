@@ -1,3 +1,4 @@
+- [Great software design looks underwhelming](https://www.seangoedecke.com/great-software-design/) #read#design
 - [Graphing Calculator Story](https://www.pacifict.com/story/) #read
 - [Why "alias" is my last resort for aliases](https://evanhahn.com/why-alias-is-my-last-resort-for-aliases/) #read#guide
 - [The Hierarchy of Hazard Controls](https://www.hillelwayne.com/post/hoc/) #read
