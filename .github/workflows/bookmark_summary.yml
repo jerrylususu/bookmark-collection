@@ -41,8 +41,8 @@ jobs:
     - name: Process changes
       env:
         OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
-        OPENAI_API_MODEL: ${{ secrets.OPENAI_API_MODEL }}
-        OPENAI_API_ENDPOINT: ${{ secrets.OPENAI_API_ENDPOINT }}
+        OPENAI_API_MODEL: ${{ vars.OPENAI_API_MODEL }}
+        OPENAI_API_ENDPOINT: ${{ vars.OPENAI_API_ENDPOINT }}
       run: |
         python bookmark-summary/process_changes.py
 
