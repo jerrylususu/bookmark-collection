@@ -1,3 +1,4 @@
+- [The Cursed Art of Streaming HTML – rinici.de](https://rinici.de/posts/streaming-html) #read#frontend
 - [Great software design looks underwhelming](https://www.seangoedecke.com/great-software-design/) #read#design
 - [Graphing Calculator Story](https://www.pacifict.com/story/) #read
 - [Why "alias" is my last resort for aliases](https://evanhahn.com/why-alias-is-my-last-resort-for-aliases/) #read#guide
