@@ -1,3 +1,4 @@
+- [Every Line Is a Potential Bug](https://www.teamten.com/lawrence/writings/every_line_is_a_potential_bug.html) #read
 - [A few words about indie app business – Charlie Monroe](https://blog.charliemonroe.net/a-few-words-about-indie-app-business/) #read#job
 - [How I Automated My Podcast Transcript Production With Local AI](https://den.dev/blog/how-i-automated-podcast-transcription-with-local-ai/) #read#llm
 - [The Cursed Art of Streaming HTML – rinici.de](https://rinici.de/posts/streaming-html) #read#frontend
