@@ -1,3 +1,4 @@
+- [A few words about indie app business – Charlie Monroe](https://blog.charliemonroe.net/a-few-words-about-indie-app-business/) #read#job
 - [How I Automated My Podcast Transcript Production With Local AI](https://den.dev/blog/how-i-automated-podcast-transcription-with-local-ai/) #read#llm
 - [The Cursed Art of Streaming HTML – rinici.de](https://rinici.de/posts/streaming-html) #read#frontend
 - [Great software design looks underwhelming](https://www.seangoedecke.com/great-software-design/) #read#design
