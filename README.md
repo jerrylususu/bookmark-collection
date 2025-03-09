@@ -1,3 +1,4 @@
+- [Perplexity: Interactive language modeling visualization](https://perplexity.vercel.app/) #llm#tools
 - [Strobelight: A profiling service built on open source technology](https://engineering.fb.com/2025/01/21/production-engineering/strobelight-a-profiling-service-built-on-open-source-technology/) #read
 - [Every Line Is a Potential Bug](https://www.teamten.com/lawrence/writings/every_line_is_a_potential_bug.html) #read
 - [A few words about indie app business – Charlie Monroe](https://blog.charliemonroe.net/a-few-words-about-indie-app-business/) #read#job
