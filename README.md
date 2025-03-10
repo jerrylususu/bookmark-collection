@@ -1,3 +1,4 @@
+- [Where are we now, system researchers? – Xiangpeng’s blog](https://blog.xiangpeng.systems/posts/system-researchers/) #read
 - [Building Websites With LLMS](https://blog.jim-nielsen.com/2025/lots-of-little-html-pages/) #read#frontend
 - [Perplexity: Interactive language modeling visualization](https://perplexity.vercel.app/) #llm#tools
 - [Strobelight: A profiling service built on open source technology](https://engineering.fb.com/2025/01/21/production-engineering/strobelight-a-profiling-service-built-on-open-source-technology/) #read
