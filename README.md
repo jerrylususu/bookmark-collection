@@ -1,3 +1,4 @@
+- [Affording your AI chatbot friends](https://xeiaso.net/talks/2025/ai-chatbot-friends/) #read#llm#deepdive#guide
 - [Delegating Complex Tasks](https://staysaasy.com/saas/2025/03/10/delegating.html) #read#people
 - [When worse is better](https://www.bitecode.dev/p/when-worse-is-better) #read
 - [Where are we now, system researchers? – Xiangpeng’s blog](https://blog.xiangpeng.systems/posts/system-researchers/) #read
