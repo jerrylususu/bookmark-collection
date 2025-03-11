@@ -1,3 +1,4 @@
+- [Delegating Complex Tasks](https://staysaasy.com/saas/2025/03/10/delegating.html) #read#people
 - [When worse is better](https://www.bitecode.dev/p/when-worse-is-better) #read
 - [Where are we now, system researchers? – Xiangpeng’s blog](https://blog.xiangpeng.systems/posts/system-researchers/) #read
 - [Building Websites With LLMS](https://blog.jim-nielsen.com/2025/lots-of-little-html-pages/) #read#frontend
