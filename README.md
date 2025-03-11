@@ -1,3 +1,4 @@
+- [When worse is better](https://www.bitecode.dev/p/when-worse-is-better) #read
 - [Where are we now, system researchers? – Xiangpeng’s blog](https://blog.xiangpeng.systems/posts/system-researchers/) #read
 - [Building Websites With LLMS](https://blog.jim-nielsen.com/2025/lots-of-little-html-pages/) #read#frontend
 - [Perplexity: Interactive language modeling visualization](https://perplexity.vercel.app/) #llm#tools
