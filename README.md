@@ -1,3 +1,4 @@
+- [Manus爆火的背后，Agentic AI产品如何构筑持久的竞争优势？](https://yage.ai/manus.html) #read#llm
 - [Affording your AI chatbot friends](https://xeiaso.net/talks/2025/ai-chatbot-friends/) #read#llm#deepdive#guide
 - [Delegating Complex Tasks](https://staysaasy.com/saas/2025/03/10/delegating.html) #read#people
 - [When worse is better](https://www.bitecode.dev/p/when-worse-is-better) #read
