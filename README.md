@@ -1,3 +1,4 @@
+- [Functional Tests As A Tree Of Continuations – Evan Miller](https://www.evanmiller.org/functional-tests-as-a-tree-of-continuations.html) #read
 - [Here’s how I use LLMs to help me write code](https://simonwillison.net/2025/Mar/11/using-llms-for-code/) #read#llm#guide#deepdive
 - [Manus爆火的背后，Agentic AI产品如何构筑持久的竞争优势？](https://yage.ai/manus.html) #read#llm
 - [Affording your AI chatbot friends](https://xeiaso.net/talks/2025/ai-chatbot-friends/) #read#llm#deepdive#guide
