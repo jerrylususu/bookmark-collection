@@ -1,3 +1,4 @@
+- [This is what it looks like to be colorblind](https://www.theverge.com/23650428/colorblindness-design-ui-accessibility-wordle) #read#design
 - [Opsec and you: how to navigate having things to hide](https://xeiaso.net/talks/2025/opsec-and-you/) #read#deepdive#security
 - [Functional Tests As A Tree Of Continuations – Evan Miller](https://www.evanmiller.org/functional-tests-as-a-tree-of-continuations.html) #read
 - [Here’s how I use LLMs to help me write code](https://simonwillison.net/2025/Mar/11/using-llms-for-code/) #read#llm#guide#deepdive
