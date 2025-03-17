@@ -1,3 +1,4 @@
+- [Extracting content from an LCP "protected" ePub](https://shkspr.mobi/blog/2025/03/towards-extracting-content-from-an-lcp-protected-epub/) #read#hack
 - [Tips For Better Interactions](https://staysaasy.com/saas/2025/03/17/interactions.html) #read#people
 - [My Cursor AI Workflow That Actually Works](https://nmn.gl/blog/cursor-guide) #read#llm
 - [This is what it looks like to be colorblind](https://www.theverge.com/23650428/colorblindness-design-ui-accessibility-wordle) #read#design
