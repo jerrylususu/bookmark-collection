@@ -1,3 +1,4 @@
+- [Tips For Better Interactions](https://staysaasy.com/saas/2025/03/17/interactions.html) #read#people
 - [My Cursor AI Workflow That Actually Works](https://nmn.gl/blog/cursor-guide) #read#llm
 - [This is what it looks like to be colorblind](https://www.theverge.com/23650428/colorblindness-design-ui-accessibility-wordle) #read#design
 - [Opsec and you: how to navigate having things to hide](https://xeiaso.net/talks/2025/opsec-and-you/) #read#deepdive#security
