@@ -1,3 +1,4 @@
+- [Wasp](https://wasp.sh/) Rails-like framework for React, Node.js and Prisma. Build your app in a day and deploy it with a single CLI command. #tools
 - [Big LLMs weights are a piece of history - <antirez>](https://antirez.com/news/147) #read#llm
 - [Extracting content from an LCP "protected" ePub](https://shkspr.mobi/blog/2025/03/towards-extracting-content-from-an-lcp-protected-epub/) #read#hack
 - [Tips For Better Interactions](https://staysaasy.com/saas/2025/03/17/interactions.html) #read#people
