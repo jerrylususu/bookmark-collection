@@ -1,3 +1,4 @@
+- [My Thoughts on the Future of "AI"](https://nicholas.carlini.com/writing/2025/thoughts-on-future-ai.html) #read#llm
 - [Wasp](https://wasp.sh/) Rails-like framework for React, Node.js and Prisma. Build your app in a day and deploy it with a single CLI command. #tools
 - [Big LLMs weights are a piece of history - <antirez>](https://antirez.com/news/147) #read#llm
 - [Extracting content from an LCP "protected" ePub](https://shkspr.mobi/blog/2025/03/towards-extracting-content-from-an-lcp-protected-epub/) #read#hack
