@@ -1,3 +1,4 @@
+- [图解神经网络和强化学习：400 行 C 代码训练一个井字棋高手（2025）](https://arthurchiao.github.io/blog/reinforcement-learning-400-lines-of-c-code-zh/) #read#deepdive
 - [Rewarding ideas](https://dynomight.net/ideas/) #read
 - [Base 32](https://www.crockford.com/base32.html) #tools
 - [My Thoughts on the Future of "AI"](https://nicholas.carlini.com/writing/2025/thoughts-on-future-ai.html) #read#llm
