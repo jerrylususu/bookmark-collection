@@ -1,3 +1,4 @@
+- [Rewarding ideas](https://dynomight.net/ideas/) #read
 - [Base 32](https://www.crockford.com/base32.html) #tools
 - [My Thoughts on the Future of "AI"](https://nicholas.carlini.com/writing/2025/thoughts-on-future-ai.html) #read#llm
 - [Wasp](https://wasp.sh/) Rails-like framework for React, Node.js and Prisma. Build your app in a day and deploy it with a single CLI command. #tools
