@@ -1,3 +1,4 @@
+- [Booleans Are a Trap](https://katafrakt.me/2024/11/09/booleans-are-a-trap/) #read
 - [Ejectable Apps](https://thymer.com/local-first-ejectable) #read
 - [The Five-Week Solo Startup](https://taylor.town/5w) #read
 - [The "think" tool: Enabling Claude to stop and think](https://www.anthropic.com/engineering/claude-think-tool) #read#llm
