@@ -1,3 +1,4 @@
+- [The "think" tool: Enabling Claude to stop and think](https://www.anthropic.com/engineering/claude-think-tool) #read#llm
 - [图解神经网络和强化学习：400 行 C 代码训练一个井字棋高手（2025）](https://arthurchiao.github.io/blog/reinforcement-learning-400-lines-of-c-code-zh/) #read#deepdive
 - [Rewarding ideas](https://dynomight.net/ideas/) #read
 - [Base 32](https://www.crockford.com/base32.html) #tools
