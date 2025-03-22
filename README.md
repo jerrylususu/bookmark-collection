@@ -1,3 +1,4 @@
+- [Building a (T1D) Smartwatch from Scratch](https://andrewchilds.com/posts/building-a-t1d-smartwatch-from-scratch) #read#deepdive
 - [Booleans Are a Trap](https://katafrakt.me/2024/11/09/booleans-are-a-trap/) #read
 - [Ejectable Apps](https://thymer.com/local-first-ejectable) #read
 - [The Five-Week Solo Startup](https://taylor.town/5w) #read
