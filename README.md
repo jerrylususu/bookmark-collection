@@ -1,3 +1,4 @@
+- [Building SaaS Products with AI: What Actually Works](https://nmn.gl/blog/building-with-ai) #read#llm
 - [Building a (T1D) Smartwatch from Scratch](https://andrewchilds.com/posts/building-a-t1d-smartwatch-from-scratch) #read#deepdive
 - [Booleans Are a Trap](https://katafrakt.me/2024/11/09/booleans-are-a-trap/) #read
 - [Ejectable Apps](https://thymer.com/local-first-ejectable) #read
