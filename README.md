@@ -1,3 +1,4 @@
+- [A maintainer's guide to vulnerability disclosure: GitHub tools to make it simple](https://github.blog/security/vulnerability-research/a-maintainers-guide-to-vulnerability-disclosure-github-tools-to-make-it-simple/) #read#guide
 - [Building SaaS Products with AI: What Actually Works](https://nmn.gl/blog/building-with-ai) #read#llm
 - [Building a (T1D) Smartwatch from Scratch](https://andrewchilds.com/posts/building-a-t1d-smartwatch-from-scratch) #read#deepdive
 - [Booleans Are a Trap](https://katafrakt.me/2024/11/09/booleans-are-a-trap/) #read
