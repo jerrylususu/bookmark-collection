@@ -1,3 +1,4 @@
+- [Implementers, Solvers, and Finders](https://rkoutnik.com/2016/04/21/implementers-solvers-and-finders.html) #read#people
 - [Wheel Reinventor's Principles // Tobias Løfgren](https://tobloef.com/blog/wheel-reinventors-principles/) #read#guide
 - [Async, Sync, in Between](https://antfu.me/posts/async-sync-in-between) #read#frontend
 - [The surreal joy of having an overprovisioned homelab](https://xeiaso.net/talks/2025/surreal-joy-homelab/) #read#deepdive
