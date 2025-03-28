@@ -1,3 +1,4 @@
+- [Async, Sync, in Between](https://antfu.me/posts/async-sync-in-between) #read#frontend
 - [The surreal joy of having an overprovisioned homelab](https://xeiaso.net/talks/2025/surreal-joy-homelab/) #read#deepdive
 - [You can’t vibe code a prompt | Building with AI](https://incident.io/you-cant-vibe-code-a-prompt) #read#llm
 - [Installing NPM Packages Very Quickly](https://healeycodes.com/installing-npm-packages-very-quickly) #read#perf#deepdive
