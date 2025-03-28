@@ -1,3 +1,4 @@
+- [Wheel Reinventor's Principles // Tobias Løfgren](https://tobloef.com/blog/wheel-reinventors-principles/) #read#guide
 - [Async, Sync, in Between](https://antfu.me/posts/async-sync-in-between) #read#frontend
 - [The surreal joy of having an overprovisioned homelab](https://xeiaso.net/talks/2025/surreal-joy-homelab/) #read#deepdive
 - [You can’t vibe code a prompt | Building with AI](https://incident.io/you-cant-vibe-code-a-prompt) #read#llm
