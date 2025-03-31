@@ -1,3 +1,4 @@
+- [Building native packages is complicated](https://xeiaso.net/blog/2025/anubis-packaging/) #read
 - [Implementers, Solvers, and Finders](https://rkoutnik.com/2016/04/21/implementers-solvers-and-finders.html) #read#people
 - [Wheel Reinventor's Principles // Tobias Løfgren](https://tobloef.com/blog/wheel-reinventors-principles/) #read#guide
 - [Async, Sync, in Between](https://antfu.me/posts/async-sync-in-between) #read#frontend
