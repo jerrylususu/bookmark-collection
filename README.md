@@ -1,3 +1,4 @@
+- [A steam locomotive from 1993 broke my yarn test](https://blog.cloudflare.com/yarn-test-suffers-strange-derailment/) #deepdive#read
 - [Building native packages is complicated](https://xeiaso.net/blog/2025/anubis-packaging/) #read
 - [Implementers, Solvers, and Finders](https://rkoutnik.com/2016/04/21/implementers-solvers-and-finders.html) #read#people
 - [Wheel Reinventor's Principles // Tobias Løfgren](https://tobloef.com/blog/wheel-reinventors-principles/) #read#guide
