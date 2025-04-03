@@ -1,3 +1,4 @@
+- [Revenge of the junior developer | Sourcegraph Blog](https://sourcegraph.com/blog/revenge-of-the-junior-developer) #read#llm
 - [The Reality of Tech Interviews in 2025](https://newsletter.pragmaticengineer.com/p/the-reality-of-tech-interviews) #read
 - [连字（Ligature）那些事儿](https://webzhao.me/posts/ligature/) #read
 - [A steam locomotive from 1993 broke my yarn test](https://blog.cloudflare.com/yarn-test-suffers-strange-derailment/) #deepdive#read
