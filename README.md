@@ -1,3 +1,4 @@
+- [Localhost dangers: CORS and DNS rebinding](https://github.blog/security/application-security/localhost-dangers-cors-and-dns-rebinding/) #read#security
 - [Minimal CSS-only blurry image placeholders](https://leanrada.com/notes/css-only-lqip/) #deepdive#frontend
 - [Revenge of the junior developer | Sourcegraph Blog](https://sourcegraph.com/blog/revenge-of-the-junior-developer) #read#llm
 - [The Reality of Tech Interviews in 2025](https://newsletter.pragmaticengineer.com/p/the-reality-of-tech-interviews) #read
