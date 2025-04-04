@@ -1,3 +1,4 @@
+- [Folklore.org: Calculator Construction Set](https://folklore.org/Calculator_Construction_Set.html) #read
 - [Localhost dangers: CORS and DNS rebinding](https://github.blog/security/application-security/localhost-dangers-cors-and-dns-rebinding/) #read#security
 - [Minimal CSS-only blurry image placeholders](https://leanrada.com/notes/css-only-lqip/) #deepdive#frontend
 - [Revenge of the junior developer | Sourcegraph Blog](https://sourcegraph.com/blog/revenge-of-the-junior-developer) #read#llm
