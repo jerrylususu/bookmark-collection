@@ -1,3 +1,4 @@
+- [The Precise Language Of Good Management](https://staysaasy.com/management/2025/04/06/precise-language.html) #read#people
 - [Who Needs GPS? The Forgotten Story of Etak's Amazing 1985 Car Navigation System](https://www.fastcompany.com/3047828/who-needs-gps-the-forgotten-story-of-etaks-amazing-1985-car-navigation-system) #read
 - [Folklore.org: Calculator Construction Set](https://folklore.org/Calculator_Construction_Set.html) #read
 - [Localhost dangers: CORS and DNS rebinding](https://github.blog/security/application-security/localhost-dangers-cors-and-dns-rebinding/) #read#security
