@@ -1,3 +1,4 @@
+- [Writing C for curl](https://daniel.haxx.se/blog/2025/04/07/writing-c-for-curl/) #read#c
 - [The Precise Language Of Good Management](https://staysaasy.com/management/2025/04/06/precise-language.html) #read#people
 - [Who Needs GPS? The Forgotten Story of Etak's Amazing 1985 Car Navigation System](https://www.fastcompany.com/3047828/who-needs-gps-the-forgotten-story-of-etaks-amazing-1985-car-navigation-system) #read
 - [Folklore.org: Calculator Construction Set](https://folklore.org/Calculator_Construction_Set.html) #read
