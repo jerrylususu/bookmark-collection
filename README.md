@@ -1,3 +1,4 @@
+- [AI 辅助创作的伦理问题](https://roriri.one/2025/04/05/ai-creator-ethic) #read#llm
 - [Typing using my keyboard (the other kind) | nicole@web](/blog/typing-using-my-keyboard-the-other-kind/) #read
 - [Writing C for curl](https://daniel.haxx.se/blog/2025/04/07/writing-c-for-curl/) #read#c
 - [The Precise Language Of Good Management](https://staysaasy.com/management/2025/04/06/precise-language.html) #read#people
