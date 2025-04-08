@@ -1,3 +1,4 @@
+- [不要逃避解释：论「相关」和「有关」在日常写作中的滥用](https://hsu.cy/2025/04/irrelevancy/) #read#write
 - [Cover Flow with Modern CSS: Scroll-Driven Animations in Action](https://addyosmani.com/blog/coverflow/) #read#frontend
 - [AI 辅助创作的伦理问题](https://roriri.one/2025/04/05/ai-creator-ethic) #read#llm
 - [Typing using my keyboard (the other kind) | nicole@web](/blog/typing-using-my-keyboard-the-other-kind/) #read
