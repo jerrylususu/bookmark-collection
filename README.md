@@ -1,3 +1,4 @@
+- [Stop syncing everything](https://sqlsync.dev/posts/stop-syncing-everything/) #read#distributed
 - [Git turns 20: A Q&A with Linus Torvalds](https://github.blog/open-source/git/git-turns-20-a-qa-with-linus-torvalds/) #read#git
 - [The day I taught AI to think like a Senior Developer](https://nmn.gl/blog/ai-understand-senior-developer) #read#llm
 - [不要逃避解释：论「相关」和「有关」在日常写作中的滥用](https://hsu.cy/2025/04/irrelevancy/) #read#write
