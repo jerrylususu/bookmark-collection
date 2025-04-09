@@ -1,3 +1,4 @@
+- [Model Context Protocol has prompt injection security problems](https://simonwillison.net/2025/Apr/9/mcp-prompt-injection/) #read#llm#security
 - [Stop syncing everything](https://sqlsync.dev/posts/stop-syncing-everything/) #read#distributed
 - [Git turns 20: A Q&A with Linus Torvalds](https://github.blog/open-source/git/git-turns-20-a-qa-with-linus-torvalds/) #read#git
 - [The day I taught AI to think like a Senior Developer](https://nmn.gl/blog/ai-understand-senior-developer) #read#llm
