@@ -1,3 +1,4 @@
+- [curl - Mailing List Etiquette](https://curl.se/mail/etiquette.html) #guide
 - [Paper](https://dynomight.net/paper/) #read
 - [llm-docsmith | MPN](https://mathpn.com/posts/llm-docsmith/) #read#llm#tools
 - [The bottom emoji breaks rust-analyzer](https://fasterthanli.me/articles/the-bottom-emoji-breaks-rust-analyzer#the-way-forward) #read
