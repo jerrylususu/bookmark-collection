@@ -1,3 +1,4 @@
+- [A Field Guide to Rapidly Improving AI Products – Hamel’s Blog](https://hamel.dev/blog/posts/field-guide/#the-most-common-mistake-skipping-error-analysis) #read#llm#deepdive
 - [curl - Mailing List Etiquette](https://curl.se/mail/etiquette.html) #guide
 - [Paper](https://dynomight.net/paper/) #read
 - [llm-docsmith | MPN](https://mathpn.com/posts/llm-docsmith/) #read#llm#tools
