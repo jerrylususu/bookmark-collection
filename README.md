@@ -1,3 +1,4 @@
+- [Mathiness](https://www.votito.com/methods/mathiness/) #read
 - [Don’t build your castle in other people’s kingdoms – How To Market A Game](https://howtomarketagame.com/2021/11/01/dont-build-your-castle-in-other-peoples-kingdoms/) #read
 - [Be A Property Owner And Not A Renter On The Internet · Den Delimarsky](https://den.dev/blog/be-a-property-owner-not-a-renter-on-the-internet/) #read#guide#deepdive
 - [Scaling Our Rate Limits to Prepare for a Billion Active Certificates](https://letsencrypt.org/2025/01/30/scaling-rate-limits/) #read
