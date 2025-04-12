@@ -1,3 +1,4 @@
+- [CaMeL offers a promising new direction for mitigating prompt injection attacks](https://simonwillison.net/2025/Apr/11/camel/) #read#llm
 - [Steam's 'Open in Desktop' Button](https://parsiya.net/blog/steam-open-desktop/) #read
 - [AlignEval: Building an App to Make Evals Easy, Fun, and Automated](https://eugeneyan.com/writing/aligneval/) #read#llm
 - [A Field Guide to Rapidly Improving AI Products – Hamel’s Blog](https://hamel.dev/blog/posts/field-guide/#the-most-common-mistake-skipping-error-analysis) #read#llm#deepdive
