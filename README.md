@@ -1,3 +1,4 @@
+- [Code Review Hot Spots with Semgrep](https://parsiya.net/blog/2022-04-07-code-review-hot-spots-with-semgrep/) #read#security
 - [The Slow Collapse of Critical Thinking in OSINT due to AI](https://www.dutchosintguy.com/post/the-slow-collapse-of-critical-thinking-in-osint-due-to-ai) #read#llm
 - [Mathiness](https://www.votito.com/methods/mathiness/) #read
 - [Don’t build your castle in other people’s kingdoms – How To Market A Game](https://howtomarketagame.com/2021/11/01/dont-build-your-castle-in-other-peoples-kingdoms/) #read
