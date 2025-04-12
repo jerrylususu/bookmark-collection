@@ -1,3 +1,4 @@
+- [Scaling Our Rate Limits to Prepare for a Billion Active Certificates](https://letsencrypt.org/2025/01/30/scaling-rate-limits/) #read
 - [浅谈限流算法](https://leungyukshing.github.io/archives/Rate-Limit-Algorithm.html) #read
 - [CaMeL offers a promising new direction for mitigating prompt injection attacks](https://simonwillison.net/2025/Apr/11/camel/) #read#llm
 - [Steam's 'Open in Desktop' Button](https://parsiya.net/blog/steam-open-desktop/) #read
