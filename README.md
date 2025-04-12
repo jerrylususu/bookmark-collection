@@ -1,3 +1,4 @@
+- [浅谈限流算法](https://leungyukshing.github.io/archives/Rate-Limit-Algorithm.html) #read
 - [CaMeL offers a promising new direction for mitigating prompt injection attacks](https://simonwillison.net/2025/Apr/11/camel/) #read#llm
 - [Steam's 'Open in Desktop' Button](https://parsiya.net/blog/steam-open-desktop/) #read
 - [AlignEval: Building an App to Make Evals Easy, Fun, and Automated](https://eugeneyan.com/writing/aligneval/) #read#llm
