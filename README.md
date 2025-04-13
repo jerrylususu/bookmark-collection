@@ -1,3 +1,4 @@
+- [Wicked features](https://www.seangoedecke.com/wicked-features/) #read#design
 - [Software engineering under the spotlight](https://www.seangoedecke.com/the-spotlight/) #read#career
 - [Code Review Hot Spots with Semgrep](https://parsiya.net/blog/2022-04-07-code-review-hot-spots-with-semgrep/) #read#security
 - [The Slow Collapse of Critical Thinking in OSINT due to AI](https://www.dutchosintguy.com/post/the-slow-collapse-of-critical-thinking-in-osint-due-to-ai) #read#llm
