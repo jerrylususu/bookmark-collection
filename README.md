@@ -1,3 +1,4 @@
+- [Stevens: a hackable AI assistant using a single SQLite table and a handful of cron jobs](https://www.geoffreylitt.com/2025/04/12/how-i-made-a-useful-ai-assistant-with-one-sqlite-table-and-a-handful-of-cron-jobs) #read#llm
 - [Wicked features](https://www.seangoedecke.com/wicked-features/) #read#design
 - [Software engineering under the spotlight](https://www.seangoedecke.com/the-spotlight/) #read#career
 - [Code Review Hot Spots with Semgrep](https://parsiya.net/blog/2022-04-07-code-review-hot-spots-with-semgrep/) #read#security
