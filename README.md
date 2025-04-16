@@ -1,3 +1,4 @@
+- [JSX Over The Wire — overreacted](https://overreacted.io/jsx-over-the-wire/#the-data-always-flows-down) #read#frontend#deepdive
 - [Designing software that could possibly work](https://www.seangoedecke.com/planning-software/) #read#design
 - [Stevens: a hackable AI assistant using a single SQLite table and a handful of cron jobs](https://www.geoffreylitt.com/2025/04/12/how-i-made-a-useful-ai-assistant-with-one-sqlite-table-and-a-handful-of-cron-jobs) #read#llm
 - [Wicked features](https://www.seangoedecke.com/wicked-features/) #read#design
