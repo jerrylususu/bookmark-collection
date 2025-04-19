@@ -1,3 +1,4 @@
+- [UI tip: maybe don't round percentages to 0% or 100%](https://evanhahn.com/maybe-dont-round-percentages-to-0-or-100-percent/) #read#tips
 - [Reproducing Hacker News writing style fingerprinting - <antirez>](https://antirez.com/news/150) #read
 - [JSX Over The Wire — overreacted](https://overreacted.io/jsx-over-the-wire/#the-data-always-flows-down) #read#frontend#deepdive
 - [Designing software that could possibly work](https://www.seangoedecke.com/planning-software/) #read#design
