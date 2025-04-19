@@ -1,3 +1,4 @@
+- [Infantilization at Big Tech](https://nmn.gl/blog/big-tech-daycare) #read#people
 - [别再问AI会不会取代你，问你能不能带好AI](https://grapeot.me/agentic-ai-202504.html) #read#llm
 - [UI tip: maybe don't round percentages to 0% or 100%](https://evanhahn.com/maybe-dont-round-percentages-to-0-or-100-percent/) #read#tips
 - [Reproducing Hacker News writing style fingerprinting - <antirez>](https://antirez.com/news/150) #read
