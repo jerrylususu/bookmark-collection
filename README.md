@@ -1,3 +1,4 @@
+- [How (Not) to Make a Game Sequel](https://ruoyusun.com/2025/04/18/game-sequel-lessons.html) #read
 - [Claude Code Best Practices](https://www.anthropic.com/engineering/claude-code-best-practices) #read#llm#guide#deepdive
 - [When you should lie to the language model](https://www.seangoedecke.com/lying-to-llms/) #read#llm
 - [Leading From The Front](https://staysaasy.com/management/2025/04/20/leading-from-the-front.html) #read#people
