@@ -1,3 +1,4 @@
+- [你不需要懂金融，也可以用 AI 拆开结构化票据的黑盒](https://grapeot.me/structured-notes.html) #read
 - [Infantilization at Big Tech](https://nmn.gl/blog/big-tech-daycare) #read#people
 - [别再问AI会不会取代你，问你能不能带好AI](https://grapeot.me/agentic-ai-202504.html) #read#llm
 - [UI tip: maybe don't round percentages to 0% or 100%](https://evanhahn.com/maybe-dont-round-percentages-to-0-or-100-percent/) #read#tips
