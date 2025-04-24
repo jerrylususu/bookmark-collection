@@ -1,3 +1,4 @@
+- [Suffering-oriented programming - thoughts from the red planet - thoughts from the red planet](http://nathanmarz.com/blog/suffering-oriented-programming.html) #read
 - [Better typography with text-wrap pretty](https://webkit.org/blog/16547/better-typography-with-text-wrap-pretty/) #read#frontend#deepdive
 - [Accurate Benchmarking](https://ates.dev/posts/2025-01-12-accurate-benchmarking/) #read
 - [让你的 RSS/Atom feed 更好看](https://taxodium.ink/pretty-feed.html) #read
