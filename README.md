@@ -1,3 +1,4 @@
+- [Accurate Benchmarking](https://ates.dev/posts/2025-01-12-accurate-benchmarking/) #read
 - [让你的 RSS/Atom feed 更好看](https://taxodium.ink/pretty-feed.html) #read
 - [Impossible Components — overreacted](https://overreacted.io/impossible-components/) #read#deepdive#frontend
 - [Abusing DuckDB-WASM by making SQL draw 3D graphics (Sort Of)](https://www.hey.earth/posts/duckdb-doom) #read#hack
