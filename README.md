@@ -1,3 +1,4 @@
+- [Two Years in the Tenure Track](https://jwuphysics.github.io/blog/2024/01/two-years-in-the-tenure-track/) #read
 - [Debugging, emotional resilience, and mental models](https://www.seangoedecke.com/debugging/) #read
 - [线上故障应急处理：4 年多 on call 经验总结](https://jt26wzz.com/posts/0007-online-firefighting-real-world-lessions-from-4-years-on-call/) #read
 - [Senior engineers should make side bets](https://www.seangoedecke.com/side-bets/) #read#career
