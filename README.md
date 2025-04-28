@@ -1,3 +1,4 @@
+- [从现实 API到认知伙伴：我的 AI-Centric 实验第二章](https://grapeot.me/life-api-part2.html) #read#llm
 - [Two Years in the Tenure Track](https://jwuphysics.github.io/blog/2024/01/two-years-in-the-tenure-track/) #read
 - [Debugging, emotional resilience, and mental models](https://www.seangoedecke.com/debugging/) #read
 - [线上故障应急处理：4 年多 on call 经验总结](https://jt26wzz.com/posts/0007-online-firefighting-real-world-lessions-from-4-years-on-call/) #read
