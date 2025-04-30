@@ -1,3 +1,4 @@
+- [The valley of engineering despair](https://www.seangoedecke.com/the-valley-of-engineering-despair/) #read#career
 - [Design system documentation is essential–as long as it’s good](https://pjonori.blog/posts/design-system-documentation/) #read
 - [从现实 API到认知伙伴：我的 AI-Centric 实验第二章](https://grapeot.me/life-api-part2.html) #read#llm
 - [Two Years in the Tenure Track](https://jwuphysics.github.io/blog/2024/01/two-years-in-the-tenure-track/) #read
