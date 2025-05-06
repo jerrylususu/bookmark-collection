@@ -1,3 +1,4 @@
+- [Dummy's Guide to Modern Samplers](https://rentry.co/samplers) #deepdive#llm
 - [一千次失败之后，它选中了你看到的那一个](https://grapeot.me/ai-creativity.html) #read#llm
 - [Getting things "done" in large tech companies](https://www.seangoedecke.com/getting-things-done/) #read#career
 - [Functional HTML — overreacted](https://overreacted.io/functional-html/) #read#deepdive#frontend
