@@ -1,3 +1,4 @@
+- [Getting things "done" in large tech companies](https://www.seangoedecke.com/getting-things-done/) #read#career
 - [Functional HTML — overreacted](https://overreacted.io/functional-html/) #read#deepdive#frontend
 - [The valley of engineering despair](https://www.seangoedecke.com/the-valley-of-engineering-despair/) #read#career
 - [Design system documentation is essential–as long as it’s good](https://pjonori.blog/posts/design-system-documentation/) #read
