@@ -1,3 +1,4 @@
+- [An year of the Linux Desktop](https://xeiaso.net/blog/2025/yotld/) #read#linux
 - [Async Rust can be a pleasure to work with (without `Send + Sync + 'static`)](https://emschwartz.me/async-rust-can-be-a-pleasure-to-work-with-without-send-sync-static/) #read#rust
 - [Dummy's Guide to Modern Samplers](https://rentry.co/samplers) #deepdive#llm
 - [一千次失败之后，它选中了你看到的那一个](https://grapeot.me/ai-creativity.html) #read#llm
