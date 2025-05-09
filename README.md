@@ -1,3 +1,4 @@
+- [Are you more likely to die on your birthday?](https://pudding.cool/2025/04/birthday-effect/) #read
 - [Reservoir Sampling](https://samwho.dev/reservoir-sampling/) #deepdive#explain#visual
 - [Claude’s System Prompt: Chatbots Are More Than Just Models](https://www.dbreunig.com/2025/05/07/claude-s-system-prompt-chatbots-are-more-than-just-models.html) #read#llm
 - [Microservices Are a Tax Your Startup Probably Can’t Afford](https://nexo.sh/posts/microservices-for-startups/) #read#arch
