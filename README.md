@@ -1,3 +1,4 @@
+- [Microservices Are a Tax Your Startup Probably Can’t Afford](https://nexo.sh/posts/microservices-for-startups/) #read#arch
 - [What Even Is Vibe Coding?](https://ashley.dev/posts/what-even-is-vibe-coding) #read#llm
 - [An year of the Linux Desktop](https://xeiaso.net/blog/2025/yotld/) #read#linux
 - [Async Rust can be a pleasure to work with (without `Send + Sync + 'static`)](https://emschwartz.me/async-rust-can-be-a-pleasure-to-work-with-without-send-sync-static/) #read#rust
