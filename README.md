@@ -1,3 +1,4 @@
+- [Claude’s System Prompt: Chatbots Are More Than Just Models](https://www.dbreunig.com/2025/05/07/claude-s-system-prompt-chatbots-are-more-than-just-models.html) #read#llm
 - [Microservices Are a Tax Your Startup Probably Can’t Afford](https://nexo.sh/posts/microservices-for-startups/) #read#arch
 - [What Even Is Vibe Coding?](https://ashley.dev/posts/what-even-is-vibe-coding) #read#llm
 - [An year of the Linux Desktop](https://xeiaso.net/blog/2025/yotld/) #read#linux
