@@ -1,3 +1,4 @@
+- [The importance of character in software engineering](https://www.seangoedecke.com/character-in-software-engineering/) #read#career
 - [rate limiter – smudge.ai blog](https://smudge.ai/blog/ratelimit-algorithms) #deepdive#explain#visual
 - [Are you more likely to die on your birthday?](https://pudding.cool/2025/04/birthday-effect/) #read
 - [Reservoir Sampling](https://samwho.dev/reservoir-sampling/) #deepdive#explain#visual
