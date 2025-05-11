@@ -1,3 +1,4 @@
+- [Mission Impossible: Managing AI Agents in the Real World](https://levelup.gitconnected.com/mission-impossible-managing-ai-agents-in-the-real-world-f8e7834833af) #read#llm
 - [The importance of character in software engineering](https://www.seangoedecke.com/character-in-software-engineering/) #read#career
 - [rate limiter – smudge.ai blog](https://smudge.ai/blog/ratelimit-algorithms) #deepdive#explain#visual
 - [Are you more likely to die on your birthday?](https://pudding.cool/2025/04/birthday-effect/) #read
