@@ -1,3 +1,4 @@
+- [Vision Language Models (Better, faster, stronger)](https://huggingface.co/blog/vlms-2025) #read#llm
 - [How to title your blog post or whatever](https://dynomight.net/titles/) #read
 - [Making PyPI's test suite 81% faster](https://blog.trailofbits.com/2025/05/01/making-pypis-test-suite-81-faster/) #read#perf
 - [Mission Impossible: Managing AI Agents in the Real World](https://levelup.gitconnected.com/mission-impossible-managing-ai-agents-in-the-real-world-f8e7834833af) #read#llm
