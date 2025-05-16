@@ -1,3 +1,4 @@
+- [Nobody Codes Here Anymore](https://ghiculescu.substack.com/p/nobody-codes-here-anymore) #read#llm
 - [Vision Language Models (Better, faster, stronger)](https://huggingface.co/blog/vlms-2025) #read#llm
 - [How to title your blog post or whatever](https://dynomight.net/titles/) #read
 - [Making PyPI's test suite 81% faster](https://blog.trailofbits.com/2025/05/01/making-pypis-test-suite-81-faster/) #read#perf
