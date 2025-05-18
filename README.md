@@ -1,3 +1,4 @@
+- [Plain Vanilla](https://plainvanillaweb.com/index.html) An explainer for doing web development using only vanilla techniques. No tools, no frameworks — just HTML, CSS, and JavaScript. #explainer#web
 - [DOC • A brief history of the numeric keypad](https://www.doc.cc/articles/a-brief-history-of-the-numeric-keypad) #read
 - [How I Got Exploited At My First Startup](https://blog.jacobstechtavern.com/p/the-side-hustle-from-hell) #read#career
 - [I don’t like NumPy](https://dynomight.net/numpy/) #read
