@@ -1,3 +1,4 @@
+- [DOC • A brief history of the numeric keypad](https://www.doc.cc/articles/a-brief-history-of-the-numeric-keypad) #read
 - [How I Got Exploited At My First Startup](https://blog.jacobstechtavern.com/p/the-side-hustle-from-hell) #read#career
 - [I don’t like NumPy](https://dynomight.net/numpy/) #read
 - [Nobody Codes Here Anymore](https://ghiculescu.substack.com/p/nobody-codes-here-anymore) #read#llm
