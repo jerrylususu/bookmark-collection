@@ -1,3 +1,4 @@
+- [MCP is the coming of Web 2.0 2.0 - Anil Dash](https://www.anildash.com//2025/05/20/mcp-web20-20/) #read
 - [Performance measurements… and the people who love them](https://blog.cloudflare.com/loving-performance-measurements/) #read#perf
 - [卖 AI 图，从开单到金盆洗手 - 少数派](https://sspai.com/post/99156) #read#deepdive
 - [Diffusion models explained simply](https://www.seangoedecke.com/diffusion-models-explained/) #read#llm
