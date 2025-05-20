@@ -1,3 +1,4 @@
+- [Performance measurements… and the people who love them](https://blog.cloudflare.com/loving-performance-measurements/) #read#perf
 - [卖 AI 图，从开单到金盆洗手 - 少数派](https://sspai.com/post/99156) #read#deepdive
 - [Diffusion models explained simply](https://www.seangoedecke.com/diffusion-models-explained/) #read#llm
 - [Plain Vanilla](https://plainvanillaweb.com/index.html) An explainer for doing web development using only vanilla techniques. No tools, no frameworks — just HTML, CSS, and JavaScript. #explainer#web
