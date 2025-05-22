@@ -1,3 +1,4 @@
+- [How ChatGPT Remembers You: A Deep Dive into Its Memory and Chat History Features ·  Embrace The Red](https://embracethered.com/blog/posts/2025/chatgpt-how-does-chat-history-memory-preferences-work/) #read#deepdive#llm
 - [Strengths and limitations of diffusion language models](https://www.seangoedecke.com/limitations-of-text-diffusion-models/) #read#llm
 - [After months of coding with LLMs, I'm going back to using my brain • albertofortin.com](https://albertofortin.com/writing/coding-with-ai) #read#llm
 - [MCP is the coming of Web 2.0 2.0 - Anil Dash](https://www.anildash.com//2025/05/20/mcp-web20-20/) #read
