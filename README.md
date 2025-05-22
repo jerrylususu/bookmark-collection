@@ -1,3 +1,4 @@
+- [Making AI Work: Leadership, Lab, and Crowd](https://www.oneusefulthing.org/p/making-ai-work-leadership-lab-and) #read#people
 - [How ChatGPT Remembers You: A Deep Dive into Its Memory and Chat History Features ·  Embrace The Red](https://embracethered.com/blog/posts/2025/chatgpt-how-does-chat-history-memory-preferences-work/) #read#deepdive#llm
 - [Strengths and limitations of diffusion language models](https://www.seangoedecke.com/limitations-of-text-diffusion-models/) #read#llm
 - [After months of coding with LLMs, I'm going back to using my brain • albertofortin.com](https://albertofortin.com/writing/coding-with-ai) #read#llm
