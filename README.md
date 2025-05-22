@@ -1,3 +1,4 @@
+- [Strengths and limitations of diffusion language models](https://www.seangoedecke.com/limitations-of-text-diffusion-models/) #read#llm
 - [After months of coding with LLMs, I'm going back to using my brain • albertofortin.com](https://albertofortin.com/writing/coding-with-ai) #read#llm
 - [MCP is the coming of Web 2.0 2.0 - Anil Dash](https://www.anildash.com//2025/05/20/mcp-web20-20/) #read
 - [Performance measurements… and the people who love them](https://blog.cloudflare.com/loving-performance-measurements/) #read#perf
