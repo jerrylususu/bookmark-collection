@@ -1,3 +1,4 @@
+- [Examples of Great URL Design](https://blog.jim-nielsen.com/2023/examples-of-great-urls/) #read#web
 - [Ports that are blocked by browsers](https://www.keenformatics.com/ports-that-are-blocked-by-browsers) #read
 - [Coding Without a Laptop - Two Weeks with AR Glasses and Linux on Android | Hold The Robot](https://holdtherobot.com/blog/2025/05/11/linux-on-android-with-ar-glasses/) #read
 - [轻量级地克隆一个 Git 仓库](https://hedzr.com/devops/git/lite-clone-a-git-repo/) #read#guide
