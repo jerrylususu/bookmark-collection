@@ -1,3 +1,4 @@
+- [Multiplayer AI chat and conversational turn-taking: sharing what we learnt](https://interconnected.org/home/2025/05/23/turntaking) #read#llm
 - [Avoiding becoming the lone dependency peg with load-bearing anime](https://xeiaso.net/blog/2025/avoiding-becoming-peg-dependency/) #read#oss
 - [DumPy: NumPy except it’s OK if you’re dum](https://dynomight.net/dumpy/) #read#hack
 - [Making AI Work: Leadership, Lab, and Crowd](https://www.oneusefulthing.org/p/making-ai-work-leadership-lab-and) #read#people
