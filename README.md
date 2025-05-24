@@ -1,3 +1,4 @@
+- [Coding Without a Laptop - Two Weeks with AR Glasses and Linux on Android | Hold The Robot](https://holdtherobot.com/blog/2025/05/11/linux-on-android-with-ar-glasses/) #read
 - [轻量级地克隆一个 Git 仓库](https://hedzr.com/devops/git/lite-clone-a-git-repo/) #read#guide
 - [Multiplayer AI chat and conversational turn-taking: sharing what we learnt](https://interconnected.org/home/2025/05/23/turntaking) #read#llm
 - [Avoiding becoming the lone dependency peg with load-bearing anime](https://xeiaso.net/blog/2025/avoiding-becoming-peg-dependency/) #read#oss
