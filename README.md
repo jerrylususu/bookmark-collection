@@ -1,3 +1,4 @@
+- [模型变强了，体验却没变：AI产品的错位](https://grapeot.me/ai-products.html) #read#design
 - [Highlights from the Claude 4 system prompt](https://simonwillison.net/2025/May/25/claude-4-system-prompt/) #read#llm#deepdive
 - [In defense of shallow technical knowledge](https://www.seangoedecke.com/shallow-technical-knowledge/) #read#blog
 - [A brief history of JavaScript | Deno](https://deno.com/blog/history-of-javascript) #read
