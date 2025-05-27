@@ -1,3 +1,4 @@
+- [Introducing Marin: An Open Lab for Building Foundation Models](http://marin.community/blog/2025/05/19/announcement/) #read#llm
 - [Just make it scale: An Aurora DSQL story](https://www.allthingsdistributed.com/2025/05/just-make-it-scale-an-aurora-dsql-story.html) #read
 - [模型变强了，体验却没变：AI产品的错位](https://grapeot.me/ai-products.html) #read#design
 - [Highlights from the Claude 4 system prompt](https://simonwillison.net/2025/May/25/claude-4-system-prompt/) #read#llm#deepdive
