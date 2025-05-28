@@ -1,3 +1,4 @@
+- [Inside GitHub: How we hardened our SAML implementation](https://github.blog/security/web-application-security/inside-github-how-we-hardened-our-saml-implementation/) #read
 - [Access Control Syntax – journal.stuffwithstuff.com](https://journal.stuffwithstuff.com/2025/05/26/access-control-syntax/) #read#deepdive
 - [Tail Latency Might Matter More Than You Think - Marc's Blog](https://brooker.co.za/blog/2021/04/19/latency.html) #read#perf
 - [Introducing Marin: An Open Lab for Building Foundation Models](http://marin.community/blog/2025/05/19/announcement/) #read#llm
