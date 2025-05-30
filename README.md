@@ -1,3 +1,4 @@
+- [Decomplexification](https://daniel.haxx.se/blog/2025/05/29/decomplexification/) #read
 - [Bootstrapping HTTP/1.1, HTTP/2, and HTTP/3](https://www.netmeister.org/blog/http-123.html) #read#network
 - [Why do AI company logos look like buttholes?](https://velvetshark.com/ai-company-logos-that-look-like-buttholes) #read#design
 - [Inside GitHub: How we hardened our SAML implementation](https://github.blog/security/web-application-security/inside-github-how-we-hardened-our-saml-implementation/) #read
