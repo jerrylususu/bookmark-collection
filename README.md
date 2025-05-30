@@ -1,3 +1,4 @@
+- [My advice on (internet) writing, for what it’s worth](https://dynomight.net/writing-advice/) #read#blog
 - [Decomplexification](https://daniel.haxx.se/blog/2025/05/29/decomplexification/) #read
 - [Bootstrapping HTTP/1.1, HTTP/2, and HTTP/3](https://www.netmeister.org/blog/http-123.html) #read#network
 - [Why do AI company logos look like buttholes?](https://velvetshark.com/ai-company-logos-that-look-like-buttholes) #read#design
