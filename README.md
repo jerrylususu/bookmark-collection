@@ -1,3 +1,4 @@
+- [手把手教你制作旅行攻略 - 少数派](https://sspai.com/post/99522) #read#guide
 - [CRIBS: My Writing Feedback Formula - David Perell](https://perell.com/note/cribs-my-writing-feedback-formula/) #read#write
 - [My advice on (internet) writing, for what it’s worth](https://dynomight.net/writing-advice/) #read#blog
 - [Decomplexification](https://daniel.haxx.se/blog/2025/05/29/decomplexification/) #read
