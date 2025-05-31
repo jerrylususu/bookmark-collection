@@ -1,3 +1,4 @@
+- [Reinvent the Wheel | Matthias Endler](https://endler.dev/2025/reinvent-the-wheel/) #read
 - [AI: Accelerated Incompetence](https://www.slater.dev/accelerated-incompetence/) #read
 - [kepano/defuddle](https://github.com/kepano/defuddle) Defuddle extracts the main content from web pages. It cleans up web pages by removing clutter like comments, sidebars, headers, footers, and other non-essential elements, leaving only the primary content. #tools
 - [TIL: timeout in Bash scripts | Heitor's log](https://heitorpb.github.io/bla/timeout/) #read#tips
