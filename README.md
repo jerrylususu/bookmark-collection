@@ -1,3 +1,4 @@
+- [One Roundtrip Per Navigation — overreacted](https://overreacted.io/one-roundtrip-per-navigation/) #read#frontend
 - [Type Inference in Rust and C++](https://herecomesthemoon.net/2025/01/type-inference-in-rust-and-cpp//) #read#language
 - [Get out of my <head>](https://getoutofmyhead.dev/) #read#frontend
 - [Reinvent the Wheel | Matthias Endler](https://endler.dev/2025/reinvent-the-wheel/) #read
