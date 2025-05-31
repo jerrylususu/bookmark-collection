@@ -1,3 +1,4 @@
+- [XKCD's "Is It Worth the Time?" Considered Harmful](https://will-keleher.com/posts/its-not-worth-the-time-yet.html) #read
 - [The Copilot Delusion](https://deplet.ing/the-copilot-delusion/) #read
 - [Thoughts on thinking • Dustin Curtis](https://dcurt.is/thinking) #read
 - [ Consider Knitting – journal.stuffwithstuff.com](https://journal.stuffwithstuff.com/2025/05/30/consider-knitting/) #read#life
