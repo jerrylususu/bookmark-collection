@@ -1,3 +1,4 @@
+- [AI: Accelerated Incompetence](https://www.slater.dev/accelerated-incompetence/) #read
 - [kepano/defuddle](https://github.com/kepano/defuddle) Defuddle extracts the main content from web pages. It cleans up web pages by removing clutter like comments, sidebars, headers, footers, and other non-essential elements, leaving only the primary content. #tools
 - [TIL: timeout in Bash scripts | Heitor's log](https://heitorpb.github.io/bla/timeout/) #read#tips
 - [CAPTCHAs are over (in ticketing) - pretix – behind the scenes](https://behind.pretix.eu/2025/05/23/captchas-are-over/) #read
