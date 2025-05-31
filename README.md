@@ -1,3 +1,4 @@
+- [In C++, use exchange or swap with nullopt to move out of std::optional - Keunwoo Lee's Minimum Viable Homepage](https://keunwoo.com/notes/cpp-moving-std-optional/) If the use of C++ for building important large-scale systems does not worry you, then you either don’t know enough C++ or you fundamentally misunderstand the stochastic nature of software engineering at scale. #read#cpp
 - [XKCD's "Is It Worth the Time?" Considered Harmful](https://will-keleher.com/posts/its-not-worth-the-time-yet.html) #read
 - [The Copilot Delusion](https://deplet.ing/the-copilot-delusion/) #read
 - [Thoughts on thinking • Dustin Curtis](https://dcurt.is/thinking) #read
