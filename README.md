@@ -1,3 +1,4 @@
+- [Thoughts on thinking • Dustin Curtis](https://dcurt.is/thinking) #read
 - [ Consider Knitting – journal.stuffwithstuff.com](https://journal.stuffwithstuff.com/2025/05/30/consider-knitting/) #read#life
 - [手把手教你制作旅行攻略 - 少数派](https://sspai.com/post/99522) #read#guide
 - [CRIBS: My Writing Feedback Formula - David Perell](https://perell.com/note/cribs-my-writing-feedback-formula/) #read#write
