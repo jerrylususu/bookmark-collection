@@ -1,3 +1,4 @@
+- [kepano/defuddle](https://github.com/kepano/defuddle) Defuddle extracts the main content from web pages. It cleans up web pages by removing clutter like comments, sidebars, headers, footers, and other non-essential elements, leaving only the primary content. #tools
 - [TIL: timeout in Bash scripts | Heitor's log](https://heitorpb.github.io/bla/timeout/) #read#tips
 - [CAPTCHAs are over (in ticketing) - pretix – behind the scenes](https://behind.pretix.eu/2025/05/23/captchas-are-over/) #read
 - [In C++, use exchange or swap with nullopt to move out of std::optional - Keunwoo Lee's Minimum Viable Homepage](https://keunwoo.com/notes/cpp-moving-std-optional/) If the use of C++ for building important large-scale systems does not worry you, then you either don’t know enough C++ or you fundamentally misunderstand the stochastic nature of software engineering at scale. #read#cpp
