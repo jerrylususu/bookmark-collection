@@ -1,3 +1,4 @@
+- [My AI Skeptic Friends Are All Nuts](https://fly.io/blog/youre-all-nuts/) #read#llm
 - [Planning and design systems–how much time you got?](https://pjonori.blog/posts/design-system-planning/) #read#people
 - [Progressive JSON — overreacted](https://overreacted.io/progressive-json/) #read#frontend
 - [Why DeepSeek is cheap at scale but expensive to run locally](https://www.seangoedecke.com/inference-batching-and-deepseek/) #read#llm
