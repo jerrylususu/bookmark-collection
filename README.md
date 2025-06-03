@@ -1,3 +1,4 @@
+- [Giving V8 a Heads-Up: Faster JavaScript Startup with Explicit Compile Hints · V8](https://v8.dev/blog/explicit-compile-hints) #read#js
 - [Directive prologues and JavaScript dark matter](https://macwright.com/2025/04/29/directive-prologues-and-javascript-dark-matter) #read#js
 - [My AI Skeptic Friends Are All Nuts](https://fly.io/blog/youre-all-nuts/) #read#llm
 - [Planning and design systems–how much time you got?](https://pjonori.blog/posts/design-system-planning/) #read#people
