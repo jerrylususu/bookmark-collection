@@ -1,3 +1,4 @@
+- [How Imports Work in RSC — overreacted](https://overreacted.io/how-imports-work-in-rsc/) #read#deepdive#js
 - [Cracking The Dave & Buster’s Anomaly | Rambo Codes](https://rambo.codes/posts/2025-05-12-cracking-the-dave-and-busters-anomaly) #read#hack
 - [DNS rebinding attacks explained: The lookup is coming from inside the house!](https://github.blog/security/application-security/dns-rebinding-attacks-explained-the-lookup-is-coming-from-inside-the-house/) #read#security
 - [Giving V8 a Heads-Up: Faster JavaScript Startup with Explicit Compile Hints · V8](https://v8.dev/blog/explicit-compile-hints) #read#js
