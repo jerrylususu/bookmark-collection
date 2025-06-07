@@ -1,3 +1,4 @@
+- [AI interpretability is further along than I thought](https://www.seangoedecke.com/ai-interpretability/) #read#llm
 - [Arguing point-by-point considered harmful](https://www.seangoedecke.com/point-by-point-considered-harmful/) #read#people
 - [How Imports Work in RSC — overreacted](https://overreacted.io/how-imports-work-in-rsc/) #read#deepdive#js
 - [Cracking The Dave & Buster’s Anomaly | Rambo Codes](https://rambo.codes/posts/2025-05-12-cracking-the-dave-and-busters-anomaly) #read#hack
