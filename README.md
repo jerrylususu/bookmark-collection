@@ -1,3 +1,4 @@
+- [用三个笨办法将千万字的《凡人修仙传》炼成一个知识图谱](https://grapeot.me/fanren.html) #read#llm
 - [AI interpretability is further along than I thought](https://www.seangoedecke.com/ai-interpretability/) #read#llm
 - [Arguing point-by-point considered harmful](https://www.seangoedecke.com/point-by-point-considered-harmful/) #read#people
 - [How Imports Work in RSC — overreacted](https://overreacted.io/how-imports-work-in-rsc/) #read#deepdive#js
