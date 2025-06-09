@@ -1,3 +1,4 @@
+- [On How Long it Takes to Know if a Job is Right for You or Not](https://charity.wtf/2025/06/08/on-how-long-it-takes-to-know-if-a-job-is-right-for-you-or-not/) #read#people#career
 - [用三个笨办法将千万字的《凡人修仙传》炼成一个知识图谱](https://grapeot.me/fanren.html) #read#llm
 - [AI interpretability is further along than I thought](https://www.seangoedecke.com/ai-interpretability/) #read#llm
 - [Arguing point-by-point considered harmful](https://www.seangoedecke.com/point-by-point-considered-harmful/) #read#people
