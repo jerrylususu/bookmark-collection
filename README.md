@@ -1,3 +1,4 @@
+- [The evasive evitability of enshittification](https://apenwarr.ca/log/20250530) #read#people
 - [How I program with Agents](https://crawshaw.io/blog/programming-with-agents) #read#llm
 - [Socratic method prompt](https://gist.github.com/Dowwie/5a66cd8df639e4c98043fc7f507dab9e) #tools
 - [On How Long it Takes to Know if a Job is Right for You or Not](https://charity.wtf/2025/06/08/on-how-long-it-takes-to-know-if-a-job-is-right-for-you-or-not/) #read#people#career
