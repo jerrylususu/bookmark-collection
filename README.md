@@ -1,3 +1,4 @@
+- [Using `make` to compile C programs (for non-C-programmers)](https://jvns.ca/blog/2025/06/10/how-to-compile-a-c-program/) #read#guide
 - [The evasive evitability of enshittification](https://apenwarr.ca/log/20250530) #read#people
 - [How I program with Agents](https://crawshaw.io/blog/programming-with-agents) #read#llm
 - [Socratic method prompt](https://gist.github.com/Dowwie/5a66cd8df639e4c98043fc7f507dab9e) #tools
