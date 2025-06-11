@@ -1,3 +1,4 @@
+- [AI-assisted coding for teams that can't get away with vibes - nilenso blog](http://blog.nilenso.com/blog/2025/05/29/ai-assisted-coding/) #read#llm#guide
 - [Using `make` to compile C programs (for non-C-programmers)](https://jvns.ca/blog/2025/06/10/how-to-compile-a-c-program/) #read#guide
 - [The evasive evitability of enshittification](https://apenwarr.ca/log/20250530) #read#people
 - [How I program with Agents](https://crawshaw.io/blog/programming-with-agents) #read#llm
