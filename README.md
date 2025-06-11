@@ -1,3 +1,4 @@
+- [We shipped FinalizationRegistry in Workers: why you should never use it](https://blog.cloudflare.com/we-shipped-finalizationregistry-in-workers-why-you-should-never-use-it/) #read#js
 - [Rust Week 2025 杂记 | CatCoding](https://catcoding.me/p/rust-week-notes/) #read
 - [AI-assisted coding for teams that can't get away with vibes - nilenso blog](http://blog.nilenso.com/blog/2025/05/29/ai-assisted-coding/) #read#llm#guide
 - [Using `make` to compile C programs (for non-C-programmers)](https://jvns.ca/blog/2025/06/10/how-to-compile-a-c-program/) #read#guide
