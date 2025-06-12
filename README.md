@@ -1,3 +1,4 @@
+- [如何选择自托管开源多维表格 - 少数派](https://sspai.com/post/99949) #read
 - [We shipped FinalizationRegistry in Workers: why you should never use it](https://blog.cloudflare.com/we-shipped-finalizationregistry-in-workers-why-you-should-never-use-it/) #read#js
 - [Rust Week 2025 杂记 | CatCoding](https://catcoding.me/p/rust-week-notes/) #read
 - [AI-assisted coding for teams that can't get away with vibes - nilenso blog](http://blog.nilenso.com/blog/2025/05/29/ai-assisted-coding/) #read#llm#guide
