@@ -1,3 +1,4 @@
+- [Suppressions of Suppressions — overreacted](https://overreacted.io/suppressions-of-suppressions/) #read#people
 - [如何选择自托管开源多维表格 - 少数派](https://sspai.com/post/99949) #read
 - [We shipped FinalizationRegistry in Workers: why you should never use it](https://blog.cloudflare.com/we-shipped-finalizationregistry-in-workers-why-you-should-never-use-it/) #read#js
 - [Rust Week 2025 杂记 | CatCoding](https://catcoding.me/p/rust-week-notes/) #read
