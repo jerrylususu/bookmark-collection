@@ -1,3 +1,4 @@
+- [How I Use Claude Code](https://spiess.dev/blog/how-i-use-claude-code) #read#llm
 - [Claude Code is My Computer | Peter Steinberger](https://steipete.me/posts/2025/claude-code-is-my-computer) #read#llm
 - [Everything’s a bug (or an issue) | Bozeman Pass, Inc.](https://www.bozemanpass.com/everythings-a-bug-or-an-issue/) #read
 - [Design Patterns for Securing LLM Agents against Prompt Injections](https://simonwillison.net/2025/Jun/13/prompt-injection-design-patterns/) #read#llm#security
