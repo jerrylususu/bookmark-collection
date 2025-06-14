@@ -1,3 +1,4 @@
+- [Boredom Over Beauty: Why Code Quality is Code Security](https://blog.asymmetric.re/boredom-over-beauty-why-code-quality-is-code-security/) #read
 - [How I Use Claude Code](https://spiess.dev/blog/how-i-use-claude-code) #read#llm
 - [Claude Code is My Computer | Peter Steinberger](https://steipete.me/posts/2025/claude-code-is-my-computer) #read#llm
 - [Everything’s a bug (or an issue) | Bozeman Pass, Inc.](https://www.bozemanpass.com/everythings-a-bug-or-an-issue/) #read
