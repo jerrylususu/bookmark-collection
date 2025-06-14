@@ -1,3 +1,4 @@
+- [Everything’s a bug (or an issue) | Bozeman Pass, Inc.](https://www.bozemanpass.com/everythings-a-bug-or-an-issue/) #read
 - [Design Patterns for Securing LLM Agents against Prompt Injections](https://simonwillison.net/2025/Jun/13/prompt-injection-design-patterns/) #read#llm#security
 - [Agentic Coding Recommendations](https://lucumr.pocoo.org/2025/6/12/agentic-coding/) #read#llm#guide
 - [Suppressions of Suppressions — overreacted](https://overreacted.io/suppressions-of-suppressions/) #read#people
