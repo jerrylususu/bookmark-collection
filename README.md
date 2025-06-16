@@ -1,3 +1,4 @@
+- [The lethal trifecta for AI agents: private data, untrusted content, and external communication](https://simonwillison.net/2025/Jun/16/the-lethal-trifecta/) #read#llm
 - [Rainbow Deploys with Kubernetes | Brandon Dimcheff](https://brandon.dimcheff.com/2018/02/rainbow-deploys-with-kubernetes/) #read#hack
 - [How we built our multi-agent research system](https://www.anthropic.com/engineering/built-multi-agent-research-system) #read#llm#deepdive
 - [Boredom Over Beauty: Why Code Quality is Code Security](https://blog.asymmetric.re/boredom-over-beauty-why-code-quality-is-code-security/) #read
