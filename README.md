@@ -1,3 +1,4 @@
+- [Writing Toy Software Is A Joy | Joshua Barretto](https://www.jsbarretto.com/blog/software-is-joy/) #read#guide
 - [Pack Spring Boot JARs into a monolithic Docker image](https://miao1007.github.io/f90ce500-08b5-11f0-b358-6fc945929be4/) #read#java
 - [I fight bots in my free time](https://xeiaso.net/talks/2025/bsdcan-anubis/) #read
 - [The lethal trifecta for AI agents: private data, untrusted content, and external communication](https://simonwillison.net/2025/Jun/16/the-lethal-trifecta/) #read#llm
