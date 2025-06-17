@@ -1,3 +1,4 @@
+- [Backtraces with strace](https://shane.ai/posts/backtraces-with-strace/) #read#network#go
 - [strace tips for better debugging](https://rrampage.github.io/2025/06/13/strace-tips-for-better-debugging/) #read#tips#debug
 - [Homomorphically Encrypting CRDTs | jakelazaroff.com](https://jakelazaroff.com/words/homomorphically-encrypted-crdts/) #read#deepdive#security
 - [VibeTunnel: Turn Any Browser into Your Mac's Terminal | Peter Steinberger](https://steipete.me/posts/2025/vibetunnel-turn-any-browser-into-your-mac-terminal) #read
