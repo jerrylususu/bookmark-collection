@@ -1,3 +1,4 @@
+- [Labubu 哪有泡沫？ | 虹线](https://1q43.blog/post/11388/) #read
 - [jq: tool and language for JSON processing – Trickster Dev](https://www.trickster.dev/post/jq-tool-and-language-for-json-processing/) #read#guide
 - [Robin Hood Hashing should be your default Hash Table implementation](https://www.sebastiansylvan.com/post/robin-hood-hashing-should-be-your-default-hash-table-implementation/) #read#algo
 - [Writing Toy Software Is A Joy | Joshua Barretto](https://www.jsbarretto.com/blog/software-is-joy/) #read#guide
