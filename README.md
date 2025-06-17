@@ -1,3 +1,4 @@
+- [VibeTunnel: Turn Any Browser into Your Mac's Terminal | Peter Steinberger](https://steipete.me/posts/2025/vibetunnel-turn-any-browser-into-your-mac-terminal) #read
 - [We Can Just Measure Things](https://lucumr.pocoo.org/2025/6/17/measuring/) #read
 - [Labubu 哪有泡沫？ | 虹线](https://1q43.blog/post/11388/) #read
 - [jq: tool and language for JSON processing – Trickster Dev](https://www.trickster.dev/post/jq-tool-and-language-for-json-processing/) #read#guide
