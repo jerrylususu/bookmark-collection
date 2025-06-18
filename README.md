@@ -1,3 +1,4 @@
+- [You can use `fzf` to review git commits](https://jvns.ca/til/fzf-preview-git-commits/) #read#hack
 - [Backtraces with strace](https://shane.ai/posts/backtraces-with-strace/) #read#network#go
 - [strace tips for better debugging](https://rrampage.github.io/2025/06/13/strace-tips-for-better-debugging/) #read#tips#debug
 - [Homomorphically Encrypting CRDTs | jakelazaroff.com](https://jakelazaroff.com/words/homomorphically-encrypted-crdts/) #read#deepdive#security
