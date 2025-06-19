@@ -1,3 +1,4 @@
+- [I Counted All of the Yurts in Mongolia Using Machine Learning | Monroe Clinton](https://monroeclinton.com/counting-all-yurts-in-mongolia/) #read#deepdive
 - [You can use `fzf` to review git commits](https://jvns.ca/til/fzf-preview-git-commits/) #read#hack
 - [Backtraces with strace](https://shane.ai/posts/backtraces-with-strace/) #read#network#go
 - [strace tips for better debugging](https://rrampage.github.io/2025/06/13/strace-tips-for-better-debugging/) #read#tips#debug
