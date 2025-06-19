@@ -1,3 +1,4 @@
+- [Cognition | Don’t Build Multi-Agents](https://cognition.ai/blog/dont-build-multi-agents#applying-the-principles) #read#llm
 - [Every service should have a killswitch](https://www.seangoedecke.com/killswitches/) #read#tips
 - [I Counted All of the Yurts in Mongolia Using Machine Learning | Monroe Clinton](https://monroeclinton.com/counting-all-yurts-in-mongolia/) #read#deepdive
 - [You can use `fzf` to review git commits](https://jvns.ca/til/fzf-preview-git-commits/) #read#hack
