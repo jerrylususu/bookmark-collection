@@ -1,3 +1,4 @@
+- [How can you tell if the company you’re interviewing with is rotten on the inside?](https://charity.wtf/2022/01/29/how-can-you-tell-if-the-company-youre-interviewing-with-is-rotten-on-the-inside/) #read#career
 - [In Praise of “Normal” Engineers](https://charity.wtf/2025/06/19/in-praise-of-normal-engineers/) #read#career
 - [后智慧时代生存指南：关于未来的一些疯狂随想](https://grapeot.me/ai-society.html) #read
 - [Cognition | Don’t Build Multi-Agents](https://cognition.ai/blog/dont-build-multi-agents#applying-the-principles) #read#llm
