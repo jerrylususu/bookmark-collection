@@ -1,3 +1,4 @@
+- [后智慧时代生存指南：关于未来的一些疯狂随想](https://grapeot.me/ai-society.html) #read
 - [Cognition | Don’t Build Multi-Agents](https://cognition.ai/blog/dont-build-multi-agents#applying-the-principles) #read#llm
 - [Every service should have a killswitch](https://www.seangoedecke.com/killswitches/) #read#tips
 - [I Counted All of the Yurts in Mongolia Using Machine Learning | Monroe Clinton](https://monroeclinton.com/counting-all-yurts-in-mongolia/) #read#deepdive
