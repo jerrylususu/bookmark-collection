@@ -1,3 +1,4 @@
+- [Rolling the ladder up behind us](https://xeiaso.net/blog/2025/rolling-ladder-behind-us/) #read
 - [（译）2023 年每个软件开发者都必须知道的关于 Unicode 的基本知识 | 新世界的大门](https://blog.xinshijiededa.men/unicode/) #guide#deepdive
 - [Questionable Advice: “How can I sniff out bad managers while interviewing for a job?”](https://charity.wtf/2021/02/19/questionable-advice-how-can-i-sniff-out-bad-managers-while-interviewing-for-a-job/) #read#career
 - [How can you tell if the company you’re interviewing with is rotten on the inside?](https://charity.wtf/2022/01/29/how-can-you-tell-if-the-company-youre-interviewing-with-is-rotten-on-the-inside/) #read#career
