@@ -1,3 +1,4 @@
+- [CSS Classes considered harmful](https://www.keithcirkel.co.uk/css-classes-considered-harmful/) #read#deepdive#frontend
 - [Decoding Google: Converting a Black Box to a White Box](https://brutecat.com/articles/decoding-google) #read#security#deepdive
 - [Everything I know about good system design](https://www.seangoedecke.com/good-system-design/) #read#guide#arch
 - [Rolling the ladder up behind us](https://xeiaso.net/blog/2025/rolling-ladder-behind-us/) #read
