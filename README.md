@@ -1,3 +1,4 @@
+- [Decoding Google: Converting a Black Box to a White Box](https://brutecat.com/articles/decoding-google) #read#security#deepdive
 - [Everything I know about good system design](https://www.seangoedecke.com/good-system-design/) #read#guide#arch
 - [Rolling the ladder up behind us](https://xeiaso.net/blog/2025/rolling-ladder-behind-us/) #read
 - [（译）2023 年每个软件开发者都必须知道的关于 Unicode 的基本知识 | 新世界的大门](https://blog.xinshijiededa.men/unicode/) #guide#deepdive
