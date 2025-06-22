@@ -1,3 +1,4 @@
+- [My First Open Source AI Generated Library](https://simonwillison.net/2025/Jun/21/my-first-open-source-ai-generated-library/) #read#llm
 - [Pure and impure software engineering](https://www.seangoedecke.com/pure-and-impure-engineering/) #read#llm#career
 - [CSS Classes considered harmful](https://www.keithcirkel.co.uk/css-classes-considered-harmful/) #read#deepdive#frontend
 - [Decoding Google: Converting a Black Box to a White Box](https://brutecat.com/articles/decoding-google) #read#security#deepdive
