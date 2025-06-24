@@ -1,3 +1,4 @@
+- [Learnings from two years of using AI tools for software engineering](https://newsletter.pragmaticengineer.com/p/two-years-of-using-ai) #read#llm
 - [My First Open Source AI Generated Library](https://simonwillison.net/2025/Jun/21/my-first-open-source-ai-generated-library/) #read#llm
 - [Pure and impure software engineering](https://www.seangoedecke.com/pure-and-impure-engineering/) #read#llm#career
 - [CSS Classes considered harmful](https://www.keithcirkel.co.uk/css-classes-considered-harmful/) #read#deepdive#frontend
