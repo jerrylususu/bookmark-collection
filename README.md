@@ -1,3 +1,4 @@
+- [How I Vibe Coding?](https://xuanwo.io/2025/03-how-i-vibe-coding/) #read#llm
 - [Reading NFC Passport Chips in Linux](https://shkspr.mobi/blog/2025/06/reading-nfc-passport-chips-in-linux/) #read
 - [Learnings from two years of using AI tools for software engineering](https://newsletter.pragmaticengineer.com/p/two-years-of-using-ai) #read#llm
 - [My First Open Source AI Generated Library](https://simonwillison.net/2025/Jun/21/my-first-open-source-ai-generated-library/) #read#llm
