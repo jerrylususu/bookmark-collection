@@ -1,3 +1,4 @@
+- [从Prompt Engineering到Context Engineering - 铁蕾的个人博客](http://zhangtielei.com/posts/blog-context-engineering.html) #read#llm
 - [I don't care if my manager writes code](https://www.seangoedecke.com/technical-engineering-managers/) #read#people
 - [New zine: The Secret Rules of the Terminal](https://jvns.ca/blog/2025/06/24/new-zine--the-secret-rules-of-the-terminal/) #read
 - [The AI safety problem is wanting](https://dynomight.net/wanting/) #read#llm
