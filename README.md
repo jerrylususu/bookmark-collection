@@ -1,3 +1,4 @@
+- [初入投资容易犯的错误](https://laike9m.com/blog/novice-investor,164/) #read
 - [Orange Me2eets: We made an end-to-end encrypted video calling app and it was easy](https://blog.cloudflare.com/orange-me2eets-we-made-an-end-to-end-encrypted-video-calling-app-and-it-was/) #read#security
 - [从Prompt Engineering到Context Engineering - 铁蕾的个人博客](http://zhangtielei.com/posts/blog-context-engineering.html) #read#llm
 - [I don't care if my manager writes code](https://www.seangoedecke.com/technical-engineering-managers/) #read#people
