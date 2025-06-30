@@ -1,3 +1,4 @@
+- [Tip: Use keyword-only arguments in Python dataclasses – ChipLog — Christian Hammond](https://chipx86.blog/2025/06/29/tip-use-keyword-only-arguments-in-python-dataclasses/) #read#tips
 - [Prompting vs JSON Mode vs Function Calling vs Constrained Generation vs SAP](https://www.boundaryml.com/blog/schema-aligned-parsing) #read#llm
 - [to-userscript/docs/architecture.md at main · Explosion-Scratch/to-userscript](https://github.com/Explosion-Scratch/to-userscript/blob/main/docs/article.md) #read#hack#tools
 - [The best open source project for someone might not be yours, and that's OK](https://blog.petdance.com/2018/01/02/the-best-open-source-project-for-someone-might-not-be-yours-and-thats-ok/) #read
