@@ -1,3 +1,4 @@
+- [Why Decentralised Applications Don’t Work | Ingrid's Space](https://ingrids.space/posts/why-distributed-systems-dont-work/) #read
 - [Agentic Coding: The Future of Software Development with Agents](https://simonwillison.net/2025/Jun/29/agentic-coding/) #read#llm#agent#video
 - [Tip: Use keyword-only arguments in Python dataclasses – ChipLog — Christian Hammond](https://chipx86.blog/2025/06/29/tip-use-keyword-only-arguments-in-python-dataclasses/) #read#tips
 - [Prompting vs JSON Mode vs Function Calling vs Constrained Generation vs SAP](https://www.boundaryml.com/blog/schema-aligned-parsing) #read#llm
