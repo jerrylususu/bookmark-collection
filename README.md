@@ -1,3 +1,4 @@
+- [How Long Contexts Fail](https://www.dbreunig.com/2025/06/22/how-contexts-fail-and-how-to-fix-them.html) #read#llm
 - [Linguistic Relativity and the Tyranny of the Compiler | Ingrid's Space](https://ingrids.space/posts/tyranny-of-the-compiler/) #read
 - [Why Decentralised Applications Don’t Work | Ingrid's Space](https://ingrids.space/posts/why-distributed-systems-dont-work/) #read
 - [Agentic Coding: The Future of Software Development with Agents](https://simonwillison.net/2025/Jun/29/agentic-coding/) #read#llm#agent#video
