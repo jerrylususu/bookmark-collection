@@ -1,3 +1,4 @@
+- [So you want to serialize some DER? · Alex Gaynor](https://alexgaynor.net/2025/jun/20/serialize-some-der/) #read
 - [Predicting Average IMDb Movie Ratings Using Text Embeddings of Movie Metadata](https://minimaxir.com/2025/06/movie-embeddings/) #read#data#deepdive
 - [microsoft/vscode-copilot-chat](https://simonwillison.net/2025/Jun/30/vscode-copilot-chat/) #read#llm
 - [That boolean should probably be something else | nicole@web](https://ntietz.com/blog/that-boolean-should-probably-be-something-else/) #read#tips
