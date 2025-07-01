@@ -1,3 +1,4 @@
+- [Scribble-based forecasting and AI 2027](https://dynomight.net/scribbles/) #read
 - [ASN.1 与 DER 轻松入门](https://letsencrypt.org/zh-cn/docs/a-warm-welcome-to-asn1-and-der/) #read#guide#deepdive
 - [So you want to serialize some DER? · Alex Gaynor](https://alexgaynor.net/2025/jun/20/serialize-some-der/) #read
 - [Predicting Average IMDb Movie Ratings Using Text Embeddings of Movie Metadata](https://minimaxir.com/2025/06/movie-embeddings/) #read#data#deepdive
