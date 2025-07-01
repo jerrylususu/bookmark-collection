@@ -1,3 +1,4 @@
+- [That boolean should probably be something else | nicole@web](https://ntietz.com/blog/that-boolean-should-probably-be-something-else/) #read#tips
 - [How to Fix Your Context](https://www.dbreunig.com/2025/06/26/how-to-fix-your-context.html) #read#llm
 - [How Long Contexts Fail](https://www.dbreunig.com/2025/06/22/how-contexts-fail-and-how-to-fix-them.html) #read#llm
 - [Linguistic Relativity and the Tyranny of the Compiler | Ingrid's Space](https://ingrids.space/posts/tyranny-of-the-compiler/) #read
