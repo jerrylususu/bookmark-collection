@@ -1,3 +1,4 @@
+- [Software engineering with LLMs in 2025: reality check](https://newsletter.pragmaticengineer.com/p/software-engineering-with-llms-in-2025) #read#llm#deepdive
 - [Continuous AI in software engineering](https://www.seangoedecke.com/continuous-ai/) #read#llm
 - [Using Playwright MCP with Claude Code](https://til.simonwillison.net/claude-code/playwright-mcp-claude-code) #read#guide
 - [Scribble-based forecasting and AI 2027](https://dynomight.net/scribbles/) #read
