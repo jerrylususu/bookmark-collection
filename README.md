@@ -1,3 +1,4 @@
+- [Continuous AI in software engineering](https://www.seangoedecke.com/continuous-ai/) #read#llm
 - [Using Playwright MCP with Claude Code](https://til.simonwillison.net/claude-code/playwright-mcp-claude-code) #read#guide
 - [Scribble-based forecasting and AI 2027](https://dynomight.net/scribbles/) #read
 - [ASN.1 与 DER 轻松入门](https://letsencrypt.org/zh-cn/docs/a-warm-welcome-to-asn1-and-der/) #read#guide#deepdive
