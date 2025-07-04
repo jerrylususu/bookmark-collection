@@ -1,3 +1,4 @@
+- [I built something that changed my friend group's social fabric](https://blog.danpetrolito.xyz/i-built-something-that-changed-my-friend-gro-social-fabric/) #read
 - [Tools: Code Is All You Need](https://lucumr.pocoo.org/2025/7/3/tools/) #read#llm
 - [Software engineering with LLMs in 2025: reality check](https://newsletter.pragmaticengineer.com/p/software-engineering-with-llms-in-2025) #read#llm#deepdive
 - [Continuous AI in software engineering](https://www.seangoedecke.com/continuous-ai/) #read#llm
