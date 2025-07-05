@@ -1,3 +1,4 @@
+- [Frequently Asked Questions (And Answers) About AI Evals – Hamel’s Blog](https://hamel.dev/blog/posts/evals-faq/) #read#llm#guide
 - [MCP: An (Accidentally) Universal Plugin System](https://worksonmymachine.substack.com/p/mcp-an-accidentally-universal-plugin) #read#llm
 - [When AI Codes, What’s Left for me? - CoRecursive Podcast](https://corecursive.com/coding-agents/) #read#llm
 - [I built something that changed my friend group's social fabric](https://blog.danpetrolito.xyz/i-built-something-that-changed-my-friend-gro-social-fabric/) #read
