@@ -1,3 +1,4 @@
+- [Serving 200 million requests per day with a cgi-bin](https://jacob.gold/posts/serving-200-million-requests-with-cgi-bin/) #read#web
 - [Frequently Asked Questions (And Answers) About AI Evals – Hamel’s Blog](https://hamel.dev/blog/posts/evals-faq/) #read#llm#guide
 - [MCP: An (Accidentally) Universal Plugin System](https://worksonmymachine.substack.com/p/mcp-an-accidentally-universal-plugin) #read#llm
 - [When AI Codes, What’s Left for me? - CoRecursive Podcast](https://corecursive.com/coding-agents/) #read#llm
