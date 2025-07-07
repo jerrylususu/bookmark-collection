@@ -1,3 +1,4 @@
+- [[译] 关于 AI 下半场的思考：技术/模型篇（2025）](https://arthurchiao.github.io/blog/ai-2nd-half-1-zh/) #read#llm
 - [[笔记] 关于 AI 下半场的思考：商业/应用篇（2025）](https://arthurchiao.github.io/blog/ai-2nd-half-2-zh/) #read#llm
 - [我的赛博长生之路：一场拓展生命边界的AI实验](https://grapeot.me/ai-eternity.html) #read#llm
 - [Serving 200 million requests per day with a cgi-bin](https://jacob.gold/posts/serving-200-million-requests-with-cgi-bin/) #read#web
