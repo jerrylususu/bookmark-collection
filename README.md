@@ -1,3 +1,4 @@
+- [I Shipped a macOS App Built Entirely by Claude Code](https://www.indragie.com/blog/i-shipped-a-macos-app-built-entirely-by-claude-code) #read#llm
 - [[译] 关于 AI 下半场的思考：技术/模型篇（2025）](https://arthurchiao.github.io/blog/ai-2nd-half-1-zh/) #read#llm
 - [[笔记] 关于 AI 下半场的思考：商业/应用篇（2025）](https://arthurchiao.github.io/blog/ai-2nd-half-2-zh/) #read#llm
 - [我的赛博长生之路：一场拓展生命边界的AI实验](https://grapeot.me/ai-eternity.html) #read#llm
