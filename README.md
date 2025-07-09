@@ -1,3 +1,4 @@
+- [AI 需要有自己的人生 | 虹线](https://1q43.blog/post/11687/) #read#llm
 - [Filesystem Backed by an LLM](https://healeycodes.com/filesystem-backed-by-an-llm) #read#llm
 - [I Shipped a macOS App Built Entirely by Claude Code](https://www.indragie.com/blog/i-shipped-a-macos-app-built-entirely-by-claude-code) #read#llm
 - [[译] 关于 AI 下半场的思考：技术/模型篇（2025）](https://arthurchiao.github.io/blog/ai-2nd-half-1-zh/) #read#llm
