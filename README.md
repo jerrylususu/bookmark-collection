@@ -1,3 +1,4 @@
+- [Git experts should try Jujutsu · pksunkara](https://pksunkara.com/thoughts/git-experts-should-try-jujutsu/) #read#git
 - [TI-20250709-0001: IPv4 traffic failures for Techaro services | Anubis](https://anubis.techaro.lol/blog/incident/TI-20250709-0001/) #read#incident
 - [How I build software quickly](https://evanhahn.com/how-i-build-software-quickly/) #read#guide
 - [现代Vue3技术栈下的前端UI框架小调研 | 编码妙♂妙♂屋](https://www.skypyb.com/2025/07/jishu/2294/) #read#frontend
