@@ -1,3 +1,4 @@
+- [I used o3 to profile myself from my saved Pocket links](https://noperator.dev/posts/o3-pocket-profile/) #read#llm
 - [METR's AI productivity study is really good](https://www.seangoedecke.com/impact-of-ai-study/) #read#llm
 - [Git experts should try Jujutsu · pksunkara](https://pksunkara.com/thoughts/git-experts-should-try-jujutsu/) #read#git
 - [TI-20250709-0001: IPv4 traffic failures for Techaro services | Anubis](https://anubis.techaro.lol/blog/incident/TI-20250709-0001/) #read#incident
