@@ -1,3 +1,4 @@
+- [How I do it](https://daniel.haxx.se/blog/2025/07/13/how-i-do-it/) #read#oss
 - [being too ambitious is a clever form of self-sabotage](https://maalvika.substack.com/p/being-too-ambitious-is-a-clever-form) #read#life
 - [I used o3 to profile myself from my saved Pocket links](https://noperator.dev/posts/o3-pocket-profile/) #read#llm
 - [METR's AI productivity study is really good](https://www.seangoedecke.com/impact-of-ai-study/) #read#llm
