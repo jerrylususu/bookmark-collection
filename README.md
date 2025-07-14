@@ -1,3 +1,4 @@
+- [Building a RTS where you issue orders to AI agents](https://www.seangoedecke.com/wargame-agents/) #read#llm
 - [It is 1939 and you want to use public-key cryptography](https://shkspr.mobi/blog/2025/07/it-is-1939-and-you-want-to-use-public-key-cryptography/) #read
 - [How I do it](https://daniel.haxx.se/blog/2025/07/13/how-i-do-it/) #read#oss
 - [being too ambitious is a clever form of self-sabotage](https://maalvika.substack.com/p/being-too-ambitious-is-a-clever-form) #read#life
