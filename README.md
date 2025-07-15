@@ -1,3 +1,4 @@
+- [Thoughts on Motivation and My 40-Year Career](https://charity.wtf/2025/07/09/thoughts-on-motivation-and-my-40-year-career/) #read#career
 - [AI-operated vending machines and business process innovation (sorry)](https://interconnected.org/home/2025/07/10/vending) #read#llm#economics
 - [Redka: Redis re-implemented with SQL](https://antonz.org/redka/) #read#hack
 - [Practical notes on getting LLMs to generate new ideas](https://www.seangoedecke.com/idea-mill/) #read#llm
