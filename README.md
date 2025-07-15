@@ -1,3 +1,4 @@
+- [AI-operated vending machines and business process innovation (sorry)](https://interconnected.org/home/2025/07/10/vending) #read#llm#economics
 - [Redka: Redis re-implemented with SQL](https://antonz.org/redka/) #read#hack
 - [Practical notes on getting LLMs to generate new ideas](https://www.seangoedecke.com/idea-mill/) #read#llm
 - [Simple macOS script to extract text from images (OCR)](https://evanhahn.com/mac-ocr-script/) #read#tips
