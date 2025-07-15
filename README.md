@@ -1,3 +1,4 @@
+- [Redka: Redis re-implemented with SQL](https://antonz.org/redka/) #read#hack
 - [Practical notes on getting LLMs to generate new ideas](https://www.seangoedecke.com/idea-mill/) #read#llm
 - [Simple macOS script to extract text from images (OCR)](https://evanhahn.com/mac-ocr-script/) #read#tips
 - [Happy 20th birthday Django! Here’s my talk on Django Origins from Django’s 10th](https://simonwillison.net/2025/Jul/13/django-birthday/) #read
