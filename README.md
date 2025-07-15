@@ -1,3 +1,4 @@
+- [Simple macOS script to extract text from images (OCR)](https://evanhahn.com/mac-ocr-script/) #read#tips
 - [Happy 20th birthday Django! Here’s my talk on Django Origins from Django’s 10th](https://simonwillison.net/2025/Jul/13/django-birthday/) #read
 - [The three great virtues of an AI-assisted programmer](https://www.seangoedecke.com/llm-user-virtues/) #read#llm
 - [Building a RTS where you issue orders to AI agents](https://www.seangoedecke.com/wargame-agents/) #read#llm
