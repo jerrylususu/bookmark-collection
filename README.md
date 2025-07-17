@@ -1,3 +1,4 @@
+- [Fell in a hole, got out.](https://medium.com/the-coach-life/fell-in-a-hole-got-out-381356ec8d7f) #read
 - [How to actually use Model Context Protocol](https://www.seangoedecke.com/how-to-actually-use-mcp/) #read#llm
 - [Gaslight-driven development](https://tonsky.me/blog/gaslight-driven-development/) #read#llm
 - [Reflections on OpenAI](https://calv.info/openai-reflections) #read
