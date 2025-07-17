@@ -1,3 +1,4 @@
+- [Gaslight-driven development](https://tonsky.me/blog/gaslight-driven-development/) #read#llm
 - [Reflections on OpenAI](https://calv.info/openai-reflections) #read
 - [Thoughts on Motivation and My 40-Year Career](https://charity.wtf/2025/07/09/thoughts-on-motivation-and-my-40-year-career/) #read#career
 - [AI-operated vending machines and business process innovation (sorry)](https://interconnected.org/home/2025/07/10/vending) #read#llm#economics
