@@ -1,3 +1,4 @@
+- [Vibe scraping and vibe coding a schedule app for Open Sauce 2025 entirely on my phone](https://simonwillison.net/2025/Jul/17/vibe-scraping/) #read#llm
 - [程序员延寿计算器 | Programmer Longevity Calculator](https://buff.meiyongxia.com/) #tools
 - [Fell in a hole, got out.](https://medium.com/the-coach-life/fell-in-a-hole-got-out-381356ec8d7f) #read
 - [How to actually use Model Context Protocol](https://www.seangoedecke.com/how-to-actually-use-mcp/) #read#llm
