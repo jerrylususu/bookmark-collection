@@ -1,3 +1,4 @@
+- [The EU can be shut down with a few keystrokes](https://www.bitecode.dev/p/the-eu-can-be-shut-down-with-a-few) #read
 - [Vibe scraping and vibe coding a schedule app for Open Sauce 2025 entirely on my phone](https://simonwillison.net/2025/Jul/17/vibe-scraping/) #read#llm
 - [程序员延寿计算器 | Programmer Longevity Calculator](https://buff.meiyongxia.com/) #tools
 - [Fell in a hole, got out.](https://medium.com/the-coach-life/fell-in-a-hole-got-out-381356ec8d7f) #read
