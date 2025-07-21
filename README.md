@@ -1,3 +1,4 @@
+- [Covers as a way of learning music and code | nicole@web](https://ntietz.com/blog/covers-as-a-way-of-learning) #read#tips
 - [Coding with LLMs in the summer of 2025 (an update) - <antirez>](https://antirez.com/news/154) #read#llm
 - [AI Agent时代的软件开发范式 - 铁蕾的个人博客](http://zhangtielei.com/posts/blog-ai-agent-engineering-paradigm.html) #read#llm
 - [The EU can be shut down with a few keystrokes](https://www.bitecode.dev/p/the-eu-can-be-shut-down-with-a-few) #read
