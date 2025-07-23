@@ -1,3 +1,4 @@
+- [鲍莫尔现象 - Miao Yu | 于淼](https://yufree.cn/cn/2025/07/22/baumol-effect/) #read
 - [AI代理的上下文工程：构建Manus的经验教训](https://manus.im/blog/Context-Engineering-for-AI-Agents-Lessons-from-Building-Manus) #read#llm
 - [Covers as a way of learning music and code | nicole@web](https://ntietz.com/blog/covers-as-a-way-of-learning) #read#tips
 - [Coding with LLMs in the summer of 2025 (an update) - <antirez>](https://antirez.com/news/154) #read#llm
