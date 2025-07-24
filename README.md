@@ -1,3 +1,4 @@
+- [Do not yell at the language model](https://www.seangoedecke.com/do-not-yell-at-the-language-model/) #read#llm
 - [What "Parse, don't validate" means in Python?](https://www.bitecode.dev/p/what-parse-dont-validate-means-in) #read#py
 - [Why reliability is hard at scale: learnings from infrastructure outages](https://newsletter.pragmaticengineer.com/p/why-reliability-is-hard-at-scale) #read#reliability
 - [鲍莫尔现象 - Miao Yu | 于淼](https://yufree.cn/cn/2025/07/22/baumol-effect/) #read
