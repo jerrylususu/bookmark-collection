@@ -1,3 +1,4 @@
+- [Announcing Toad - a universal UI for agentic coding in the terminal](http://willmcgugan.github.io/announcing-toad/) #read
 - [Developing our position on AI - Blog - Recurse Center](https://www.recurse.com/blog/191-developing-our-position-on-ai#footnote-return-p191f6) #read#llm
 - [Do not yell at the language model](https://www.seangoedecke.com/do-not-yell-at-the-language-model/) #read#llm
 - [What "Parse, don't validate" means in Python?](https://www.bitecode.dev/p/what-parse-dont-validate-means-in) #read#py
