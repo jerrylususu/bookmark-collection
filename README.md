@@ -1,3 +1,4 @@
+- [Developing our position on AI - Blog - Recurse Center](https://www.recurse.com/blog/191-developing-our-position-on-ai#footnote-return-p191f6) #read#llm
 - [Do not yell at the language model](https://www.seangoedecke.com/do-not-yell-at-the-language-model/) #read#llm
 - [What "Parse, don't validate" means in Python?](https://www.bitecode.dev/p/what-parse-dont-validate-means-in) #read#py
 - [Why reliability is hard at scale: learnings from infrastructure outages](https://newsletter.pragmaticengineer.com/p/why-reliability-is-hard-at-scale) #read#reliability
