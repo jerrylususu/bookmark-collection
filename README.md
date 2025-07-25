@@ -1,3 +1,4 @@
+- [What kind of work I want (in 2025)](https://www.seangoedecke.com/my-engineering-values-2025/) #read
 - [How We Migrated the Parse API From Ruby to Golang (Resurrected)](https://charity.wtf/2025/07/24/how-we-migrated-the-parse-api-from-ruby-to-golang-resurrected/) #read#go
 - [Announcing Toad - a universal UI for agentic coding in the terminal](http://willmcgugan.github.io/announcing-toad/) #read
 - [Developing our position on AI - Blog - Recurse Center](https://www.recurse.com/blog/191-developing-our-position-on-ai#footnote-return-p191f6) #read#llm
