@@ -1,3 +1,4 @@
+- [How to build secure and scalable remote MCP servers](https://github.blog/ai-and-ml/generative-ai/how-to-build-secure-and-scalable-remote-mcp-servers/) #read#llm#security
 - [Knives and battleships](https://world.hey.com/jason/knives-and-battleships-ac8dc8c2) #read
 - [NYC’s Urban Textscape](https://pudding.cool/2025/07/street-view/) #read#visual#deepdive
 - [Using GitHub Spark to reverse engineer GitHub Spark](https://simonwillison.net/2025/Jul/24/github-spark/) #read#llm#deepdive
