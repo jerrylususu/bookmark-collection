@@ -1,3 +1,4 @@
+- [An Engineer's Guide to AI Code Model Evals](https://addyosmani.com/blog/ai-evals/) #read#guide#deepdive#llm#eval
 - [From Async/Await to Virtual Threads](https://lucumr.pocoo.org/2025/7/26/virtual-threads/) #read#python
 - [Zigzag Number Spiral - Susam Pal](https://susam.net/zigzag-number-spiral.html) #read#algo#deepdive
 - [Can small AI models think as well as large ones?](https://www.seangoedecke.com/cognitive-core/) #read#llm
