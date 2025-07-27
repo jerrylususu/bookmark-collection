@@ -1,3 +1,4 @@
+- [Zigzag Number Spiral - Susam Pal](https://susam.net/zigzag-number-spiral.html) #read#algo#deepdive
 - [Can small AI models think as well as large ones?](https://www.seangoedecke.com/cognitive-core/) #read#llm
 - [How to build secure and scalable remote MCP servers](https://github.blog/ai-and-ml/generative-ai/how-to-build-secure-and-scalable-remote-mcp-servers/) #read#llm#security
 - [Knives and battleships](https://world.hey.com/jason/knives-and-battleships-ac8dc8c2) #read
