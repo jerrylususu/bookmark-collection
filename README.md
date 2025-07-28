@@ -1,3 +1,4 @@
+- [The many, many, many JavaScript runtimes of the last decade](https://buttondown.com/whatever_jamie/archive/the-many-many-many-javascript-runtimes-of-the-last-decade/) #read#js#deepdive
 - [TIL: Exception.add_note](https://daniel.feldroy.com/posts/til-2025-05-exception-add_note) #tips#python
 - [Enough AI copilots! We need AI HUDs](https://www.geoffreylitt.com/2025/07/27/enough-ai-copilots-we-need-ai-huds) #read#llm#design
 - [The Bitter Lesson versus The Garbage Can](https://www.oneusefulthing.org/p/the-bitter-lesson-versus-the-garbage) #read
