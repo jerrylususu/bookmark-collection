@@ -1,3 +1,4 @@
+- [Enough AI copilots! We need AI HUDs](https://www.geoffreylitt.com/2025/07/27/enough-ai-copilots-we-need-ai-huds) #read#llm#design
 - [The Bitter Lesson versus The Garbage Can](https://www.oneusefulthing.org/p/the-bitter-lesson-versus-the-garbage) #read
 - [I Drank Every Cocktail](https://aaronson.org/blog/i-drank-every-cocktail) #read
 - [An Engineer's Guide to AI Code Model Evals](https://addyosmani.com/blog/ai-evals/) #read#guide#deepdive#llm#eval
