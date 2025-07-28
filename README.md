@@ -1,3 +1,4 @@
+- [TIL: Exception.add_note](https://daniel.feldroy.com/posts/til-2025-05-exception-add_note) #tips#python
 - [Enough AI copilots! We need AI HUDs](https://www.geoffreylitt.com/2025/07/27/enough-ai-copilots-we-need-ai-huds) #read#llm#design
 - [The Bitter Lesson versus The Garbage Can](https://www.oneusefulthing.org/p/the-bitter-lesson-versus-the-garbage) #read
 - [I Drank Every Cocktail](https://aaronson.org/blog/i-drank-every-cocktail) #read
