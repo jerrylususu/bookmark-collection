@@ -1,3 +1,4 @@
+- [Vibe code is legacy code](https://blog.val.town/vibe-code) #read
 - [Mind the End of Your Line ∙ Adaptive Patchwork](https://adaptivepatchwork.com/2012/03/01/mind-the-end-of-your-line/) #read#git#deepdive
 - [LLMs can now identify public figures in images](https://minimaxir.com/2025/07/llms-identify-people/) #read#llm
 - [The many, many, many JavaScript runtimes of the last decade](https://buttondown.com/whatever_jamie/archive/the-many-many-many-javascript-runtimes-of-the-last-decade/) #read#js#deepdive
