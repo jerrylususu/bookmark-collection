@@ -1,3 +1,4 @@
+- [The Math Is Haunted — overreacted](https://overreacted.io/the-math-is-haunted/) #read#guide
 - [Agentic Coding Things That Didn’t Work](https://lucumr.pocoo.org/2025/7/30/things-that-didnt-work/) #read#llm
 - [Vibe Coding for Product Managers: Stop Writing, Start Building](https://nmn.gl/blog/vibe-coding-pm) #read
 - [Vibe code is legacy code](https://blog.val.town/vibe-code) #read
