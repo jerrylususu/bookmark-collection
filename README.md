@@ -1,3 +1,4 @@
+- [Agentic Coding Things That Didn’t Work](https://lucumr.pocoo.org/2025/7/30/things-that-didnt-work/) #read#llm
 - [Vibe Coding for Product Managers: Stop Writing, Start Building](https://nmn.gl/blog/vibe-coding-pm) #read
 - [Vibe code is legacy code](https://blog.val.town/vibe-code) #read
 - [Mind the End of Your Line ∙ Adaptive Patchwork](https://adaptivepatchwork.com/2012/03/01/mind-the-end-of-your-line/) #read#git#deepdive
