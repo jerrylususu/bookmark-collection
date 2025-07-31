@@ -1,3 +1,4 @@
+- [Reflection in C++26 (P2996)](https://learnmoderncpp.com/2025/07/31/reflection-in-c26-p2996/) #read#cpp
 - [The Math Is Haunted — overreacted](https://overreacted.io/the-math-is-haunted/) #read#guide
 - [Agentic Coding Things That Didn’t Work](https://lucumr.pocoo.org/2025/7/30/things-that-didnt-work/) #read#llm
 - [Vibe Coding for Product Managers: Stop Writing, Start Building](https://nmn.gl/blog/vibe-coding-pm) #read
