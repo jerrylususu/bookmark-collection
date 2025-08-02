@@ -1,3 +1,4 @@
+- [Filtered for bottom-up global monitoring](https://interconnected.org/home/2025/08/01/filtered) #read
 - [From trying to impress engineers to trying to impress managers](https://www.seangoedecke.com/impressing-people/) #read#career
 - [Maybe the Fastest Disk Usage Program on macOS](https://healeycodes.com/maybe-the-fastest-disk-usage-program-on-macos) #read#deepdive
 - [Reflection in C++26 (P2996)](https://learnmoderncpp.com/2025/07/31/reflection-in-c26-p2996/) #read#cpp
