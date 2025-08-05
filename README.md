@@ -1,3 +1,4 @@
+- [In Support Of Shitty Types](https://lucumr.pocoo.org/2025/8/4/shitty-types/) #read#llm
 - [It all matters and none of it matters](https://interconnected.org/home/2025/08/04/cricket) #read
 - [Things not to do as a presenter if you want a great talk recording | Christian Heilmann](https://christianheilmann.com/2025/08/05/things-not-to-do-as-a-presenter-if-you-want-a-great-talk-recording/) #read
 - [Reflections on Palantir](https://nabeelqu.substack.com/p/reflections-on-palantir) #read
