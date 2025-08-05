@@ -1,3 +1,4 @@
+- [Things not to do as a presenter if you want a great talk recording | Christian Heilmann](https://christianheilmann.com/2025/08/05/things-not-to-do-as-a-presenter-if-you-want-a-great-talk-recording/) #read
 - [Reflections on Palantir](https://nabeelqu.substack.com/p/reflections-on-palantir) #read
 - [Filtered for bottom-up global monitoring](https://interconnected.org/home/2025/08/01/filtered) #read
 - [From trying to impress engineers to trying to impress managers](https://www.seangoedecke.com/impressing-people/) #read#career
