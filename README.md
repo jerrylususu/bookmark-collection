@@ -1,3 +1,4 @@
+- [It all matters and none of it matters](https://interconnected.org/home/2025/08/04/cricket) #read
 - [Things not to do as a presenter if you want a great talk recording | Christian Heilmann](https://christianheilmann.com/2025/08/05/things-not-to-do-as-a-presenter-if-you-want-a-great-talk-recording/) #read
 - [Reflections on Palantir](https://nabeelqu.substack.com/p/reflections-on-palantir) #read
 - [Filtered for bottom-up global monitoring](https://interconnected.org/home/2025/08/01/filtered) #read
