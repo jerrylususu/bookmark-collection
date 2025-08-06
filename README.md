@@ -1,3 +1,4 @@
+- [No, AI is not Making Engineers 10x as Productive](https://colton.dev/blog/curing-your-ai-10x-engineer-imposter-syndrome/) #read#llm
 - [Learn Rust by Reasoning with Code Agents](https://xuanwo.io/2025/05-learn-rust-by-reasoning-with-code-agents/) #read#llm#tips
 - [A Friendly Introduction to SVG • Josh W. Comeau](https://www.joshwcomeau.com/svg/friendly-introduction-to-svg/) #read#deepdive#frontend
 - [Automate your project with GitHub Models in Actions](https://github.blog/ai-and-ml/generative-ai/automate-your-project-with-github-models-in-actions/) #read#llm#guide
