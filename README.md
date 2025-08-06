@@ -1,3 +1,4 @@
+- [Learn Rust by Reasoning with Code Agents](https://xuanwo.io/2025/05-learn-rust-by-reasoning-with-code-agents/) #read#llm#tips
 - [A Friendly Introduction to SVG • Josh W. Comeau](https://www.joshwcomeau.com/svg/friendly-introduction-to-svg/) #read#deepdive#frontend
 - [Automate your project with GitHub Models in Actions](https://github.blog/ai-and-ml/generative-ai/automate-your-project-with-github-models-in-actions/) #read#llm#guide
 - [In Support Of Shitty Types](https://lucumr.pocoo.org/2025/8/4/shitty-types/) #read#llm
