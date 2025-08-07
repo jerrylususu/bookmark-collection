@@ -1,3 +1,4 @@
+- [We shouldn’t have needed lockfiles](https://tonsky.me/blog/lockfiles/) #read
 - [用 AI 生成一档播客有什么意义？ | 虹线](https://1q43.blog/post/11122/) #read#llm
 - [The hiring test that defeated AI](https://www.bitecode.dev/p/the-hiring-test-that-defeated-ai) #read
 - [No, AI is not Making Engineers 10x as Productive](https://colton.dev/blog/curing-your-ai-10x-engineer-imposter-syndrome/) #read#llm
