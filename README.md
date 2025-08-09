@@ -1,3 +1,4 @@
+- [HTTP is not simple](https://daniel.haxx.se/blog/2025/08/08/http-is-not-simple/) #read#network
 - [夏日游泳（交通）条例 Summer Swimming (Traffic) Ordinance](https://hsu.cy/2025/08/summerpool/) #read
 - [We shouldn’t have needed lockfiles](https://tonsky.me/blog/lockfiles/) #read
 - [用 AI 生成一档播客有什么意义？ | 虹线](https://1q43.blog/post/11122/) #read#llm
