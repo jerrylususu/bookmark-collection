@@ -1,3 +1,4 @@
+- [GPT-5 prompting guide | OpenAI Cookbook](https://cookbook.openai.com/examples/gpt-5/gpt-5_prompting_guide) #read#llm#deepdive
 - [HTTP is not simple](https://daniel.haxx.se/blog/2025/08/08/http-is-not-simple/) #read#network
 - [夏日游泳（交通）条例 Summer Swimming (Traffic) Ordinance](https://hsu.cy/2025/08/summerpool/) #read
 - [We shouldn’t have needed lockfiles](https://tonsky.me/blog/lockfiles/) #read
