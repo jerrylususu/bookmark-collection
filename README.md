@@ -1,3 +1,4 @@
+- [Modern Node.js Patterns for 2025](https://kashw1n.com/blog/nodejs-2025/) #read#backend
 - [Asymmetry of verification and verifier’s law — Jason Wei](https://www.jasonwei.net/blog/asymmetry-of-verification-and-verifiers-law) #read
 - [Developers, Reinvented – Thomas Dohmke](https://ashtom.github.io/developers-reinvented) #read#llm#career
 - [GPT-5 prompting guide | OpenAI Cookbook](https://cookbook.openai.com/examples/gpt-5/gpt-5_prompting_guide) #read#llm#deepdive
