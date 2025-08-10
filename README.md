@@ -1,3 +1,4 @@
+- [Asymmetry of verification and verifier’s law — Jason Wei](https://www.jasonwei.net/blog/asymmetry-of-verification-and-verifiers-law) #read
 - [Developers, Reinvented – Thomas Dohmke](https://ashtom.github.io/developers-reinvented) #read#llm#career
 - [GPT-5 prompting guide | OpenAI Cookbook](https://cookbook.openai.com/examples/gpt-5/gpt-5_prompting_guide) #read#llm#deepdive
 - [HTTP is not simple](https://daniel.haxx.se/blog/2025/08/08/http-is-not-simple/) #read#network
