@@ -1,3 +1,4 @@
+- [What's the strongest AI model you can train on a laptop in five minutes?](https://www.seangoedecke.com/model-on-a-mbp/) #read#llm#hack
 - [The Future Isn't Model Agnostic](https://fly.io/blog/the-future-isn-t-model-agnostic/) #read#llm
 - [Modern Node.js Patterns for 2025](https://kashw1n.com/blog/nodejs-2025/) #read#backend
 - [Asymmetry of verification and verifier’s law — Jason Wei](https://www.jasonwei.net/blog/asymmetry-of-verification-and-verifiers-law) #read
