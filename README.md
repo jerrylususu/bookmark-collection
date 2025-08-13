@@ -1,3 +1,4 @@
+- [What are Forward Deployed Engineers, and why are they so in demand?](https://newsletter.pragmaticengineer.com/p/forward-deployed-engineers) #read#career
 - [Just a nice shell script](https://www.bitecode.dev/p/just-a-nice-shell-script) #read#deepdive#python
 - [Is chain-of-thought AI reasoning a mirage?](https://www.seangoedecke.com/real-reasoning/) #read#llm
 - [Using GitHub Pages as a URL shortener / redirection service | Christian Heilmann](https://christianheilmann.com/2025/08/11/using-github-pages-as-a-url-shortener-redirection-service/) #read#guide
