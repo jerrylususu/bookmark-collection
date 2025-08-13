@@ -1,3 +1,4 @@
+- [Is chain-of-thought AI reasoning a mirage?](https://www.seangoedecke.com/real-reasoning/) #read#llm
 - [Using GitHub Pages as a URL shortener / redirection service | Christian Heilmann](https://christianheilmann.com/2025/08/11/using-github-pages-as-a-url-shortener-redirection-service/) #read#guide
 - [What's the strongest AI model you can train on a laptop in five minutes?](https://www.seangoedecke.com/model-on-a-mbp/) #read#llm#hack
 - [The Future Isn't Model Agnostic](https://fly.io/blog/the-future-isn-t-model-agnostic/) #read#llm
