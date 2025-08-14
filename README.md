@@ -1,3 +1,4 @@
+- [Building a web search engine from scratch in two months with 3 billion neural embeddings](https://blog.wilsonl.in/search-engine/) #read#deepdive
 - [How Does A Blind Model See The Earth?](https://outsidetext.substack.com/p/how-does-a-blind-model-see-the-earth) #read#llm
 - [What are Forward Deployed Engineers, and why are they so in demand?](https://newsletter.pragmaticengineer.com/p/forward-deployed-engineers) #read#career
 - [Just a nice shell script](https://www.bitecode.dev/p/just-a-nice-shell-script) #read#deepdive#python
