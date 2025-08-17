@@ -1,3 +1,4 @@
+- [Beyond Booleans — overreacted](https://overreacted.io/beyond-booleans/) #read#math
 - [The Summer of Johann: prompt injections as far as the eye can see](https://simonwillison.net/2025/Aug/15/the-summer-of-johann/) #read#llm#security
 - [Pluralistic: “Privacy preserving age verification” is bullshit (14 Aug 2025) ](https://pluralistic.net/2025/08/14/bellovin/) #read
 - [Train 400x faster Static Embedding Models with Sentence Transformers](https://huggingface.co/blog/static-embeddings) #read#llm
