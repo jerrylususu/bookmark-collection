@@ -1,3 +1,4 @@
+- [Your MCP Doesn’t Need 30 Tools: It Needs Code](https://lucumr.pocoo.org/2025/8/18/code-mcps/) #read#llm
 - [Who does your assistant serve?](https://xeiaso.net/blog/2025/who-assistant-serve/) #read#llm
 - [Beyond Booleans — overreacted](https://overreacted.io/beyond-booleans/) #read#math
 - [The Summer of Johann: prompt injections as far as the eye can see](https://simonwillison.net/2025/Aug/15/the-summer-of-johann/) #read#llm#security
