@@ -1,3 +1,4 @@
+- [Trust Calibration for AI Software Builders](https://fly.io/blog/trust-calibration-for-ai-software-builders/) #read
 - [Your MCP Doesn’t Need 30 Tools: It Needs Code](https://lucumr.pocoo.org/2025/8/18/code-mcps/) #read#llm
 - [Who does your assistant serve?](https://xeiaso.net/blog/2025/who-assistant-serve/) #read#llm
 - [Beyond Booleans — overreacted](https://overreacted.io/beyond-booleans/) #read#math
