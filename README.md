@@ -1,3 +1,4 @@
+- [The issue of anti-cheat on Linux | Samuel Tulach](https://tulach.cc/the-issue-of-anti-cheat-on-linux/) #read#deepdive
 - [too many model context protocol servers and LLM allocations on the dance floor](https://ghuntley.com/allocations/) #read#llm
 - [Trust Calibration for AI Software Builders](https://fly.io/blog/trust-calibration-for-ai-software-builders/) #read
 - [Your MCP Doesn’t Need 30 Tools: It Needs Code](https://lucumr.pocoo.org/2025/8/18/code-mcps/) #read#llm
