@@ -1,3 +1,4 @@
+- [The kids are alright](https://www.bitecode.dev/p/the-kids-are-alright) #read
 - [Don't feed me AI slop](https://www.seangoedecke.com/dont-feed-me-slop/) #read
 - [The issue of anti-cheat on Linux | Samuel Tulach](https://tulach.cc/the-issue-of-anti-cheat-on-linux/) #read#deepdive
 - [too many model context protocol servers and LLM allocations on the dance floor](https://ghuntley.com/allocations/) #read#llm
