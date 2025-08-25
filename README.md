@@ -1,3 +1,4 @@
+- [Spatial Joins in DuckDB](https://duckdb.org/2025/08/08/spatial-joins.html) #read#database#deepdive
 - [Everything I know about good API design](https://www.seangoedecke.com/good-api-design/) #read#design
 - [The kids are alright](https://www.bitecode.dev/p/the-kids-are-alright) #read
 - [Don't feed me AI slop](https://www.seangoedecke.com/dont-feed-me-slop/) #read
