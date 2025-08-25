@@ -1,3 +1,4 @@
+- [Everything I know about good API design](https://www.seangoedecke.com/good-api-design/) #read#design
 - [The kids are alright](https://www.bitecode.dev/p/the-kids-are-alright) #read
 - [Don't feed me AI slop](https://www.seangoedecke.com/dont-feed-me-slop/) #read
 - [The issue of anti-cheat on Linux | Samuel Tulach](https://tulach.cc/the-issue-of-anti-cheat-on-linux/) #read#deepdive
