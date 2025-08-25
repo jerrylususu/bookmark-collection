@@ -1,3 +1,4 @@
+- [Icepath: a 2D Programming Language](https://healeycodes.com/icepath-a-2d-programming-language) #read#hack
 - [Spatial Joins in DuckDB](https://duckdb.org/2025/08/08/spatial-joins.html) #read#database#deepdive
 - [Everything I know about good API design](https://www.seangoedecke.com/good-api-design/) #read#design
 - [The kids are alright](https://www.bitecode.dev/p/the-kids-are-alright) #read
