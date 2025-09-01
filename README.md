@@ -1,3 +1,4 @@
+- [The Future is NOT Self-Hosted](https://www.drewlyton.com/story/the-future-is-not-self-hosted/) #read
 - [What I learned from making a (second) mobile app](https://pjonori.blog/posts/what-i-learned-making-a-second-mobile-app/) #read
 - [Finding the low-hanging fruit](https://www.seangoedecke.com/low-hanging-fruit/) #read
 - [Do the simplest thing that could possibly work](https://www.seangoedecke.com/the-simplest-thing-that-could-possibly-work/) #read#design
