@@ -1,3 +1,4 @@
+- [Seeing like a software company](https://www.seangoedecke.com/seeing-like-a-software-company/) #read#people#deepdive
 - [40 years later, are Bentley's "Programming Pearls" still relevant?](https://shkspr.mobi/blog/2025/09/40-years-later-are-bentleys-programming-pearls-still-relevant/) #read
 - [Passkeys and Modern Authentication](https://lucumr.pocoo.org/2025/9/2/passkeys/) #read#security
 - [The Future is NOT Self-Hosted](https://www.drewlyton.com/story/the-future-is-not-self-hosted/) #read
