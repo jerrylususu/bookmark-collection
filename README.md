@@ -1,3 +1,4 @@
+- [管理AI：你职业生涯中最重要的一次晋升](https://grapeot.me/ai-management-2.html) #read#llm#people
 - [Documents: The architect’s programming language - Stack Overflow](https://stackoverflow.blog/2025/08/20/documents-the-architect-s-programming-language/) #read
 - [Google Chrome at 17 - A history of our browser](https://addyosmani.com/blog/chrome-17th/) #read
 - [Seeing like a software company](https://www.seangoedecke.com/seeing-like-a-software-company/) #read#people#deepdive
