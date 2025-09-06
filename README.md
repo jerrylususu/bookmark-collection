@@ -1,3 +1,4 @@
+- [Is OOXML Artifically Complex?](https://hsu.cy/2025/09/is-ooxml-artificially-complex/#%E5%BC%95%E8%A8%80) #read
 - [管理AI：你职业生涯中最重要的一次晋升](https://grapeot.me/ai-management-2.html) #read#llm#people
 - [Documents: The architect’s programming language - Stack Overflow](https://stackoverflow.blog/2025/08/20/documents-the-architect-s-programming-language/) #read
 - [Google Chrome at 17 - A history of our browser](https://addyosmani.com/blog/chrome-17th/) #read
