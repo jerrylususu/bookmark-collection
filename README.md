@@ -1,3 +1,4 @@
+- ['Make invalid states unrepresentable' considered harmful](https://www.seangoedecke.com/invalid-states/) #read#design
 - [I’m Switching to Python and Actually Liking It](https://www.cesarsotovalero.net/blog/i-am-switching-to-python-and-actually-liking-it.html) #read#python#tips
 - [Vibe-Coding as a VC: We Need to Eat Our Own Dog Food](https://kevinkuipers.substack.com/p/vc-for-vibe-coding-a-fresh-new-start) #read#llm
 - [Is OOXML Artifically Complex?](https://hsu.cy/2025/09/is-ooxml-artificially-complex/#%E5%BC%95%E8%A8%80) #read
