@@ -1,3 +1,4 @@
+- [Recreating the Apollo AI adoption rate chart with GPT-5, Python and Pyodide](https://simonwillison.net/2025/Sep/9/apollo-ai-adoption/) #read#hack
 - [Is the LLM response wrong, or have you just failed to iterate it?](https://mikecaulfield.substack.com/p/is-the-llm-response-wrong-or-have) #read#llm
 - ['Make invalid states unrepresentable' considered harmful](https://www.seangoedecke.com/invalid-states/) #read#design
 - [I’m Switching to Python and Actually Liking It](https://www.cesarsotovalero.net/blog/i-am-switching-to-python-and-actually-liking-it.html) #read#python#tips
