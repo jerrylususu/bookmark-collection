@@ -1,3 +1,4 @@
+- [i ran Claude in a loop for three months, and it created a genz programming language called cursed](https://ghuntley.com/cursed/) #read#llm
 - [Recreating the Apollo AI adoption rate chart with GPT-5, Python and Pyodide](https://simonwillison.net/2025/Sep/9/apollo-ai-adoption/) #read#hack
 - [Is the LLM response wrong, or have you just failed to iterate it?](https://mikecaulfield.substack.com/p/is-the-llm-response-wrong-or-have) #read#llm
 - ['Make invalid states unrepresentable' considered harmful](https://www.seangoedecke.com/invalid-states/) #read#design
