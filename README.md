@@ -1,3 +1,4 @@
+- [On Working with Wizards](https://www.oneusefulthing.org/p/on-working-with-wizards) #read#llm
 - [I Replaced Animal Crossing's Dialogue with a Live LLM by Hacking GameCube Memory](https://joshfonseca.com/blogs/animal-crossing-llm) #read#llm#hack
 - [i ran Claude in a loop for three months, and it created a genz programming language called cursed](https://ghuntley.com/cursed/) #read#llm
 - [Recreating the Apollo AI adoption rate chart with GPT-5, Python and Pyodide](https://simonwillison.net/2025/Sep/9/apollo-ai-adoption/) #read#hack
