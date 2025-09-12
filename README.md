@@ -1,3 +1,4 @@
+- [Type Checking is a Symptom, Not a Solution](https://programmingsimplicity.substack.com/p/type-checking-is-a-symptom-not-a) #read
 - [The Last Programmers || Xipu Li](https://www.xipu.li/posts/the-last-programmers) #read
 - [On Working with Wizards](https://www.oneusefulthing.org/p/on-working-with-wizards) #read#llm
 - [I Replaced Animal Crossing's Dialogue with a Live LLM by Hacking GameCube Memory](https://joshfonseca.com/blogs/animal-crossing-llm) #read#llm#hack
