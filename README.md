@@ -1,3 +1,4 @@
+- [Your Biggest Customer Might Be Your Biggest Bottleneck](https://densumesh.dev/blog/fair-queue/) #read#perf
 - [Good Vibes: A Claude-Code Case-Study](https://taylor.town/diggit-000) #read#llm
 - [What I think about when I think about Claude Code](https://interconnected.org/home/2025/09/12/claude) #read#llm
 - [ChatGPT Memory and the Bitter Lesson](https://shloked.com/writing/chatgpt-memory-bitter-lesson) #read#llm
