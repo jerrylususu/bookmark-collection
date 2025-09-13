@@ -1,3 +1,4 @@
+- [Liquid Glass in the Browser: Refraction with CSS and SVG — kube.io](https://kube.io/blog/liquid-glass-css-svg) #read#frontend#deepdive#explainer
 - [Your Biggest Customer Might Be Your Biggest Bottleneck](https://densumesh.dev/blog/fair-queue/) #read#perf
 - [Good Vibes: A Claude-Code Case-Study](https://taylor.town/diggit-000) #read#llm
 - [What I think about when I think about Claude Code](https://interconnected.org/home/2025/09/12/claude) #read#llm
