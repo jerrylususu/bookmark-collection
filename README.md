@@ -1,3 +1,4 @@
+- [Good Vibes: A Claude-Code Case-Study](https://taylor.town/diggit-000) #read#llm
 - [What I think about when I think about Claude Code](https://interconnected.org/home/2025/09/12/claude) #read#llm
 - [ChatGPT Memory and the Bitter Lesson](https://shloked.com/writing/chatgpt-memory-bitter-lesson) #read#llm
 - [Claude Memory: A Different Philosophy](https://shloked.com/writing/claude-memory) #read#llm
