@@ -1,3 +1,4 @@
+- [Custom for designing, off-the-shelf for shipping | nicole@web](/blog/custom-for-designing-offtheshelf-for-shipping/) #read#design
 - [[译] 从 OpenDeepResearch 背后的设计演进，解读 AI 领域反复学到的一课（2025）](https://arthurchiao.github.io/blog/ai-bitter-lesson-zh/) #read#llm
 - [Liquid Glass in the Browser: Refraction with CSS and SVG — kube.io](https://kube.io/blog/liquid-glass-css-svg) #read#frontend#deepdive#explainer
 - [Your Biggest Customer Might Be Your Biggest Bottleneck](https://densumesh.dev/blog/fair-queue/) #read#perf
