@@ -1,3 +1,4 @@
+- [From suspicion to published curl CVE](https://daniel.haxx.se/blog/2025/09/18/from-suspicion-to-published-curl-cve/) #read#security
 - [Custom for designing, off-the-shelf for shipping | nicole@web](/blog/custom-for-designing-offtheshelf-for-shipping/) #read#design
 - [[译] 从 OpenDeepResearch 背后的设计演进，解读 AI 领域反复学到的一课（2025）](https://arthurchiao.github.io/blog/ai-bitter-lesson-zh/) #read#llm
 - [Liquid Glass in the Browser: Refraction with CSS and SVG — kube.io](https://kube.io/blog/liquid-glass-css-svg) #read#frontend#deepdive#explainer
