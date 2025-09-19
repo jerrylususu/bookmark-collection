@@ -1,3 +1,4 @@
+- [no-unused-binary-expressions: From code review nit to ecosystem improvements - ESLint - Pluggable JavaScript Linter](https://eslint.org/blog/2024/10/code-review-nit-to-ecosystem-improvements/) #read#security
 - [From suspicion to published curl CVE](https://daniel.haxx.se/blog/2025/09/18/from-suspicion-to-published-curl-cve/) #read#security
 - [Custom for designing, off-the-shelf for shipping | nicole@web](/blog/custom-for-designing-offtheshelf-for-shipping/) #read#design
 - [[译] 从 OpenDeepResearch 背后的设计演进，解读 AI 领域反复学到的一课（2025）](https://arthurchiao.github.io/blog/ai-bitter-lesson-zh/) #read#llm
