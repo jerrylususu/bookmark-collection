@@ -1,3 +1,4 @@
+- [If you are good at code review, you will be good at using AI agents](https://www.seangoedecke.com/ai-agents-and-code-review/) #read#llm
 - [no-unused-binary-expressions: From code review nit to ecosystem improvements - ESLint - Pluggable JavaScript Linter](https://eslint.org/blog/2024/10/code-review-nit-to-ecosystem-improvements/) #read#security
 - [From suspicion to published curl CVE](https://daniel.haxx.se/blog/2025/09/18/from-suspicion-to-published-curl-cve/) #read#security
 - [Custom for designing, off-the-shelf for shipping | nicole@web](/blog/custom-for-designing-offtheshelf-for-shipping/) #read#design
