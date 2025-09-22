@@ -1,3 +1,4 @@
+- [Cap'n Web: A new RPC system for browsers and web servers](https://blog.cloudflare.com/capnweb-javascript-rpc-library/) #read#network#js
 - [The story of Musium](https://ruudvanasseldonk.com/2025/musium) #read#hack#deepdive
 - [If you are good at code review, you will be good at using AI agents](https://www.seangoedecke.com/ai-agents-and-code-review/) #read#llm
 - [no-unused-binary-expressions: From code review nit to ecosystem improvements - ESLint - Pluggable JavaScript Linter](https://eslint.org/blog/2024/10/code-review-nit-to-ecosystem-improvements/) #read#security
