@@ -1,3 +1,4 @@
+- [Beyond the Front Page: A Personal Guide to Hacker News](https://hsu.cy/2025/09/how-to-read-hn/) #read#guide
 - [Is AI the Ultimate Reinvention of the Wheel?](https://dodov.dev/blog/is-ai-the-ultimate-reinvention-of-the-wheel) #read
 - [Cap'n Web: A new RPC system for browsers and web servers](https://blog.cloudflare.com/capnweb-javascript-rpc-library/) #read#network#js
 - [The story of Musium](https://ruudvanasseldonk.com/2025/musium) #read#hack#deepdive
