@@ -1,3 +1,4 @@
+- [Is AI the Ultimate Reinvention of the Wheel?](https://dodov.dev/blog/is-ai-the-ultimate-reinvention-of-the-wheel) #read
 - [Cap'n Web: A new RPC system for browsers and web servers](https://blog.cloudflare.com/capnweb-javascript-rpc-library/) #read#network#js
 - [The story of Musium](https://ruudvanasseldonk.com/2025/musium) #read#hack#deepdive
 - [If you are good at code review, you will be good at using AI agents](https://www.seangoedecke.com/ai-agents-and-code-review/) #read#llm
