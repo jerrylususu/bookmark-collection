@@ -1,3 +1,4 @@
+- [People read your blog in many different ways](https://evanhahn.com/people-read-your-blog-in-many-different-ways/) #read
 - [Beyond the Front Page: A Personal Guide to Hacker News](https://hsu.cy/2025/09/how-to-read-hn/) #read#guide
 - [Is AI the Ultimate Reinvention of the Wheel?](https://dodov.dev/blog/is-ai-the-ultimate-reinvention-of-the-wheel) #read
 - [Cap'n Web: A new RPC system for browsers and web servers](https://blog.cloudflare.com/capnweb-javascript-rpc-library/) #read#network#js
