@@ -1,3 +1,4 @@
+- [基于 WASM 和 Word-RAM 模型的算法竞赛题目评测方案 - 博客 - yzy1的博客](https://yzy1.blog.uoj.ac/blog/9339) #read
 - [What I learned building an AI-driven spaced repetition app](https://www.seangoedecke.com/autodeck/) #read#llm
 - [People read your blog in many different ways](https://evanhahn.com/people-read-your-blog-in-many-different-ways/) #read
 - [Beyond the Front Page: A Personal Guide to Hacker News](https://hsu.cy/2025/09/how-to-read-hn/) #read#guide
