@@ -1,3 +1,4 @@
+- [What is "good taste" in software engineering?](https://www.seangoedecke.com/taste/) #read
 - [Vibe Coding Cleanup as a Service](https://donado.co/en/articles/2025-09-16-vibe-coding-cleanup-as-a-service/) #read
 - [What actually happens when you use a CSS transform](https://alastair.is/learning-about-what-happens-when-you-use-a-css-transform/) #read#frontend
 - [Open Social — overreacted](https://overreacted.io/open-social/) #read#arch#deepdive
