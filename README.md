@@ -1,3 +1,4 @@
+- [Designing agentic loops](https://simonwillison.net/2025/Sep/30/designing-agentic-loops/) #read#llm
 - [Writing Code Is Easy. Reading It Isn’t.](https://idiallo.com/blog/writing-code-is-easy-reading-is-hard) #read
 - [90%](https://lucumr.pocoo.org/2025/9/29/90-percent/) #read#llm
 - [What is "good taste" in software engineering?](https://www.seangoedecke.com/taste/) #read
