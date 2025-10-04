@@ -1,3 +1,4 @@
+- [How I influence tech company politics as a staff software engineer](https://www.seangoedecke.com/how-to-influence-politics/) #read#people
 - [Spec-driven development: Using Markdown as a programming language when building with AI](https://github.blog/ai-and-ml/generative-ai/spec-driven-development-using-markdown-as-a-programming-language-when-building-with-ai/) #read#llm
 - [Designing agentic loops](https://simonwillison.net/2025/Sep/30/designing-agentic-loops/) #read#llm
 - [Writing Code Is Easy. Reading It Isn’t.](https://idiallo.com/blog/writing-code-is-easy-reading-is-hard) #read
