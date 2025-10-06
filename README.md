@@ -1,3 +1,4 @@
+- [云风的 BLOG: 深远未来开发总结](https://blog.codingnow.com/2025/10/deepfuture_dev.html) #read#deepdive
 - [How I'm using coding agents in September, 2025](https://blog.fsck.com/2025/10/05/how-im-using-coding-agents-in-september-2025/) #read#llm
 - [Let the Model Write the Prompt](https://www.dbreunig.com/2025/06/10/let-the-model-write-the-prompt.html) #guide#deepdive#llm
 - [How I influence tech company politics as a staff software engineer](https://www.seangoedecke.com/how-to-influence-politics/) #read#people
