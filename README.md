@@ -1,3 +1,4 @@
+- [You Want Technology With Warts](https://entropicthoughts.com/you-want-technology-with-warts) #read
 - [The History of Core Web Vitals](https://addyosmani.com/blog/core-web-vitals/) #read
 - [LLMs as Parts of Systems - Marc's Blog](https://brooker.co.za/blog/2025/08/12/llms-as-components.html) #read#llm
 - [云风的 BLOG: 深远未来开发总结](https://blog.codingnow.com/2025/10/deepfuture_dev.html) #read#deepdive
