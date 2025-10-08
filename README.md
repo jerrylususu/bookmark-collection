@@ -1,3 +1,4 @@
+- [Why MCP’s Disregard for 40 Years of RPC Best Practices Will Burn Enterprises](https://julsimon.medium.com/why-mcps-disregard-for-40-years-of-rpc-best-practices-will-burn-enterprises-8ef85ce5bc9b) #read#arch
 - [为什么OpenAI Apps SDK对MCP的支持反而是MCP的危机](https://grapeot.me/mcp-revisited.html) #read
 - [三十五](https://www.bmpi.dev/self/35/) #read
 - [Which Table Format Do LLMs Understand Best? (Results for 11 Formats)](https://improvingagents.com/blog/best-input-data-format-for-llms) #read#llm#tips
