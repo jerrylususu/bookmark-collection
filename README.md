@@ -1,3 +1,4 @@
+- [为什么OpenAI Apps SDK对MCP的支持反而是MCP的危机](https://grapeot.me/mcp-revisited.html) #read
 - [三十五](https://www.bmpi.dev/self/35/) #read
 - [Which Table Format Do LLMs Understand Best? (Results for 11 Formats)](https://improvingagents.com/blog/best-input-data-format-for-llms) #read#llm#tips
 - [How to *actually* test your readme](https://shkspr.mobi/blog/2025/10/how-to-actually-test-your-readme/) #read#tips
