@@ -1,3 +1,4 @@
+- [How to *actually* test your readme](https://shkspr.mobi/blog/2025/10/how-to-actually-test-your-readme/) #read#tips
 - [Vibe engineering](https://simonwillison.net/2025/Oct/7/vibe-engineering/) #read#llm
 - [You Want Technology With Warts](https://entropicthoughts.com/you-want-technology-with-warts) #read
 - [The History of Core Web Vitals](https://addyosmani.com/blog/core-web-vitals/) #read
