@@ -1,3 +1,4 @@
+- [三十五](https://www.bmpi.dev/self/35/) #read
 - [Which Table Format Do LLMs Understand Best? (Results for 11 Formats)](https://improvingagents.com/blog/best-input-data-format-for-llms) #read#llm#tips
 - [How to *actually* test your readme](https://shkspr.mobi/blog/2025/10/how-to-actually-test-your-readme/) #read#tips
 - [Vibe engineering](https://simonwillison.net/2025/Oct/7/vibe-engineering/) #read#llm
