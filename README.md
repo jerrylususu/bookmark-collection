@@ -1,3 +1,4 @@
+- [Vibe engineering](https://simonwillison.net/2025/Oct/7/vibe-engineering/) #read#llm
 - [You Want Technology With Warts](https://entropicthoughts.com/you-want-technology-with-warts) #read
 - [The History of Core Web Vitals](https://addyosmani.com/blog/core-web-vitals/) #read
 - [LLMs as Parts of Systems - Marc's Blog](https://brooker.co.za/blog/2025/08/12/llms-as-components.html) #read#llm
