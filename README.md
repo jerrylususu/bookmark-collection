@@ -1,3 +1,4 @@
+- [工程师如何更好投资 - Tw93](https://tw93.fun/2025-07-17/money.html) #read#money
 - [Why MCP’s Disregard for 40 Years of RPC Best Practices Will Burn Enterprises](https://julsimon.medium.com/why-mcps-disregard-for-40-years-of-rpc-best-practices-will-burn-enterprises-8ef85ce5bc9b) #read#arch
 - [为什么OpenAI Apps SDK对MCP的支持反而是MCP的危机](https://grapeot.me/mcp-revisited.html) #read
 - [三十五](https://www.bmpi.dev/self/35/) #read
