@@ -1,3 +1,4 @@
+- [Finding a VS Code Memory Leak](https://randomascii.wordpress.com/2025/10/09/finding-a-vs-code-memory-leak/) #read#perf
 - [A new breed of analyzers](https://daniel.haxx.se/blog/2025/10/10/a-new-breed-of-analyzers/) #read#security
 - [工程师如何更好投资 - Tw93](https://tw93.fun/2025-07-17/money.html) #read#money
 - [Why MCP’s Disregard for 40 Years of RPC Best Practices Will Burn Enterprises](https://julsimon.medium.com/why-mcps-disregard-for-40-years-of-rpc-best-practices-will-burn-enterprises-8ef85ce5bc9b) #read#arch
