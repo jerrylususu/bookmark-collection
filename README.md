@@ -1,3 +1,4 @@
+- [A Retrospective Survey of 2024/2025 Open Source Supply Chain Compromises](https://words.filippo.io/compromise-survey/) #read#security#oss
 - [Quick and dirty bar-charts using HTML's meter element](https://shkspr.mobi/blog/2025/10/quick-and-dirty-bar-charts-using-htmls-meter-element/) #frontend#hack
 - [Finding a VS Code Memory Leak](https://randomascii.wordpress.com/2025/10/09/finding-a-vs-code-memory-leak/) #read#perf
 - [A new breed of analyzers](https://daniel.haxx.se/blog/2025/10/10/a-new-breed-of-analyzers/) #read#security
