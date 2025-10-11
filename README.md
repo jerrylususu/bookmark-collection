@@ -1,3 +1,4 @@
+- [Call Me A Jerk: Persuading AI to Comply with Objectionable Requests](https://gail.wharton.upenn.edu/research-and-insights/call-me-a-jerk-persuading-ai/) #read#llm
 - [Superpowers: How I’m using coding agents in October 2025](https://simonwillison.net/2025/Oct/10/superpowers/) #read#llm
 - [A Retrospective Survey of 2024/2025 Open Source Supply Chain Compromises](https://words.filippo.io/compromise-survey/) #read#security#oss
 - [Quick and dirty bar-charts using HTML's meter element](https://shkspr.mobi/blog/2025/10/quick-and-dirty-bar-charts-using-htmls-meter-element/) #frontend#hack
