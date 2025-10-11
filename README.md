@@ -1,3 +1,4 @@
+- [Quick and dirty bar-charts using HTML's meter element](https://shkspr.mobi/blog/2025/10/quick-and-dirty-bar-charts-using-htmls-meter-element/) #frontend#hack
 - [Finding a VS Code Memory Leak](https://randomascii.wordpress.com/2025/10/09/finding-a-vs-code-memory-leak/) #read#perf
 - [A new breed of analyzers](https://daniel.haxx.se/blog/2025/10/10/a-new-breed-of-analyzers/) #read#security
 - [工程师如何更好投资 - Tw93](https://tw93.fun/2025-07-17/money.html) #read#money
