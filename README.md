@@ -1,3 +1,4 @@
+- [How I provide technical clarity to non-technical leaders](https://www.seangoedecke.com/clarity/) #read#people
 - [An MVCC-like columnar table on S3 with constant-time deletes](https://www.shayon.dev/post/2025/277/an-mvcc-like-columnar-table-on-s3-with-constant-time-deletes/) #read#db
 - [Kaitai Struct: declarative binary format parsing language](https://kaitai.io/#what-is-it) #tools#parser
 - [Call Me A Jerk: Persuading AI to Comply with Objectionable Requests](https://gail.wharton.upenn.edu/research-and-insights/call-me-a-jerk-persuading-ai/) #read#llm
