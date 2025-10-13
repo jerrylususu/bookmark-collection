@@ -1,3 +1,4 @@
+- [Abstraction, not syntax](https://ruudvanasseldonk.com/2025/abstraction-not-syntax) #read
 - [URL Design · by Kyle Neath](https://warpspire.com/posts/url-design) #read#frontend#design
 - [Vibing a Non-Trivial Ghostty Feature](https://mitchellh.com/writing/non-trivial-vibing) #read#llm#deepdive
 - [How I provide technical clarity to non-technical leaders](https://www.seangoedecke.com/clarity/) #read#people
