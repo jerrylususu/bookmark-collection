@@ -1,3 +1,4 @@
+- [怎么让AI不偷懒：为Codex构建系统性的Wide Research能力](https://grapeot.me/wide-research.html) #read#llm#guide
 - [Building an Agent That Leverages Throwaway Code](https://lucumr.pocoo.org/2025/10/17/code/) #read#llm
 - [How a 20 year old bug in GTA San Andreas surfaced in Windows 11 24H2](https://cookieplmonster.github.io/2025/04/23/gta-san-andreas-win11-24h2-bug/) #read
 - [Claude Skills are awesome, maybe a bigger deal than MCP](https://simonwillison.net/2025/Oct/16/claude-skills/) #read#llm
