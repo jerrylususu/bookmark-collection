@@ -1,3 +1,4 @@
+- [Use weird tests to capture tacit knowledge](https://jmduke.com/posts/post/weird-tests-tacit-knowledge/) #read#tips
 - [Solving NYT's Pips Puzzle](https://healeycodes.com/solving-nyt-pips-puzzle) #read
 - [怎么让AI不偷懒：为Codex构建系统性的Wide Research能力](https://grapeot.me/wide-research.html) #read#llm#guide
 - [Building an Agent That Leverages Throwaway Code](https://lucumr.pocoo.org/2025/10/17/code/) #read#llm
