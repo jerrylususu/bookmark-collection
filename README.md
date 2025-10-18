@@ -1,3 +1,4 @@
+- [The Temporal Dead Zone, or why the TypeScript codebase is littered with var statements](https://vincentrolfs.dev/blog/ts-var) #read#js
 - [Use weird tests to capture tacit knowledge](https://jmduke.com/posts/post/weird-tests-tacit-knowledge/) #read#tips
 - [Solving NYT's Pips Puzzle](https://healeycodes.com/solving-nyt-pips-puzzle) #read
 - [怎么让AI不偷懒：为Codex构建系统性的Wide Research能力](https://grapeot.me/wide-research.html) #read#llm#guide
