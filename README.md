@@ -1,3 +1,4 @@
+- [Revocation Confusion](https://nullpxl.com/post/revocation-confusion/) #read#security
 - [The Temporal Dead Zone, or why the TypeScript codebase is littered with var statements](https://vincentrolfs.dev/blog/ts-var) #read#js
 - [Use weird tests to capture tacit knowledge](https://jmduke.com/posts/post/weird-tests-tacit-knowledge/) #read#tips
 - [Solving NYT's Pips Puzzle](https://healeycodes.com/solving-nyt-pips-puzzle) #read
