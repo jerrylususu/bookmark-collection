@@ -1,3 +1,4 @@
+- [An Opinionated Guide to Using AI Right Now](https://www.oneusefulthing.org/p/an-opinionated-guide-to-using-ai) #read#llm
 - [Diskcache, more than caching](https://www.bitecode.dev/p/diskcache-more-than-caching) #read
 - [What have we learned about building agentic AI tools?](https://www.seangoedecke.com/ideas-in-agentic-ai-tooling/) #read#llm
 - [Revocation Confusion](https://nullpxl.com/post/revocation-confusion/) #read#security
