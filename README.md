@@ -1,3 +1,4 @@
+- [Should LLMs just treat text content as an image?](https://www.seangoedecke.com/text-tokens-as-image-tokens/) #read#llm
 - [Claude Code for web—a new asynchronous coding agent from Anthropic](https://simonwillison.net/2025/Oct/20/claude-code-for-web/) #read#llm#agen
 - [Getting DeepSeek-OCR working on an NVIDIA Spark via brute force using Claude Code](https://simonwillison.net/2025/Oct/20/deepseek-ocr-claude-code/) #read
 - [An Opinionated Guide to Using AI Right Now](https://www.oneusefulthing.org/p/an-opinionated-guide-to-using-ai) #read#llm
