@@ -1,3 +1,4 @@
+- [Agentic AI’s OODA Loop Problem - Schneier on Security](https://www.schneier.com/blog/archives/2025/10/agentic-ais-ooda-loop-problem.html) #read#llm#security
 - [Should LLMs just treat text content as an image?](https://www.seangoedecke.com/text-tokens-as-image-tokens/) #read#llm
 - [Claude Code for web—a new asynchronous coding agent from Anthropic](https://simonwillison.net/2025/Oct/20/claude-code-for-web/) #read#llm#agen
 - [Getting DeepSeek-OCR working on an NVIDIA Spark via brute force using Claude Code](https://simonwillison.net/2025/Oct/20/deepseek-ocr-claude-code/) #read
