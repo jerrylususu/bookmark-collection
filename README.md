@@ -1,3 +1,4 @@
+- [What is good software architecture?](https://newsletter.pragmaticengineer.com/p/what-is-good-software-architecture) #read#deepdive#arch
 - [Don't let Claude Code delete your session logs](https://simonwillison.net/2025/Oct/22/claude-code-logs/) #tips
 - [How to Fix Any Bug — overreacted](https://overreacted.io/how-to-fix-any-bug/) #read#llm#deepdive
 - [Agentic AI’s OODA Loop Problem - Schneier on Security](https://www.schneier.com/blog/archives/2025/10/agentic-ais-ooda-loop-problem.html) #read#llm#security
