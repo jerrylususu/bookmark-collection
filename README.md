@@ -1,3 +1,4 @@
+- [Corrosion](https://fly.io/blog/corrosion/) #read#distributed#deepdive
 - [Dane Stuckey (OpenAI CISO) on prompt injection risks for ChatGPT Atlas](https://simonwillison.net/2025/Oct/22/openai-ciso-on-atlas/) #read#llm#security
 - [Living dangerously with Claude](https://simonwillison.net/2025/Oct/22/living-dangerously-with-claude/) #read#llm
 - [What is good software architecture?](https://newsletter.pragmaticengineer.com/p/what-is-good-software-architecture) #read#deepdive#arch
