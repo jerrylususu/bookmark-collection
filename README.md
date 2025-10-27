@@ -1,3 +1,4 @@
+- [🚨🚨 That's a lot of YAML 🚨🚨](https://noyaml.com/) #hack
 - [GenAI Image Showdown](https://genai-showdown.specr.net/image-editing) #llm#visual
 - [Code like a surgeon](https://www.geoffreylitt.com/2025/10/24/code-like-a-surgeon) #read#llm
 - [Mistakes I see engineers making in their code reviews](https://www.seangoedecke.com/good-code-reviews/) #read#people#guide
