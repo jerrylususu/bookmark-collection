@@ -1,3 +1,4 @@
+- [GenAI Image Showdown](https://genai-showdown.specr.net/image-editing) #llm#visual
 - [Code like a surgeon](https://www.geoffreylitt.com/2025/10/24/code-like-a-surgeon) #read#llm
 - [Mistakes I see engineers making in their code reviews](https://www.seangoedecke.com/good-code-reviews/) #read#people#guide
 - [Setting up a codebase for working with coding agents](https://simonwillison.net/2025/Oct/25/coding-agent-tips/) #llm#tips
