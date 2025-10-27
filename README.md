@@ -1,3 +1,4 @@
+- [Mistakes I see engineers making in their code reviews](https://www.seangoedecke.com/good-code-reviews/) #read#people#guide
 - [Setting up a codebase for working with coding agents](https://simonwillison.net/2025/Oct/25/coding-agent-tips/) #llm#tips
 - [How I Coding? (Oct 2025 Edition)](https://xuanwo.io/2025/07-how-i-coding-oct-2025-edition/) #read#llm#tips
 - [Corrosion](https://fly.io/blog/corrosion/) #read#distributed#deepdive
