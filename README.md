@@ -1,3 +1,4 @@
+- [Pepsi, when they don't have coke](https://www.bitecode.dev/p/pepsi-when-they-dont-have-coke) #read
 - [🚨🚨 That's a lot of YAML 🚨🚨](https://noyaml.com/) #hack
 - [GenAI Image Showdown](https://genai-showdown.specr.net/image-editing) #llm#visual
 - [Code like a surgeon](https://www.geoffreylitt.com/2025/10/24/code-like-a-surgeon) #read#llm
