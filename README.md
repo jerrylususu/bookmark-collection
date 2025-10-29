@@ -1,3 +1,4 @@
+- [一文讲透AI Agent开发中的human-in-the-loop - 铁蕾的个人博客](https://zhangtielei.com/posts/blog-ai-agent-human-in-the-loop.html) #read#llm
 - [Gamekeeper：像 Git 一样管理游戏存档 - 少数派](https://sspai.com/post/102928) #read
 - [Pepsi, when they don't have coke](https://www.bitecode.dev/p/pepsi-when-they-dont-have-coke) #read
 - [🚨🚨 That's a lot of YAML 🚨🚨](https://noyaml.com/) #hack
