@@ -1,3 +1,4 @@
+- [How many pillars of observability can you fit on the head of a pin?](https://charity.wtf/2025/10/30/the-pillar-is-a-lie/) #read
 - [Why do AI models use so many em-dashes?](https://www.seangoedecke.com/em-dashes/) #read#llm
 - [High Agency Matters](https://addyosmani.com/blog/high-agency-matters/) #read#people
 - [一文讲透AI Agent开发中的human-in-the-loop - 铁蕾的个人博客](https://zhangtielei.com/posts/blog-ai-agent-human-in-the-loop.html) #read#llm
