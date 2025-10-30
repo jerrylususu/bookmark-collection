@@ -1,3 +1,4 @@
+- [Stacking Threads](https://www.netmeister.org/blog/thread-stacks.html) #read
 - [用一次摸鱼经历详解AI管理实战](https://grapeot.me/ai-management-3.html) #read#llm#people
 - [How many pillars of observability can you fit on the head of a pin?](https://charity.wtf/2025/10/30/the-pillar-is-a-lie/) #read
 - [Why do AI models use so many em-dashes?](https://www.seangoedecke.com/em-dashes/) #read#llm
