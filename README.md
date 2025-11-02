@@ -1,3 +1,4 @@
+- [Building Multi-Agent Systems (Part 2)](https://blog.sshh.io/p/building-multi-agent-systems-part) #read#llm
 - [How I Use Every Claude Code Feature](https://blog.sshh.io/p/how-i-use-every-claude-code-feature) #read#llm#tips
 - [Scraping Next.js web sites in 2025 – Trickster Dev](https://www.trickster.dev/post/scraping-nextjs-web-sites-in-2025/) #read#frontend
 - [A Practitioner's Guide to Wide Events | Jeremy Morrell](https://jeremymorrell.dev/blog/a-practitioners-guide-to-wide-events/) #read#deepdive#distributed#explainer
