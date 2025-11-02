@@ -1,3 +1,4 @@
+- [The Linux Boot Process: From Power Button to Kernel](https://www.0xkato.xyz/linux-boot/) #read#linux#deepdive
 - [Building Multi-Agent Systems (Part 2)](https://blog.sshh.io/p/building-multi-agent-systems-part) #read#llm
 - [How I Use Every Claude Code Feature](https://blog.sshh.io/p/how-i-use-every-claude-code-feature) #read#llm#tips
 - [Scraping Next.js web sites in 2025 – Trickster Dev](https://www.trickster.dev/post/scraping-nextjs-web-sites-in-2025/) #read#frontend
