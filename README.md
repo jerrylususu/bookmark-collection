@@ -1,3 +1,4 @@
+- [Scraping Next.js web sites in 2025 – Trickster Dev](https://www.trickster.dev/post/scraping-nextjs-web-sites-in-2025/) #read#frontend
 - [A Practitioner's Guide to Wide Events | Jeremy Morrell](https://jeremymorrell.dev/blog/a-practitioners-guide-to-wide-events/) #read#deepdive#distributed#explainer
 - [Stacking Threads](https://www.netmeister.org/blog/thread-stacks.html) #read
 - [用一次摸鱼经历详解AI管理实战](https://grapeot.me/ai-management-3.html) #read#llm#people
