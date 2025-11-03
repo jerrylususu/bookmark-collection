@@ -1,3 +1,4 @@
+- [New prompt injection papers: Agents Rule of Two and The Attacker Moves Second](https://simonwillison.net/2025/Nov/2/new-prompt-injection-papers/) #read#llm#security
 - [Using Assisted-by commit footers instead of banning AI tools](https://xeiaso.net/notes/2025/assisted-by-footer/) #read#llm
 - [The Linux Boot Process: From Power Button to Kernel](https://www.0xkato.xyz/linux-boot/) #read#linux#deepdive
 - [Building Multi-Agent Systems (Part 2)](https://blog.sshh.io/p/building-multi-agent-systems-part) #read#llm
