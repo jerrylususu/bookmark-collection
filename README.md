@@ -1,3 +1,4 @@
+- [State of Terminal Emulators in 2025: The Errant Champions · Articles](https://www.jeffquast.com/post/state-of-terminal-emulation-2025/) #read#guide
 - [Why Engineers Can't Be Rational About Programming Languages | spf13](https://spf13.com/p/the-hidden-conversation/) #read#people
 - [The Case Against pgvector | Alex Jacobs](https://alex-jacobs.com/posts/the-case-against-pgvector/) #read#db#deepdive
 - [Absurd Workflows: Durable Execution With Just Postgres](https://lucumr.pocoo.org/2025/11/3/absurd-workflows/) #read#distributed#hack
