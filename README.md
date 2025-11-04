@@ -1,3 +1,4 @@
+- [The Case Against pgvector | Alex Jacobs](https://alex-jacobs.com/posts/the-case-against-pgvector/) #read#db#deepdive
 - [Absurd Workflows: Durable Execution With Just Postgres](https://lucumr.pocoo.org/2025/11/3/absurd-workflows/) #read#distributed#hack
 - [New prompt injection papers: Agents Rule of Two and The Attacker Moves Second](https://simonwillison.net/2025/Nov/2/new-prompt-injection-papers/) #read#llm#security
 - [Using Assisted-by commit footers instead of banning AI tools](https://xeiaso.net/notes/2025/assisted-by-footer/) #read#llm
