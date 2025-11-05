@@ -1,3 +1,4 @@
+- [Immutable by Design: The Deep Tech Behind Tigris Bucket Forking | Tigris Object Storage](https://www.tigrisdata.com/blog/bucket-forking-deep-dive/) #read#deepdive
 - [人类在环智能体源码展示：企业报销工作流举例（附源码下载） - 铁蕾的个人博客](https://zhangtielei.com/posts/blog-coding-example-human-in-the-loop.html) #read#llm#deepdive
 - [MCP Colors: Systematically deal with prompt injection risk](https://timkellogg.me/blog/2025/11/03/colors) #read#llm#security
 - [Code execution with MCP: building more efficient AI agents](https://www.anthropic.com/engineering/code-execution-with-mcp) #read#llm
