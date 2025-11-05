@@ -1,3 +1,4 @@
+- [A new SQL-powered permissions system in Datasette 1.0a20](https://simonwillison.net/2025/Nov/4/datasette-10a20/) #read#llm#tips
 - [Grapheme Clusters and Terminal Emulators](https://mitchellh.com/writing/grapheme-clusters-in-terminals) #read
 - [State of Terminal Emulators in 2025: The Errant Champions · Articles](https://www.jeffquast.com/post/state-of-terminal-emulation-2025/) #read#guide
 - [Why Engineers Can't Be Rational About Programming Languages | spf13](https://spf13.com/p/the-hidden-conversation/) #read#people
