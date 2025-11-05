@@ -1,3 +1,4 @@
+- [MCP Colors: Systematically deal with prompt injection risk](https://timkellogg.me/blog/2025/11/03/colors) #read#llm#security
 - [Code execution with MCP: building more efficient AI agents](https://www.anthropic.com/engineering/code-execution-with-mcp) #read#llm
 - [A new SQL-powered permissions system in Datasette 1.0a20](https://simonwillison.net/2025/Nov/4/datasette-10a20/) #read#llm#tips
 - [Grapheme Clusters and Terminal Emulators](https://mitchellh.com/writing/grapheme-clusters-in-terminals) #read
