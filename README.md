@@ -1,3 +1,4 @@
+- [我妈妈被电信诈骗95万元的全过程-月光博客](https://www.williamlong.info/archives/7520.html) #read
 - [Making XML human-readable without XSLT](https://jakearchibald.com/2025/making-xml-human-readable-without-xslt/) #read#frontend
 - [Immutable by Design: The Deep Tech Behind Tigris Bucket Forking | Tigris Object Storage](https://www.tigrisdata.com/blog/bucket-forking-deep-dive/) #read#deepdive
 - [人类在环智能体源码展示：企业报销工作流举例（附源码下载） - 铁蕾的个人博客](https://zhangtielei.com/posts/blog-coding-example-human-in-the-loop.html) #read#llm#deepdive
