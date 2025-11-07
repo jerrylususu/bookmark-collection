@@ -1,3 +1,4 @@
+- [How I use AI (Oct 2025)](https://ben.stolovitz.com/posts/how_use_ai_oct_2025/) #read#llm#guide
 - [You Should Write An Agent](https://fly.io/blog/everyone-write-an-agent/) #read#llm
 - [我妈妈被电信诈骗95万元的全过程-月光博客](https://www.williamlong.info/archives/7520.html) #read
 - [Making XML human-readable without XSLT](https://jakearchibald.com/2025/making-xml-human-readable-without-xslt/) #read#frontend
