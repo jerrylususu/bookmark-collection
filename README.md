@@ -1,3 +1,4 @@
+- [You Should Write An Agent](https://fly.io/blog/everyone-write-an-agent/) #read#llm
 - [我妈妈被电信诈骗95万元的全过程-月光博客](https://www.williamlong.info/archives/7520.html) #read
 - [Making XML human-readable without XSLT](https://jakearchibald.com/2025/making-xml-human-readable-without-xslt/) #read#frontend
 - [Immutable by Design: The Deep Tech Behind Tigris Bucket Forking | Tigris Object Storage](https://www.tigrisdata.com/blog/bucket-forking-deep-dive/) #read#deepdive
