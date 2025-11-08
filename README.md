@@ -1,3 +1,4 @@
+- [Spinning up an Onion Mirror is Stupid Easy | flower.codes](https://flower.codes/2025/10/23/onion-mirror.html) #read
 - [AiDHD](https://www.josh.ing/blog/aidhd) #read#llm#deepdive
 - [Think for Yourself](https://kevlinhenney.medium.com/think-for-yourself-7d129aa959e3) #read#llm#tips
 - [Claude Pirate: Abusing Anthropic's File API For Data Exfiltration ·  Embrace The Red](https://embracethered.com/blog/posts/2025/claude-abusing-network-access-and-anthropic-api-for-data-exfiltration/) #read#llm#security
