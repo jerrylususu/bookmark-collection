@@ -1,3 +1,4 @@
+- [AiDHD](https://www.josh.ing/blog/aidhd) #read#llm#deepdive
 - [Think for Yourself](https://kevlinhenney.medium.com/think-for-yourself-7d129aa959e3) #read#llm#tips
 - [Claude Pirate: Abusing Anthropic's File API For Data Exfiltration ·  Embrace The Red](https://embracethered.com/blog/posts/2025/claude-abusing-network-access-and-anthropic-api-for-data-exfiltration/) #read#llm#security
 - [How I use AI (Oct 2025)](https://ben.stolovitz.com/posts/how_use_ai_oct_2025/) #read#llm#guide
