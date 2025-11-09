@@ -1,3 +1,4 @@
+- [【开源】我亲手开发的一个AI框架，谈下背后的思考 - 铁蕾的个人博客](https://zhangtielei.com/posts/blog-ai-framework-bridgic.html) #read#llm#deepdive
 - [Thinking clearly about software](https://www.seangoedecke.com/thinking-clearly/) #read
 - [To get better at technical writing, lower your expectations](https://www.seangoedecke.com/technical-communication/#fnref-1) #read#people#write
 - [时间账户 - Miao Yu | 于淼](https://yufree.cn/cn/2025/11/08/time-account/) #read
