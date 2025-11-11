@@ -1,3 +1,4 @@
+- [Understanding Spec-Driven-Development: Kiro, spec-kit, and Tessl](https://martinfowler.com/articles/exploring-gen-ai/sdd-3-tools.html) #read#llm
 - [joouha/modshim](https://github.com/joouha/modshim) #py#tools
 - [【开源】我亲手开发的一个AI框架，谈下背后的思考 - 铁蕾的个人博客](https://zhangtielei.com/posts/blog-ai-framework-bridgic.html) #read#llm#deepdive
 - [Thinking clearly about software](https://www.seangoedecke.com/thinking-clearly/) #read
