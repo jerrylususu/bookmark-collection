@@ -1,3 +1,4 @@
+- [Parsing integers in C](https://daniel.haxx.se/blog/2025/11/13/parsing-integers-in-c/) #read#c
 - [Agentic Pelican on a Bicycle](https://www.robert-glaser.de/agentic-pelican-on-a-bicycle/) #read#llm
 - [A quote from Steve Krouse](https://simonwillison.net/2025/Nov/12/steve-krouse/) #read#llm
 - [Giving your AI a Job Interview](https://www.oneusefulthing.org/p/giving-your-ai-a-job-interview) #read#llm
