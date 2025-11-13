@@ -1,3 +1,4 @@
+- [Fun-reliable side-channels for cross-container communication](https://h4x0r.org/funreliable/) #read#security#container#deepdive
 - [The Software Engineer’s Guidebook: a recap](https://newsletter.pragmaticengineer.com/p/the-software-engineers-guidebook) #read#deepdive
 - [Scaling HNSWs - <antirez>](https://antirez.com/news/156) #read#deepdive
 - [Vibe hacking a padding oracle](https://beny23.github.io/posts/capturing_a_padding_oracle/) #read#security
