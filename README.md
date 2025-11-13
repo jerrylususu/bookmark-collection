@@ -1,3 +1,4 @@
+- [Work, After Work: Notes From an Unemployed New Grad Watching the Job Market Break |](https://urlahmed.com/2025/11/05/work-after-work-notes-from-an-unemployed-new-grad-watching-the-job-market-break/) #read
 - [We've added JavaScript-native RPC to Cloudflare Workers](https://blog.cloudflare.com/javascript-native-rpc/) #read#distributed
 - [Fun-reliable side-channels for cross-container communication](https://h4x0r.org/funreliable/) #read#security#container#deepdive
 - [The Software Engineer’s Guidebook: a recap](https://newsletter.pragmaticengineer.com/p/the-software-engineers-guidebook) #read#deepdive
