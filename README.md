@@ -1,3 +1,4 @@
+- [A quote from Steve Krouse](https://simonwillison.net/2025/Nov/12/steve-krouse/) #read#llm
 - [Giving your AI a Job Interview](https://www.oneusefulthing.org/p/giving-your-ai-a-job-interview) #read#llm
 - [Reflections on My Tech Career – Part 2](https://randomascii.wordpress.com/2025/11/10/reflections-on-my-tech-career-part-2/) #read#people#deepdive
 - [Understanding Spec-Driven-Development: Kiro, spec-kit, and Tessl](https://martinfowler.com/articles/exploring-gen-ai/sdd-3-tools.html) #read#llm
