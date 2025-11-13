@@ -1,3 +1,4 @@
+- [We've added JavaScript-native RPC to Cloudflare Workers](https://blog.cloudflare.com/javascript-native-rpc/) #read#distributed
 - [Fun-reliable side-channels for cross-container communication](https://h4x0r.org/funreliable/) #read#security#container#deepdive
 - [The Software Engineer’s Guidebook: a recap](https://newsletter.pragmaticengineer.com/p/the-software-engineers-guidebook) #read#deepdive
 - [Scaling HNSWs - <antirez>](https://antirez.com/news/156) #read#deepdive
