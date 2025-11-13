@@ -1,3 +1,4 @@
+- [The Software Engineer’s Guidebook: a recap](https://newsletter.pragmaticengineer.com/p/the-software-engineers-guidebook) #read#deepdive
 - [Scaling HNSWs - <antirez>](https://antirez.com/news/156) #read#deepdive
 - [Vibe hacking a padding oracle](https://beny23.github.io/posts/capturing_a_padding_oracle/) #read#security
 - [Parsing integers in C](https://daniel.haxx.se/blog/2025/11/13/parsing-integers-in-c/) #read#c
