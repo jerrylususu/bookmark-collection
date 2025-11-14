@@ -1,3 +1,4 @@
+- [Glue work considered harmful](https://www.seangoedecke.com/glue-work-considered-harmful/) #read#people
 - [Needy Programs](https://tonsky.me/blog/needy-programs/) #read
 - [Nano Banana can be prompt engineered for extremely nuanced AI image generation](https://minimaxir.com/2025/11/nano-banana-prompts/) #read#llm#guide
 - [Work, After Work: Notes From an Unemployed New Grad Watching the Job Market Break |](https://urlahmed.com/2025/11/05/work-after-work-notes-from-an-unemployed-new-grad-watching-the-job-market-break/) #read
