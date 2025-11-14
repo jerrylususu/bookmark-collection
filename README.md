@@ -1,3 +1,4 @@
+- [Visual Effect - Interactive Effect Playground](https://effect.kitlangton.com/) #guide
 - [Visual Types](https://types.kitlangton.com/) #guide
 - [Glue work considered harmful](https://www.seangoedecke.com/glue-work-considered-harmful/) #read#people
 - [Needy Programs](https://tonsky.me/blog/needy-programs/) #read
