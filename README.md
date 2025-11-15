@@ -1,3 +1,4 @@
+- [Using the Web Monetization API for fun and profit](https://blog.tomayac.com/2025/11/07/using-the-web-monetization-api-for-fun-and-profit/) #read#money
 - [Digital hygiene](https://karpathy.bearblog.dev/digital-hygiene/) #read#security
 - [Can you save on LLM tokens using images instead of text?](https://pagewatch.ai/blog/post/llm-text-as-image-tokens/) #read#llm
 - [Welcome, the entire land](https://optional.is/required/2009/12/03/welcome-the-entire-land/) #read
