@@ -1,3 +1,4 @@
+- [Your data model is your destiny](https://notes.mtb.xyz/p/your-data-model-is-your-destiny) #read#design
 - [toon-format/toon](https://github.com/toon-format/toon) #tools#hack
 - [Visual Effect - Interactive Effect Playground](https://effect.kitlangton.com/) #guide
 - [Visual Types](https://types.kitlangton.com/) #guide
