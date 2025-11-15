@@ -1,3 +1,4 @@
+- [Digital hygiene](https://karpathy.bearblog.dev/digital-hygiene/) #read#security
 - [Can you save on LLM tokens using images instead of text?](https://pagewatch.ai/blog/post/llm-text-as-image-tokens/) #read#llm
 - [Welcome, the entire land](https://optional.is/required/2009/12/03/welcome-the-entire-land/) #read
 - [Language Agnostic Programming: Why you may still need code](https://joaquimrocha.com/2025/08/31/language-agnostic-programming-why-you-may-still-need-code/) #read#llm
