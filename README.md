@@ -1,3 +1,4 @@
+- [Welcome, the entire land](https://optional.is/required/2009/12/03/welcome-the-entire-land/) #read
 - [Language Agnostic Programming: Why you may still need code](https://joaquimrocha.com/2025/08/31/language-agnostic-programming-why-you-may-still-need-code/) #read#llm
 - [Your data model is your destiny](https://notes.mtb.xyz/p/your-data-model-is-your-destiny) #read#design
 - [toon-format/toon](https://github.com/toon-format/toon) #tools#hack
