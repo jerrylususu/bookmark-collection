@@ -1,3 +1,4 @@
+- [基于动态拓扑的Agent编排，原理解析+源码下载 - 铁蕾的个人博客](https://zhangtielei.com/posts/blog-bridgic-dynamic-topology.html) #read#llm#deepdive
 - [Using the Web Monetization API for fun and profit](https://blog.tomayac.com/2025/11/07/using-the-web-monetization-api-for-fun-and-profit/) #read#money
 - [Digital hygiene](https://karpathy.bearblog.dev/digital-hygiene/) #read#security
 - [Can you save on LLM tokens using images instead of text?](https://pagewatch.ai/blog/post/llm-text-as-image-tokens/) #read#llm
