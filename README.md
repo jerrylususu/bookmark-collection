@@ -1,3 +1,4 @@
+- [The fate of “small” open source](https://nolanlawson.com/2025/11/16/the-fate-of-small-open-source/) #read#llm
 - [Only three kinds of AI products actually work](https://www.seangoedecke.com/ai-products/) #read#llm
 - [超越DRY：AI原生软件工程的思考](https://grapeot.me/ai-software-engineering.html) #read#llm#deepdive
 - [基于动态拓扑的Agent编排，原理解析+源码下载 - 铁蕾的个人博客](https://zhangtielei.com/posts/blog-bridgic-dynamic-topology.html) #read#llm#deepdive
