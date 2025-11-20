@@ -1,3 +1,4 @@
+- [谈谈工作中的犯错 | CatCoding](https://catcoding.me/p/avoid-mistake/) #read
 - [Memory leaks: the forgotten side of web performance](https://nolanlawson.com/2022/01/05/memory-leaks-the-forgotten-side-of-web-performance/) #read#perf
 - [The fate of “small” open source](https://nolanlawson.com/2025/11/16/the-fate-of-small-open-source/) #read#llm
 - [Only three kinds of AI products actually work](https://www.seangoedecke.com/ai-products/) #read#llm
