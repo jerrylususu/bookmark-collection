@@ -1,3 +1,4 @@
+- [Programmers and Sadomasochism](https://apenwarr.ca/log/20090222) #read#people
 - [Make product worse, get money](https://dynomight.net/worse/) #read
 - [Fizz Buzz with Cosines - Susam Pal](https://susam.net/fizz-buzz-with-cosines.html) #read#math#hack
 - [Systems design 3: LLMs and the semantic revolution](https://apenwarr.ca/log/20251120) #read#llm#deepdive
