@@ -1,3 +1,4 @@
+- [Fizz Buzz with Cosines - Susam Pal](https://susam.net/fizz-buzz-with-cosines.html) #read#math#hack
 - [Systems design 3: LLMs and the semantic revolution](https://apenwarr.ca/log/20251120) #read#llm#deepdive
 - [How we’re making GitHub Copilot smarter with fewer tools](https://github.blog/ai-and-ml/github-copilot/how-were-making-github-copilot-smarter-with-fewer-tools/) #read#llm
 - [Are large language models worth it?](https://nicholas.carlini.com/writing/2025/are-llms-worth-it.html) #read#llm
