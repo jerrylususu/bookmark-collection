@@ -1,3 +1,4 @@
+- [Systems design 3: LLMs and the semantic revolution](https://apenwarr.ca/log/20251120) #read#llm#deepdive
 - [How we’re making GitHub Copilot smarter with fewer tools](https://github.blog/ai-and-ml/github-copilot/how-were-making-github-copilot-smarter-with-fewer-tools/) #read#llm
 - [Are large language models worth it?](https://nicholas.carlini.com/writing/2025/are-llms-worth-it.html) #read#llm
 - [谈谈工作中的犯错 | CatCoding](https://catcoding.me/p/avoid-mistake/) #read
