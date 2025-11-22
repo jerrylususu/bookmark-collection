@@ -1,3 +1,4 @@
+- [Agent Design Is Still Hard](https://lucumr.pocoo.org/2025/11/21/agents-are-hard/) #read#llm#deepdive#guide
 - [Programmers and Sadomasochism](https://apenwarr.ca/log/20090222) #read#people
 - [Make product worse, get money](https://dynomight.net/worse/) #read
 - [Fizz Buzz with Cosines - Susam Pal](https://susam.net/fizz-buzz-with-cosines.html) #read#math#hack
