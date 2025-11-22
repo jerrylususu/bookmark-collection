@@ -1,3 +1,4 @@
+- [We should all be using dependency cooldowns](https://blog.yossarian.net/2025/11/21/We-should-all-be-using-dependency-cooldowns) #read#security
 - [What if you don't need MCP at all?](https://mariozechner.at/posts/2025-11-02-what-if-you-dont-need-mcp/) #read#llm
 - [Agent Design Is Still Hard](https://lucumr.pocoo.org/2025/11/21/agents-are-hard/) #read#llm#deepdive#guide
 - [Programmers and Sadomasochism](https://apenwarr.ca/log/20090222) #read#people
