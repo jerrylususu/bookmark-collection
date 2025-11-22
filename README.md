@@ -1,3 +1,4 @@
+- [Zed Is Our Office - Zed Blog](https://zed.dev/blog/zed-is-our-office) #read
 - [Intermediate Developer](https://dawranliou.com/blog/intermediate-dev/) #read
 - [We should all be using dependency cooldowns](https://blog.yossarian.net/2025/11/21/We-should-all-be-using-dependency-cooldowns) #read#security
 - [What if you don't need MCP at all?](https://mariozechner.at/posts/2025-11-02-what-if-you-dont-need-mcp/) #read#llm
