@@ -1,3 +1,4 @@
+- [一次性软件与被压缩的现实：AI Native 的本质是策略重构](https://grapeot.me/ai-native-cost-structure.html) #read#llm
 - [Zed Is Our Office - Zed Blog](https://zed.dev/blog/zed-is-our-office) #read
 - [Intermediate Developer](https://dawranliou.com/blog/intermediate-dev/) #read
 - [We should all be using dependency cooldowns](https://blog.yossarian.net/2025/11/21/We-should-all-be-using-dependency-cooldowns) #read#security
