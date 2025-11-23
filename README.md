@@ -1,3 +1,4 @@
+- [Why it takes months to tell if new AI models are good](https://www.seangoedecke.com/are-new-models-good/) #read#llm#eval
 - [一次性软件与被压缩的现实：AI Native 的本质是策略重构](https://grapeot.me/ai-native-cost-structure.html) #read#llm
 - [Zed Is Our Office - Zed Blog](https://zed.dev/blog/zed-is-our-office) #read
 - [Intermediate Developer](https://dawranliou.com/blog/intermediate-dev/) #read
