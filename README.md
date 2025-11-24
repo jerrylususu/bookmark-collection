@@ -1,3 +1,4 @@
+- [Exfiltration via ffmpeg](https://beny23.github.io/posts/ffmpeg_exfil/) #read#security#hack
 - [LLM APIs are a Synchronization Problem](https://lucumr.pocoo.org/2025/11/22/llm-apis/) #read#llm#distributed
 - [Why it takes months to tell if new AI models are good](https://www.seangoedecke.com/are-new-models-good/) #read#llm#eval
 - [一次性软件与被压缩的现实：AI Native 的本质是策略重构](https://grapeot.me/ai-native-cost-structure.html) #read#llm
