@@ -1,3 +1,4 @@
+- [Becoming unblockable](https://www.seangoedecke.com/unblockable/#fnref-1) #read#career
 - ["Good engineering management" is a fad](https://lethain.com/good-eng-mgmt-is-a-fad/) #read#career
 - [写在 PicGo 即将 8 周年之际 | MARKSZのBlog](https://molunerfinn.com/8-years-of-PicGo/) #read
 - [Exfiltration via ffmpeg](https://beny23.github.io/posts/ffmpeg_exfil/) #read#security#hack
