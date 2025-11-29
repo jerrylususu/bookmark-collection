@@ -1,3 +1,4 @@
+- [Own A Graph](https://staysaasy.com/strategy/2025/11/25/own-a-graph.html) #read#career
 - [How I Coding? (Nov 2025 Edition)](https://xuanwo.io/2025/08-how-i-coding-nov-2025-edition/) #read
 - [How good engineers write bad code at big companies](https://www.seangoedecke.com/bad-code-at-big-companies/) #read#career#people
 - [Becoming unblockable](https://www.seangoedecke.com/unblockable/#fnref-1) #read#career
