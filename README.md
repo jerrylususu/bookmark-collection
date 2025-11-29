@@ -1,3 +1,4 @@
+- [How good engineers write bad code at big companies](https://www.seangoedecke.com/bad-code-at-big-companies/) #read#career#people
 - [Becoming unblockable](https://www.seangoedecke.com/unblockable/#fnref-1) #read#career
 - ["Good engineering management" is a fad](https://lethain.com/good-eng-mgmt-is-a-fad/) #read#career
 - [写在 PicGo 即将 8 周年之际 | MARKSZのBlog](https://molunerfinn.com/8-years-of-PicGo/) #read
