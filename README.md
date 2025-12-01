@@ -1,3 +1,4 @@
+- [Migrating Dillo from GitHub](https://dillo-browser.org/news/migration-from-github/) #read
 - [Context plumbing](https://interconnected.org/home/2025/11/28/plumbing) #read#llm
 - [Own A Graph](https://staysaasy.com/strategy/2025/11/25/own-a-graph.html) #read#career
 - [How I Coding? (Nov 2025 Edition)](https://xuanwo.io/2025/08-how-i-coding-nov-2025-edition/) #read
