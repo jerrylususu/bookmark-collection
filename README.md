@@ -1,3 +1,4 @@
+- [CS146S: The Modern Software Developer - Stanford University](https://themodernsoftware.dev/) #read#guide
 - [Migrating Dillo from GitHub](https://dillo-browser.org/news/migration-from-github/) #read
 - [Context plumbing](https://interconnected.org/home/2025/11/28/plumbing) #read#llm
 - [Own A Graph](https://staysaasy.com/strategy/2025/11/25/own-a-graph.html) #read#career
