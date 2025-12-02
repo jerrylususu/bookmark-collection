@@ -1,3 +1,4 @@
+- [How to orchestrate agents using mission control](https://github.blog/ai-and-ml/github-copilot/how-to-orchestrate-agents-using-mission-control/) #read#llm#guide
 - [CS146S: The Modern Software Developer - Stanford University](https://themodernsoftware.dev/) #read#guide
 - [Migrating Dillo from GitHub](https://dillo-browser.org/news/migration-from-github/) #read
 - [Context plumbing](https://interconnected.org/home/2025/11/28/plumbing) #read#llm
