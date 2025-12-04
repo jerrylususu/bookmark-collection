@@ -1,3 +1,4 @@
+- [easychen/lean-side-bussiness](https://github.com/easychen/lean-side-bussiness) #books
 - [Paged Out!](https://pagedout.institute/) #book
 - [“The local-first rebellion”: How Home Assistant became the most important project in your house](https://github.blog/open-source/maintainers/the-local-first-rebellion-how-home-assistant-became-the-most-important-project-in-your-house/) #read
 - [A pragmatic guide to LLM evals for devs](https://newsletter.pragmaticengineer.com/p/evals) #read#llm#eval#deepdive
