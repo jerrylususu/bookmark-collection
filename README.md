@@ -1,3 +1,4 @@
+- [Advanced network traffic interception techniques with mitmproxy – Trickster Dev](https://www.trickster.dev/post/advanced-network-traffic-interception-techniques-with-mitmproxy/) #read#tips#hack#network
 - [easychen/lean-side-bussiness](https://github.com/easychen/lean-side-bussiness) #books
 - [Paged Out!](https://pagedout.institute/) #book
 - [“The local-first rebellion”: How Home Assistant became the most important project in your house](https://github.blog/open-source/maintainers/the-local-first-rebellion-how-home-assistant-became-the-most-important-project-in-your-house/) #read
