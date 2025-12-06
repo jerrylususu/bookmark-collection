@@ -1,3 +1,4 @@
+- [Thoughts on Go vs. Rust vs. Zig](https://sinclairtarget.com/blog/2025/08/thoughts-on-go-vs.-rust-vs.-zig/) #read#programming#language
 - [Fizz Buzz in CSS - Susam Pal](https://susam.net/fizz-buzz-in-css.html) #read#hack#frontend
 - [They have to be able to talk about us without us - Anil Dash](https://anildash.com/2025/12/05/talk-about-us-without-us/) #read#people
 - [My mental model of the AI race](https://interconnected.org/home/2025/12/05/training) #read
