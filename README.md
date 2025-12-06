@@ -1,3 +1,4 @@
+- [My mental model of the AI race](https://interconnected.org/home/2025/12/05/training) #read
 - [Advanced network traffic interception techniques with mitmproxy – Trickster Dev](https://www.trickster.dev/post/advanced-network-traffic-interception-techniques-with-mitmproxy/) #read#tips#hack#network
 - [easychen/lean-side-bussiness](https://github.com/easychen/lean-side-bussiness) #books
 - [Paged Out!](https://pagedout.institute/) #book
