@@ -1,3 +1,4 @@
+- [The Unexpected Effectiveness of One-Shot Decompilation with Claude](https://blog.chrislewis.au/the-unexpected-effectiveness-of-one-shot-decompilation-with-claude/) #read#llm#guide
 - [Why speed matters](https://lemire.me/blog/2025/12/05/why-speed-matters/) #read
 - [Writing a good CLAUDE.md](https://www.humanlayer.dev/blog/writing-a-good-claude-md) #read#llm
 - [A first look at Django's new background tasks](https://roam.be/notes/2025/a-first-look-at-djangos-new-background-tasks/) #read#python
