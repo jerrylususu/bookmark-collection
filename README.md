@@ -1,3 +1,4 @@
+- [Why speed matters](https://lemire.me/blog/2025/12/05/why-speed-matters/) #read
 - [Writing a good CLAUDE.md](https://www.humanlayer.dev/blog/writing-a-good-claude-md) #read#llm
 - [A first look at Django's new background tasks](https://roam.be/notes/2025/a-first-look-at-djangos-new-background-tasks/) #read#python
 - [Thoughts on Go vs. Rust vs. Zig](https://sinclairtarget.com/blog/2025/08/thoughts-on-go-vs.-rust-vs.-zig/) #read#programming#language
