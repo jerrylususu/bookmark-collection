@@ -1,3 +1,4 @@
+- [Adding unpack syntax to RCL](https://ruudvanasseldonk.com/2025/adding-unpack-to-rcl) #read#language#design
 - [576 - Using LLMs at Oxide / RFD / Oxide](https://rfd.shared.oxide.computer/rfd/0576) #read#llm#guide
 - [EchoGram: The Hidden Vulnerability Undermining AI Guardrails](https://hiddenlayer.com/innovation-hub/echogram-the-hidden-vulnerability-undermining-ai-guardrails/) #read#llm#security
 - [Pluralistic: The Reverse-Centaur’s Guide to Criticizing AI (05 Dec 2025) – Pluralistic: Daily links from Cory Doctorow](https://pluralistic.net/2025/12/05/pop-that-bubble/) #read
