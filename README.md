@@ -1,3 +1,4 @@
+- [EchoGram: The Hidden Vulnerability Undermining AI Guardrails](https://hiddenlayer.com/innovation-hub/echogram-the-hidden-vulnerability-undermining-ai-guardrails/) #read#llm#security
 - [Pluralistic: The Reverse-Centaur’s Guide to Criticizing AI (05 Dec 2025) – Pluralistic: Daily links from Cory Doctorow](https://pluralistic.net/2025/12/05/pop-that-bubble/) #read
 - [Gist of Go: Concurrency internals](https://antonz.org/go-concurrency/internals/) #read#go#deepdive
 - [The Unexpected Effectiveness of One-Shot Decompilation with Claude](https://blog.chrislewis.au/the-unexpected-effectiveness-of-one-shot-decompilation-with-claude/) #read#llm#guide
