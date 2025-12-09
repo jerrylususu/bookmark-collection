@@ -1,3 +1,4 @@
+- [使用Nano Banana Pro生成整套PPT：疯狂，挑战和工作流](https://grapeot.me/nano-banana-pro.html) #read#llm#guide
 - [Adding unpack syntax to RCL](https://ruudvanasseldonk.com/2025/adding-unpack-to-rcl) #read#language#design
 - [576 - Using LLMs at Oxide / RFD / Oxide](https://rfd.shared.oxide.computer/rfd/0576) #read#llm#guide
 - [EchoGram: The Hidden Vulnerability Undermining AI Guardrails](https://hiddenlayer.com/innovation-hub/echogram-the-hidden-vulnerability-undermining-ai-guardrails/) #read#llm#security
