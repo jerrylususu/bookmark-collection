@@ -1,3 +1,4 @@
+- [Skills vs Dynamic MCP Loadouts](https://lucumr.pocoo.org/2025/12/13/skills-vs-mcp/) #read#llm
 - [我的独立开发者书单 2025 版 - 白宦成](https://www.ixiqin.com/2025/12/13/book-list-of-indiehacker/) #read
 - [Litestream VFS](https://fly.io/blog/litestream-vfs/) #read#db
 - [Useful patterns for building HTML tools](https://simonwillison.net/2025/Dec/10/html-tools/) #read#tips#deepdive#frontend
