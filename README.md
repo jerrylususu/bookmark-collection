@@ -1,3 +1,4 @@
+- [Jubilant: Python subprocess and Go codegen](https://benhoyt.com/writings/jubilant/) #read
 - [My gift to the rustdoc team](https://fasterthanli.me/articles/my-gift-to-the-rust-docs-team#solutions) #read#deepdive
 - [What happens when the coding becomes the least interesting part of the work](https://obie.medium.com/what-happens-when-the-coding-becomes-the-least-interesting-part-of-the-work-ab10c213c660) #read#llm
 - [Skills vs Dynamic MCP Loadouts](https://lucumr.pocoo.org/2025/12/13/skills-vs-mcp/) #read#llm
