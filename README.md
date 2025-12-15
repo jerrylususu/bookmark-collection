@@ -1,3 +1,4 @@
+- [How I wrote JustHTML using coding agents - Friendly Bit](/python/writing-justhtml-with-coding-agents/) #read#llm#deepdive
 - [JustHTML is a fascinating example of vibe engineering in action](https://simonwillison.net/2025/Dec/14/justhtml/) #read#llm
 - [Justified](https://www.bitecode.dev/p/justified) #read
 - [Jubilant: Python subprocess and Go codegen](https://benhoyt.com/writings/jubilant/) #read
