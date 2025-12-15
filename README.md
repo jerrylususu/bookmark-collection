@@ -1,3 +1,4 @@
+- [JustHTML is a fascinating example of vibe engineering in action](https://simonwillison.net/2025/Dec/14/justhtml/) #read#llm
 - [Justified](https://www.bitecode.dev/p/justified) #read
 - [Jubilant: Python subprocess and Go codegen](https://benhoyt.com/writings/jubilant/) #read
 - [My gift to the rustdoc team](https://fasterthanli.me/articles/my-gift-to-the-rust-docs-team#solutions) #read#deepdive
