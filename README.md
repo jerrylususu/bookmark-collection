@@ -1,3 +1,4 @@
+- [I ported JustHTML from Python to JavaScript with Codex CLI and GPT-5.2 in 4.5 hours](https://simonwillison.net/2025/Dec/15/porting-justhtml/) #read#llm
 - [How I wrote JustHTML using coding agents - Friendly Bit](/python/writing-justhtml-with-coding-agents/) #read#llm#deepdive
 - [JustHTML is a fascinating example of vibe engineering in action](https://simonwillison.net/2025/Dec/14/justhtml/) #read#llm
 - [Justified](https://www.bitecode.dev/p/justified) #read
