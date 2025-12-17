@@ -1,3 +1,4 @@
+- [时间+项目的双维度工作笔记法 - 少数派](https://sspai.com/post/103960) #read
 - [How a Kernel Bug Froze My Machine: Debugging an Async-profiler Deadlock | QuestDB](https://questdb.com/blog/async-profiler-kernel-bug/) #read#kernel#deepdive
 - [Statistics made simple](https://tonsky.me/blog/clj-simple-stats/) #read
 - [I ported JustHTML from Python to JavaScript with Codex CLI and GPT-5.2 in 4.5 hours](https://simonwillison.net/2025/Dec/15/porting-justhtml/) #read#llm
