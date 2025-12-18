@@ -1,3 +1,4 @@
+- [What Actually Is Claude Code’s Plan Mode?](https://lucumr.pocoo.org/2025/12/17/what-is-plan-mode/) #read#llm
 - [Announcing support for GROUP BY, SUM, and other aggregation queries in R2 SQL](https://blog.cloudflare.com/r2-sql-aggregations/) #read#db
 - [时间+项目的双维度工作笔记法 - 少数派](https://sspai.com/post/103960) #read
 - [How a Kernel Bug Froze My Machine: Debugging an Async-profiler Deadlock | QuestDB](https://questdb.com/blog/async-profiler-kernel-bug/) #read#kernel#deepdive
