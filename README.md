@@ -1,3 +1,4 @@
+- [Programmers and software developers lost the plot on naming their tools](https://larr.net/p/namings.html) #read
 - [GraphQL: the enterprise honeymoon is over](https://johnjames.blog/posts/graphql-the-enterprise-honeymoon-is-over) #read
 - [The Architecture of "Not Bad": Decoding the Chinese Source Code of the Void](https://suggger.substack.com/p/the-architecture-of-not-bad-decoding) #read
 - [AI agents are starting to eat SaaS](https://martinalderson.com/posts/ai-agents-are-starting-to-eat-saas/) #read
