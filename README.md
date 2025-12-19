@@ -1,3 +1,4 @@
+- [Introducing RSC Explorer — overreacted](https://overreacted.io/introducing-rsc-explorer/) #read#deepdive#frontend
 - [Making our own spectrogram](https://fasterthanli.me/articles/making-our-own-spectrogram#the-gabor-limit) #read#rust#deepdive
 - [CET Perceptually Uniform Colour Maps](https://colorcet.com/) #tools
 - [Inside PostHog: How SSRF, a ClickHouse SQL Escaping 0day, and Default PostgreSQL Credentials Formed an RCE Chain (ZDI-25-099, ZDI-25-097, ZDI-25-096) - Mehmet Ince @mdisec](https://mdisec.com/inside-posthog-how-ssrf-a-clickhouse-sql-escaping-0day-and-default-postgresql-credentials-formed-an-rce-chain-zdi-25-099-zdi-25-097-zdi-25-096/) #read#deepdive#security
