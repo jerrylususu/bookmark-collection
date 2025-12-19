@@ -1,3 +1,4 @@
+- [AI agents are starting to eat SaaS](https://martinalderson.com/posts/ai-agents-are-starting-to-eat-saas/) #read
 - [Introducing RSC Explorer — overreacted](https://overreacted.io/introducing-rsc-explorer/) #read#deepdive#frontend
 - [Making our own spectrogram](https://fasterthanli.me/articles/making-our-own-spectrogram#the-gabor-limit) #read#rust#deepdive
 - [CET Perceptually Uniform Colour Maps](https://colorcet.com/) #tools
