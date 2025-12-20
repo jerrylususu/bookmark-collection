@@ -1,3 +1,4 @@
+- [【开源】智能体编程语言ASL——重构智能体开发体验 - 铁蕾的个人博客](https://zhangtielei.com/posts/blog-bridgic-asl.html) #read#llm#language
 - [2025 LLM Year in Review](https://karpathy.bearblog.dev/year-in-review-2025/) #read#llm
 - [Programmers and software developers lost the plot on naming their tools](https://larr.net/p/namings.html) #read
 - [GraphQL: the enterprise honeymoon is over](https://johnjames.blog/posts/graphql-the-enterprise-honeymoon-is-over) #read
