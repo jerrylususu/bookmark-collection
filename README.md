@@ -1,3 +1,4 @@
+- [2025 LLM Year in Review](https://karpathy.bearblog.dev/year-in-review-2025/) #read#llm
 - [Programmers and software developers lost the plot on naming their tools](https://larr.net/p/namings.html) #read
 - [GraphQL: the enterprise honeymoon is over](https://johnjames.blog/posts/graphql-the-enterprise-honeymoon-is-over) #read
 - [The Architecture of "Not Bad": Decoding the Chinese Source Code of the Void](https://suggger.substack.com/p/the-architecture-of-not-bad-decoding) #read
