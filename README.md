@@ -1,3 +1,4 @@
+- [The Shape of AI: Jaggedness, Bottlenecks and Salients](https://www.oneusefulthing.org/p/the-shape-of-ai-jaggedness-bottlenecks) #read#llm
 - [Prompt caching: 10x cheaper LLM tokens, but how? | ngrok blog](https://ngrok.com/blog/prompt-caching/) #read#llm#explainer
 - [【开源】智能体编程语言ASL——重构智能体开发体验 - 铁蕾的个人博客](https://zhangtielei.com/posts/blog-bridgic-asl.html) #read#llm#language
 - [2025 LLM Year in Review](https://karpathy.bearblog.dev/year-in-review-2025/) #read#llm
