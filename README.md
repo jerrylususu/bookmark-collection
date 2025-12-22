@@ -1,3 +1,4 @@
+- [Advice For Individual Contributors](https://staysaasy.com/management/2025/12/20/ic-advice.html) #read#people
 - [Empowering Netflix Engineers with Incident Management](https://netflixtechblog.com/empowering-netflix-engineers-with-incident-management-ebb967871de4) #read
 - [Pedagogy Recommendations](https://parentheticallyspeaking.org/articles/pedagogy-recommendations/) #read#guide
 - [blog/2025/12/an-svg-is-all-you-need.mld](https://jon.recoil.org/blog/2025/12/an-svg-is-all-you-need.html) #read
