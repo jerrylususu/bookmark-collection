@@ -1,3 +1,4 @@
+- [Empowering Netflix Engineers with Incident Management](https://netflixtechblog.com/empowering-netflix-engineers-with-incident-management-ebb967871de4) #read
 - [Pedagogy Recommendations](https://parentheticallyspeaking.org/articles/pedagogy-recommendations/) #read#guide
 - [blog/2025/12/an-svg-is-all-you-need.mld](https://jon.recoil.org/blog/2025/12/an-svg-is-all-you-need.html) #read
 - [A Year Of Vibes](https://lucumr.pocoo.org/2025/12/22/a-year-of-vibes/) #read
