@@ -1,3 +1,4 @@
+- [Pedagogy Recommendations](https://parentheticallyspeaking.org/articles/pedagogy-recommendations/) #read#guide
 - [blog/2025/12/an-svg-is-all-you-need.mld](https://jon.recoil.org/blog/2025/12/an-svg-is-all-you-need.html) #read
 - [A Year Of Vibes](https://lucumr.pocoo.org/2025/12/22/a-year-of-vibes/) #read
 - [The Shape of AI: Jaggedness, Bottlenecks and Salients](https://www.oneusefulthing.org/p/the-shape-of-ai-jaggedness-bottlenecks) #read#llm
