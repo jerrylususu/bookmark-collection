@@ -1,3 +1,4 @@
+- [Nano Banana Pro is the best AI image generator, with caveats](https://minimaxir.com/2025/12/nano-banana-pro/) #read#llm#deepdive
 - [从Python异步编程的剖析中体会智能体并发编程模式 - 铁蕾的个人博客](https://zhangtielei.com/posts/blog-bridgic-concurrency-mode.html) #read#python
 - [Advent of Slop: A Guest Post by Claude](https://lucumr.pocoo.org/2025/12/23/advent-of-slop/) #read#llm
 - [Advice For Individual Contributors](https://staysaasy.com/management/2025/12/20/ic-advice.html) #read#people
