@@ -1,3 +1,4 @@
+- [On Friday Deploys: Sometimes that Puppy Needs Murdering (xpost)](https://charity.wtf/2025/12/24/on-friday-deploys-sometimes-that-puppy-needs-murdering-xpost/) #read#reliability
 - [Nobody knows how large software products work](https://www.seangoedecke.com/nobody-knows-how-software-products-work/) #read
 - [Avoid Mini-frameworks](https://laike9m.com/blog/avoid-mini-frameworks,171/) #read#tips
 - [Nano Banana Pro is the best AI image generator, with caveats](https://minimaxir.com/2025/12/nano-banana-pro/) #read#llm#deepdive
