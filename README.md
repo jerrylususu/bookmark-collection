@@ -1,3 +1,4 @@
+- [Software engineers should be a little bit cynical](https://www.seangoedecke.com/a-little-bit-cynical/) #read#people
 - [AI智能体纪元或将从2026开始归零 - 铁蕾的个人博客](https://zhangtielei.com/posts/blog-agents-outlook.html) #read#llm
 - [反脆弱](https://www.bmpi.dev/self/antifragile/) #read
 - [On Friday Deploys: Sometimes that Puppy Needs Murdering (xpost)](https://charity.wtf/2025/12/24/on-friday-deploys-sometimes-that-puppy-needs-murdering-xpost/) #read#reliability
