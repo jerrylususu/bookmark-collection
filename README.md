@@ -1,3 +1,4 @@
+- [Times New American: A Tale of Two Fonts](https://hsu.cy/2025/12/times-new-american/) #read#design
 - [How uv got so fast](https://nesbitt.io/2025/12/26/how-uv-got-so-fast.html) #read#python#deepdive
 - [Software engineers should be a little bit cynical](https://www.seangoedecke.com/a-little-bit-cynical/) #read#people
 - [AI智能体纪元或将从2026开始归零 - 铁蕾的个人博客](https://zhangtielei.com/posts/blog-agents-outlook.html) #read#llm
