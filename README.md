@@ -1,3 +1,4 @@
+- [Bugs that survive the heat of continuous fuzzing](https://github.blog/security/vulnerability-research/bugs-that-survive-the-heat-of-continuous-fuzzing/) #read#security
 - [Times New American: A Tale of Two Fonts](https://hsu.cy/2025/12/times-new-american/) #read#design
 - [How uv got so fast](https://nesbitt.io/2025/12/26/how-uv-got-so-fast.html) #read#python#deepdive
 - [Software engineers should be a little bit cynical](https://www.seangoedecke.com/a-little-bit-cynical/) #read#people
