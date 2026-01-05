@@ -1,3 +1,4 @@
+- [My LLM coding workflow going into 2026](https://addyosmani.com/blog/ai-coding-workflow/) #read#llm#guide
 - [The future of agentic coding: conductors to orchestrators](https://addyosmani.com/blog/future-agentic-coding/) #read#llm
 - [Build GPUI + Ghostty without writing code](https://xuanwo.io/2026/01-gpui-ghostty/) #read#llm
 - [[译] 软件领域的工业革命：AI 将使软件成为一种新的 UGC（2025）](https://arthurchiao.art/blog/rise-of-industrial-software-zh/) #read#llm
