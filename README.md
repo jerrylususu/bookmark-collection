@@ -1,3 +1,4 @@
+- [Freestyle linked lists tricks](https://nullprogram.com/blog/2025/12/31/) #read#c
 - [21 Lessons From 14 Years at Google](https://addyosmani.com/blog/21-lessons/) #read#guide
 - [It’s hard to justify Tahoe icons](https://tonsky.me/blog/tahoe-icons/) #read#visual#design
 - [Facilitating AI adoption at Imprint](https://lethain.com/company-ai-adoption/) #read#llm#deepdive
