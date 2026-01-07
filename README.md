@@ -1,3 +1,4 @@
+- [A field guide to sandboxes for AI](https://luiscardoso.dev/blog/sandboxes-for-ai) #read#deepdive#security
 - [Fast Code, Expensive Confidence: Building Software With LLMs | Dmitry Danilov](https://ddanilov.me/how-llms-affect-software-architecture) #read
 - [Freestyle linked lists tricks](https://nullprogram.com/blog/2025/12/31/) #read#c
 - [21 Lessons From 14 Years at Google](https://addyosmani.com/blog/21-lessons/) #read#guide
