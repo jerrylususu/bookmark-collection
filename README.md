@@ -1,3 +1,4 @@
+- [How Markdown took over the world - Anil Dash](https://anildash.com/2026/01/09/how-markdown-took-over-the-world/) #read#deepdive#history
 - [Your AI coding agents need a manager](https://addyosmani.com/blog/coding-agents-manager/) #read#llm#agent
 - [A field guide to sandboxes for AI](https://luiscardoso.dev/blog/sandboxes-for-ai) #read#deepdive#security
 - [Fast Code, Expensive Confidence: Building Software With LLMs | Dmitry Danilov](https://ddanilov.me/how-llms-affect-software-architecture) #read
