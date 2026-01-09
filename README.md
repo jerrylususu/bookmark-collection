@@ -1,3 +1,4 @@
+- [Your AI coding agents need a manager](https://addyosmani.com/blog/coding-agents-manager/) #read#llm#agent
 - [A field guide to sandboxes for AI](https://luiscardoso.dev/blog/sandboxes-for-ai) #read#deepdive#security
 - [Fast Code, Expensive Confidence: Building Software With LLMs | Dmitry Danilov](https://ddanilov.me/how-llms-affect-software-architecture) #read
 - [Freestyle linked lists tricks](https://nullprogram.com/blog/2025/12/31/) #read#c
