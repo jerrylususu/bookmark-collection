@@ -1,3 +1,4 @@
+- [Why Object of Arrays (SoA pattern) beat interleaved arrays: a JavaScript performance rabbit hole | Royal Bhati's Blog](https://royalbhati.com/posts/js-array-vs-typedarray) #read#perf
 - [Opus 4.5 is going to change everything](https://burkeholland.github.io/posts/opus-4-5-change-everything/) #read#llm
 - [How Markdown took over the world - Anil Dash](https://anildash.com/2026/01/09/how-markdown-took-over-the-world/) #read#deepdive#history
 - [Your AI coding agents need a manager](https://addyosmani.com/blog/coding-agents-manager/) #read#llm#agent
