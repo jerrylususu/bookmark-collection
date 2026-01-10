@@ -1,3 +1,4 @@
+- [Fly’s new Sprites.dev addresses both developer sandboxes and API sandboxes at the same time](https://simonwillison.net/2026/Jan/9/sprites-dev/) #read#llm#security
 - [HTTP caching, a refresher · Dan Cătălin Burzo](https://danburzo.ro/http-caching-refresher/) #read#deepdive
 - [Why Object of Arrays (SoA pattern) beat interleaved arrays: a JavaScript performance rabbit hole | Royal Bhati's Blog](https://royalbhati.com/posts/js-array-vs-typedarray) #read#perf
 - [Opus 4.5 is going to change everything](https://burkeholland.github.io/posts/opus-4-5-change-everything/) #read#llm
