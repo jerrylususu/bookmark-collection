@@ -1,3 +1,4 @@
+- [Don't fall into the anti-AI hype - <antirez>](https://antirez.com/news/158) #read#llm
 - [A Survey of Dynamic Array Structures](https://azmr.uk/dyn/) #read#deepdive
 - [Writing First, Tooling Second - Susam's Maze](https://susam.net/writing-first-tooling-second.html) #read
 - [A Software Library with No Code](https://www.dbreunig.com/2026/01/08/a-software-library-with-no-code.html) #read
