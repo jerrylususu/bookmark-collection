@@ -1,3 +1,4 @@
+- [A Software Library with No Code](https://www.dbreunig.com/2026/01/08/a-software-library-with-no-code.html) #read
 - [John Carmack on Inlined Code](http://number-none.com/blow/blog/programming/2014/09/26/carmack-on-inlined-code.html) #read#design
 - [A complete guide to the HTML number input](https://olliewilliams.xyz/blog/guide-to-html-number-input/) #read#deepdive#frontend
 - [Fly’s new Sprites.dev addresses both developer sandboxes and API sandboxes at the same time](https://simonwillison.net/2026/Jan/9/sprites-dev/) #read#llm#security
