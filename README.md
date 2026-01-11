@@ -1,3 +1,4 @@
+- [A Survey of Dynamic Array Structures](https://azmr.uk/dyn/) #read#deepdive
 - [Writing First, Tooling Second - Susam's Maze](https://susam.net/writing-first-tooling-second.html) #read
 - [A Software Library with No Code](https://www.dbreunig.com/2026/01/08/a-software-library-with-no-code.html) #read
 - [John Carmack on Inlined Code](http://number-none.com/blow/blog/programming/2014/09/26/carmack-on-inlined-code.html) #read#design
