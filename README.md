@@ -1,3 +1,4 @@
+- [Porting MiniJinja to Go With an Agent](https://lucumr.pocoo.org/2026/1/14/minijinja-go-port/) #read#llm#agent
 - [How to know if that job will crush your soul - Anil Dash](https://anildash.com/2026/01/12/will-that-job-crush-your-soul/) #read#career
 - [Don't fall into the anti-AI hype - <antirez>](https://antirez.com/news/158) #read#llm
 - [A Survey of Dynamic Array Structures](https://azmr.uk/dyn/) #read#deepdive
