@@ -1,3 +1,4 @@
+- [What came first- the CNAME or the A record](https://blog.cloudflare.com/cname-a-record-order-dns-standards/) #read#network
 - [How to write a good spec for AI agents](https://addyosmani.com/blog/good-spec/) #read#llm#guide
 - [Monky Business: Creating a Cistercian Numerals Generator | Christian Heilmann](https://christianheilmann.com/2026/01/13/monky-business-creating-a-cistercian-numerals-generator/) #read
 - [Porting MiniJinja to Go With an Agent](https://lucumr.pocoo.org/2026/1/14/minijinja-go-port/) #read#llm#agent
