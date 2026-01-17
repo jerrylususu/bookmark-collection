@@ -1,3 +1,4 @@
+- [My Claude Code Workflow And Personal Tips](https://thegroundtruth.substack.com/p/my-claude-code-workflow-and-personal-tips) #read#llm#guide
 - [Minimal GitHub Workflow - Susam Pal](https://susam.net/minimal-github-workflow.html) #read
 - [The Most Important Teams in Tech](https://staysaasy.com/management/2026/01/15/the-most-important-teams-in-tech.html) #read#career
 - [The natural home for AI agents is your Reminders app](https://interconnected.org/home/2026/01/15/reminders) #read#agent
