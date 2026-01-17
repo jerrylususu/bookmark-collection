@@ -1,3 +1,4 @@
+- [The Most Important Teams in Tech](https://staysaasy.com/management/2026/01/15/the-most-important-teams-in-tech.html) #read#career
 - [The natural home for AI agents is your Reminders app](https://interconnected.org/home/2026/01/15/reminders) #read#agent
 - [The Design & Implementation of Sprites](https://fly.io/blog/design-and-implementation/) #read#arch#deepdive
 - [Tormentmaxxing 'simple requests'](https://xeiaso.net/notes/2026/tormentmaxxing-simple-requests/) #read#llm
