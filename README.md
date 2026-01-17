@@ -1,3 +1,4 @@
+- [The Design & Implementation of Sprites](https://fly.io/blog/design-and-implementation/) #read#arch#deepdive
 - [Tormentmaxxing 'simple requests'](https://xeiaso.net/notes/2026/tormentmaxxing-simple-requests/) #read#llm
 - [What came first- the CNAME or the A record](https://blog.cloudflare.com/cname-a-record-order-dns-standards/) #read#network
 - [How to write a good spec for AI agents](https://addyosmani.com/blog/good-spec/) #read#llm#guide
