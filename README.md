@@ -1,3 +1,4 @@
+- [从“代码补全”到“全托管 Agent”：我的 2025 AI Coding 进化论 - 白宦成](https://www.ixiqin.com/2026/01/18/from-code-completion-to-fully-managed-agent-my-2025-ai/) #read#llm#agent
 - [A Social Filesystem — overreacted](https://overreacted.io/a-social-filesystem/) #read#distributed#deepdive
 - [My Claude Code Workflow And Personal Tips](https://thegroundtruth.substack.com/p/my-claude-code-workflow-and-personal-tips) #read#llm#guide
 - [Minimal GitHub Workflow - Susam Pal](https://susam.net/minimal-github-workflow.html) #read
