@@ -1,3 +1,4 @@
+- [The Art of Nested Code Fencing in Markdown - Susam Pal](https://susam.net/nested-code-fences.html) #read#tips
 - [LocSend · 局域网极速传文件与消息](https://www.locsend.com/) #tools
 - [I'm addicted to being useful](https://www.seangoedecke.com/addicted-to-being-useful/) #read#career
 - [从“代码补全”到“全托管 Agent”：我的 2025 AI Coding 进化论 - 白宦成](https://www.ixiqin.com/2026/01/18/from-code-completion-to-fully-managed-agent-my-2025-ai/) #read#llm#agent
