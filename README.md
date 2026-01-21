@@ -1,3 +1,4 @@
+- [Giving University Exams in the Age of Chatbots](https://ploum.net/2026-01-19-exam-with-chatbots.html) #read
 - [The Art of Nested Code Fencing in Markdown - Susam Pal](https://susam.net/nested-code-fences.html) #read#tips
 - [LocSend · 局域网极速传文件与消息](https://www.locsend.com/) #tools
 - [I'm addicted to being useful](https://www.seangoedecke.com/addicted-to-being-useful/) #read#career
