@@ -1,3 +1,4 @@
+- [Previewing Claude Code for web branches with GitHub Pages](https://til.simonwillison.net/claude-code/preview-github-pages) #read#tips
 - [SSH has no Host header - exe.dev blog](https://blog.exe.dev/ssh-host-header) #read#hack
 - [The Product-Minded Engineer: The importance of good errors and warnings](https://newsletter.pragmaticengineer.com/p/the-product-minded-engineer) #read#deepdive
 - [Codeless: From idea to software - Anil Dash](https://anildash.com/2026/01/22/codeless/) #read#llm
