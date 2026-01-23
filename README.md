@@ -1,3 +1,4 @@
+- [SSH has no Host header - exe.dev blog](https://blog.exe.dev/ssh-host-header) #read#hack
 - [The Product-Minded Engineer: The importance of good errors and warnings](https://newsletter.pragmaticengineer.com/p/the-product-minded-engineer) #read#deepdive
 - [Codeless: From idea to software - Anil Dash](https://anildash.com/2026/01/22/codeless/) #read#llm
 - [AI-supported vulnerability triage with the GitHub Security Lab Taskflow Agent](https://github.blog/security/ai-supported-vulnerability-triage-with-the-github-security-lab-taskflow-agent/) #read#guide
