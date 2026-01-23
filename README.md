@@ -1,3 +1,4 @@
+- [Why read novels?](https://dynomight.net/novels/) #read
 - [Interfaces and traits in C](https://antonz.org/interfaces-in-c/) #read#c#deepdive
 - [Previewing Claude Code for web branches with GitHub Pages](https://til.simonwillison.net/claude-code/preview-github-pages) #read#tips
 - [SSH has no Host header - exe.dev blog](https://blog.exe.dev/ssh-host-header) #read#hack
