@@ -1,3 +1,4 @@
+- [Interfaces and traits in C](https://antonz.org/interfaces-in-c/) #read#c#deepdive
 - [Previewing Claude Code for web branches with GitHub Pages](https://til.simonwillison.net/claude-code/preview-github-pages) #read#tips
 - [SSH has no Host header - exe.dev blog](https://blog.exe.dev/ssh-host-header) #read#hack
 - [The Product-Minded Engineer: The importance of good errors and warnings](https://newsletter.pragmaticengineer.com/p/the-product-minded-engineer) #read#deepdive
