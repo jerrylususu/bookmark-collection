@@ -1,3 +1,4 @@
+- [Common misunderstandings about large software companies – Vallified](https://philipotoole.com/common-misunderstandings-about-large-software-companies/) #read
 - [Light Mode InFFFFFFlation — Will Richardson](https://willhbr.net/2025/10/20/light-mode-infffffflation/) #read#design
 - [Personal infrastructure setup 2026](https://linderud.dev/blog/personal-infrastructure-setup-2026/) #read
 - [A Few Things About the Anchor Element’s href You Might Not Have Known](https://blog.jim-nielsen.com/2025/href-value-possibilities/) #read#frontend
