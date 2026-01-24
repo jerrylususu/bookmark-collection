@@ -1,3 +1,4 @@
+- [How I estimate work as a staff software engineer](https://www.seangoedecke.com/how-i-estimate-work/) #read#career
 - [Why read novels?](https://dynomight.net/novels/) #read
 - [Interfaces and traits in C](https://antonz.org/interfaces-in-c/) #read#c#deepdive
 - [Previewing Claude Code for web branches with GitHub Pages](https://til.simonwillison.net/claude-code/preview-github-pages) #read#tips
