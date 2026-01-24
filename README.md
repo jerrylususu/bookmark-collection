@@ -1,3 +1,4 @@
+- [Personal infrastructure setup 2026](https://linderud.dev/blog/personal-infrastructure-setup-2026/) #read
 - [A Few Things About the Anchor Element’s href You Might Not Have Known](https://blog.jim-nielsen.com/2025/href-value-possibilities/) #read#frontend
 - [How I estimate work as a staff software engineer](https://www.seangoedecke.com/how-i-estimate-work/) #read#career
 - [Why read novels?](https://dynomight.net/novels/) #read
