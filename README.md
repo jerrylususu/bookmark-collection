@@ -1,3 +1,4 @@
+- [The Value of Things – journal.stuffwithstuff.com](https://journal.stuffwithstuff.com/2026/01/24/the-value-of-things/) #read
 - [Common misunderstandings about large software companies – Vallified](https://philipotoole.com/common-misunderstandings-about-large-software-companies/) #read
 - [Light Mode InFFFFFFlation — Will Richardson](https://willhbr.net/2025/10/20/light-mode-infffffflation/) #read#design
 - [Personal infrastructure setup 2026](https://linderud.dev/blog/personal-infrastructure-setup-2026/) #read
