@@ -1,3 +1,4 @@
+- [the browser is the sandbox](https://aifoc.us/the-browser-is-the-sandbox/) #read#llm#deepdive
 - [You have to know how to drive the car](https://www.seangoedecke.com/knowing-how-to-drive-the-car/) #read#career
 - [The Value of Things – journal.stuffwithstuff.com](https://journal.stuffwithstuff.com/2026/01/24/the-value-of-things/) #read
 - [Common misunderstandings about large software companies – Vallified](https://philipotoole.com/common-misunderstandings-about-large-software-companies/) #read
