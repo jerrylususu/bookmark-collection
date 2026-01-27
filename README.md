@@ -1,3 +1,4 @@
+- [Tips for getting coding agents to write good Python tests](https://simonwillison.net/2026/Jan/26/tests/) #read#llm#guide
 - [State of the Windows: What is going on with Windows 11?](https://ntdotdev.wordpress.com/2026/01/25/state-of-the-windows-what-is-going-on-with-windows-11/) #read
 - [the browser is the sandbox](https://aifoc.us/the-browser-is-the-sandbox/) #read#llm#deepdive
 - [You have to know how to drive the car](https://www.seangoedecke.com/knowing-how-to-drive-the-car/) #read#career
