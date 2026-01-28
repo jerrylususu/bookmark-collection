@@ -1,3 +1,4 @@
+- [One Human + One Agent = One Browser From Scratch](https://emsh.cat/one-human-one-agent-one-browser/) #read#agent
 - [Making niche solutions is the point | nicole@web](/blog/making-niche-solutions-is-the-point/) #read
 - [Tips for getting coding agents to write good Python tests](https://simonwillison.net/2026/Jan/26/tests/) #read#llm#guide
 - [State of the Windows: What is going on with Windows 11?](https://ntdotdev.wordpress.com/2026/01/25/state-of-the-windows-what-is-going-on-with-windows-11/) #read
