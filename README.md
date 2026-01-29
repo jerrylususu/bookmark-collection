@@ -1,3 +1,4 @@
+- [From pixels to characters: The engineering behind GitHub Copilot CLI’s animated ASCII banner](https://github.blog/engineering/from-pixels-to-characters-the-engineering-behind-github-copilot-clis-animated-ascii-banner/) #read#design#deepdive
 - [How to do Parallelization Right with Promise.all](https://dodov.dev/blog/how-to-do-parallelization-right-with-promise-all) #read#tips
 - [Management as AI superpower](https://www.oneusefulthing.org/p/management-as-ai-superpower) #read#llm
 - [One Human + One Agent = One Browser From Scratch](https://emsh.cat/one-human-one-agent-one-browser/) #read#agent
