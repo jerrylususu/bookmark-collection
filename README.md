@@ -1,3 +1,4 @@
+- [Guest Post: How I Scanned all of GitHub’s “Oops Commits” for Leaked Secrets ◆ Truffle Security Co.](https://trufflesecurity.com/blog/guest-post-how-i-scanned-all-of-github-s-oops-commits-for-leaked-secrets) #read#deepdive#security
 - [Selectively Disabling HTTP/1.0 and HTTP/1.1 - Mark McBride](https://markmcb.com/web/selectively_disabling_http_1/) #read#network
 - [How does AI impact skill formation?](https://www.seangoedecke.com/how-does-ai-impact-skill-formation/) #read#llm
 - [Automatic programming - <antirez>](https://antirez.com/news/159) #read#llm
