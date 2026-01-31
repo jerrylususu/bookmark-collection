@@ -1,3 +1,4 @@
+- [Selectively Disabling HTTP/1.0 and HTTP/1.1 - Mark McBride](https://markmcb.com/web/selectively_disabling_http_1/) #read#network
 - [How does AI impact skill formation?](https://www.seangoedecke.com/how-does-ai-impact-skill-formation/) #read#llm
 - [Automatic programming - <antirez>](https://antirez.com/news/159) #read#llm
 - [Some notes on starting to use Django](https://jvns.ca/blog/2026/01/27/some-notes-on-starting-to-use-django/) #read#tips#python
