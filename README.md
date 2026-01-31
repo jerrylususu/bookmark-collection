@@ -1,3 +1,4 @@
+- [Automatic programming - <antirez>](https://antirez.com/news/159) #read#llm
 - [Some notes on starting to use Django](https://jvns.ca/blog/2026/01/27/some-notes-on-starting-to-use-django/) #read#tips#python
 - [We have a Discord now. You can view the Q&A from Google. | Tigris Object Storage](https://www.tigrisdata.com/blog/discord-backfill/) #read
 - [From pixels to characters: The engineering behind GitHub Copilot CLI’s animated ASCII banner](https://github.blog/engineering/from-pixels-to-characters-the-engineering-behind-github-copilot-clis-animated-ascii-banner/) #read#design#deepdive
