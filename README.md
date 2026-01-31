@@ -1,3 +1,4 @@
+- [Teach, Don't Tell / Steve Losh](https://stevelosh.com/blog/2013/09/teach-dont-tell/) #read#deepdive#guide
 - [“You Had One Job”: Why Twenty Years of DevOps Has Failed to Do it](https://www.honeycomb.io/blog/you-had-one-job-why-twenty-years-of-devops-has-failed-to-do-it) #read#devops
 - [My Favorite Self-Hosted Apps Launched in 2025](https://selfh.st/post/2025-favorite-new-apps/) #read
 - [Guest Post: How I Scanned all of GitHub’s “Oops Commits” for Leaked Secrets ◆ Truffle Security Co.](https://trufflesecurity.com/blog/guest-post-how-i-scanned-all-of-github-s-oops-commits-for-leaked-secrets) #read#deepdive#security
