@@ -1,3 +1,4 @@
+- [Pi: The Minimal Agent Within OpenClaw](https://lucumr.pocoo.org/2026/1/31/pi/) #read#llm#agent
 - [Teach, Don't Tell / Steve Losh](https://stevelosh.com/blog/2013/09/teach-dont-tell/) #read#deepdive#guide
 - [“You Had One Job”: Why Twenty Years of DevOps Has Failed to Do it](https://www.honeycomb.io/blog/you-had-one-job-why-twenty-years-of-devops-has-failed-to-do-it) #read#devops
 - [My Favorite Self-Hosted Apps Launched in 2025](https://selfh.st/post/2025-favorite-new-apps/) #read
