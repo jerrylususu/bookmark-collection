@@ -1,3 +1,4 @@
+- [Getting the main thing right](https://www.seangoedecke.com/getting-the-main-thing-right/) #read#career
 - [Remote Book Scanning with 1DollarScan and Optimizing Scanned PDFs](https://hsu.cy/2024/09/1dollarscan/#%E4%B8%8B%E5%8D%95%E6%B5%81%E7%A8%8B) #read#guide
 - [Self-Improving Coding Agents](https://addyosmani.com/blog/self-improving-agents/) #read#llm#agent#deepdive
 - [Pi: The Minimal Agent Within OpenClaw](https://lucumr.pocoo.org/2026/1/31/pi/) #read#llm#agent
