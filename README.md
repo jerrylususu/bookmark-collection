@@ -1,3 +1,4 @@
+- [Claude Code Swarms](https://addyosmani.com/blog/claude-code-agent-teams/) #read#agent#deepdive
 - [My AI Adoption Journey](https://mitchellh.com/writing/my-ai-adoption-journey) #read#llm#agent#deepdive
 - [(Un)portable defer in C](https://antonz.org/defer-in-c/) #read#c
 - [Get all the reactions to your GitHub content using GraphQL](https://shkspr.mobi/blog/2026/02/get-all-the-reactions-to-your-github-content-using-graphql/) #read#hack
