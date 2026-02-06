@@ -1,3 +1,4 @@
+- [My AI Adoption Journey](https://mitchellh.com/writing/my-ai-adoption-journey) #read#llm#agent#deepdive
 - [(Un)portable defer in C](https://antonz.org/defer-in-c/) #read#c
 - [Get all the reactions to your GitHub content using GraphQL](https://shkspr.mobi/blog/2026/02/get-all-the-reactions-to-your-github-content-using-graphql/) #read#hack
 - [Distributing Go binaries like sqlite-scanner through PyPI using go-to-wheel](https://simonwillison.net/2026/Feb/4/distributing-go-binaries/) #read#tips
