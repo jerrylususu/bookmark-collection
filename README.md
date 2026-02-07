@@ -1,3 +1,4 @@
+- [10 个 NotebookLM 专家级高质量提示词 - 小众软件](https://www.appinn.com/notebooklm-prompts-10/) #read#llm#tips
 - [Claude Code Swarms](https://addyosmani.com/blog/claude-code-agent-teams/) #read#agent#deepdive
 - [My AI Adoption Journey](https://mitchellh.com/writing/my-ai-adoption-journey) #read#llm#agent#deepdive
 - [(Un)portable defer in C](https://antonz.org/defer-in-c/) #read#c
