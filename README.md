@@ -1,3 +1,4 @@
+- [Your Job Isn't Disappearing. It's Shrinking Around You in Real Time](https://newsletter.jantegze.com/p/your-job-isnt-disappearing-its-shrinking) #read#career
 - [Microsoft Has Killed Widgets Six Times. Here's Why They Keep Coming Back.](https://xakpc.dev/windows-widgets/history/) #read#ui#design#history#deepdive
 - [Building a full-text search engine in 150 lines of Python code](https://bart.degoe.de/building-a-full-text-search-engine-150-lines-of-code/) #read#deepdive
 - [Lessons Learned Shipping 500 Units of my First Hardware Product](https://www.simonberens.com/p/lessons-learned-shipping-500-units) #read
