@@ -1,3 +1,4 @@
+- [crawshaw - 2026-02-08](https://crawshaw.io/blog/eight-more-months-of-agents) #read
 - [Large tech companies don't need heroes](https://www.seangoedecke.com/heroism/) #read#career
 - [Your Job Isn't Disappearing. It's Shrinking Around You in Real Time](https://newsletter.jantegze.com/p/your-job-isnt-disappearing-its-shrinking) #read#career
 - [Microsoft Has Killed Widgets Six Times. Here's Why They Keep Coming Back.](https://xakpc.dev/windows-widgets/history/) #read#ui#design#history#deepdive
