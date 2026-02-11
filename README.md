@@ -1,3 +1,4 @@
+- [On screwing up](https://www.seangoedecke.com/screwing-up/) #read#career
 - [A Language For Agents](https://lucumr.pocoo.org/2026/2/9/a-language-for-agents/) #read#llm#agent
 - [crawshaw - 2026-02-08](https://crawshaw.io/blog/eight-more-months-of-agents) #read
 - [Large tech companies don't need heroes](https://www.seangoedecke.com/heroism/) #read#career
