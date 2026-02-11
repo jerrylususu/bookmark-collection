@@ -1,3 +1,4 @@
+- [Introducing Showboat and Rodney, so agents can demo what they’ve built](https://simonwillison.net/2026/Feb/10/showboat-and-rodney/) #read#agent
 - [Humanity's last programming language](https://xeiaso.net/blog/2026/markdownlang/) #read#llm
 - [On screwing up](https://www.seangoedecke.com/screwing-up/) #read#career
 - [A Language For Agents](https://lucumr.pocoo.org/2026/2/9/a-language-for-agents/) #read#llm#agent
