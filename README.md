@@ -1,3 +1,4 @@
+- [Coding agents as the new compilers - Anil Dash](https://anildash.com/2026/02/11/coding-agents-as-the-new-compilers/) #read#agent
 - [Introducing Showboat and Rodney, so agents can demo what they’ve built](https://simonwillison.net/2026/Feb/10/showboat-and-rodney/) #read#agent
 - [Humanity's last programming language](https://xeiaso.net/blog/2026/markdownlang/) #read#llm
 - [On screwing up](https://www.seangoedecke.com/screwing-up/) #read#career
