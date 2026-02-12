@@ -1,3 +1,4 @@
+- [charles leifer | cysqlite - a new sqlite driver](https://charlesleifer.com/blog/cysqlite---a-new-sqlite-driver/) #read#python
 - [Skills in OpenAI API](https://developers.openai.com/cookbook/examples/skills_in_api/) #read#agent
 - [Coding agents as the new compilers - Anil Dash](https://anildash.com/2026/02/11/coding-agents-as-the-new-compilers/) #read#agent
 - [Introducing Showboat and Rodney, so agents can demo what they’ve built](https://simonwillison.net/2026/Feb/10/showboat-and-rodney/) #read#agent
