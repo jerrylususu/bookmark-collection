@@ -1,3 +1,4 @@
+- [The Discourse has been Automated](https://xeiaso.net/notes/2026/the-discourse-has-been-automated/) #read
 - [Shedding old code with ecdysis: graceful restarts for Rust services at Cloudflare](https://blog.cloudflare.com/ecdysis-rust-graceful-restarts/) #read#network
 - [ReMemory - Split a secret among people you trust](https://eljojo.github.io/rememory/index.html) #tools
 - [charles leifer | cysqlite - a new sqlite driver](https://charlesleifer.com/blog/cysqlite---a-new-sqlite-driver/) #read#python
