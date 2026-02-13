@@ -1,3 +1,4 @@
+- [mist: Share and edit Markdown together, quickly (new tool)](https://interconnected.org/home/2026/02/12/mist) #read#tools
 - [The Discourse has been Automated](https://xeiaso.net/notes/2026/the-discourse-has-been-automated/) #read
 - [Shedding old code with ecdysis: graceful restarts for Rust services at Cloudflare](https://blog.cloudflare.com/ecdysis-rust-graceful-restarts/) #read#network
 - [ReMemory - Split a secret among people you trust](https://eljojo.github.io/rememory/index.html) #tools
