@@ -1,3 +1,4 @@
+- [OpenClaw深度分析：为什么突然就火了，以及对我们意味着什么](https://grapeot.me/openclaw.html) #read#agent#deepdive
 - [Two different tricks for fast LLM inference](https://www.seangoedecke.com/fast-llm-inference/) #read#llm
 - [mist: Share and edit Markdown together, quickly (new tool)](https://interconnected.org/home/2026/02/12/mist) #read#tools
 - [The Discourse has been Automated](https://xeiaso.net/notes/2026/the-discourse-has-been-automated/) #read
