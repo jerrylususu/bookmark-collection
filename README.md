@@ -1,3 +1,4 @@
+- [The AI Vampire](https://steve-yegge.medium.com/the-ai-vampire-eda6e4f07163) #read
 - [Bias Toward Action](https://addyosmani.com/blog/bias-towards-action/) #read#devops
 - [Gwtar: a static efficient single-file HTML format](https://gwern.net/gwtar) #tools#deepdive#web
 - [How Generative and Agentic AI Shift Concern from Technical Debt to Cognitive Debt](http://margaretstorey.com/blog/2026/02/09/cognitive-debt/) #read
