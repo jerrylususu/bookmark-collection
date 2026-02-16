@@ -1,3 +1,4 @@
+- [Bias Toward Action](https://addyosmani.com/blog/bias-towards-action/) #read#devops
 - [Gwtar: a static efficient single-file HTML format](https://gwern.net/gwtar) #tools#deepdive#web
 - [How Generative and Agentic AI Shift Concern from Technical Debt to Cognitive Debt](http://margaretstorey.com/blog/2026/02/09/cognitive-debt/) #read
 - [设计数据密集型应用（第二版）](http://ddia.vonng.com/) #book
