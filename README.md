@@ -1,3 +1,4 @@
+- [LLM-generated skills work, if you generate them afterwards](https://www.seangoedecke.com/generate-skills-afterwards/) #read#llm
 - [Deep Blue](https://simonwillison.net/2026/Feb/15/deep-blue/) #read
 - [The AI Vampire](https://steve-yegge.medium.com/the-ai-vampire-eda6e4f07163) #read
 - [Bias Toward Action](https://addyosmani.com/blog/bias-towards-action/) #read#devops
