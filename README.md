@@ -1,3 +1,4 @@
+- [The First 10-Year Evolution of Stripe’s Payments API](https://blog.bytebytego.com/p/the-first-10-year-evolution-of-stripes) #read#api#deepdive
 - [bliki: Open Space](https://martinfowler.com/bliki/OpenSpace.html) #read
 - [Fragments: February 18](https://martinfowler.com/fragments/2026-02-18.html) #read
 - [Notes on clarifying man pages](https://jvns.ca/blog/2026/02/18/man-pages/) #read
