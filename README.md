@@ -1,3 +1,4 @@
+- [bliki: Open Space](https://martinfowler.com/bliki/OpenSpace.html) #read
 - [Fragments: February 18](https://martinfowler.com/fragments/2026-02-18.html) #read
 - [Notes on clarifying man pages](https://jvns.ca/blog/2026/02/18/man-pages/) #read
 - [Snowsky Echo Mini 固件逆向背后的故事](https://roriri.one/2026/02/02/echo-mini-sre) #read#agent#llm#deepdive
