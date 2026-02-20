@@ -1,3 +1,4 @@
+- [Notes on clarifying man pages](https://jvns.ca/blog/2026/02/18/man-pages/) #read
 - [Snowsky Echo Mini 固件逆向背后的故事](https://roriri.one/2026/02/02/echo-mini-sre) #read#agent#llm#deepdive
 - [LLM-generated skills work, if you generate them afterwards](https://www.seangoedecke.com/generate-skills-afterwards/) #read#llm
 - [Deep Blue](https://simonwillison.net/2026/Feb/15/deep-blue/) #read
