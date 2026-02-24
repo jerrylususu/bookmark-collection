@@ -1,3 +1,4 @@
+- [我的退休计划：把无期变成有期](https://www.bmpi.dev/self/my-retirement-plan/) #read#money
 - [CLAUDE.md: Best Practices Learned from Optimizing Claude Code with Prompt Learning](https://arize.com/blog/claude-md-best-practices-learned-from-optimizing-claude-code-with-prompt-learning/) #read#agent
 - [Stop Using /init for AGENTS.md](https://addyosmani.com/blog/agents-md/) #read#llm#agent#tips
 - [We hid backdoors in ~40MB binaries and asked AI + Ghidra to find them - Quesma Blog](https://quesma.com/blog/introducing-binaryaudit/) #read#agent#security
