@@ -1,3 +1,4 @@
+- [Binding port 0 to avoid port collisions | nicole@web](/blog/binding-ephemeral-port/) #tips
 - [Writing about Agentic Engineering Patterns](https://simonwillison.net/2026/Feb/23/agentic-engineering-patterns/) #read#agent#books
 - [以一个简单任务为例看AI落地的关键决策](./ai-key-decisions.html) #read#llm#agent
 - [The First 10-Year Evolution of Stripe’s Payments API](https://blog.bytebytego.com/p/the-first-10-year-evolution-of-stripes) #read#api#deepdive
