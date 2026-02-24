@@ -1,3 +1,4 @@
+- [We hid backdoors in ~40MB binaries and asked AI + Ghidra to find them - Quesma Blog](https://quesma.com/blog/introducing-binaryaudit/) #read#agent#security
 - [What's so hard about continuous learning?](https://www.seangoedecke.com/continuous-learning/) #read#llm
 - [Binding port 0 to avoid port collisions | nicole@web](/blog/binding-ephemeral-port/) #tips
 - [Writing about Agentic Engineering Patterns](https://simonwillison.net/2026/Feb/23/agentic-engineering-patterns/) #read#agent#books
