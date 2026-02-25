@@ -1,3 +1,4 @@
+- [How we rebuilt Next.js with AI in one week](https://blog.cloudflare.com/vinext/) #read#agent#deepdive
 - [Linear walkthroughs - Agentic Engineering Patterns - Simon Willison's Weblog](https://simonwillison.net/guides/agentic-engineering-patterns/linear-walkthroughs/) #read#agent#tips
 - [家庭网络环境改造](https://plumz.me/archives/14348/) #read
 - [Some Silly Z3 Scripts I Wrote](https://www.hillelwayne.com/post/z3-examples/) #read
