@@ -1,3 +1,4 @@
+- [家庭网络环境改造](https://plumz.me/archives/14348/) #read
 - [Some Silly Z3 Scripts I Wrote](https://www.hillelwayne.com/post/z3-examples/) #read
 - [Do AI models still keep getting better, or have they plateaued?](https://optimizedbyotto.com/post/ai-models-plateaued-or-not/) #read#llm#eval
 - [我的退休计划：把无期变成有期](https://www.bmpi.dev/self/my-retirement-plan/) #read#money
