@@ -1,3 +1,4 @@
+- [Implementing a clear room Z80 / ZX Spectrum emulator with Claude Code - <antirez>](https://antirez.com/news/160) #read#agent#deepdive
 - [How we rebuilt Next.js with AI in one week](https://blog.cloudflare.com/vinext/) #read#agent#deepdive
 - [Linear walkthroughs - Agentic Engineering Patterns - Simon Willison's Weblog](https://simonwillison.net/guides/agentic-engineering-patterns/linear-walkthroughs/) #read#agent#tips
 - [家庭网络环境改造](https://plumz.me/archives/14348/) #read
