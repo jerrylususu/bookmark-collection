@@ -1,3 +1,4 @@
+- [在 AI 的帮助下，给自己建了个数字人生档案馆 - 少数派](https://sspai.com/post/106401) #read
 - [Implementing a clear room Z80 / ZX Spectrum emulator with Claude Code - <antirez>](https://antirez.com/news/160) #read#agent#deepdive
 - [How we rebuilt Next.js with AI in one week](https://blog.cloudflare.com/vinext/) #read#agent#deepdive
 - [Linear walkthroughs - Agentic Engineering Patterns - Simon Willison's Weblog](https://simonwillison.net/guides/agentic-engineering-patterns/linear-walkthroughs/) #read#agent#tips
