@@ -1,3 +1,4 @@
+- [Linear walkthroughs - Agentic Engineering Patterns - Simon Willison's Weblog](https://simonwillison.net/guides/agentic-engineering-patterns/linear-walkthroughs/) #read#agent#tips
 - [家庭网络环境改造](https://plumz.me/archives/14348/) #read
 - [Some Silly Z3 Scripts I Wrote](https://www.hillelwayne.com/post/z3-examples/) #read
 - [Do AI models still keep getting better, or have they plateaued?](https://optimizedbyotto.com/post/ai-models-plateaued-or-not/) #read#llm#eval
