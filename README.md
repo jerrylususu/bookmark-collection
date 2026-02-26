@@ -1,3 +1,4 @@
+- [Software companies buying software: a story of ecosystems and vendors](https://erikbern.com/2026/02/25/software-companies-buying-software-from-software-companies.html) #read
 - [The Factory Model: How Coding Agents Changed Software Engineering](https://addyosmani.com/blog/factory-model/) #read#agent
 - [在 AI 的帮助下，给自己建了个数字人生档案馆 - 少数派](https://sspai.com/post/106401) #read
 - [Implementing a clear room Z80 / ZX Spectrum emulator with Claude Code - <antirez>](https://antirez.com/news/160) #read#agent#deepdive
