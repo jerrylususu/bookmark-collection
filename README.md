@@ -1,3 +1,4 @@
+- [Google API Keys Weren't Secrets. But then Gemini Changed the Rules. ◆ Truffle Security Co.](https://trufflesecurity.com/blog/google-api-keys-werent-secrets-but-then-gemini-changed-the-rules) #read#security
 - [The Engine Behind the Hype](https://www.onuruzunismail.com/blog/the-engine-behind-the-hype) #read#agent
 - [Rolling your own serverless OCR in 40 lines of code | Christopher Krapu](https://ckrapu.github.io/blog/2026/ocr-textbooks-modal-deepseek/) #read#guide
 - [Whale Fall](https://nesbitt.io/2026/02/21/whale-fall.html) #read
