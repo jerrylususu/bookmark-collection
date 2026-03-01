@@ -1,3 +1,4 @@
+- [Whale Fall](https://nesbitt.io/2026/02/21/whale-fall.html) #read
 - [An AI agent coding skeptic tries AI agent coding, in excessive detail](https://minimaxir.com/2026/02/ai-agent-coding/) #read#agent#deepdive
 - [The most-seen UI on the Internet? Redesigning Turnstile and Challenge Pages](https://blog.cloudflare.com/the-most-seen-ui-on-the-internet-redesigning-turnstile-and-challenge-pages/) #read#design
 - [We deserve a better streams API for JavaScript](https://blog.cloudflare.com/a-better-web-streams-api/) #read#deepdive#frontend#api
