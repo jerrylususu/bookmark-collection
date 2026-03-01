@@ -1,3 +1,4 @@
+- [The most-seen UI on the Internet? Redesigning Turnstile and Challenge Pages](https://blog.cloudflare.com/the-most-seen-ui-on-the-internet-redesigning-turnstile-and-challenge-pages/) #read#design
 - [We deserve a better streams API for JavaScript](https://blog.cloudflare.com/a-better-web-streams-api/) #read#deepdive#frontend#api
 - [Interactive explanations - Agentic Engineering Patterns - Simon Willison's Weblog](https://simonwillison.net/guides/agentic-engineering-patterns/interactive-explanations/) #read#tips
 - [Hoard things you know how to do - Agentic Engineering Patterns - Simon Willison's Weblog](https://simonwillison.net/guides/agentic-engineering-patterns/hoard-things-you-know-how-to-do/) #read#agent#tips
