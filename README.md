@@ -1,3 +1,4 @@
+- [We deserve a better streams API for JavaScript](https://blog.cloudflare.com/a-better-web-streams-api/) #read#deepdive#frontend#api
 - [Interactive explanations - Agentic Engineering Patterns - Simon Willison's Weblog](https://simonwillison.net/guides/agentic-engineering-patterns/interactive-explanations/) #read#tips
 - [Hoard things you know how to do - Agentic Engineering Patterns - Simon Willison's Weblog](https://simonwillison.net/guides/agentic-engineering-patterns/hoard-things-you-know-how-to-do/) #read#agent#tips
 - [Software companies buying software: a story of ecosystems and vendors](https://erikbern.com/2026/02/25/software-companies-buying-software-from-software-companies.html) #read
