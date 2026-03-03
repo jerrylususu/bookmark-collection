@@ -1,3 +1,4 @@
+- [GIF optimization tool using WebAssembly and Gifsicle - Agentic Engineering Patterns](https://simonwillison.net/guides/agentic-engineering-patterns/gif-optimization/) #read#agent
 - [用好AI的第一步：停止使用ChatGPT](./stop-using-chatgpt.html) #read#agent
 - [Google API Keys Weren't Secrets. But then Gemini Changed the Rules. ◆ Truffle Security Co.](https://trufflesecurity.com/blog/google-api-keys-werent-secrets-but-then-gemini-changed-the-rules) #read#security
 - [The Engine Behind the Hype](https://www.onuruzunismail.com/blog/the-engine-behind-the-hype) #read#agent
