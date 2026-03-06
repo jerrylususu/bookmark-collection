@@ -1,3 +1,4 @@
+- [2026 年，我把自己做成了一个 AI](https://luolei.org/luolei-ai) #read#llm
 - [Cognitive Debt: When Velocity Exceeds Comprehension | rockoder](https://www.rockoder.com/beyondthecode/cognitive-debt-when-velocity-exceeds-comprehension/) #read#career
 - [AI=true is an Anti-Pattern](https://keleshev.com/ai-equals-true-is-an-anti-pattern) #read
 - [QRTape | Audio Playback from Paper Tape with Computer Vision](http://www.theresistornetwork.com/2021/03/qrtape-audio-playback-from-paper-tape.html) #read
