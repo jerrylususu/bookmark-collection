@@ -1,3 +1,4 @@
+- [你大概不会想用 LLM 做数据分析](https://roriri.one/2026/03/05/llm-stat) #read#llm
 - [Can coding agents relicense open source through a “clean room” implementation of code?](https://simonwillison.net/2026/Mar/5/chardet/) #read
 - [Clinejection — Compromising Cline's Production Releases just by Prompting an Issue Triager | Adnan Khan - Security Research](https://adnanthekhan.com/posts/clinejection/) #read#security
 - [Agentic manual testing - Agentic Engineering Patterns](https://simonwillison.net/guides/agentic-engineering-patterns/agentic-manual-testing/) #read#agent#tips
