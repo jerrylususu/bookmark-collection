@@ -1,3 +1,4 @@
+- [QRTape | Audio Playback from Paper Tape with Computer Vision](http://www.theresistornetwork.com/2021/03/qrtape-audio-playback-from-paper-tape.html) #read
 - [AI And The Ship of Theseus](https://lucumr.pocoo.org/2026/3/5/theseus/) #read
 - [你大概不会想用 LLM 做数据分析](https://roriri.one/2026/03/05/llm-stat) #read#llm
 - [Can coding agents relicense open source through a “clean room” implementation of code?](https://simonwillison.net/2026/Mar/5/chardet/) #read
