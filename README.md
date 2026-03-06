@@ -1,3 +1,4 @@
+- [AI=true is an Anti-Pattern](https://keleshev.com/ai-equals-true-is-an-anti-pattern) #read
 - [QRTape | Audio Playback from Paper Tape with Computer Vision](http://www.theresistornetwork.com/2021/03/qrtape-audio-playback-from-paper-tape.html) #read
 - [AI And The Ship of Theseus](https://lucumr.pocoo.org/2026/3/5/theseus/) #read
 - [你大概不会想用 LLM 做数据分析](https://roriri.one/2026/03/05/llm-stat) #read#llm
