@@ -1,3 +1,4 @@
+- [Agentic manual testing - Agentic Engineering Patterns](https://simonwillison.net/guides/agentic-engineering-patterns/agentic-manual-testing/) #read#agent#tips
 - [I don't know if my job will still exist in ten years](https://www.seangoedecke.com/will-my-job-still-exist/) #read
 - [My Media Diet, Redux](https://hsu.cy/2026/03/fluctuat/) #read
 - [GIF optimization tool using WebAssembly and Gifsicle - Agentic Engineering Patterns](https://simonwillison.net/guides/agentic-engineering-patterns/gif-optimization/) #read#agent
