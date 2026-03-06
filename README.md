@@ -1,3 +1,4 @@
+- [I don't know if my job will still exist in ten years](https://www.seangoedecke.com/will-my-job-still-exist/) #read
 - [My Media Diet, Redux](https://hsu.cy/2026/03/fluctuat/) #read
 - [GIF optimization tool using WebAssembly and Gifsicle - Agentic Engineering Patterns](https://simonwillison.net/guides/agentic-engineering-patterns/gif-optimization/) #read#agent
 - [用好AI的第一步：停止使用ChatGPT](./stop-using-chatgpt.html) #read#agent
