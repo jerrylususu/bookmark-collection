@@ -1,3 +1,4 @@
+- [Clinejection — Compromising Cline's Production Releases just by Prompting an Issue Triager | Adnan Khan - Security Research](https://adnanthekhan.com/posts/clinejection/) #read#security
 - [Agentic manual testing - Agentic Engineering Patterns](https://simonwillison.net/guides/agentic-engineering-patterns/agentic-manual-testing/) #read#agent#tips
 - [I don't know if my job will still exist in ten years](https://www.seangoedecke.com/will-my-job-still-exist/) #read
 - [My Media Diet, Redux](https://hsu.cy/2026/03/fluctuat/) #read
