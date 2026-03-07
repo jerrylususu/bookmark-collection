@@ -1,3 +1,4 @@
+- [Avoiding a Culture of Emergencies](https://staysaasy.com/management/2026/03/06/avoiding-a-culture-of-emergencies.html) #read#career
 - [Disable Your SSH Access With This One Simple Trick](https://sny.sh/hypha/blog/scp) #read#tips
 - [2026 年，我把自己做成了一个 AI](https://luolei.org/luolei-ai) #read#llm
 - [Cognitive Debt: When Velocity Exceeds Comprehension | rockoder](https://www.rockoder.com/beyondthecode/cognitive-debt-when-velocity-exceeds-comprehension/) #read#career
