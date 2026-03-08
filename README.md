@@ -1,3 +1,4 @@
+- [The MCP Abstraction Tax](https://justin.poehnelt.com/posts/mcp-abstraction-tax/) #read#agent
 - [You Need to Rewrite Your CLI for AI Agents](https://justin.poehnelt.com/posts/rewrite-your-cli-for-ai-agents/) #read#agent#deepdive
 - [Avoiding a Culture of Emergencies](https://staysaasy.com/management/2026/03/06/avoiding-a-culture-of-emergencies.html) #read#career
 - [Disable Your SSH Access With This One Simple Trick](https://sny.sh/hypha/blog/scp) #read#tips
