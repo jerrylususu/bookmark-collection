@@ -1,3 +1,4 @@
+- [Let yourself fall down more | nicole@web](/blog/let-yourself-fall-down-more/) #read
 - [How I Dropped Our Production Database and Now Pay 10% More for AWS](https://alexeyondata.substack.com/p/how-i-dropped-our-production-database) #read
 - [GNU and the AI reimplementations - <antirez>](https://antirez.com/news/162) #read
 - [The MCP Abstraction Tax](https://justin.poehnelt.com/posts/mcp-abstraction-tax/) #read#agent
