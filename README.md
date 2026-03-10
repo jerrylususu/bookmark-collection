@@ -1,3 +1,4 @@
+- [Production query plans without production data](https://boringsql.com/posts/portable-stats/) #read#database
 - [Let yourself fall down more | nicole@web](/blog/let-yourself-fall-down-more/) #read
 - [How I Dropped Our Production Database and Now Pay 10% More for AWS](https://alexeyondata.substack.com/p/how-i-dropped-our-production-database) #read
 - [GNU and the AI reimplementations - <antirez>](https://antirez.com/news/162) #read
