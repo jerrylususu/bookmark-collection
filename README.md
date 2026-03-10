@@ -1,3 +1,4 @@
+- [年度征文｜「你是专家」这句话，到底是在帮 AI 还是在害你？ - 少数派](https://sspai.com/post/106710) #read#llm
 - [Package managers keep using git as a database, it never works out](https://nesbitt.io/2025/12/24/package-managers-keep-using-git-as-a-database.html) #read
 - [Production query plans without production data](https://boringsql.com/posts/portable-stats/) #read#database
 - [Let yourself fall down more | nicole@web](/blog/let-yourself-fall-down-more/) #read
