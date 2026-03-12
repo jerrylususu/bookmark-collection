@@ -1,3 +1,4 @@
+- [你不知道的 Claude Code：架构、治理与工程实践 - Tw93](https://tw93.fun/2026-03-12/claude.html) #read#agent#deepdive#guide
 - [AI should help us produce better code - Agentic Engineering Patterns](https://simonwillison.net/guides/agentic-engineering-patterns/better-code/) #read#agent#tips
 - [年度征文｜「你是专家」这句话，到底是在帮 AI 还是在害你？ - 少数派](https://sspai.com/post/106710) #read#llm
 - [Package managers keep using git as a database, it never works out](https://nesbitt.io/2025/12/24/package-managers-keep-using-git-as-a-database.html) #read
