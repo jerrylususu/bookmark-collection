@@ -1,3 +1,4 @@
+- [Management In The Age Of AI](https://staysaasy.com/management/2026/03/12/ai-management.html) #read#career
 - [你不知道的 Claude Code：架构、治理与工程实践 - Tw93](https://tw93.fun/2026-03-12/claude.html) #read#agent#deepdive#guide
 - [AI should help us produce better code - Agentic Engineering Patterns](https://simonwillison.net/guides/agentic-engineering-patterns/better-code/) #read#agent#tips
 - [年度征文｜「你是专家」这句话，到底是在帮 AI 还是在害你？ - 少数派](https://sspai.com/post/106710) #read#llm
