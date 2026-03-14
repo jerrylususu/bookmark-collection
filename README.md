@@ -1,3 +1,4 @@
+- [Big tech engineers need big egos](https://www.seangoedecke.com/big-tech-needs-big-egos/) #read#career
 - [Management In The Age Of AI](https://staysaasy.com/management/2026/03/12/ai-management.html) #read#career
 - [你不知道的 Claude Code：架构、治理与工程实践 - Tw93](https://tw93.fun/2026-03-12/claude.html) #read#agent#deepdive#guide
 - [AI should help us produce better code - Agentic Engineering Patterns](https://simonwillison.net/guides/agentic-engineering-patterns/better-code/) #read#agent#tips
