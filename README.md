@@ -1,3 +1,4 @@
+- [My fireside chat about agentic engineering at the Pragmatic Summit](https://simonwillison.net/2026/Mar/14/pragmatic-summit/) #read#agent
 - [Big tech engineers need big egos](https://www.seangoedecke.com/big-tech-needs-big-egos/) #read#career
 - [Management In The Age Of AI](https://staysaasy.com/management/2026/03/12/ai-management.html) #read#career
 - [你不知道的 Claude Code：架构、治理与工程实践 - Tw93](https://tw93.fun/2026-03-12/claude.html) #read#agent#deepdive#guide
