@@ -1,3 +1,4 @@
+- [How Can Governments Pay Open Source Maintainers?](https://shkspr.mobi/blog/2026/03/how-can-governments-pay-open-source-maintainers/) #read
 - [My fireside chat about agentic engineering at the Pragmatic Summit](https://simonwillison.net/2026/Mar/14/pragmatic-summit/) #read#agent
 - [Big tech engineers need big egos](https://www.seangoedecke.com/big-tech-needs-big-egos/) #read#career
 - [Management In The Age Of AI](https://staysaasy.com/management/2026/03/12/ai-management.html) #read#career
