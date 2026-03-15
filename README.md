@@ -1,3 +1,4 @@
+- [Comprehension Debt — the hidden cost of AI generated code.](https://addyosmani.com/blog/comprehension-debt/) #read#agent
 - [Write tests to solve trust issues, not code coverage](https://dodov.dev/blog/write-tests-to-solve-trust-issues-not-code-coverage) #read
 - [How Can Governments Pay Open Source Maintainers?](https://shkspr.mobi/blog/2026/03/how-can-governments-pay-open-source-maintainers/) #read
 - [My fireside chat about agentic engineering at the Pragmatic Summit](https://simonwillison.net/2026/Mar/14/pragmatic-summit/) #read#agent
