@@ -1,3 +1,4 @@
+- [为什么AI只会说正确的废话，以及怎么把它逼出舒适区](./context-infrastructure.html) #read#agent
 - [Comprehension Debt — the hidden cost of AI generated code.](https://addyosmani.com/blog/comprehension-debt/) #read#agent
 - [Write tests to solve trust issues, not code coverage](https://dodov.dev/blog/write-tests-to-solve-trust-issues-not-code-coverage) #read
 - [How Can Governments Pay Open Source Maintainers?](https://shkspr.mobi/blog/2026/03/how-can-governments-pay-open-source-maintainers/) #read
