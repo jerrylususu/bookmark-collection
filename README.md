@@ -1,3 +1,4 @@
+- [Minions: Stripe’s one-shot, end-to-end coding agents—Part 2](https://stripe.dev/blog/minions-stripes-one-shot-end-to-end-coding-agents-part-2) #read#agent
 - [Minions: Stripe’s one-shot, end-to-end coding agents](https://stripe.dev/blog/minions-stripes-one-shot-end-to-end-coding-agents) #read#agent
 - [为什么AI只会说正确的废话，以及怎么把它逼出舒适区](./context-infrastructure.html) #read#agent
 - [Comprehension Debt — the hidden cost of AI generated code.](https://addyosmani.com/blog/comprehension-debt/) #read#agent
