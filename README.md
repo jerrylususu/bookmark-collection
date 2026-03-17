@@ -1,3 +1,4 @@
+- [When AI Writes the World's Software, Who Verifies It? — Leonardo de Moura](https://leodemoura.github.io/blog/2026-2-28-when-ai-writes-the-worlds-software-who-verifies-it/) #read#security
 - [Minions: Stripe’s one-shot, end-to-end coding agents—Part 2](https://stripe.dev/blog/minions-stripes-one-shot-end-to-end-coding-agents-part-2) #read#agent
 - [Minions: Stripe’s one-shot, end-to-end coding agents](https://stripe.dev/blog/minions-stripes-one-shot-end-to-end-coding-agents) #read#agent
 - [为什么AI只会说正确的废话，以及怎么把它逼出舒适区](./context-infrastructure.html) #read#agent
