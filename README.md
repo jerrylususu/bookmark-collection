@@ -1,3 +1,4 @@
+- [引言: 高质量交付 100x 生产力 · AgentZones Playbook](https://lipingtababa.github.io/harness-engineering-playbook/) #read#book#agent
 - [Every layer of review makes you 10x slower](https://apenwarr.ca/log/20260316) #read#agent
 - [When AI Writes the World's Software, Who Verifies It? — Leonardo de Moura](https://leodemoura.github.io/blog/2026-2-28-when-ai-writes-the-worlds-software-who-verifies-it/) #read#security
 - [Minions: Stripe’s one-shot, end-to-end coding agents—Part 2](https://stripe.dev/blog/minions-stripes-one-shot-end-to-end-coding-agents-part-2) #read#agent
