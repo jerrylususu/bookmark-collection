@@ -1,3 +1,4 @@
+- [I Ditched Elasticsearch for Meilisearch. Here's What Nobody Tells You.](https://anisafifi.com/blog/i-ditched-elasticsearch-for-meilisearch-heres-what-nobody-tells-you/) #read#db
 - [AI-Native 工程师招聘面试官手册](https://vorojar.github.io/ai-native-hiring-guide/) #read#agent
 - [引言: 高质量交付 100x 生产力 · AgentZones Playbook](https://lipingtababa.github.io/harness-engineering-playbook/) #read#book#agent
 - [Every layer of review makes you 10x slower](https://apenwarr.ca/log/20260316) #read#agent
