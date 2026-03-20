@@ -1,3 +1,4 @@
+- [AprilNEA - Full Stack Engineer](https://aprilnea.me/zh/blog/reverse-engineering-claude-code-antspace) #read#agent#deepdive
 - [Can LLMs Be Computers? | Percepta](https://percepta.ai/blog/can-llms-be-computers) #read#llm
 - [信息过载时代，我的漏斗式阅读工作流](https://shawnxie.top/blogs/tools/read-flow-2026.html#%E7%BB%93%E8%AF%AD) #read
 - [The programmers who live in Flatland](https://blog.redplanetlabs.com/2025/11/24/the-programmers-who-live-in-flatland/) #read
