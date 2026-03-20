@@ -1,3 +1,4 @@
+- [The programmers who live in Flatland](https://blog.redplanetlabs.com/2025/11/24/the-programmers-who-live-in-flatland/) #read
 - [The Plumbing of Everyday Magic](https://plumbing-of-everyday-magic.hyperclay.com/) #read
 - [I Ditched Elasticsearch for Meilisearch. Here's What Nobody Tells You.](https://anisafifi.com/blog/i-ditched-elasticsearch-for-meilisearch-heres-what-nobody-tells-you/) #read#db
 - [AI-Native 工程师招聘面试官手册](https://vorojar.github.io/ai-native-hiring-guide/) #read#agent
