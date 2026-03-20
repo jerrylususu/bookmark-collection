@@ -1,3 +1,4 @@
+- [信息过载时代，我的漏斗式阅读工作流](https://shawnxie.top/blogs/tools/read-flow-2026.html#%E7%BB%93%E8%AF%AD) #read
 - [The programmers who live in Flatland](https://blog.redplanetlabs.com/2025/11/24/the-programmers-who-live-in-flatland/) #read
 - [The Plumbing of Everyday Magic](https://plumbing-of-everyday-magic.hyperclay.com/) #read
 - [I Ditched Elasticsearch for Meilisearch. Here's What Nobody Tells You.](https://anisafifi.com/blog/i-ditched-elasticsearch-for-meilisearch-heres-what-nobody-tells-you/) #read#db
