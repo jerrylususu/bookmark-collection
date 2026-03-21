@@ -1,3 +1,4 @@
+- [The bespoke software revolution? I'm not buying it.](https://world.hey.com/jason/the-bespoke-software-revolution-i-m-not-buying-it-4bfad9ec) #read
 - [深度解析：Claude Code /insights 命令的运作机制](https://baoyu.io/translations/2026/02/05/claude-code-insights-command) #read#agent#deepdive
 - [A sufficiently detailed spec is code](https://haskellforall.com/2026/03/a-sufficiently-detailed-spec-is-code) #read#agent
 - [AprilNEA - Full Stack Engineer](https://aprilnea.me/zh/blog/reverse-engineering-claude-code-antspace) #read#agent#deepdive
