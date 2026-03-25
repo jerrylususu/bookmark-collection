@@ -1,3 +1,4 @@
+- [Package Managers Need to Cool Down](https://nesbitt.io/2026/03/04/package-managers-need-to-cool-down.html) #read#security
 - [Some Things Just Take Time](https://lucumr.pocoo.org/2026/3/20/some-things-just-take-time/) #read
 - [Agent Experience 导论](https://roriri.one/2026/03/20/ax-an-introduction) #read#agent#design
 - [你不知道的 Agent：原理、架构与工程实践 - Tw93](https://tw93.fun/2026-03-21/agent.html) #read#agent#deepdive
