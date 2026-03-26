@@ -1,3 +1,4 @@
+- [How I ruined my vacation by reverse engineering WSC](https://blog.es3n1n.eu/posts/how-i-ruined-my-vacation/) #read
 - [Porting Go's io package to C](https://antonz.org/porting-go-io/) #read#deepdive
 - [Building a Runtime with QuickJS](https://healeycodes.com/building-a-runtime-with-quickjs) #read#js#deepdive
 - [Thoughts on slowing the fuck down](https://mariozechner.at/posts/2026-03-25-thoughts-on-slowing-the-fuck-down/) #read#agent
