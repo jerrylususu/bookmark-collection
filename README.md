@@ -1,3 +1,4 @@
+- [Porting Go's io package to C](https://antonz.org/porting-go-io/) #read#deepdive
 - [Building a Runtime with QuickJS](https://healeycodes.com/building-a-runtime-with-quickjs) #read#js#deepdive
 - [Thoughts on slowing the fuck down](https://mariozechner.at/posts/2026-03-25-thoughts-on-slowing-the-fuck-down/) #read#agent
 - [Package Managers Need to Cool Down](https://nesbitt.io/2026/03/04/package-managers-need-to-cool-down.html) #read#security
