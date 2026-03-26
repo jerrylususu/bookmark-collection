@@ -1,3 +1,4 @@
+- [OpenClaw：技术解读和给 AI 应用开发的启示（2026）](https://arthurchiao.art/blog/openclaw-technical-notes-zh/) #read#agent#deepdive
 - [How I ruined my vacation by reverse engineering WSC](https://blog.es3n1n.eu/posts/how-i-ruined-my-vacation/) #read
 - [Porting Go's io package to C](https://antonz.org/porting-go-io/) #read#deepdive
 - [Building a Runtime with QuickJS](https://healeycodes.com/building-a-runtime-with-quickjs) #read#js#deepdive
