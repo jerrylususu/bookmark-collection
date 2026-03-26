@@ -1,3 +1,4 @@
+- [Thoughts on slowing the fuck down](https://mariozechner.at/posts/2026-03-25-thoughts-on-slowing-the-fuck-down/) #read#agent
 - [Package Managers Need to Cool Down](https://nesbitt.io/2026/03/04/package-managers-need-to-cool-down.html) #read#security
 - [Some Things Just Take Time](https://lucumr.pocoo.org/2026/3/20/some-things-just-take-time/) #read
 - [Agent Experience 导论](https://roriri.one/2026/03/20/ax-an-introduction) #read#agent#design
