@@ -1,3 +1,4 @@
+- [将 VS Code 打造成跨平台 Markdown「草稿本」](https://hsu.cy/2023/09/vscode-as-scratchpad/) #read#tips
 - [OpenClaw：技术解读和给 AI 应用开发的启示（2026）](https://arthurchiao.art/blog/openclaw-technical-notes-zh/) #read#agent#deepdive
 - [How I ruined my vacation by reverse engineering WSC](https://blog.es3n1n.eu/posts/how-i-ruined-my-vacation/) #read
 - [Porting Go's io package to C](https://antonz.org/porting-go-io/) #read#deepdive
