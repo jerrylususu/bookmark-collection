@@ -1,3 +1,4 @@
+- [我是如何构建一个 AI 原生量化系统的](https://www.bmpi.dev/dev/ai-native-investment-system/) #read#agent#deepdive
 - [SD存储卡越用越慢？教你一招免费修复，瞬间省下上千元 - 少数派](https://sspai.com/post/106559) #read#tips
 - [将 VS Code 打造成跨平台 Markdown「草稿本」](https://hsu.cy/2023/09/vscode-as-scratchpad/) #read#tips
 - [OpenClaw：技术解读和给 AI 应用开发的启示（2026）](https://arthurchiao.art/blog/openclaw-technical-notes-zh/) #read#agent#deepdive
