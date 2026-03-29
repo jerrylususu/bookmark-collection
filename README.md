@@ -1,3 +1,4 @@
+- [The Code Agent Orchestra - what makes multi-agent coding work](https://addyosmani.com/blog/code-agent-orchestra/) #read#agent
 - [Using the Browser’s <canvas> for Data Compression](https://jstrieb.github.io/posts/canvas-compress/) #read#frontend#hack
 - [我是如何构建一个 AI 原生量化系统的](https://www.bmpi.dev/dev/ai-native-investment-system/) #read#agent#deepdive
 - [SD存储卡越用越慢？教你一招免费修复，瞬间省下上千元 - 少数派](https://sspai.com/post/106559) #read#tips
