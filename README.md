@@ -1,3 +1,4 @@
+- [We Rewrote JSONata with AI in a Day, Saved $500K/Year](https://www.reco.ai/blog/we-rewrote-jsonata-with-ai) #read
 - [The Code Agent Orchestra - what makes multi-agent coding work](https://addyosmani.com/blog/code-agent-orchestra/) #read#agent
 - [Using the Browser’s <canvas> for Data Compression](https://jstrieb.github.io/posts/canvas-compress/) #read#frontend#hack
 - [我是如何构建一个 AI 原生量化系统的](https://www.bmpi.dev/dev/ai-native-investment-system/) #read#agent#deepdive
