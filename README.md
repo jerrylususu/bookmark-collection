@@ -1,3 +1,4 @@
+- [Rewriting pycparser with the help of an LLM - Eli Bendersky's website](https://eli.thegreenplace.net/2026/rewriting-pycparser-with-the-help-of-an-llm/) #read#agent
 - [We Rewrote JSONata with AI in a Day, Saved $500K/Year](https://www.reco.ai/blog/we-rewrote-jsonata-with-ai) #read
 - [The Code Agent Orchestra - what makes multi-agent coding work](https://addyosmani.com/blog/code-agent-orchestra/) #read#agent
 - [Using the Browser’s <canvas> for Data Compression](https://jstrieb.github.io/posts/canvas-compress/) #read#frontend#hack
