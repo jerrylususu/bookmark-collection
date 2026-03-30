@@ -1,3 +1,4 @@
+- [杀死那个手工程序员 - Tw93](https://tw93.fun/2026-03-30/kill.html) #read#career
 - [Rewriting pycparser with the help of an LLM - Eli Bendersky's website](https://eli.thegreenplace.net/2026/rewriting-pycparser-with-the-help-of-an-llm/) #read#agent
 - [We Rewrote JSONata with AI in a Day, Saved $500K/Year](https://www.reco.ai/blog/we-rewrote-jsonata-with-ai) #read
 - [The Code Agent Orchestra - what makes multi-agent coding work](https://addyosmani.com/blog/code-agent-orchestra/) #read#agent
