@@ -1,3 +1,4 @@
+- [一行代码的事，Web 为什么做了三十年还没做到](./web-layout-tradeoff.html) #read
 - [杀死那个手工程序员 - Tw93](https://tw93.fun/2026-03-30/kill.html) #read#career
 - [Rewriting pycparser with the help of an LLM - Eli Bendersky's website](https://eli.thegreenplace.net/2026/rewriting-pycparser-with-the-help-of-an-llm/) #read#agent
 - [We Rewrote JSONata with AI in a Day, Saved $500K/Year](https://www.reco.ai/blog/we-rewrote-jsonata-with-ai) #read
