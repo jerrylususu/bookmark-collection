@@ -1,3 +1,4 @@
+- [The Claude Code Source Leak: fake tools, frustration regexes, undercover mode, and more](https://alex000kim.com/posts/2026-03-31-claude-code-source-leak/) #read#agent#deepdive
 - [一行代码的事，Web 为什么做了三十年还没做到](./web-layout-tradeoff.html) #read
 - [杀死那个手工程序员 - Tw93](https://tw93.fun/2026-03-30/kill.html) #read#career
 - [Rewriting pycparser with the help of an LLM - Eli Bendersky's website](https://eli.thegreenplace.net/2026/rewriting-pycparser-with-the-help-of-an-llm/) #read#agent
