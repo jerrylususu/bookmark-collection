@@ -1,3 +1,4 @@
+- [Agent-driven development in Copilot Applied Science](https://github.blog/ai-and-ml/github-copilot/agent-driven-development-in-copilot-applied-science/) #read#agent
 - [Building More Resilient Local-First Software with atproto | jakelazaroff.com](https://jakelazaroff.com/words/building-more-resilient-local-first-software-with-atproto/) #read#deepdive
 - [解码 Agent Harness — Claude Code 架构深度剖析](https://lintsinghua.github.io/) #book#agent
 - [The Claude Code Source Leak: fake tools, frustration regexes, undercover mode, and more](https://alex000kim.com/posts/2026-03-31-claude-code-source-leak/) #read#agent#deepdive
