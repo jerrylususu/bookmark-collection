@@ -1,3 +1,4 @@
+- [Building More Resilient Local-First Software with atproto | jakelazaroff.com](https://jakelazaroff.com/words/building-more-resilient-local-first-software-with-atproto/) #read#deepdive
 - [解码 Agent Harness — Claude Code 架构深度剖析](https://lintsinghua.github.io/) #book#agent
 - [The Claude Code Source Leak: fake tools, frustration regexes, undercover mode, and more](https://alex000kim.com/posts/2026-03-31-claude-code-source-leak/) #read#agent#deepdive
 - [一行代码的事，Web 为什么做了三十年还没做到](./web-layout-tradeoff.html) #read
