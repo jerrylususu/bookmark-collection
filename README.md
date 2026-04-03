@@ -1,3 +1,4 @@
+- [Programming (with AI agents) as theory building](https://www.seangoedecke.com/programming-with-ai-agents-as-theory-building/) #read
 - [Highlights from my conversation about agentic engineering on Lenny’s Podcast](https://simonwillison.net/2026/Apr/2/lennys-podcast/) #read#agent
 - [Agent-driven development in Copilot Applied Science](https://github.blog/ai-and-ml/github-copilot/agent-driven-development-in-copilot-applied-science/) #read#agent
 - [Building More Resilient Local-First Software with atproto | jakelazaroff.com](https://jakelazaroff.com/words/building-more-resilient-local-first-software-with-atproto/) #read#deepdive
