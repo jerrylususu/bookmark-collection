@@ -1,3 +1,4 @@
+- [教育的下一步 · 其二](https://roriri.one/2026/04/06/education-next-2) #read
 - [JSSE: A JavaScript Engine Built by an Agent  - Notes &amp; Code](https://p.ocmatos.com/blog/jsse-a-javascript-engine-built-by-an-agent.html) #read#agent#deepdive
 - [Code and Cake - Your job isn't programming](https://codeandcake.dev/posts/2025-12-12-your-job-isnt-programming) #read
 - [Programming (with AI agents) as theory building](https://www.seangoedecke.com/programming-with-ai-agents-as-theory-building/) #read
