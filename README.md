@@ -1,3 +1,4 @@
+- [你不知道的大模型训练：原理、路径与新实践 - Tw93](https://tw93.fun/2026-04-03/llm.html) #read#llm#deepdive
 - [Eight years of wanting, three months of building with AI](https://lalitm.com/post/building-syntaqlite-ai/) #read#agent#deepdive
 - [教育的下一步 · 其二](https://roriri.one/2026/04/06/education-next-2) #read
 - [JSSE: A JavaScript Engine Built by an Agent  - Notes &amp; Code](https://p.ocmatos.com/blog/jsse-a-javascript-engine-built-by-an-agent.html) #read#agent#deepdive
