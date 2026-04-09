@@ -1,3 +1,4 @@
+- [Getting chat-tuned models to act kinda like base models](https://iter.ca/post/model-baseify/) #read#llm
 - [Your parallel Agent limit](https://addyosmani.com/blog/cognitive-parallel-agents/) #read#agent
 - [GitHub Copilot CLI combines model families for a second opinion](https://github.blog/ai-and-ml/github-copilot/github-copilot-cli-combines-model-families-for-a-second-opinion/) #read#agent
 - [你不知道的大模型训练：原理、路径与新实践 - Tw93](https://tw93.fun/2026-04-03/llm.html) #read#llm#deepdive
