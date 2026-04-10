@@ -1,3 +1,4 @@
+- [The machines are fine. I'm worried about us.](https://ergosphere.blog/posts/the-machines-are-fine/) #read
 - [If you thought the speed of writing code was your problem - you have bigger problems | Debugging Leadership](https://debuggingleadership.com/blog/if-you-thought-the-speed-of-writing-code-was-your-problem-you-have-bigger-problems) #read
 - [What if your browser built the UI for you?](https://jonno.nz/posts/what-if-your-browser-built-the-ui-for-you/) #read#frontend#agent
 - [Getting chat-tuned models to act kinda like base models](https://iter.ca/post/model-baseify/) #read#llm
