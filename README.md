@@ -1,3 +1,4 @@
+- [What if your browser built the UI for you?](https://jonno.nz/posts/what-if-your-browser-built-the-ui-for-you/) #read#frontend#agent
 - [Getting chat-tuned models to act kinda like base models](https://iter.ca/post/model-baseify/) #read#llm
 - [Your parallel Agent limit](https://addyosmani.com/blog/cognitive-parallel-agents/) #read#agent
 - [GitHub Copilot CLI combines model families for a second opinion](https://github.blog/ai-and-ml/github-copilot/github-copilot-cli-combines-model-families-for-a-second-opinion/) #read#agent
