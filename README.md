@@ -1,3 +1,4 @@
+- [The peril of laziness lost | The Observation Deck](https://bcantrill.dtrace.org/2026/04/12/the-peril-of-laziness-lost/) #read
 - [Claude Code Can Now Spawn Copies of Itself in Isolated VMs](https://jonno.nz/posts/claude-code-can-now-spawn-copies-of-itself-in-isolated-vms/) #read#agent
 - [Claude Code Running Claude Code in 4-Second Disposable VMs](https://jonno.nz/posts/claude-code-running-claude-code-in-4-second-disposable-vms/) #read#agent#deepdive
 - [React 带来的生死疲劳](https://roriri.one/2026/04/12/what-a-react) #read#frontend#framework
