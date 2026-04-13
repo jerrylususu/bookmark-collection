@@ -1,3 +1,4 @@
+- [Claude Code Can Now Spawn Copies of Itself in Isolated VMs](https://jonno.nz/posts/claude-code-can-now-spawn-copies-of-itself-in-isolated-vms/) #read#agent
 - [Claude Code Running Claude Code in 4-Second Disposable VMs](https://jonno.nz/posts/claude-code-running-claude-code-in-4-second-disposable-vms/) #read#agent#deepdive
 - [React 带来的生死疲劳](https://roriri.one/2026/04/12/what-a-react) #read#frontend#framework
 - [AI 結合卡片盒筆記法，人不再操作軟體，用對話流程讓 Codex 搭建資料整理系統：我的兩個月實測心得](https://www.playpcesor.com/2026/04/ai-codex.html) #read#agent
