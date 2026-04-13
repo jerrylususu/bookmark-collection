@@ -1,3 +1,4 @@
+- [AI 結合卡片盒筆記法，人不再操作軟體，用對話流程讓 Codex 搭建資料整理系統：我的兩個月實測心得](https://www.playpcesor.com/2026/04/ai-codex.html) #read#agent
 - [The machines are fine. I'm worried about us.](https://ergosphere.blog/posts/the-machines-are-fine/) #read
 - [If you thought the speed of writing code was your problem - you have bigger problems | Debugging Leadership](https://debuggingleadership.com/blog/if-you-thought-the-speed-of-writing-code-was-your-problem-you-have-bigger-problems) #read
 - [What if your browser built the UI for you?](https://jonno.nz/posts/what-if-your-browser-built-the-ui-for-you/) #read#frontend#agent
