@@ -1,3 +1,4 @@
+- [React 带来的生死疲劳](https://roriri.one/2026/04/12/what-a-react) #read#frontend#framework
 - [AI 結合卡片盒筆記法，人不再操作軟體，用對話流程讓 Codex 搭建資料整理系統：我的兩個月實測心得](https://www.playpcesor.com/2026/04/ai-codex.html) #read#agent
 - [The machines are fine. I'm worried about us.](https://ergosphere.blog/posts/the-machines-are-fine/) #read
 - [If you thought the speed of writing code was your problem - you have bigger problems | Debugging Leadership](https://debuggingleadership.com/blog/if-you-thought-the-speed-of-writing-code-was-your-problem-you-have-bigger-problems) #read
