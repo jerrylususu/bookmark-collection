@@ -1,3 +1,4 @@
+- [Dynamic, identity-aware, and secure Sandbox auth](https://blog.cloudflare.com/sandbox-auth/) #read#agent#security
 - [OpenHealth – Chat with Apple Health Data, Anywhere](https://jonno.nz/posts/openhealth-chat-with-apple-health-data/) #read
 - [Don't default to doing nothing](https://iter.ca/post/default-action/) #read#tips
 - [The peril of laziness lost | The Observation Deck](https://bcantrill.dtrace.org/2026/04/12/the-peril-of-laziness-lost/) #read
