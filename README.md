@@ -1,3 +1,4 @@
+- [Cybersecurity Looks Like Proof of Work Now](https://www.dbreunig.com/2026/04/14/cybersecurity-is-proof-of-work-now.html) #read#security
 - [Dynamic, identity-aware, and secure Sandbox auth](https://blog.cloudflare.com/sandbox-auth/) #read#agent#security
 - [OpenHealth – Chat with Apple Health Data, Anywhere](https://jonno.nz/posts/openhealth-chat-with-apple-health-data/) #read
 - [Don't default to doing nothing](https://iter.ca/post/default-action/) #read#tips
