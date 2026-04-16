@@ -1,3 +1,4 @@
+- [The Future of Everything is Lies, I Guess: New Jobs](https://aphyr.com/posts/419-the-future-of-everything-is-lies-i-guess-new-jobs) #read
 - [Break LLM Workflows with Claude's Refusal Magic String - Hacking The Cloud](https://hackingthe.cloud/ai-llm/exploitation/claude_magic_string_denial_of_service/) #read#llm
 - [Open-Source Agent That Teaches Claude Code Your Architecture](https://jonno.nz/posts/open-source-agent-that-teaches-claude-code-your-architecture/) #read#agent
 - [How to walk through walls](https://www.henrikkarlsson.xyz/p/hacker-mindset) #read
