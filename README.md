@@ -1,3 +1,4 @@
+- [Open-Source Agent That Teaches Claude Code Your Architecture](https://jonno.nz/posts/open-source-agent-that-teaches-claude-code-your-architecture/) #read#agent
 - [How to walk through walls](https://www.henrikkarlsson.xyz/p/hacker-mindset) #read
 - [Cybersecurity Looks Like Proof of Work Now](https://www.dbreunig.com/2026/04/14/cybersecurity-is-proof-of-work-now.html) #read#security
 - [Dynamic, identity-aware, and secure Sandbox auth](https://blog.cloudflare.com/sandbox-auth/) #read#agent#security
