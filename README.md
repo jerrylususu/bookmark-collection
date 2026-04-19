@@ -1,3 +1,4 @@
+- [Claude Code's Source: 3,167-Line Function, Regex Sentiment](https://techtrenches.dev/p/the-snake-that-ate-itself-what-claude) #read
 - [Agentic coding at ClickHouse](https://clickhouse.com/blog/agentic-coding) #read#agent#deepdive
 - [中文 Markdown 强调标记的渲染问题](https://hsu.cy/2026/04/markdown-emphases-cjk/) #read
 - [The Future of Everything is Lies, I Guess: New Jobs](https://aphyr.com/posts/419-the-future-of-everything-is-lies-i-guess-new-jobs) #read
