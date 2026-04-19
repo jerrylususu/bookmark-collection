@@ -1,3 +1,4 @@
+- [Dependency cooldowns turn you into a free-rider](https://calpaterson.com/deps.html) #read#security
 - [Claude Code's Source: 3,167-Line Function, Regex Sentiment](https://techtrenches.dev/p/the-snake-that-ate-itself-what-claude) #read
 - [Agentic coding at ClickHouse](https://clickhouse.com/blog/agentic-coding) #read#agent#deepdive
 - [中文 Markdown 强调标记的渲染问题](https://hsu.cy/2026/04/markdown-emphases-cjk/) #read
