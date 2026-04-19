@@ -1,3 +1,4 @@
+- [Agents that remember: introducing Agent Memory](https://blog.cloudflare.com/introducing-agent-memory/) #read#agent
 - [Do You Even Need a Database? - DB Pro Blog](https://www.dbpro.app/blog/do-you-even-need-a-database) #read#database
 - [How I run multiple $10K MRR companies on a $20/month tech stack](https://stevehanov.ca/blog/how-i-run-multiple-10k-mrr-companies-on-a-20month-tech-stack) #read#arch
 - [Dependency cooldowns turn you into a free-rider](https://calpaterson.com/deps.html) #read#security
