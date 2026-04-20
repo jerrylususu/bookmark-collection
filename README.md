@@ -1,3 +1,4 @@
+- [Agent Harness Engineering](https://addyosmani.com/blog/agent-harness-engineering/) #read#agent
 - [使用 OpenRewrite 和 AI 技能进行代码静态分析 --- Code Static Analysis with OpenRewrite and AI Skills](https://miao1007.github.io/c7d964c0-3b33-11f1-9754-8f31fdfe5ab9/) #read#security
 - [Agents that remember: introducing Agent Memory](https://blog.cloudflare.com/introducing-agent-memory/) #read#agent
 - [Do You Even Need a Database? - DB Pro Blog](https://www.dbpro.app/blog/do-you-even-need-a-database) #read#database
