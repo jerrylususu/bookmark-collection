@@ -1,3 +1,4 @@
+- [Learnings from conducting ~1,000 interviews at Amazon](https://newsletter.pragmaticengineer.com/p/learnings-from-conducting-1000-interviews) #read#career
 - [The AI engineering stack we built internally — on the platform we ship](https://blog.cloudflare.com/internal-ai-engineering-stack/) #read#agent#engineering
 - [Orchestrating AI Code Review at scale](https://blog.cloudflare.com/ai-code-review/) #read#agent#deepdive
 - [The Second Wave of the API-first Economy](https://brandur.org/second-wave-api-first) #read
