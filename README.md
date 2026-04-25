@@ -1,3 +1,4 @@
+- [The McPhee method « the jsomers.net blog](https://jsomers.net/blog/the-mcphee-method) #read#write
 - [The paper computer « the jsomers.net blog](https://jsomers.net/blog/the-paper-computer) #read
 - [What Async Promised and What it Delivered — Causality](https://causality.blog/essays/what-async-promised/) #read#deepdive
 - [Features everyone should steal from npmx](https://nesbitt.io/2026/04/16/features-everyone-should-steal-from-npmx.html) #read#tools
