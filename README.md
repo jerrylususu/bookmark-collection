@@ -1,3 +1,4 @@
+- [Features everyone should steal from npmx](https://nesbitt.io/2026/04/16/features-everyone-should-steal-from-npmx.html) #read#tools
 - [Friends Don't Let Friends Use Ollama | Sleeping Robots](https://sleepingrobots.com/dreams/stop-using-ollama/) #read#llm#tools
 - [Expansion artifacts](https://mattstromawn.com/writing/expansion-artifacts/) #read#llm
 - [AI 时代的程序与程序员 | 风痕 · 術&思](https://fenghen.me/posts/2026/04/23/ai-era-programmers/) #read
