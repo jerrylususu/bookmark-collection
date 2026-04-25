@@ -1,3 +1,4 @@
+- [Expansion artifacts](https://mattstromawn.com/writing/expansion-artifacts/) #read#llm
 - [AI 时代的程序与程序员 | 风痕 · 術&思](https://fenghen.me/posts/2026/04/23/ai-era-programmers/) #read
 - [Learnings from conducting ~1,000 interviews at Amazon](https://newsletter.pragmaticengineer.com/p/learnings-from-conducting-1000-interviews) #read#career
 - [The AI engineering stack we built internally — on the platform we ship](https://blog.cloudflare.com/internal-ai-engineering-stack/) #read#agent#engineering
