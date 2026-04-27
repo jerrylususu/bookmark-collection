@@ -1,3 +1,4 @@
+- [AI 也该有护照了 | 虹线](https://1q43.blog/post/12323/) #read#agent
 - [你不知道的 AI Coding：非技术人的上手、场景与实战 - Tw93](https://tw93.fun/2026-04-26/ai-coding.html) #read#agent#deepdive
 - [The Rime of the Ancient Maintainer](https://www.joanwestenberg.com/the-rime-of-the-ancient-maintainer/) #read
 - [The McPhee method « the jsomers.net blog](https://jsomers.net/blog/the-mcphee-method) #read#write
