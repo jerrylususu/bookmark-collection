@@ -1,3 +1,4 @@
+- [Contributor Poker and Zig's AI Ban](https://kristoff.it/blog/contributor-poker-and-ai/) #read#oss
 - [Manifesto: Rules for standards-makers](http://scripting.com/2017/05/09/rulesForStandardsmakers.html) #read
 - [Before GitHub](https://lucumr.pocoo.org/2026/4/28/before-github/) #read
 - [Long-running Agents](https://addyosmani.com/blog/long-running-agents/) #read#agent#deepdive
