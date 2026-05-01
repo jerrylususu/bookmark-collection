@@ -1,3 +1,4 @@
+- [Configure Access Point as Personal Hotspot (OpenWrt) · Nostalgia](https://www.yichya.dev/configure-access-point-as-personal-hotspot/) #read#tips#hack
 - [mandō](https://blog.mattbierner.com/mando/) #read
 - [Why the heck are we still using Markdown?? | BGs Labs](https://bgslabs.org/blog/why-are-we-using-markdown/) #read#language
 - [Testing agents on design systems](https://pjonori.blog/posts/testing-agents-on-design-systems/) #read#agent#design
