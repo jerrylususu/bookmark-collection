@@ -1,3 +1,4 @@
+- [Testing agents on design systems](https://pjonori.blog/posts/testing-agents-on-design-systems/) #read#agent#design
 - [Contributor Poker and Zig's AI Ban](https://kristoff.it/blog/contributor-poker-and-ai/) #read#oss
 - [Manifesto: Rules for standards-makers](http://scripting.com/2017/05/09/rulesForStandardsmakers.html) #read
 - [Before GitHub](https://lucumr.pocoo.org/2026/4/28/before-github/) #read
