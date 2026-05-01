@@ -1,3 +1,4 @@
+- [mandō](https://blog.mattbierner.com/mando/) #read
 - [Why the heck are we still using Markdown?? | BGs Labs](https://bgslabs.org/blog/why-are-we-using-markdown/) #read#language
 - [Testing agents on design systems](https://pjonori.blog/posts/testing-agents-on-design-systems/) #read#agent#design
 - [Contributor Poker and Zig's AI Ban](https://kristoff.it/blog/contributor-poker-and-ai/) #read#oss
