@@ -1,3 +1,4 @@
+- [Gathering Structures](https://maggieappleton.com/gathering-structures) #read#guide#people
 - [为什么agent和workflow可以融合在同一个架构里？ - 铁蕾的个人博客](https://zhangtielei.com/posts/blog-amphiflow_implementation.html) #read#agent
 - [Configure Access Point as Personal Hotspot (OpenWrt) · Nostalgia](https://www.yichya.dev/configure-access-point-as-personal-hotspot/) #read#tips#hack
 - [mandō](https://blog.mattbierner.com/mando/) #read
