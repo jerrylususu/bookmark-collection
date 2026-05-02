@@ -1,3 +1,4 @@
+- [Cross-Site Request Forgery](https://words.filippo.io/csrf/) #read#security
 - [OpenFeature](https://openfeature.dev/) #tools
 - [The End of the Open Web](https://www.netmeister.org/blog/open-web.html) #read
 - [What an hour of your attention is worth — jonno.nz](https://jonno.nz/posts/what-an-hour-of-your-attention-is-worth/) #read
