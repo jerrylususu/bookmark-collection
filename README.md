@@ -1,3 +1,4 @@
+- [(One) Good AI Is Here - Anil Dash](https://anildash.com/2026/04/28/one-good-ai-is-here/) #read
 - [Why are the Artemis II photos on Flickr? - Anil Dash](https://anildash.com/2026/04/30/artemis-photos-flickr/) #read
 - [Serving the For You Feed - AT Protocol](https://atproto.com/blog/serving-the-for-you-feed) #read#deepdive
 - [Gathering Structures](https://maggieappleton.com/gathering-structures) #read#guide#people
