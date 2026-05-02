@@ -1,3 +1,4 @@
+- [The modern formatting addiction in writing](https://dynomight.net/formatting/) #read#write
 - [Cross-Site Request Forgery](https://words.filippo.io/csrf/) #read#security
 - [OpenFeature](https://openfeature.dev/) #tools
 - [The End of the Open Web](https://www.netmeister.org/blog/open-web.html) #read
