@@ -1,3 +1,4 @@
+- [The End of the Open Web](https://www.netmeister.org/blog/open-web.html) #read
 - [What an hour of your attention is worth — jonno.nz](https://jonno.nz/posts/what-an-hour-of-your-attention-is-worth/) #read
 - [(One) Good AI Is Here - Anil Dash](https://anildash.com/2026/04/28/one-good-ai-is-here/) #read
 - [Why are the Artemis II photos on Flickr? - Anil Dash](https://anildash.com/2026/04/30/artemis-photos-flickr/) #read
