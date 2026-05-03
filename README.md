@@ -1,3 +1,4 @@
+- [Testing Vue components in the browser](https://jvns.ca/blog/2026/05/02/testing-vue-components-in-the-browser/) #read#frontend
 - [The modern formatting addiction in writing](https://dynomight.net/formatting/) #read#write
 - [Cross-Site Request Forgery](https://words.filippo.io/csrf/) #read#security
 - [OpenFeature](https://openfeature.dev/) #tools
