@@ -1,3 +1,4 @@
+- [Agent Skills](https://addyosmani.com/blog/agent-skills/) #read#agent#tools
 - [Staff archetypes](https://staffeng.com/guides/staff-archetypes/) #read#people
 - [Why I don't like the "staff engineer archetypes"](https://www.seangoedecke.com/staff-engineer-archetypes/) #read#people
 - [Testing JavaScript without a (third-party) framework](https://alexwlchan.net/2023/testing-javascript-without-a-framework/) #read#frontend
