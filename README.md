@@ -1,3 +1,4 @@
+- [Import AI 455: Automating AI Research](https://jack-clark.net/2026/05/04/import-ai-455-automating-ai-research/) #read#llm
 - [Redis array type: short story of a long development - <antirez>](https://antirez.com/news/164) #read
 - [Agent Skills](https://addyosmani.com/blog/agent-skills/) #read#agent#tools
 - [Staff archetypes](https://staffeng.com/guides/staff-archetypes/) #read#people
