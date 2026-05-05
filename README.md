@@ -1,3 +1,4 @@
+- [Redis array type: short story of a long development - <antirez>](https://antirez.com/news/164) #read
 - [Agent Skills](https://addyosmani.com/blog/agent-skills/) #read#agent#tools
 - [Staff archetypes](https://staffeng.com/guides/staff-archetypes/) #read#people
 - [Why I don't like the "staff engineer archetypes"](https://www.seangoedecke.com/staff-engineer-archetypes/) #read#people
