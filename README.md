@@ -1,3 +1,4 @@
+- [Cognitive Surrender](https://addyosmani.com/blog/cognitive-surrender/) #read#agent
 - [Links to CSS colour palettes](https://jvns.ca/blog/2026/05/04/css-colour-palettes/) #tips#frontend
 - [Import AI 455: Automating AI Research](https://jack-clark.net/2026/05/04/import-ai-455-automating-ai-research/) #read#llm
 - [Redis array type: short story of a long development - <antirez>](https://antirez.com/news/164) #read
