@@ -1,3 +1,4 @@
+- [Most vibe-coded tools are not for you](https://passo.uno/tools-slop-is-a-problem/) #read
 - [Cognitive Surrender](https://addyosmani.com/blog/cognitive-surrender/) #read#agent
 - [Links to CSS colour palettes](https://jvns.ca/blog/2026/05/04/css-colour-palettes/) #tips#frontend
 - [Import AI 455: Automating AI Research](https://jack-clark.net/2026/05/04/import-ai-455-automating-ai-research/) #read#llm
