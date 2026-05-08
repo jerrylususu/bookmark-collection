@@ -1,3 +1,4 @@
+- [一根上流滚动条的诞生](https://roriri.one/2026/05/06/better-scroll-bar) #read#frontend#design
 - [Notes on incidents](https://www.seangoedecke.com/notes-on-incidents/) #read
 - [Pushing Local Models With Focus And Polish](https://lucumr.pocoo.org/2026/5/8/local-models/) #read#llm
 - [Most vibe-coded tools are not for you](https://passo.uno/tools-slop-is-a-problem/) #read
