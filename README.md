@@ -1,3 +1,4 @@
+- [Improving token efficiency in GitHub Agentic Workflows](https://github.blog/ai-and-ml/github-copilot/improving-token-efficiency-in-github-agentic-workflows/) #read#agent
 - [Behind the Scenes Hardening Firefox with Claude Mythos Preview – Mozilla Hacks - the Web developer blog](https://hacks.mozilla.org/2026/05/behind-the-scenes-hardening-firefox/) #read#security#agent#llm
 - [Agent pull requests are everywhere. Here's how to review them.](https://github.blog/ai-and-ml/generative-ai/agent-pull-requests-are-everywhere-heres-how-to-review-them/) #read#guide
 - [用Agent评测思路管理AI Coding —— 31万行代码AI重构的实践](https://tech.meituan.com/2026/05/07/agent-ai-coding.html) #read#agent#deepdive#guide
