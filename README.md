@@ -1,3 +1,4 @@
+- [Pushing Local Models With Focus And Polish](https://lucumr.pocoo.org/2026/5/8/local-models/) #read#llm
 - [Most vibe-coded tools are not for you](https://passo.uno/tools-slop-is-a-problem/) #read
 - [Cognitive Surrender](https://addyosmani.com/blog/cognitive-surrender/) #read#agent
 - [Links to CSS colour palettes](https://jvns.ca/blog/2026/05/04/css-colour-palettes/) #tips#frontend
