@@ -1,3 +1,4 @@
+- [The unreasonable effectiveness of HTML — examples](https://thariqs.github.io/html-effectiveness/) #read#agent#tips
 - [Improving token efficiency in GitHub Agentic Workflows](https://github.blog/ai-and-ml/github-copilot/improving-token-efficiency-in-github-agentic-workflows/) #read#agent
 - [Behind the Scenes Hardening Firefox with Claude Mythos Preview – Mozilla Hacks - the Web developer blog](https://hacks.mozilla.org/2026/05/behind-the-scenes-hardening-firefox/) #read#security#agent#llm
 - [Agent pull requests are everywhere. Here's how to review them.](https://github.blog/ai-and-ml/generative-ai/agent-pull-requests-are-everywhere-heres-how-to-review-them/) #read#guide
