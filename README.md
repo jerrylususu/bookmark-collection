@@ -1,3 +1,4 @@
+- [OpenAI's WebRTC Problem - Media over QUIC](https://moq.dev/blog/webrtc-is-the-problem/) #read#backend
 - [The unreasonable effectiveness of HTML — examples](https://thariqs.github.io/html-effectiveness/) #read#agent#tips
 - [Improving token efficiency in GitHub Agentic Workflows](https://github.blog/ai-and-ml/github-copilot/improving-token-efficiency-in-github-agentic-workflows/) #read#agent
 - [Behind the Scenes Hardening Firefox with Claude Mythos Preview – Mozilla Hacks - the Web developer blog](https://hacks.mozilla.org/2026/05/behind-the-scenes-hardening-firefox/) #read#security#agent#llm
