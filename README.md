@@ -1,3 +1,4 @@
+- [Replacing a 3 GB SQLite database with a 10 MB FST (finite state transducer) binary](https://til.andrew-quinn.me/posts/replacing-a-3-gb-sqlite-database-with-a-7-mb-fst-finite-state-trandsucer-binary/) #read#hack
 - [OpenAI's WebRTC Problem - Media over QUIC](https://moq.dev/blog/webrtc-is-the-problem/) #read#backend
 - [The unreasonable effectiveness of HTML — examples](https://thariqs.github.io/html-effectiveness/) #read#agent#tips
 - [Improving token efficiency in GitHub Agentic Workflows](https://github.blog/ai-and-ml/github-copilot/improving-token-efficiency-in-github-agentic-workflows/) #read#agent
