@@ -1,3 +1,4 @@
+- [James Shore: You Need AI That Reduces Maintenance Costs](https://www.jamesshore.com/v2/blog/2026/you-need-ai-that-reduces-your-maintenance-costs) #read
 - [Index 1,600,000,000 Keys with Automata and Rust - Andrew Gallant's Blog](https://blog.burntsushi.net/transducers/) #read#data#deepdive#rust
 - [Replacing a 3 GB SQLite database with a 10 MB FST (finite state transducer) binary](https://til.andrew-quinn.me/posts/replacing-a-3-gb-sqlite-database-with-a-7-mb-fst-finite-state-trandsucer-binary/) #read#hack
 - [OpenAI's WebRTC Problem - Media over QUIC](https://moq.dev/blog/webrtc-is-the-problem/) #read#backend
