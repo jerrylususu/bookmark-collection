@@ -1,3 +1,4 @@
+- [AI如何导致和修复了我的失眠问题](./ai-sleep.html) #read
 - [Neural Computer：一种新的机器形态，正在出现](https://metauto.ai/neuralcomputer/index_cn.html) #read
 - [Learning on the Shop floor](https://simonwillison.net/2026/May/11/learning-on-the-shop-floor/) #read
 - [James Shore: You Need AI That Reduces Maintenance Costs](https://www.jamesshore.com/v2/blog/2026/you-need-ai-that-reduces-your-maintenance-costs) #read
