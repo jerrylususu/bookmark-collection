@@ -1,3 +1,4 @@
+- [How I use LLMs as a staff engineer in 2026](https://www.seangoedecke.com/how-i-use-llms-in-2026/) #read#agent
 - [Moving away from Tailwind, and learning to structure my CSS](https://jvns.ca/blog/2026/05/15/moving-away-from-tailwind--and-learning-to-structure-my-css-/) #read#frontend
 - [What’s with all the slide decks?](https://dynomight.net/slides/) #read
 - [High Performance Rate Limiting at Databricks](https://blog.bytebytego.com/p/high-performance-rate-limiting-at) #read#backend
