@@ -1,3 +1,4 @@
+- [Project Glasswing: what Mythos showed us](https://blog.cloudflare.com/cyber-frontier-models/) #read#agent#security
 - [一个 WebRTC 聊天室的三次演进](https://www.bmpi.dev/dev/free4chat/) #read#deepdive
 - [DeepSeek-V4-Flash means LLM steering is interesting again](https://www.seangoedecke.com/steering-vectors/) #read#llm
 - [How I use LLMs as a staff engineer in 2026](https://www.seangoedecke.com/how-i-use-llms-in-2026/) #read#agent
