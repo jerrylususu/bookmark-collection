@@ -1,3 +1,4 @@
+- [一个 WebRTC 聊天室的三次演进](https://www.bmpi.dev/dev/free4chat/) #read#deepdive
 - [DeepSeek-V4-Flash means LLM steering is interesting again](https://www.seangoedecke.com/steering-vectors/) #read#llm
 - [How I use LLMs as a staff engineer in 2026](https://www.seangoedecke.com/how-i-use-llms-in-2026/) #read#agent
 - [Moving away from Tailwind, and learning to structure my CSS](https://jvns.ca/blog/2026/05/15/moving-away-from-tailwind--and-learning-to-structure-my-css-/) #read#frontend
