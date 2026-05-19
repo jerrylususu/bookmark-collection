@@ -1,3 +1,4 @@
+- [Alternatives for the EDIT tool of LLM agents - <antirez>](https://antirez.com/news/166) #read#llm#agent
 - [Project Glasswing: what Mythos showed us](https://blog.cloudflare.com/cyber-frontier-models/) #read#agent#security
 - [一个 WebRTC 聊天室的三次演进](https://www.bmpi.dev/dev/free4chat/) #read#deepdive
 - [DeepSeek-V4-Flash means LLM steering is interesting again](https://www.seangoedecke.com/steering-vectors/) #read#llm
