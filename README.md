@@ -1,3 +1,4 @@
+- [The famous o3 "GeoGuessr" prompt did not work](https://www.seangoedecke.com/the-o3-geoguessr-prompt-did-not-work/) #read#llm
 - [Prompts are technical debt too](https://www.seangoedecke.com/prompts-are-technical-debt-too/#fnref-2) #read#agent
 - [Alternatives for the EDIT tool of LLM agents - <antirez>](https://antirez.com/news/166) #read#llm#agent
 - [Project Glasswing: what Mythos showed us](https://blog.cloudflare.com/cyber-frontier-models/) #read#agent#security
