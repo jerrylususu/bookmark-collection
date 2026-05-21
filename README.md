@@ -1,3 +1,4 @@
+- [通用表达式语言 (CEL)  |  Common Expression Language](https://cel.dev/overview/cel-overview?hl=zh-cn) #tools
 - [Resident: vibe coding firmware (our new sandbox library for ESP32 devices)](https://interconnected.org/home/2026/05/20/resident) #read#hardware
 - [The famous o3 "GeoGuessr" prompt did not work](https://www.seangoedecke.com/the-o3-geoguessr-prompt-did-not-work/) #read#llm
 - [Prompts are technical debt too](https://www.seangoedecke.com/prompts-are-technical-debt-too/#fnref-2) #read#agent
