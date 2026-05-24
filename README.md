@@ -1,3 +1,4 @@
+- [创新视频剪辑交互：二维时间轴 + 文字轨 | 风痕 · 術&思](https://fenghen.me/posts/2026/05/24/dimcut/) #read
 - [Claw Patrol - The security firewall for agents](https://clawpatrol.dev/) #tools#agent#security
 - [通用表达式语言 (CEL)  |  Common Expression Language](https://cel.dev/overview/cel-overview?hl=zh-cn) #tools
 - [Resident: vibe coding firmware (our new sandbox library for ESP32 devices)](https://interconnected.org/home/2026/05/20/resident) #read#hardware
