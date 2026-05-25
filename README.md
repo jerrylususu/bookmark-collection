@@ -1,3 +1,4 @@
+- [Building Pi With Pi](https://lucumr.pocoo.org/2026/5/24/pi-oss/) #read#agent
 - [Classic rock, Mario Kart, and why we can't agree on Tailwind](https://joshcollinsworth.com/blog/tailwind-is-smart-steering) #read#frontend
 - [Don't Roll Your Own ... - Susam Pal](https://susam.net/do-not-roll-your-own.html) #read
 - [On the ‹dl›](https://benmyers.dev/blog/on-the-dl/) #read#frontend
