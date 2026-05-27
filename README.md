@@ -1,3 +1,4 @@
+- [Agent 需要什么样的基础工具集合](https://jolestar.com/agent-basic-tool-set/) #read#agent
 - [第三次世界大战 - Miao Yu | 于淼](https://yufree.cn/cn/2026/05/26/wwiii/) #read
 - [The pressure](https://daniel.haxx.se/blog/2026/05/26/the-pressure/) #read
 - [The Orchestration Tax is You](https://addyosmani.com/blog/orchestration-tax/) #read#agent
