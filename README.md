@@ -1,3 +1,4 @@
+- [Dancing mad with sandboxing](https://xeiaso.net/blog/2026/dancing-mad-sandboxing/) #read#deepdive
 - [AI 裁员潮卑鄙生存指南 The Unethical Guide to Surviving AI Layoffs](https://hsu.cy/notes/202605131305/) #read
 - [用好AI的第二步：先写Skill再执行](./skill-first.html) #read#agent
 - [Agent 需要什么样的基础工具集合](https://jolestar.com/agent-basic-tool-set/) #read#agent
