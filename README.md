@@ -1,3 +1,4 @@
+- [邸报 v0.1.0：一个很旧的东西新生了 | 虹线](https://1q43.blog/post/12489/) #read#tools
 - [统计十讲](https://roriri.one/2026/05/29/stat-10-lec#fn2) #read#deepdive#books
 - [Give your agents disposable environments in Go | Tigris Object Storage](https://www.tigrisdata.com/blog/agent-sandbox-go/) #read#agent
 - [Dancing mad with sandboxing](https://xeiaso.net/blog/2026/dancing-mad-sandboxing/) #read#deepdive
