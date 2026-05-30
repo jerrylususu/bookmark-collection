@@ -1,3 +1,4 @@
+- [统计十讲](https://roriri.one/2026/05/29/stat-10-lec#fn2) #read#deepdive#books
 - [Give your agents disposable environments in Go | Tigris Object Storage](https://www.tigrisdata.com/blog/agent-sandbox-go/) #read#agent
 - [Dancing mad with sandboxing](https://xeiaso.net/blog/2026/dancing-mad-sandboxing/) #read#deepdive
 - [AI 裁员潮卑鄙生存指南 The Unethical Guide to Surviving AI Layoffs](https://hsu.cy/notes/202605131305/) #read
