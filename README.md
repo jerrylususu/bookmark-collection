@@ -1,3 +1,4 @@
+- [The holes that kill you are the ones you never tested — jonno.nz](https://jonno.nz/posts/the-holes-that-kill-you-are-the-ones-you-never-tested/) #read
 - [Build agents, not pipelines](https://www.seangoedecke.com/build-agents-not-pipelines/) #read#agent
 - [邸报 v0.1.0：一个很旧的东西新生了 | 虹线](https://1q43.blog/post/12489/) #read#tools
 - [统计十讲](https://roriri.one/2026/05/29/stat-10-lec#fn2) #read#deepdive#books
