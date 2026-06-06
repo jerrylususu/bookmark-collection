@@ -1,3 +1,4 @@
+- [在香港骑共享单车：访客视角的经验](https://hsu.cy/2026/06/hkbikeshare/) #read
 - [The Intent Debt](https://addyosmani.com/blog/intent-debt/) #read
 - [Running Python code in a sandbox with MicroPython and WASM](https://simonwillison.net/2026/Jun/6/micropython-in-a-sandbox/) #read#agent#security
 - [AI enthusiasts are in a race against time, AI skeptics are in a race against entropy (xpost)](https://charity.wtf/2026/06/02/ai-enthusiasts-are-in-a-race-against-time-ai-skeptics-are-in-a-race-against-entropy-xpost/) #read#agent
