@@ -1,3 +1,4 @@
+- [AI Job Grief: The Unnamed Psychological Crisis Hitting Tech Workers](https://jackmaguire.org/blog/ai-job-grief/) #read
 - [在香港骑共享单车：访客视角的经验](https://hsu.cy/2026/06/hkbikeshare/) #read
 - [The Intent Debt](https://addyosmani.com/blog/intent-debt/) #read
 - [Running Python code in a sandbox with MicroPython and WASM](https://simonwillison.net/2026/Jun/6/micropython-in-a-sandbox/) #read#agent#security
