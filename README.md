@@ -1,3 +1,4 @@
+- [The Intent Debt](https://addyosmani.com/blog/intent-debt/) #read
 - [Running Python code in a sandbox with MicroPython and WASM](https://simonwillison.net/2026/Jun/6/micropython-in-a-sandbox/) #read#agent#security
 - [AI enthusiasts are in a race against time, AI skeptics are in a race against entropy (xpost)](https://charity.wtf/2026/06/02/ai-enthusiasts-are-in-a-race-against-time-ai-skeptics-are-in-a-race-against-entropy-xpost/) #read#agent
 - [The holes that kill you are the ones you never tested — jonno.nz](https://jonno.nz/posts/the-holes-that-kill-you-are-the-ones-you-never-tested/) #read
