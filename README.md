@@ -1,3 +1,4 @@
+- [Loop Engineering](https://addyosmani.com/blog/loop-engineering/) #read#agent
 - [Doing nothing at work](https://www.seangoedecke.com/doing-nothing-at-work/) #read#career
 - [AI Job Grief: The Unnamed Psychological Crisis Hitting Tech Workers](https://jackmaguire.org/blog/ai-job-grief/) #read
 - [在香港骑共享单车：访客视角的经验](https://hsu.cy/2026/06/hkbikeshare/) #read
