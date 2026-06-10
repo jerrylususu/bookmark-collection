@@ -1,3 +1,4 @@
+- [What it feels like to work with Mythos](https://www.oneusefulthing.org/p/what-it-feels-like-to-work-with-mythos) #read#llm
 - [If Claude Fable stops helping you, you'll never know — Jonathon Ready](https://jonready.com/blog/posts/claude-fable5-is-allowed-to-sabotage-your-app-if-youre-a-competitor.html) #read#security
 - [A new era for software testing - <antirez>](https://antirez.com/news/168) #read#agent
 - [Working with product managers](https://www.seangoedecke.com/working-with-product-managers/) #read#career
