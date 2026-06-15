@@ -1,3 +1,4 @@
+- [Agent 时代的软件接口](https://www.bmpi.dev/dev/agent-native-system-paradigm/) #read#agent
 - [The Software Development Lifecycle Is Dead](https://boristane.com/blog/the-software-development-lifecycle-is-dead/) #read#agent
 - [云风的 BLOG: 对基本有序的序列排序算法](https://blog.codingnow.com/2026/06/powersort.html) #read#algo
 - [What it feels like to work with Mythos](https://www.oneusefulthing.org/p/what-it-feels-like-to-work-with-mythos) #read#llm
