@@ -1,3 +1,4 @@
+- [Agentic Code Review](https://addyosmani.com/blog/agentic-code-review/) #read#agent
 - [AI demands more engineering discipline. Not less (xpost)](https://charity.wtf/2026/06/15/ai-demands-more-engineering-discipline-not-less-xpost/) #read#agent
 - [Agent 时代的软件接口](https://www.bmpi.dev/dev/agent-native-system-paradigm/) #read#agent
 - [The Software Development Lifecycle Is Dead](https://boristane.com/blog/the-software-development-lifecycle-is-dead/) #read#agent
