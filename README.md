@@ -1,3 +1,4 @@
+- [Building Agents that Don't Break Themselves](https://fly.io/blog/building-agents-that-dont-break-themselves/) #read#agent
 - [I Could've Rickrolled the Entire FIFA World Cup. All I Needed Was My ID.](https://bobdahacker.com/blog/fifa-hack) #read#hack
 - [Agentic Code Review](https://addyosmani.com/blog/agentic-code-review/) #read#agent
 - [AI demands more engineering discipline. Not less (xpost)](https://charity.wtf/2026/06/15/ai-demands-more-engineering-discipline-not-less-xpost/) #read#agent
