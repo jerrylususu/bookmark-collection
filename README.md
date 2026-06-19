@@ -1,3 +1,4 @@
+- [Build your own vulnerability harness](https://blog.cloudflare.com/build-your-own-vulnerability-harness/) #read#agent#security
 - [Building Agents that Don't Break Themselves](https://fly.io/blog/building-agents-that-dont-break-themselves/) #read#agent
 - [I Could've Rickrolled the Entire FIFA World Cup. All I Needed Was My ID.](https://bobdahacker.com/blog/fifa-hack) #read#hack
 - [Agentic Code Review](https://addyosmani.com/blog/agentic-code-review/) #read#agent
