@@ -1,3 +1,4 @@
+- [使用AI十倍提效，成了模范老黄牛，就能加薪升职了？](https://yage.ai/ai-productivity-trap.html) #read#people
 - [The New Software Lifecycle](https://addyosmani.com/blog/new-sdlc-vibe-coding/) #read#agent
 - [Build your own vulnerability harness](https://blog.cloudflare.com/build-your-own-vulnerability-harness/) #read#agent#security
 - [Building Agents that Don't Break Themselves](https://fly.io/blog/building-agents-that-dont-break-themselves/) #read#agent
