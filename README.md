@@ -1,3 +1,4 @@
+- [拯救呼吸大作战](https://roriri.one/2026/06/21/save-my-breath) #read#tips
 - [Scripting good practices in Python](https://www.bitecode.dev/p/scripting-good-practices-in-python) #read#guide#python
 - [Excessive nil pointer checks in Go](https://konradreiche.com/blog/excessive-nil-pointer-checks-in-go/) #read
 - [使用AI十倍提效，成了模范老黄牛，就能加薪升职了？](https://yage.ai/ai-productivity-trap.html) #read#people
