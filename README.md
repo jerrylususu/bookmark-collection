@@ -1,3 +1,4 @@
+- [Prompt Injection as Role Confusion](https://role-confusion.github.io) #read#llm
 - [Riding Technology Waves](https://staysaasy.com/strategy/2026/06/22/riding-technology-waves.html) #read
 - [The Coming Loop](https://lucumr.pocoo.org/2026/6/23/the-coming-loop/) #read#agent
 - [Notes on the Industry Job Search](https://alisawuffles.github.io/blog/job-search/) #read
