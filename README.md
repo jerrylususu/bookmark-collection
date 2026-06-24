@@ -1,3 +1,4 @@
+- [我的 AI Coding Guide - 白宦成](https://www.ixiqin.com/2026/06/24/my-ai-coding-guide/) #read#agent
 - [Prompt Injection as Role Confusion](https://role-confusion.github.io) #read#llm
 - [Riding Technology Waves](https://staysaasy.com/strategy/2026/06/22/riding-technology-waves.html) #read
 - [The Coming Loop](https://lucumr.pocoo.org/2026/6/23/the-coming-loop/) #read#agent
