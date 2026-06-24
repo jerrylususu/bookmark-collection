@@ -1,3 +1,4 @@
+- [I automated my job (and it made me a better leader)](https://github.blog/developer-skills/github/i-automated-my-job-and-it-made-me-a-better-leader/) #read
 - [我的 AI Coding Guide - 白宦成](https://www.ixiqin.com/2026/06/24/my-ai-coding-guide/) #read#agent
 - [Prompt Injection as Role Confusion](https://role-confusion.github.io) #read#llm
 - [Riding Technology Waves](https://staysaasy.com/strategy/2026/06/22/riding-technology-waves.html) #read
