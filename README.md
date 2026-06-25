@@ -1,3 +1,4 @@
+- [I Zeroized My Secret. Or Did I? | Dmitry Danilov](https://ddanilov.me/zeroize) #read#security
 - [I automated my job (and it made me a better leader)](https://github.blog/developer-skills/github/i-automated-my-job-and-it-made-me-a-better-leader/) #read
 - [我的 AI Coding Guide - 白宦成](https://www.ixiqin.com/2026/06/24/my-ai-coding-guide/) #read#agent
 - [Prompt Injection as Role Confusion](https://role-confusion.github.io) #read#llm
