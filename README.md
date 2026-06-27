@@ -1,3 +1,4 @@
+- [How I Left YouTube](https://zhach.news/how-i-left-youtube/) #read#career
 - [Hey, N00b, We Didn't Hire You to Complete Tasks](https://newsletter.kentbeck.com/p/hey-n00b-we-didnt-hire-you-to-complete) #read#people
 - [I Zeroized My Secret. Or Did I? | Dmitry Danilov](https://ddanilov.me/zeroize) #read#security
 - [I automated my job (and it made me a better leader)](https://github.blog/developer-skills/github/i-automated-my-job-and-it-made-me-a-better-leader/) #read
