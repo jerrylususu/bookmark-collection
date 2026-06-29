@@ -1,3 +1,4 @@
+- [Do excellent vulnerability reports](https://daniel.haxx.se/blog/2026/06/29/do-excellent-vulnerability-reports/) #read#security
 - [How I Left YouTube](https://zhach.news/how-i-left-youtube/) #read#career
 - [Hey, N00b, We Didn't Hire You to Complete Tasks](https://newsletter.kentbeck.com/p/hey-n00b-we-didnt-hire-you-to-complete) #read#people
 - [I Zeroized My Secret. Or Did I? | Dmitry Danilov](https://ddanilov.me/zeroize) #read#security
