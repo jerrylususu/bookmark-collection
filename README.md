@@ -1,3 +1,4 @@
+- [为什么说 Anthropic 是邪恶的？ | 虹线](https://1q43.blog/post/12498/) #read
 - [AI loops: who pays for the tokens?](https://www.jackfranklin.co.uk/blog/who-pays-for-the-tokens/) #read#agent
 - [Do excellent vulnerability reports](https://daniel.haxx.se/blog/2026/06/29/do-excellent-vulnerability-reports/) #read#security
 - [How I Left YouTube](https://zhach.news/how-i-left-youtube/) #read#career
