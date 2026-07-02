@@ -1,3 +1,4 @@
+- [Your Show HN dies in 7 hours — jonno.nz](https://jonno.nz/posts/your-show-hn-dies-in-7-hours/) #read
 - [Text AI watermarks will always be trivial to remove](https://www.seangoedecke.com/text-ai-watermarks/) #read
 - [为什么说 Anthropic 是邪恶的？ | 虹线](https://1q43.blog/post/12498/) #read
 - [AI loops: who pays for the tokens?](https://www.jackfranklin.co.uk/blog/who-pays-for-the-tokens/) #read#agent
