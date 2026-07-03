@@ -1,3 +1,4 @@
+- [这四个工作习惯，或许也能帮你找到掌控感 - 少数派](https://sspai.com/post/111708) #read
 - [Your Show HN dies in 7 hours — jonno.nz](https://jonno.nz/posts/your-show-hn-dies-in-7-hours/) #read
 - [Text AI watermarks will always be trivial to remove](https://www.seangoedecke.com/text-ai-watermarks/) #read
 - [为什么说 Anthropic 是邪恶的？ | 虹线](https://1q43.blog/post/12498/) #read
