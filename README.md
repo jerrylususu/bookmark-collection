@@ -1,3 +1,4 @@
+- [Design Patterns Suck](https://luminousmen.com/post/design-patterns-suck/) #read
 - [Group chats rule the world](https://sriramk.com/group-chats-rule-the-world) #read#people
 - [这四个工作习惯，或许也能帮你找到掌控感 - 少数派](https://sspai.com/post/111708) #read
 - [Your Show HN dies in 7 hours — jonno.nz](https://jonno.nz/posts/your-show-hn-dies-in-7-hours/) #read
