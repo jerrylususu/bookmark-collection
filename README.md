@@ -1,3 +1,4 @@
+- [[译] 大模型训练的中场叙事：从 Reasoning Thinking 转向 Agentic Thinking (2026)](https://arthurchiao.art/blog/from-reasoning-thinking-to-agentic-thinking-zh/) #read#agent
 - [Markdown's Big Brother: Say Hello to AsciiDoc](https://www.git-tower.com/blog/asciidoc-quick-guide) #read#tips
 - [Design Patterns Suck](https://luminousmen.com/post/design-patterns-suck/) #read
 - [Group chats rule the world](https://sriramk.com/group-chats-rule-the-world) #read#people
