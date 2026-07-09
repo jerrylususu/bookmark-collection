@@ -1,3 +1,4 @@
+- [Rewriting Bun in Rust | Bun Blog](https://bun.com/blog/bun-in-rust) #read#agent#deepdive
 - [Clickhouse is winning the Observability Wars](https://matduggan.com/clickhouse-is-winning-the-observability-wars/) #read#arch#observability
 - [Agentic Autonomy Levels](https://addyosmani.com/blog/agentic-autonomy-levels/) #read#agent
 - [The Agent-Era Career](https://addyosmani.com/blog/career-advice-age-of-agents/) #read#career
