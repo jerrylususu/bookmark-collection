@@ -1,3 +1,4 @@
+- [Clickhouse is winning the Observability Wars](https://matduggan.com/clickhouse-is-winning-the-observability-wars/) #read#arch#observability
 - [Agentic Autonomy Levels](https://addyosmani.com/blog/agentic-autonomy-levels/) #read#agent
 - [The Agent-Era Career](https://addyosmani.com/blog/career-advice-age-of-agents/) #read#career
 - [Vibe Coding 时代的角色与架构](https://roriri.one/2026/07/04/vibe-coding) #read#agent
