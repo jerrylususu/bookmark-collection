@@ -1,3 +1,4 @@
+- [In defense of not understanding your codebase](https://www.seangoedecke.com/in-defense-of-not-understanding-your-codebase/) #read
 - [My Thoughts on the Bun Rust Rewrite - Andrew Kelley](https://andrewkelley.me/post/my-thoughts-bun-rust-rewrite.html) #read
 - [Sneakerweb：互联网的脆弱与韧性](https://roriri.one/2026/07/09/sneakerweb) #read
 - [Rewriting Bun in Rust | Bun Blog](https://bun.com/blog/bun-in-rust) #read#agent#deepdive
