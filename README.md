@@ -1,3 +1,4 @@
+- [What does "playing politics" mean for software engineers?](https://www.seangoedecke.com/playing-politics/) #read#people
 - [Prefer STRICT tables in SQLite](https://evanhahn.com/prefer-strict-tables-in-sqlite/) #read#database
 - [In defense of not understanding your codebase](https://www.seangoedecke.com/in-defense-of-not-understanding-your-codebase/) #read
 - [My Thoughts on the Bun Rust Rewrite - Andrew Kelley](https://andrewkelley.me/post/my-thoughts-bun-rust-rewrite.html) #read
