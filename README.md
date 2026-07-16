@@ -1,3 +1,4 @@
+- [The Memory Heist](https://ayush.digital/blog/the-memory-heist) #read#agent#security
 - [What does "playing politics" mean for software engineers?](https://www.seangoedecke.com/playing-politics/) #read#people
 - [Prefer STRICT tables in SQLite](https://evanhahn.com/prefer-strict-tables-in-sqlite/) #read#database
 - [In defense of not understanding your codebase](https://www.seangoedecke.com/in-defense-of-not-understanding-your-codebase/) #read
