@@ -1,3 +1,4 @@
+- [善用“古法 AI”，能帮你省下很多 Token | 虹线](https://1q43.blog/post/12539/) #read#arch
 - [Let’s talk about encrypted reasoning](https://blog.cryptographyengineering.com/2026/05/29/fooling-around-with-encrypted-reasoning-blobs/) #read#llm#security
 - [The Memory Heist](https://ayush.digital/blog/the-memory-heist) #read#agent#security
 - [What does "playing politics" mean for software engineers?](https://www.seangoedecke.com/playing-politics/) #read#people
