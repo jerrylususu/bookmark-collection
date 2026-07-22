@@ -1,3 +1,4 @@
+- [Not just development, distribution of software may change as well - <antirez>](https://antirez.com/news/170) #read
 - [Stop Using OpenCode](https://wren.wtf/shower-thoughts/stop-using-opencode/) #read#agent#security
 - [善用“古法 AI”，能帮你省下很多 Token | 虹线](https://1q43.blog/post/12539/) #read#arch
 - [Let’s talk about encrypted reasoning](https://blog.cryptographyengineering.com/2026/05/29/fooling-around-with-encrypted-reasoning-blobs/) #read#llm#security
