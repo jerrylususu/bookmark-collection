@@ -1,3 +1,4 @@
+- [What's the best way to do authentication in modern applications](https://neciudan.dev/most-secure-way-to-store-auth-token) #read#deepdive#security
 - [A faster way to copy SQLite databases between computers](https://alexwlchan.net/2025/copying-sqlite-databases/) #read#tips
 - [LLMs reward expertise](https://www.seangoedecke.com/llms-reward-expertise/) #read#llm
 - [Being Linux Torvalds - <antirez>](https://antirez.com/news/171) #read#agent
