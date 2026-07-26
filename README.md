@@ -1,3 +1,4 @@
+- [LLMs reward expertise](https://www.seangoedecke.com/llms-reward-expertise/) #read#llm
 - [Being Linux Torvalds - <antirez>](https://antirez.com/news/171) #read#agent
 - [Not just development, distribution of software may change as well - <antirez>](https://antirez.com/news/170) #read
 - [Stop Using OpenCode](https://wren.wtf/shower-thoughts/stop-using-opencode/) #read#agent#security
