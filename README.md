@@ -1,3 +1,4 @@
+- [Printing the web: making webpages look good on paper](https://piccalil.li/blog/printing-the-web-making-webpages-look-good-on-paper/) #read#frontend#css
 - [AI Hot Takes From A Platform Engineer / SRE](https://alienchow.dev/post/ai_takeaways_mar_2026/) #read
 - [What's the best way to do authentication in modern applications](https://neciudan.dev/most-secure-way-to-store-auth-token) #read#deepdive#security
 - [A faster way to copy SQLite databases between computers](https://alexwlchan.net/2025/copying-sqlite-databases/) #read#tips
