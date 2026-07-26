@@ -1,3 +1,4 @@
+- [A faster way to copy SQLite databases between computers](https://alexwlchan.net/2025/copying-sqlite-databases/) #read#tips
 - [LLMs reward expertise](https://www.seangoedecke.com/llms-reward-expertise/) #read#llm
 - [Being Linux Torvalds - <antirez>](https://antirez.com/news/171) #read#agent
 - [Not just development, distribution of software may change as well - <antirez>](https://antirez.com/news/170) #read
