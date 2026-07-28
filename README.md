@@ -1,3 +1,4 @@
+- [The Best Prioritization Is No Prioritization](https://staysaasy.com/strategy/2026/07/16/the-best-prioritization-is-no-prioritization.html) #read
 - [Printing the web: making webpages look good on paper](https://piccalil.li/blog/printing-the-web-making-webpages-look-good-on-paper/) #read#frontend#css
 - [AI Hot Takes From A Platform Engineer / SRE](https://alienchow.dev/post/ai_takeaways_mar_2026/) #read
 - [What's the best way to do authentication in modern applications](https://neciudan.dev/most-secure-way-to-store-auth-token) #read#deepdive#security
