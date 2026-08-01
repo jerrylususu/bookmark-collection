@@ -1,3 +1,4 @@
+- [smevals - a small eval suite for evaluating models, prompts, and harnesses | Prime Radiant](https://primeradiant.com/blog/2026/smevals.html) #read#agent#llm
 - [Write-Only Code | Heavybit](https://www.heavybit.com/library/article/write-only-code) #read#agent
 - [You don't have to be smart if you can think clearly](https://www.seangoedecke.com/you-dont-have-to-be-smart-if-you-think-clearly/) #read
 - [The Best Prioritization Is No Prioritization](https://staysaasy.com/strategy/2026/07/16/the-best-prioritization-is-no-prioritization.html) #read
