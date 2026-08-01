@@ -1,3 +1,4 @@
+- [Stateless MCP has recaptured my interest (and inspired mcp-explorer and datasette-mcp)](https://simonwillison.net/2026/Jul/31/stateless-mcp/) #read#agent
 - [smevals - a small eval suite for evaluating models, prompts, and harnesses | Prime Radiant](https://primeradiant.com/blog/2026/smevals.html) #read#agent#llm
 - [Write-Only Code | Heavybit](https://www.heavybit.com/library/article/write-only-code) #read#agent
 - [You don't have to be smart if you can think clearly](https://www.seangoedecke.com/you-dont-have-to-be-smart-if-you-think-clearly/) #read
