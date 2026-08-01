@@ -1,3 +1,4 @@
+- [Browsers Treat Big Sites Differently](https://denodell.com/blog/browsers-treat-big-sites-differently) #read#web
 - [Should You Use AI for a Task? Here’s a Simple Way to Decide - Schneier on Security](https://www.schneier.com/blog/archives/2026/07/should-you-use-ai-for-a-task-heres-a-simple-way-to-decide.html) #read
 - [Stateless MCP has recaptured my interest (and inspired mcp-explorer and datasette-mcp)](https://simonwillison.net/2026/Jul/31/stateless-mcp/) #read#agent
 - [smevals - a small eval suite for evaluating models, prompts, and harnesses | Prime Radiant](https://primeradiant.com/blog/2026/smevals.html) #read#agent#llm
