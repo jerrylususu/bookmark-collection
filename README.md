@@ -1,3 +1,4 @@
+- [Should You Use AI for a Task? Here’s a Simple Way to Decide - Schneier on Security](https://www.schneier.com/blog/archives/2026/07/should-you-use-ai-for-a-task-heres-a-simple-way-to-decide.html) #read
 - [Stateless MCP has recaptured my interest (and inspired mcp-explorer and datasette-mcp)](https://simonwillison.net/2026/Jul/31/stateless-mcp/) #read#agent
 - [smevals - a small eval suite for evaluating models, prompts, and harnesses | Prime Radiant](https://primeradiant.com/blog/2026/smevals.html) #read#agent#llm
 - [Write-Only Code | Heavybit](https://www.heavybit.com/library/article/write-only-code) #read#agent
