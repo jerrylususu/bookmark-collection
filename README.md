@@ -1,3 +1,4 @@
+- [Devtools must be open source - exe.dev blog](https://blog.exe.dev/devtools-must-be-open-source) #read
 - [Don't be a meat proxy](https://gruhn.me/blog/2026-08-03/) #read
 - [Giving and taking credit in big tech companies](https://www.seangoedecke.com/giving-and-taking-credit/) #read#people#career
 - [Browsers Treat Big Sites Differently](https://denodell.com/blog/browsers-treat-big-sites-differently) #read#web
