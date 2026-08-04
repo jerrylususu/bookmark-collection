@@ -1,3 +1,4 @@
+- [Don't be a meat proxy](https://gruhn.me/blog/2026-08-03/) #read
 - [Giving and taking credit in big tech companies](https://www.seangoedecke.com/giving-and-taking-credit/) #read#people#career
 - [Browsers Treat Big Sites Differently](https://denodell.com/blog/browsers-treat-big-sites-differently) #read#web
 - [Should You Use AI for a Task? Here’s a Simple Way to Decide - Schneier on Security](https://www.schneier.com/blog/archives/2026/07/should-you-use-ai-for-a-task-heres-a-simple-way-to-decide.html) #read
