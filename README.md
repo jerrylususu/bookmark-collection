@@ -1,3 +1,4 @@
+- [How to keep thinking](https://www.seangoedecke.com/how-to-keep-thinking/) #read
 - [AI 不会带来超级组织 | 虹线](https://1q43.blog/post/12564/) #read
 - [Devtools must be open source - exe.dev blog](https://blog.exe.dev/devtools-must-be-open-source) #read
 - [Don't be a meat proxy](https://gruhn.me/blog/2026-08-03/) #read
