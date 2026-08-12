@@ -1,3 +1,4 @@
+- [There are no lossless transformations of natural-language text](https://sophiebits.com/2026/06/25/there-are-no-lossless-transformations-of-natural-language-text) #read
 - [Stolen Thoughts](https://stolen-thoughts.com/) #read#llm#security
 - [How to keep thinking](https://www.seangoedecke.com/how-to-keep-thinking/) #read
 - [AI 不会带来超级组织 | 虹线](https://1q43.blog/post/12564/) #read
