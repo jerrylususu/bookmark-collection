@@ -1,3 +1,4 @@
+- [AI is removing the middle class of software engineering](https://blog.florianherrengt.com/ai-removing-middle-class-software-engineering.html) #read
 - [The Same Side of the Table](https://staysaasy.com/the-same-side-of-the-table/) #read#people
 - [There are no lossless transformations of natural-language text](https://sophiebits.com/2026/06/25/there-are-no-lossless-transformations-of-natural-language-text) #read
 - [Stolen Thoughts](https://stolen-thoughts.com/) #read#llm#security
