@@ -1,3 +1,4 @@
+- [And then the men with guns tell you to do it anyway](https://shkspr.mobi/blog/2026/08/and-then-the-men-with-guns-tell-you-to-do-it-anyway/) #read
 - [Don’t classify. Hallucinate!](https://softwaredoug.com/blog/2026/08/10/hypothetical-classifications) #read#tips
 - [AI is removing the middle class of software engineering](https://blog.florianherrengt.com/ai-removing-middle-class-software-engineering.html) #read
 - [The Same Side of the Table](https://staysaasy.com/the-same-side-of-the-table/) #read#people
