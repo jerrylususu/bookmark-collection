@@ -1,3 +1,4 @@
+- [OpenTelemetry Tracing in 200 lines of code | Jeremy Morrell](https://jeremymorrell.dev/blog/minimal-js-tracing/) #read#deepdive#observability
 - [Working with Dynamic Workers | Jeremy Morrell](https://jeremymorrell.dev/blog/working-with-dynamic-workers/) #read#guide#deepdive
 - [Extensible Software in the age of LLMs | Jeremy Morrell](https://jeremymorrell.dev/blog/extensible-software-in-the-age-of-llms/) #read#deepdive#agent#design
 - [smol machines — the same smol machine on your laptop, in the cloud, or self-hosted](https://smolmachines.com/) #tools
