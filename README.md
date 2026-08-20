@@ -1,3 +1,4 @@
+- [Extensible Software in the age of LLMs | Jeremy Morrell](https://jeremymorrell.dev/blog/extensible-software-in-the-age-of-llms/) #read#deepdive#agent#design
 - [smol machines — the same smol machine on your laptop, in the cloud, or self-hosted](https://smolmachines.com/) #tools
 - [What Is Reasoning](https://lucumr.pocoo.org/2026/8/19/what-is-reasoning/) #read#llm
 - [Agent开发手记：agent架构的一个发展趋势 - 铁蕾的个人博客](https://zhangtielei.com/posts/blog-agent-dev-notes-arch-trend.html) #read#agent
