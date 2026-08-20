@@ -1,3 +1,4 @@
+- [What Is Reasoning](https://lucumr.pocoo.org/2026/8/19/what-is-reasoning/) #read#llm
 - [Agent开发手记：agent架构的一个发展趋势 - 铁蕾的个人博客](https://zhangtielei.com/posts/blog-agent-dev-notes-arch-trend.html) #read#agent
 - [Thinking about tests: assertions and matchers](https://zverok.space/blog/2026-08-16-assertions-and-matchers.html) #read
 - [Book the Meeting Before You Need It](https://staysaasy.com/book-the-meeting/) #read#people#tips
