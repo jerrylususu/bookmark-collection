@@ -1,3 +1,4 @@
+- [Fast and Hard Code](https://lucumr.pocoo.org/2026/8/22/fast-hard-code/) #read#llm
 - [Stop Making TUIs — Quarrelsome](https://sockpuppet.org/blog/2026/08/20/stop-making-tuis/) #read#ui
 - [Going freestanding](https://antonz.org/going-freestanding/) #read#c#deepdive
 - [Introducing Dashboard Touch, a build-your-own version of Touch ID - Anil Dash](https://anildash.com/2026/08/20/introducing-dashboard-touch/) #read
