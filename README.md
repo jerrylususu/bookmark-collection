@@ -1,3 +1,4 @@
+- [Anger, Anxiety and Agency](https://lucumr.pocoo.org/2026/8/24/anger-anxiety-agency/) #read
 - [Fast and Hard Code](https://lucumr.pocoo.org/2026/8/22/fast-hard-code/) #read#llm
 - [Stop Making TUIs — Quarrelsome](https://sockpuppet.org/blog/2026/08/20/stop-making-tuis/) #read#ui
 - [Going freestanding](https://antonz.org/going-freestanding/) #read#c#deepdive
