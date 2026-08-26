@@ -1,3 +1,4 @@
+- [The end of programming — Paul Dix](https://pauldix.com/the-end-of-programming) #read
 - [Building a software factory for AI SDK](https://vercel.com/blog/building-a-software-factory-for-ai-sdk) #read#agent
 - [Human judgment doesn't leave the software factory. It relocates.](https://addyosmani.com/blog/human-judgment-doesnt-leave-the-software/) #read#agent
 - [Your executable is a SQLite database](https://fzakaria.com/2026/08/23/your-executable-is-a-sqlite-database) #read#hack#deepdive
