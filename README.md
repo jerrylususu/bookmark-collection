@@ -1,3 +1,4 @@
+- [Copy-on-write git worktrees](https://commaok.xyz/post/git-cow-worktrees/) #read#tips
 - [How to evaluate LLMs before production](https://github.blog/ai-and-ml/llms/how-to-evaluate-llms-before-production/) #read#llm
 - [The end of programming — Paul Dix](https://pauldix.com/the-end-of-programming) #read
 - [Building a software factory for AI SDK](https://vercel.com/blog/building-a-software-factory-for-ai-sdk) #read#agent
