@@ -1,3 +1,4 @@
+- [Is Having Agents in the Room Meant to Be Chaotic? — Raft](https://raft.build/resources/blog/is-having-agents-in-the-room-meant-to-be-chaotic/) #read#agent
 - [Copy-on-write git worktrees](https://commaok.xyz/post/git-cow-worktrees/) #read#tips
 - [How to evaluate LLMs before production](https://github.blog/ai-and-ml/llms/how-to-evaluate-llms-before-production/) #read#llm
 - [The end of programming — Paul Dix](https://pauldix.com/the-end-of-programming) #read
