@@ -1,3 +1,4 @@
+- [HSK Manga: Turning Manga into Beginner-Level Chinese](https://hskmanga.com/blog/) #read
 - [Breaking Claude Code Opus 5 Auto Mode ·  Embrace The Red](https://embracethered.com/blog/posts/2026/breaking-claude-code-opus-5-and-automode/) #read#agent#security
 - [Selling out](https://www.seangoedecke.com/selling-out/) #read
 - [Agency and Agents](https://www.oneusefulthing.org/p/agency-and-agents) #read#agent
