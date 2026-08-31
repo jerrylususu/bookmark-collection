@@ -1,3 +1,4 @@
+- [Agency and Agents](https://www.oneusefulthing.org/p/agency-and-agents) #read#agent
 - [Understanding ChatGPT Work](https://simonwillison.net/2026/Aug/30/understanding-chatgpt-work/) #read#llm#agent
 - [You have to beat the models at something](https://www.seangoedecke.com/you-have-to-beat-the-models-at-something/) #read#llm
 - [WorkBuddy 成功，是因为腾讯办公套件太烂了 | 虹线](https://1q43.blog/post/12578/) #read#deepdive
