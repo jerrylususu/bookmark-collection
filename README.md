@@ -1,3 +1,4 @@
+- [WorkBuddy 成功，是因为腾讯办公套件太烂了 | 虹线](https://1q43.blog/post/12578/) #read#deepdive
 - [Is Having Agents in the Room Meant to Be Chaotic? — Raft](https://raft.build/resources/blog/is-having-agents-in-the-room-meant-to-be-chaotic/) #read#agent
 - [Copy-on-write git worktrees](https://commaok.xyz/post/git-cow-worktrees/) #read#tips
 - [How to evaluate LLMs before production](https://github.blog/ai-and-ml/llms/how-to-evaluate-llms-before-production/) #read#llm
