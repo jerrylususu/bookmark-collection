@@ -1,3 +1,4 @@
+- [Just a rumour of a bug is enough to find a security exploit these days](https://anil.recoil.org/notes/rumour-is-the-exploit) #read#security
 - [HSK Manga: Turning Manga into Beginner-Level Chinese](https://hskmanga.com/blog/) #read
 - [Breaking Claude Code Opus 5 Auto Mode ·  Embrace The Red](https://embracethered.com/blog/posts/2026/breaking-claude-code-opus-5-and-automode/) #read#agent#security
 - [Selling out](https://www.seangoedecke.com/selling-out/) #read
