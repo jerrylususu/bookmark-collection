@@ -1,3 +1,4 @@
+- [Unit testing with wrapture - Graham Dumpleton](https://grahamdumpleton.me/posts/2026/09/unit-testing-with-wrapture/) #read#python
 - [Introducing wrapture - Graham Dumpleton](https://grahamdumpleton.me/posts/2026/08/introducing-wrapture/) #read#python
 - [Just a rumour of a bug is enough to find a security exploit these days](https://anil.recoil.org/notes/rumour-is-the-exploit) #read#security
 - [HSK Manga: Turning Manga into Beginner-Level Chinese](https://hskmanga.com/blog/) #read
