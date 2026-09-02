@@ -1,3 +1,4 @@
+- [From IDE to ADE](https://github.com/termio-sh/termio/blob/main/docs/essays/from-ide-to-ade.md) #read#agent
 - [My experience as a first time speaker](https://blog.guillheu.dev/articles/first-time-speaker/) #read#tips
 - [On-Call Is Now Theatre](https://boristane.com/blog/on-call-is-now-theatre/) #read#agent#observability
 - [Explain it to me like I’m ten](https://timharford.com/2026/08/explain-it-to-me-like-im-ten/) #read
