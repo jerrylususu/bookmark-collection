@@ -1,3 +1,4 @@
+- [Sing-song: a speakable encoding for long numbers and keys](https://blog.vrypan.net/2026/08/19/260819-sing-song/) #read
 - [From IDE to ADE](https://github.com/termio-sh/termio/blob/main/docs/essays/from-ide-to-ade.md) #read#agent
 - [My experience as a first time speaker](https://blog.guillheu.dev/articles/first-time-speaker/) #read#tips
 - [On-Call Is Now Theatre](https://boristane.com/blog/on-call-is-now-theatre/) #read#agent#observability
