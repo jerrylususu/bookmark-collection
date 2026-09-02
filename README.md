@@ -1,3 +1,4 @@
+- [AliExpress webpage keeping multipoint Bluetooth headphones active with WebAudio fingerprinting](https://blog.laserphile.com/2026/08/aliexpress-webpage-keeping-multipoint.html) #read#security
 - [The story of Bram Cohen and the BitTorrent protocol](https://www.xda-developers.com/the-story-of-bram-cohen-and-the-bittorrent-protocol/) #read
 - [Unit testing with wrapture - Graham Dumpleton](https://grahamdumpleton.me/posts/2026/09/unit-testing-with-wrapture/) #read#python
 - [Introducing wrapture - Graham Dumpleton](https://grahamdumpleton.me/posts/2026/08/introducing-wrapture/) #read#python
