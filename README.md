@@ -1,3 +1,4 @@
+- [On-Call Is Now Theatre](https://boristane.com/blog/on-call-is-now-theatre/) #read#agent#observability
 - [Explain it to me like I’m ten](https://timharford.com/2026/08/explain-it-to-me-like-im-ten/) #read
 - [Ox Alpha is GLM](https://dejan.ai/blog/ox-alpha/) #read#llm
 - [AliExpress webpage keeping multipoint Bluetooth headphones active with WebAudio fingerprinting](https://blog.laserphile.com/2026/08/aliexpress-webpage-keeping-multipoint.html) #read#security
