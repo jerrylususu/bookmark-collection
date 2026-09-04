@@ -1,3 +1,4 @@
+- [How we make AI coding more cost efficient without sacrificing task quality](https://github.blog/ai-and-ml/github-copilot/how-we-make-ai-coding-more-cost-efficient-without-sacrificing-task-quality/) #read#agent
 - [What Makes LLM Tokenization Slow?](https://healeycodes.com/what-makes-llm-tokenization-slow) #read#llm
 - [Sing-song: a speakable encoding for long numbers and keys](https://blog.vrypan.net/2026/08/19/260819-sing-song/) #read
 - [From IDE to ADE](https://github.com/termio-sh/termio/blob/main/docs/essays/from-ide-to-ade.md) #read#agent
