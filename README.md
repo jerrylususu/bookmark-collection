@@ -1,3 +1,4 @@
+- [There's No Limit to How Bad Code Can Get](https://zachkehs.com/blog/theres_no_limit_to_how_bad_code_can_get/) #read
 - [How we make AI coding more cost efficient without sacrificing task quality](https://github.blog/ai-and-ml/github-copilot/how-we-make-ai-coding-more-cost-efficient-without-sacrificing-task-quality/) #read#agent
 - [What Makes LLM Tokenization Slow?](https://healeycodes.com/what-makes-llm-tokenization-slow) #read#llm
 - [Sing-song: a speakable encoding for long numbers and keys](https://blog.vrypan.net/2026/08/19/260819-sing-song/) #read
