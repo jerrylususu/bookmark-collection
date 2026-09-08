@@ -1,3 +1,4 @@
+- [AI made it worth building games for our game nights](https://mmazzarolo.com/blog/2026-09-05-ai-has-completely-changed-our-game-nights/) #read
 - [Migrations: the sole scalable fix to tech debt.](https://lethain.com/migrations/) #read#people
 - [It took a year to ship WebAssembly in Anubis | Anubis](https://anubis.techaro.lol/blog/2026/anubis-wasm/) #read#security#deepdive
 - [Creepy crawlies](https://people.kernel.org/monsieuricon/creepy-crawlies) #read
