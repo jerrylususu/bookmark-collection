@@ -1,3 +1,4 @@
+- [Migrations: the sole scalable fix to tech debt.](https://lethain.com/migrations/) #read#people
 - [It took a year to ship WebAssembly in Anubis | Anubis](https://anubis.techaro.lol/blog/2026/anubis-wasm/) #read#security#deepdive
 - [Creepy crawlies](https://people.kernel.org/monsieuricon/creepy-crawlies) #read
 - [There's No Limit to How Bad Code Can Get](https://zachkehs.com/blog/theres_no_limit_to_how_bad_code_can_get/) #read
