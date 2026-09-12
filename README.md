@@ -1,3 +1,4 @@
+- [Don't sleep on wrapture](https://simonwillison.net/2026/Sep/11/wrapture/) #read#tools#python
 - [So you want to use OpenRouter? — Mo Moustafa](https://mmoustafa.com/blog/so-you-want-to-use-openrouter/) #read#llm
 - [Any Nix package, live in your browser](https://fzakaria.com/2026/09/04/any-nix-package-live-in-your-browser) #read
 - [AI made it worth building games for our game nights](https://mmazzarolo.com/blog/2026-09-05-ai-has-completely-changed-our-game-nights/) #read
