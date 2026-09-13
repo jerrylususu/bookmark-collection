@@ -1,3 +1,4 @@
+- [Agent harness security and Git](https://iter.ca/post/llm-agent-git/) #read#security
 - [AI is breaking our proxies for expertise](https://www.seangoedecke.com/ai-is-breaking-our-proxies-for-expertise/) #read
 - [Don't sleep on wrapture](https://simonwillison.net/2026/Sep/11/wrapture/) #read#tools#python
 - [So you want to use OpenRouter? — Mo Moustafa](https://mmoustafa.com/blog/so-you-want-to-use-openrouter/) #read#llm
