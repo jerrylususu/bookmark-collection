@@ -1,3 +1,4 @@
+- [Your Recursion Is Lying to You](https://blog.gaborkoos.com/posts/2026-05-09-Your-Recursion-Is-Lying-to-You/) #read#js
 - [We are all Product Engineers now | Seldo.com](https://seldo.com/posts/we-are-all-product-engineers-now/) #read
 - [置身 Agent 时代：当软件开始不再需要软件工程师](https://www.bmpi.dev/dev/agent-era-software-engineering/) #read
 - [Agent harness security and Git](https://iter.ca/post/llm-agent-git/) #read#security
