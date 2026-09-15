@@ -1,3 +1,4 @@
+- [We are all Product Engineers now | Seldo.com](https://seldo.com/posts/we-are-all-product-engineers-now/) #read
 - [置身 Agent 时代：当软件开始不再需要软件工程师](https://www.bmpi.dev/dev/agent-era-software-engineering/) #read
 - [Agent harness security and Git](https://iter.ca/post/llm-agent-git/) #read#security
 - [AI is breaking our proxies for expertise](https://www.seangoedecke.com/ai-is-breaking-our-proxies-for-expertise/) #read
