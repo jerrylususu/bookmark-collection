@@ -1,3 +1,4 @@
+- [How to get a DOI for your blog posts](https://shkspr.mobi/blog/2026/09/how-to-get-a-doi-for-your-blog-posts/) #read
 - [Jev means structured output is interesting again](https://www.seangoedecke.com/jev-means-structured-output-is-interesting-again/) #read#llm
 - [Your Recursion Is Lying to You](https://blog.gaborkoos.com/posts/2026-05-09-Your-Recursion-Is-Lying-to-You/) #read#js
 - [We are all Product Engineers now | Seldo.com](https://seldo.com/posts/we-are-all-product-engineers-now/) #read
