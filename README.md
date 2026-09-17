@@ -1,3 +1,4 @@
+- [You can run git on object storage if you re-make packfiles | Tigris Object Storage](https://www.tigrisdata.com/blog/objgit-packfiles/) #read#git#deepdive
 - [Migrating the GitHub Copilot runtime to Rust, using Copilot](https://github.blog/ai-and-ml/generative-ai/migrating-the-github-copilot-runtime-to-rust-using-copilot/) #read#deepdive#engineering
 - [How to get a DOI for your blog posts](https://shkspr.mobi/blog/2026/09/how-to-get-a-doi-for-your-blog-posts/) #read
 - [Jev means structured output is interesting again](https://www.seangoedecke.com/jev-means-structured-output-is-interesting-again/) #read#llm
