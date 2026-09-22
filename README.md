@@ -1,3 +1,4 @@
+- [Writing Rust code that's faster than state-of-the-art libraries by asking agents to make the code faster](https://minimaxir.com/2026/09/agentic-iteration/) #read#agent#deepdive
 - [Defensive Driving For Your Career](https://staysaasy.com/defensive-career-driving/) #read#career
 - [You can run git on object storage if you re-make packfiles | Tigris Object Storage](https://www.tigrisdata.com/blog/objgit-packfiles/) #read#git#deepdive
 - [Migrating the GitHub Copilot runtime to Rust, using Copilot](https://github.blog/ai-and-ml/generative-ai/migrating-the-github-copilot-runtime-to-rust-using-copilot/) #read#deepdive#engineering
