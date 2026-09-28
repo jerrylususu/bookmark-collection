@@ -1,3 +1,4 @@
+- [2026 in LLMs (so far)](https://simonwillison.net/2026/Sep/27/2026-in-llms-so-far/) #read#llm
 - [Writing Rust code that's faster than state-of-the-art libraries by asking agents to make the code faster](https://minimaxir.com/2026/09/agentic-iteration/) #read#agent#deepdive
 - [Defensive Driving For Your Career](https://staysaasy.com/defensive-career-driving/) #read#career
 - [You can run git on object storage if you re-make packfiles | Tigris Object Storage](https://www.tigrisdata.com/blog/objgit-packfiles/) #read#git#deepdive
