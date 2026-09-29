@@ -1,3 +1,4 @@
+- [Using multiple git remotes for true distributed version control](https://optimizedbyotto.com/post/multiple-git-remotes/) #read#git
 - [2026 in LLMs (so far)](https://simonwillison.net/2026/Sep/27/2026-in-llms-so-far/) #read#llm
 - [Writing Rust code that's faster than state-of-the-art libraries by asking agents to make the code faster](https://minimaxir.com/2026/09/agentic-iteration/) #read#agent#deepdive
 - [Defensive Driving For Your Career](https://staysaasy.com/defensive-career-driving/) #read#career
