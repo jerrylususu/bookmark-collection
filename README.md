@@ -1,3 +1,4 @@
+- [What is Codemode](https://lucumr.pocoo.org/2026/10/6/codemode/) #read#agent
 - [Shipping is the foundation](https://www.seangoedecke.com/shipping-is-the-foundation/) #read#career
 - [Using multiple git remotes for true distributed version control](https://optimizedbyotto.com/post/multiple-git-remotes/) #read#git
 - [2026 in LLMs (so far)](https://simonwillison.net/2026/Sep/27/2026-in-llms-so-far/) #read#llm
