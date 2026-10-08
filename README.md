@@ -1,3 +1,4 @@
+- [Anti-Patterns in Software Blogging](https://refactoringenglish.com/blog/anti-patterns-software-blogging/) #read#guide
 - [How to read code](https://www.seangoedecke.com/how-to-read-code/) #read#guide
 - [What is Codemode](https://lucumr.pocoo.org/2026/10/6/codemode/) #read#agent
 - [Shipping is the foundation](https://www.seangoedecke.com/shipping-is-the-foundation/) #read#career
