@@ -1,3 +1,4 @@
+- [How to Build Wealth as a Career Person](https://asheradeniyi.com/2026/04/10/how-to-build-wealth-as-a-career-person/) #read#career
 - [nobody should type code by hand anymore. here's what's left.](https://ghuntley.com/agency/) #read
 - [是的，而且……](https://htmx.org/essays/yes-and/) #read
 - [Anti-Patterns in Software Blogging](https://refactoringenglish.com/blog/anti-patterns-software-blogging/) #read#guide
