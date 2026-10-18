@@ -1,3 +1,4 @@
+- [How our vibe coded website looks like a designer made it](https://railcode.dev/blog/vibe-coded-website) #read#design
 - [Inline rendering with document​.currentScript](/notes/inline-rendering-currentscript/) #read#frontend
 - [How to Build Wealth as a Career Person](https://asheradeniyi.com/2026/04/10/how-to-build-wealth-as-a-career-person/) #read#career
 - [nobody should type code by hand anymore. here's what's left.](https://ghuntley.com/agency/) #read
