@@ -1,3 +1,4 @@
+- [新型谷子：在光盘上烧刻肉眼可见的插画教程 - 少数派](https://sspai.com/post/118211) #read
 - [You can just ask AI to do things](https://www.seangoedecke.com/you-can-just-ask-ai-to-do-things/) #read#agent
 - [Why Is This Fingerprinting Script Creating Bioweapons?](https://nullpt.rs/fingerprinting-bioweapons) #read
 - [How our vibe coded website looks like a designer made it](https://railcode.dev/blog/vibe-coded-website) #read#design
