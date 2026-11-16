@@ -1,3 +1,4 @@
+- [Introducing the World's Strongest Sokoban Solver](https://healeycodes.com/introducing-the-worlds-strongest-sokoban-solver) #read#agent#deepdive
 - [AI 的知识诅咒与多 Agent 协作 | 虹线](https://1q43.blog/post/12629/) #read#agent
 - [新型谷子：在光盘上烧刻肉眼可见的插画教程 - 少数派](https://sspai.com/post/118211) #read
 - [You can just ask AI to do things](https://www.seangoedecke.com/you-can-just-ask-ai-to-do-things/) #read#agent
