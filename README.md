@@ -1,3 +1,4 @@
+- [直播观察（一）：平台怎么把打赏做成大生意](./live-streaming-1.html) #read
 - [使用形式化方法找出网络模型中的竞态问题](https://coderemixer.com/2026/11/17/deskfleet-network-in-quint) #read#guide
 - [Introducing the World's Strongest Sokoban Solver](https://healeycodes.com/introducing-the-worlds-strongest-sokoban-solver) #read#agent#deepdive
 - [AI 的知识诅咒与多 Agent 协作 | 虹线](https://1q43.blog/post/12629/) #read#agent
