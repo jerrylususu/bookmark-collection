@@ -1,3 +1,4 @@
+- [使用形式化方法找出网络模型中的竞态问题](https://coderemixer.com/2026/11/17/deskfleet-network-in-quint) #read#guide
 - [Introducing the World's Strongest Sokoban Solver](https://healeycodes.com/introducing-the-worlds-strongest-sokoban-solver) #read#agent#deepdive
 - [AI 的知识诅咒与多 Agent 协作 | 虹线](https://1q43.blog/post/12629/) #read#agent
 - [新型谷子：在光盘上烧刻肉眼可见的插画教程 - 少数派](https://sspai.com/post/118211) #read
