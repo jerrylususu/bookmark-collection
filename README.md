@@ -1,3 +1,4 @@
+- [Java4Shell: Write once, RCE everywhere](https://calif.io/java4shell) #read#security
 - [Running the full server-side Datasette Python app in the browser with service workers and Pyodide](https://simonwillison.net/2026/Nov/17/datasette-lite/) #read
 - [External sandboxes for coding agents](https://blog.primeradiant.com/external-sandboxes-for-coding-agents/) #read#agent
 - [直播观察（二）：怎么把真人的注意力做成大生意](./live-streaming-2.html) #read
