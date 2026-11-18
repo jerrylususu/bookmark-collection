@@ -1,3 +1,4 @@
+- [External sandboxes for coding agents](https://blog.primeradiant.com/external-sandboxes-for-coding-agents/) #read#agent
 - [直播观察（二）：怎么把真人的注意力做成大生意](./live-streaming-2.html) #read
 - [直播观察（一）：平台怎么把打赏做成大生意](./live-streaming-1.html) #read
 - [使用形式化方法找出网络模型中的竞态问题](https://coderemixer.com/2026/11/17/deskfleet-network-in-quint) #read#guide
