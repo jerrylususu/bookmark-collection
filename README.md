@@ -1,3 +1,4 @@
+- [The Math Behind Counter-Strike Surfing](https://healeycodes.com/the-math-behind-counter-strike-surfing) #read
 - [When in doubt, flail about](https://www.seangoedecke.com/when-in-doubt-flail-about/) #read
 - [Java4Shell: Write once, RCE everywhere](https://calif.io/java4shell) #read#security
 - [Running the full server-side Datasette Python app in the browser with service workers and Pyodide](https://simonwillison.net/2026/Nov/17/datasette-lite/) #read
